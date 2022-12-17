@@ -1,0 +1,1210 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="title_activity_config">"TwitPane 설정"</string>
+    <string name="title_activity_page_config">Page Config</string>
+    <string name="title_activity_theme_config">Theme Config</string>
+    <string name="title_activity_about">About TwitPane</string>
+    <string name="title_activity_location">"장소"</string>
+    <string name="title_activity_write_view_for_message">"메시지"</string>
+    <string name="title_activity_create_shortcut_for_tweet">"트윗"</string>
+    <string name="title_activity_profile_edit">"프로필 편집"</string>
+    <string name="title_activity_list_edit">"목록 편집"</string>
+    <string name="title_activity_list_create">"새로운 목록"</string>
+    <string name="title_activity_browser">"브라우저"</string>
+    <string name="title_activity_movie_player"></string>
+    <string name="title_activity_tweet_select">"트윗 선택"</string>
+    <string name="title_activity_toolbar_config">"툴바 설정"</string>
+    <string name="title_activity_gallery_image_picker">Gallery</string>
+    <string name="title_activity_subscription_guide">구독으로 업그레이드</string>
+
+    <string name="pane_name_trend">"트렌드"</string>
+    <string name="pane_name_search">"검색"</string>
+    <string name="pane_name_profile">"프로필"</string>
+    <string name="pane_name_timeline">"타임라인"</string>
+    <string name="pane_name_reply">"답장"</string>
+    <string name="pane_name_mytweet">"내 트윗"</string>
+    <string name="pane_name_media">미디어</string>
+    <string name="pane_name_favorite_like">마음</string>
+    <string name="liked_order">liked order</string>
+    <string name="pane_name_favorite_favorite">"즐겨찾기"</string>
+    <string name="pane_name_quoted_tweets">인용 트윗</string>
+    <string name="pane_name_rt_of_me">"나에 대한 RT"</string>
+    <string name="pane_name_bookmark">책갈피</string>
+    <string name="pane_name_conversation">"대화"</string>
+    <string name="pane_name_tweet">"트윗"</string>
+    <string name="pane_name_rt_users">"RT 유저"</string>
+    <string name="pane_name_thread_list">"DM"</string>
+    <string name="pane_name_dm">"DM"</string>
+    <string name="pane_name_sent_dm">"보낸 DM"</string>
+    <string name="pane_name_lists">"목록"</string>
+    <string name="pane_name_lists_memberships">목록의 구성원</string>
+    <string name="pane_name_list_member">"목록 멤버"</string>
+    <string name="pane_name_list_subscribers">목록 구독자</string>
+    <string name="pane_name_follow">"%1$s '의 팔로우"</string>
+    <string name="pane_name_follower">"%1$s 의 팔로워"</string>
+    <string name="pane_name_blocks">"차단된 유저"</string>
+    <string name="pane_name_search_user">"유저 검색"</string>
+    
+    <string name="showcase_start_title">"TwitPane에 오신 것을 환영합니다!"</string>
+    <string name="showcase_start_summary">"조금, 사용하는 법. \n \n 우선, 한 목록의 트윗이 중간에 나타날 것입니다. 물론 위아래로 스크롤할 수 있습니다!"</string>
+    <string name="showcase_center1_title">"당신은 좌우로 밀어 탭을 이동할 수 있습니다!"</string>
+    <string name="showcase_center1_summary">"여러 탭을 전환하여 사용하는 것이 편리합니다!"</string>
+    <string name="showcase_tweet_title">"좌착하단에 있는 이 버튼으로 새로운 트윗"</string>
+    <string name="showcase_tweet_summary">"\n 초안을 저장할 수 있습니다"</string>
+    <string name="showcase_menu_title">"우측하단에 있는 이 버튼으로 메뉴"</string>
+    <string name="showcase_menu_summary">"\nConfig 대화설정은 여기"</string>
+    <string name="showcase_sidebar_title">"화면의 오른쪽 가장자리로 밀면 탭 목록이 나타납니다!"</string>
+    <string name="showcase_sidebar_summary">"\n\n TwitPane를 잘 활용하시기 바랍니다!"</string>
+
+    <string name="page_config_showcase_swipe_title">세로로 슬라이드하여 탭을 다시 정렬합니다.</string>
+    <string name="page_config_showcase_swipe_summary"></string>
+
+    <string name="search_button">"검색"</string>
+    <string name="saved_search">"저장된 검색"</string>
+    <string name="search_save_button">"이 검색 결과를 저장"</string>
+    <string name="search_delete_button">"이 검색 결과 삭제"</string>
+    <string name="search_config_button">"설정"</string>
+    <string name="saved_search_capacity_over_message">검색 키워드를 저장하는 동안 오류가 발생했습니다. 카운트 수가 상한에 도달 한 것을 가능성이 확인해주십시오.</string>
+    <string name="over_saved_search_capacity_message">최대 저장된 검색 수에 도달했습니다. 저장하기 전에 다른 검색 항목을 삭제하십시오.</string>
+    <string name="created_saved_search_message">"저장됨. 툴바의 검색 버튼에서 저장된 키워드를 볼 수 있습니다."</string>
+    <string name="deleted_saved_search_message">"삭제됨"</string>
+    <string name="add_search_page_confirm_message">"정말로 이 키워드의 탭을 만드시겠습니까?"</string>
+    <string name="add_search_page_finish">"추가됨"</string>
+    
+    <string name="reload_button">"리로드"</string>
+    
+    <string name="load_another_locations">"다른 지역"</string>
+    
+    <string name="color_edit_button">"편집"</string>
+    <string name="restore_default_confirm">"기본값을 복원?"</string>
+    <string name="import_confirm_message">"정말로 이 디자인을 들여오기하시겠습니까? (들여오기를 한 후 Twitpane을 다시 시작하세요)"</string>
+    
+    <!-- ================================================================================ -->
+    <!-- Others -->
+    <!-- ================================================================================ -->
+    <string name="view_date_hour_ago">"%1$d 시간 전"</string>
+    <string name="view_date_hours_ago">"%1$d 시간 전"</string>
+    <string name="view_date_minute_ago">"%1$d 분 전"</string>
+    <string name="view_date_minutes_ago">"%1$d 분 전"</string>
+    <string name="pager_more">"더 많은 트윗을 읽기"</string>
+    
+    <string name="account_add">"계정 추가"</string>
+    <string name="account_delete">"계정 삭제"</string>
+    <string name="account_delete_confirm">"정말로 이 계정을 삭제하시겠습니까?"</string>
+    <string name="cannot_delete_current_account">"현재의 계정을 삭제할 수 없습니다."</string>
+    <string name="account_reauth">재 인증</string>
+    <string name="changing_account_to">"\@로 변경 %1$s"</string>
+    <string name="cannot_auth_account_via_official_twitter_app">공식 트위터 애플리케이션을 통한 로그인 과정에서 오류가 발생했습니다. \n\n(%1$s)\n\n브라우저를 통해 로그인합니다.</string>
+    
+    <string name="profile_edit_button">"프로필 수정"</string>
+    <string name="profile_edit_banner_image_button">"배너를 선택"</string>
+    <string name="banner_menu">"배너 메뉴"</string>
+    <string name="banner_change">"변경"</string>
+    <string name="banner_remove">"제거"</string>
+    <string name="send_dm_button">"새 메시지"</string>
+    <string name="send_mention_button">"새로운 멘션"</string>
+    
+    <string name="retweet_confirm_message">"이 트윗을 리트윗할까요?"</string>
+    <string name="retweeted_message">"리트윗됨"</string>
+    <string name="remove_retweet_confirm_message">"리트윗을 삭제하시겠습니까?"</string>
+    <string name="remove_retweeted_message">"제거됨"</string>
+    <string name="favorite_confirm_message_favorite">"이 트윗을 즐겨찾기하시겠습니까?"</string>
+    <string name="created_favorite_message_favorite">"즐겨찾기"</string>
+    <string name="remove_favorite_confirm_message_favorite">즐겨 찾기를 삭제 하시겠습니까?</string>
+    <string name="remove_favorite_confirm_message_like">같은 취소?</string>
+    <string name="destroyed_favorite_message_favorite">"즐겨찾기 취소"</string>
+    <string name="favorite_confirm_message_like">이 트윗을 마음하시겠습니까?</string>
+    <string name="created_favorite_message_like">마음</string>
+    <string name="destroyed_favorite_message_like">마음 취소</string>
+    <string name="cannot_favorite_duplicate_status_favorite">그것은 이미 즐겨 찾기에 추가 할 수 있습니다</string>
+    <string name="cannot_favorite_duplicate_status_like">그것은 이미 좋아 수 있습니다</string>
+    <string name="bookmarked_message">북마크했습니다</string>
+    <string name="unbookmarked_message">북마크가 제거되었습니다.</string>
+    <string name="delete_confirm_message">"이 트윗을 삭제하시겠습니까?"</string>
+    <string name="delete_dm_confirm_message">"이 메시지를 삭제하시겠습니까?"</string>
+    <string name="deleted_message">"삭제됨"</string>
+    <string name="already_deleted_message">이미 삭제</string>
+    <string name="mute_user_confirm_message">"이 유저를 음소거?"</string>
+    <string name="cancel_mute_user_confirm_message">사용자의 음소거를 취소 하시겠습니까?</string>
+    <string name="mute_app_confirm_message">"이 앱을 음소거?"</string>
+    <string name="cannot_mute_official_app">공식 앱을 음소거 할 수 없습니다</string>
+    <string name="mute_hashtag_confirm_message">"이 해시태그를 음소거?"</string>
+    <string name="delete_list_confirm_message">"이 목록을 삭제하시겠습니까?"</string>
+    <string name="deleted_list">"삭제됨"</string>
+    <string name="unscribe_list_confirm_message">"이 목록을 구독중지하시겠습니까?"</string>
+    <string name="unscribed_list">"구독중지됨"</string>
+    <string name="subscribe_list_confirm_message">"이 목록을 구독?"</string>
+    <string name="subscribed_list">"구독됨"</string>
+    <string name="destroy_from_list_confirm_message">"이 멤버를 정말로 삭제하시겠습니까?"</string>
+    <string name="list_member_destroyed">"제거됨"</string>
+    <string name="add_list_tab">"목록 탭 추가"</string>
+    <string name="remove_tab_confirm">"당신은 당신이 %1$s 제거 하시겠습니까?"</string>
+    <string name="add_search_tab">"검색 탭 추가"</string>
+    <string name="common_clear">"제거"</string>
+    <string name="common_failed_message">"실패 ..., 몇 분 후에 다시 시도하십시오."</string>
+    <string name="common_delete">"삭제"</string>
+    <string name="already_task_running">"실행 중... 몇 분 후에 다시 시도하십시오"</string>
+    <string name="cannot_view_private_account_timeline">"개인계정의 타임라인을 볼 수 없습니다 ..."</string>
+    <string name="cannot_view_private_account_tweet">"개인계정의 트윗을 볼 수 없습니다 ..."</string>
+    <string name="cannot_retweet_duplicate_status">"이미 리트윗되었습니다."</string>
+    <string name="cannot_retweet_blocked_user">You have been blocked from retweeting this user\'s tweets at their request.</string>
+    
+    <string name="image_size_errror">"이미지 크기 오류"</string>
+    <string name="too_large_image_size_to_attach">"너무 큰 이미지 크기"</string>
+    
+    <string name="block_user_confirm_message">"정말로 차단하시겠습니까?"</string>
+    <string name="block_tweet_confirm_message">"정말로 차단하시겠습니까?"</string>
+    <string name="blocked_message">"차단됨"</string>
+    <string name="report_spam_confirm_message">"이 유저를 정말로 신고하시겠습니까?"</string>
+    <string name="user_reported_message">"신고됨"</string>
+    <string name="destroy_block_user_confirm_message">"정말로 차단을 해제하시겠습니까?"</string>
+    <string name="destroy_block_message">"차단 해제됨"</string>
+    
+    <string name="following">"팔로잉"</string>
+    <string name="follow">"팔로우"</string>
+    <string name="you_are_followed">"[당신을 팔로우합니다]"</string>
+    <string name="follow_confirm_title">"팔로우"</string>
+    <string name="follow_confirm_message">"\@%1$s을 팔로우?"</string>
+    <string name="follow_or_unfollow">팔로우 / 언팔로우</string>
+    <string name="unfollow_confirm_title">"언팔로우"</string>
+    <string name="unfollow_confirm_message">"\@%1$s을 언팔로우?"</string>
+    <string name="follow_done">"팔로우 완료"</string>
+    <string name="unfollow_done">"언팔로우 완료"</string>
+    <string name="cannot_send_dm">"유저로부터 팔로우되지 않아 dm할 수 없습니다"</string>
+    
+    <string name="show_retweet">"리트윗을 켭니다"</string>
+    <string name="hide_retweet">"리트윗을 끕니다"</string>
+    <string name="hide_retweet_done">"\@%1$s로부터의 리트윗이 더 이상 당신의 타임라인에 표시되지 않습니다"</string>
+    <string name="show_retweet_done">"\@%1$s로부터의 리트윗이 당신의 타임라인에 나타납니다"</string>
+    <string name="turn_on_retweet_confirm_title">"리트윗을 켭니다"</string>
+    <string name="turn_on_retweet_confirm_message">"%1$s로부터 리트윗을 켜시겠습니까?"</string>
+    <string name="turn_off_retweet_confirm_title">"리트윗을 끕니다"</string>
+    <string name="turn_off_retweet_confirm_message">"%1$s로부터의 리트윗을 끕니까 ?"</string>
+    
+    <string name="twitter_error_network_issue">"실패했습니다. 트위터 서버와 통신할 수 없습니다. 몇 분 후에 다시 시도하십시오."</string>
+    <string name="twitter_error_resource_not_found">"실패했습니다. 자원이 삭제되었을 수 있습니다(트윗이나 DM 또는 기타 자원)"</string>
+    <string name="twitter_error_api_rate_limitation_with_reset_minutes">"속도 제한 초과(트위터 API 요청 제한) \n \n 약 %1$d분 %2$d초 후에 다시 시도해주세요."</string>
+
+    <string name="account_list">"계정 목록"</string>
+    <string name="over_account_count_in_subscription">"계정 수 제한을 초과"</string>
+    <string name="over_account_count_not_subscription">"계정 수 제한 초과: 구독했을 경우 5개까지 제한을 가질 수 있습니다"</string>
+    <string name="account_change_confirm">계정을 변경?</string>
+
+    <string name="failed_to_load_image_and_try_again">"이미지를 로드하는 데 실패하였습니다. 몇 분 후에 다시 시도하십시오..."</string>
+
+    <string name="another_menu">"기타"</string>
+    <string name="another_menu_dots">기타…</string>
+
+    <string name="notification_new_reply_ticker">"일부 업데이트가 있습니다"</string>
+    <string name="notification_new_reply_text">"당신을 위한 몇 가지 트윗이 있습니다."</string>
+    
+    <string name="notification_new_dm_ticker">"새 메시지를 받았습니다"</string>
+    <string name="notification_new_dm_text">"새로운 직접 메시지"</string>
+    <string name="notification_new_dm_text_with_user">"\@%1$s로부터의 메세지"</string>
+    
+    <string name="retweeted_by_user">"%1$s에 의해 리트윗됨"</string>
+    <string name="source_from">"%1$s로부터"</string>
+    <string name="reply_to">"%1$s에게"</string>
+    <string name="cannot_launch_official_twitter_app">"공식 트위터 앱을 실행할 수 없습니다. \n 최신 공식 트위터 앱의 설치를 확인해주세요."</string>
+    
+    <string name="compass_button">"현재 위치를 확인"</string>
+
+    <string name="show_tweet_activity">트윗 활동 표시</string>
+    
+    <!-- リスト作成・編集画面 -->
+    <string name="list_name_text">"목록 이름"</string>
+    <string name="list_description_text">"설명"</string>
+    <string name="privacy_text">"개인정보"</string>
+    <string name="privacy_public">"공개"</string>
+    <string name="privacy_private">"개인"</string>
+    <string name="private_save_button">"저장"</string>
+    <string name="list_created">"저장됨"</string>
+    <string name="list_edited">"저장됨"</string>
+    <string name="list_description_length_error">"140자 이하의 설명 텍스트를 입력하십시오"</string>
+    <string name="no_list_name_error">"목록이름을 입력해주세요"</string>
+    
+    <!-- リストメンバー編集 -->
+    <string name="list_member_added">"추가된 목록멤버"</string>
+    <string name="select_list_to_add_the_member">"멤버를 추가할 목록을 선택하세요"</string>
+    <string name="remove_from_list_confirm">"@%1$s is already member of %2$s, remove ?"</string>
+
+    <!-- プロフィール編集画面 -->
+    <string name="profile_edit_screen_name_text_dummy">"화면이름"</string>
+    <string name="profile_edit_name_label">"이름"</string>
+    <string name="profile_edit_description_text">"설명"</string>
+    <string name="profile_edit_description_label">"설명"</string>
+    <string name="profile_edit_location_label">"위치"</string>
+    <string name="profile_edit_url_label">"URL"</string>
+    <string name="profile_edit_save_button">"저장"</string>
+    <string name="profile_edit_saved">"저장됨"</string>
+    <string name="profile_banner_saved">"저장됨, 몇 분 후에 유효화됩니다"</string>
+    <string name="profile_banner_removed">"제거됨. 몇 분 후에 유효화됩니다"</string>
+    
+    <!-- レビューのお願い画面 -->
+    <string name="review_dialog_title">"부디..."</string>
+    <string name="review_dialog_message">"TwitPane에 대해 어떻게 생각하십니까? \n 구글플레이에서 개발팀을 지원하시겠습니까?"</string>
+    <string name="review_dialog_later_button">"나중에"</string>
+    <string name="review_dialog_review_button">"확인"</string>
+    
+    <!-- お気に入り表示公式アプリ確認関連 -->
+    <string name="need_twitter_app_title">마음된 유저에 대하여</string>
+    <string name="need_twitter_app_message">마음된 사용자를 노출하는 것은 트위터에 의해 제한되어 있습니다. 트위터 공식앱을 통해 노출하세요\n\n 공식앱을 설치하시겠습니까?</string>
+<!--	<string name="show_favorited_users_by_twitter_app_run_message">마음된 사용자를 노출하는 것은 트위터에 의해 제한되어 있습니다. 트위터 공식앱을 통해 트위터를 노출하세요\n\n 공식앱을 실행하시겠습니까?</string>-->
+    
+	<string name="drawer_open">"열기"</string>
+	<string name="drawer_close">"닫기"</string>
+
+    <string name="search_around_tweets_not_found_message">"Not found in @%1$s's timeline…"</string>
+
+    <!-- 固定ツイート -->
+    <string name="pinned_tweet">메인 트윗</string>
+    <string name="config_show_pinned_tweet">고정된 트윗 표시</string>
+    <string name="config_show_pinned_tweet_summary"></string>
+
+    <!-- サブスクリプション画面 -->
+    <string name="continue_to_trial">Continue to trial</string>
+    <string name="cloud_translation_subscription_title">Subscription</string>
+    <string name="subscription_title">Subscription</string>
+
+
+    <!-- ================================================================================ -->
+    <!-- Menu -->
+    <!-- ================================================================================ -->
+    <string name="menu_tab">"탭"</string>
+
+    <string name="menu_list_member">"목록멤버"</string>
+    <string name="menu_show_list_member">"멤버 보이기"</string>
+    <string name="menu_show_list_subscribers">쇼 가입자</string>
+    <string name="menu_create_list">"목록 만들기"</string>
+    <string name="menu_list_edit">"편집"</string>
+    <string name="menu_list_delete">"삭제"</string>
+    <string name="menu_list_subscribe">"구독"</string>
+    <string name="menu_list_unscribe">"구독취소"</string>
+    <string name="menu_new">"신규"</string>
+    <string name="menu_search">"검색"</string>
+    <string name="menu_home">"홈"</string>
+    <string name="menu_refresh">"새로고침"</string>
+    <string name="menu_config">"설정"</string>
+    <string name="menu_event">이벤트</string>
+    <string name="menu_about">"약"</string>
+    <string name="menu_debug">"디버그"</string>
+    <string name="debug_mode_confirm_title">"디버그 모드 확인"</string>
+    <string name="debug_mode_confirm_message">"정말로 디버그 모드에 돌입하시겠습니까?"</string>
+    <string name="debug_mode_entered">"입력된 디버그 모드"</string>
+    <string name="debug_mode_canceled">"디버그 모드 취소됨"</string>
+    <string name="debug_mode_menu">"디버그 모드 메뉴"</string>
+    <string name="debug_mode_cancel">"디버그 모드 취소"</string>
+    <string name="debug_mode_send_debug_log">"디버그 로그 보내기"</string>
+    <string name="debug_mode_send_debug_log_short">"보내기"</string>
+    <string name="debug_mode_send_debug_log_confirm_title">"디버그 로그 보내기"</string>
+    <string name="debug_mode_send_debug_log_confirm_message">"불편을 끼쳐 드려 죄송합니다. 
+\n
+\n 트위터의 구체적 사항의 변경으로 인해 당신은 더 이상 이용이 불가능할 수 있습니다. 
+\n 수정된 버전이 이미 발행되었을 수 있기 때문에 구글플레이 스토에서 업데이트를 확인해주세요.
+\n (대중에 발행되지 않은 경우 조금 기다려 주세요.)
+\n
+\n 추가적으로 저작자에게 디버그 로그를 보내는 것으로 미래의 버전을 개선하는 데 협력하실 수 있습니다. 
+\n 하지만 로그에 개인정보를 포함할 수 있다는 것을 명심하십시오. 
+\n 디버그 로그를 보내고 싶으시다면 다음 화면에서 \"Gmail\"을 선택해주세요."</string>
+    <string name="debug_mode_check_update">"업데이트 확인"</string>
+    <string name="show_internal_cache">"내부캐시 보기"</string>
+    <string name="show_debug_log">"디버그 로그 보기"</string>
+
+    <string name="menu_show_account_list">"계정"</string>
+    <string name="menu_tab_config">탭 설정</string>
+    <string name="menu_show_tab_list">"탭 목록"</string>
+    <string name="menu_open_tab_list">"탭 목록 열기"</string>
+    <string name="menu_close_tab_list">"탭 목록 닫기"</string>
+    <string name="menu_page_config">"탭 사용자조정"</string>
+    <string name="add_tab">"탭 추가"</string>
+    
+    <string name="menu_ok">"확인"</string>
+    <string name="menu_cancel">"취소"</string>
+    <string name="menu_restore_default">"기본값"</string>
+    <string name="restore_default_confirm_message">"기본탭을 정말로 복구하시겠습니까?"</string>
+    <string name="menu_add">"추가 "</string>
+    <string name="menu_delete_tab">"탭 삭제"</string>
+    <string name="tab_delete_confirm">Are you sure you want to delete tab "%1$s" ?</string>
+    <string name="menu_add_user_page_to_home">"상위에 페이지 추가"</string>
+    <string name="add_user_page_to_home_already_added">"이미 추가되었습니다.."</string>
+    <string name="add_user_page_to_home_finish">"추가됨"</string>
+    <string name="menu_add_user_list_to_home">"상위에 목록 추가"</string>
+    <string name="add_user_list_to_home_already_added">"이미 추가됨.."</string>
+    <string name="add_user_list_to_home_finish">"추가"</string>
+    <string name="menu_share">"공유"</string>
+    <string name="menu_share_design">"디자인 공유"</string>
+    
+    <string name="menu_stop_userstream">"UserStream를 중지"</string>
+    <string name="menu_start_userstream">"UserStream를 시작"</string>
+    <string name="menu_enable_auto_scroll">"자동 스크롤 활성화"</string>
+    <string name="menu_disable_auto_scroll">"자동 스크롤 비활성화"</string>
+    
+    <string name="menu_add_search_tab_to_home">"검색 탭 추가"</string>
+    <string name="add_search_tab_to_home_already_added">"이미 추가됨.."</string>
+    <string name="add_search_tab_to_home_finish">"추가"</string>
+    <string name="menu_open_saved_search">"저장된 검색을 열기"</string>
+    
+    <string name="menu_show_image_only">"이미지에 한정하여 보기"</string>
+    <string name="menu_cancel_image_only">"이미지에 한정하여 취소"</string>
+
+    <string name="menu_show_all_rt">"모든 리트 윗보기"</string>
+    <string name="menu_show_first_rt_only">"쇼 첫 번째 부분 만"</string>
+    <string name="menu_search_with_official_app">Search with Twitter App</string>
+
+    <string name="menu_show_user">"유저 보기"</string>
+    <string name="menu_search_user">"유저 검색"</string>
+    <string name="menu_show_block_users">"차단된 유저를 보이기"</string>
+    <string name="menu_show_no_retweet_users">비 리트 윗 사용자</string>
+
+    <string name="menu_campaign_ad">"광고 캠페인"</string>
+    <string name="campaign_info">"캠페인에 대해서"</string>
+    <string name="campaign_info_message">"이 앱을 사용해 주셔서 감사합니다! \n\n 광고를 숨기고 싶으시면 이 앱을 광고트윗하실 수 있습니다.  (%1$d days)"</string>
+    <string name="campaign_info_tweet">"트윗 입력"</string>
+    <string name="campaign_input_title">"트윗을 입력해주세요"</string>
+    <string name="campaign_input_alert">"'TwitPane'을 포함한 입력트윗"</string>
+    <string name="campaign_already_ad_hiding">"이미 광고를 숨겼습니다..\n 정말로 광고를 복원하시겠습니까?"</string>
+    <string name="campaign_tweet_done_title">"캠페인 트윗 완료"</string>
+    <string name="campaign_tweet_done_message">"캠페인 트윗을 보냈습니다. 약 %1$d 일 동안 광고가 숨겨질 것입니다!"</string>
+    <string name="campaign_tweet_count_exceeded">PR 트윗으로 광고 제거를 수행한 횟수가 한도를 초과했습니다. 광고 취소 팩(구독) 또는 유료 버전을 고려하십시오.</string>
+    
+    
+    <string name="menu_no_tap_ex_action">"탭 작업 행동 없음 (기본값)"</string>
+    <string name="reply_button">"답장"</string>
+    <string name="menu_reply">"답장"</string>
+    <string name="menu_reply_all">"모두에게 응답"</string>
+    <string name="menu_hidden_button">"기능 없음 (숨김)"</string>
+    <string name="menu_rt">"리트윗"</string>
+    <string name="menu_quote_tweet">인용 트윗</string>
+    <string name="menu_tweet_with_comment">코멘트 트윗</string>
+    <string name="menu_unofficial_retweet">RT \@TwitPane: …</string>
+    <string name="cannot_retweet_protected_user_tweet">"보호된 사용자의 트윗을 리트윗할 수 없습니다"</string>
+    <string name="menu_remove_rt">"리트윗 제거"</string>
+    <string name="menu_create_favorite_favorite">"즐겨찾기"</string>
+    <string name="menu_remove_favorite_favorite">"즐겨찾기 삭제"</string>
+    <string name="menu_create_favorite_like">마음</string>
+    <string name="menu_remove_favorite_like">마음에 들어요 취소</string>
+    <string name="menu_add_bookmark">북마크에 추가</string>
+    <string name="menu_delete_bookmark">북마크에서 삭제</string>
+    <string name="menu_show_conversation">"대화"</string>
+    <string name="menu_search_conversation">대화 보기</string>
+    <string name="menu_search_around_tweets">전후 트윗 검색</string>
+    <string name="found_new_reply_tweets">발견 새 트윗(%1$s)</string>
+    <string name="menu_show_rt_users">"리트윗 한 유저 보기"</string>
+    <string name="menu_show_quoted_tweets">인용된 트윗</string>
+    <string name="menu_show_favorite_users_favorite">"좋아하는 사용자"</string>
+    <string name="menu_show_favorite_users_like">"마음 한 유저 보기"</string>
+    <string name="menu_show_profile">"프로필 보기"</string>
+    <string name="menu_show_timeline">"타임라인 보이기"</string>
+    <string name="show_latest_tweet">타임라인 보이기</string>
+    <string name="menu_show_tweet">"보기"</string>
+    <string name="menu_set_color_label_dots">"색상 레이블을 설정..."</string>
+    <string name="menu_set_color_label_short">"색상 레이블을 설정..."</string>
+    <string name="menu_set_all_color_label">"모든 색상 레이블을 설정"</string>
+    <string name="menu_cancel_color_label_short">"색상 레이블 취소"</string>
+    <string name="cancel_all_color_labels_in_list">"이 목록에 포함된 사용자의 모든 레이블을 취소합니다(%1$s 사용자), 괜찮습니까?"</string>
+    <string name="set_all_color_labels_in_list">"이 목록에 포함된 사용자의 모든 레이블을(%1$s 사용자) \"%2$s\"로 설정합니다, 괜찮습니까?
+\n\n참고 : 이미 설정된 사용자의 레이블을 유지"</string>
+    <string name="set_color_labels_done">"모든 컬러 라벨 설정 완료 (사용자 수 : %1$s )"</string>
+    <string name="jump_to_other_tab1">다른 탭으로 이동1</string>
+    <string name="jump_to_other_tab2">다른 탭으로 이동2</string>
+    <string name="jump_to_other_tab3">다른 탭으로 이동3</string>
+    <string name="select_jump_destination_tab">점프 대상 탭 설정</string>
+    <string name="tab_jump_introduction">-메인 화면에서이 버튼을 눌러 점프 대상 탭을 설정하십시오. \n- 버튼을 누르고 있으면 점프 목적지를 변경합니다.</string>
+
+    <string name="menu_share_tweet">"트윗 공유"</string>
+    <string name="menu_remove_tweet">"삭제"</string>
+    <string name="menu_open_with_official_app">공식 앱으로 열기</string>
+    <string name="menu_import_design">"디자인 들여오기"</string>
+    
+    <string name="menu_user_mute">"이 사용자를 뮤트"</string>
+    <string name="menu_user_block">이 사용자 차단</string>
+    <string name="menu_block_this_tweet">이 트윗 차단</string>
+    <string name="show_blocked_tweets">차단된 트윗 표시</string>
+    <string name="menu_user_reply_search">"유저에게 보낸 트윗 검색"</string>
+    <string name="menu_user_conversation_with_me_search">나와 대화 검색</string>
+    <string name="menu_show_image_timeline">"이미지 타임라인 보이기"</string>
+    <string name="menu_user_show_list">"리스트 보기"</string>
+    <string name="menu_user_show_favorite_favorite">"즐겨찾기 보이기"</string>
+    <string name="menu_user_show_favorite_like">마음 보이기</string>
+    <string name="menu_user_show_quoted_tweets">인용한 트윗 보기</string>
+    <string name="menu_user_show_timeline">"타임라인 보이기"</string>
+    <string name="menu_user_reply_to">"회신"</string>
+    <string name="menu_user_send_message">"에 메시지를 보내기"</string>
+    
+    <string name="menu_guide">"튜토리얼 보이기"</string>
+    <string name="menu_add_list">"리스트에 추가하기"</string>
+    
+    <string name="menu_tweet_config">"설정"</string>
+    <string name="menu_reply_to_other_tweet">다른 트윗에 링크</string>
+    <string name="menu_cancel_reply_to_other_tweet">다른 트윗에 링크 취소</string>
+    <string name="select_tweet_to_link_to">에 연결하는 트윗을 선택</string>
+    <string name="menu_hide_reply_area">숨기기 답글 영역</string>
+    <string name="menu_show_reply_area">보기 답글 영역</string>
+    <string name="menu_hide_attached_image_area">첨부 이미지 영역을 숨기기</string>
+    <string name="menu_show_attached_image_area">보기 첨부 이미지 영역</string>
+    <string name="menu_add_app_link">"TwitPane 링크 추가"</string>
+    
+    <string name="menu_block">"차단"</string>
+    <string name="menu_block_dots">"차단 ..."</string>
+    <string name="menu_spam">"스팸 신고"</string>
+    <string name="menu_report_as_spam">스팸으로 신고 ...</string>
+    <string name="report_tweet_as_spam_confirm_message">이 트윗을 스팸으로 표시하시겠습니까?</string>
+    <string name="tweet_reported_message">Reported</string>
+    <string name="edited_tweet">Edited history</string>
+    <string name="edited">수정됨</string>
+    <string name="there_is_a_new_version_of_this_tweet">이 트윗의 새 버전이 있습니다.</string>
+    <string name="latest_tweet">최근 트윗</string>
+    <string name="version_history">버전 기록</string>
+    <string name="menu_delete_user_from_list">"목록에서 사용자를 삭제 ..."</string>
+    <string name="menu_delete_from_block_list">"차단 목록에서 삭제 ..."</string>
+    <string name="menu_scroll_to_top">"맨 위로 스크롤"</string>
+    <string name="menu_scroll_to_bottom">"아래로 스크롤"</string>
+    <string name="menu_move_up">이동</string>
+    <string name="menu_move_down">아래로 이동</string>
+    <string name="menu_mute">"음소거 ..."</string>
+    <string name="menu_misc_block_mute">"차단, 스팸 ..."</string>
+    <string name="menu_choose_tweets">"트윗 선택 ..."</string>
+    <string name="message_for">"%1$s에 대한 메세지"</string>
+    <string name="message_from">"%1$s로부터의 메세지"</string>
+    <string name="loaded_messages">Loaded %1$d messages</string>
+    <string name="menu_delete_message">"삭제..."</string>
+    <string name="menu_share_message">"공유"</string>
+    <string name="menu_share_lists">"공유"</string>
+    <string name="menu_copy">"복사 ..."</string>
+    <string name="menu_translate">번역</string>
+    <string name="set_startup_pane">시작 프로그램 탭으로 설정</string>
+
+    <string name="show_polls_result">이 설문 조사의 진행 상황을 볼 수 있습니다.</string>
+    <string name="votes">%1$d votes</string>
+    <string name="polls_until">until %1$s</string>
+    <string name="polls_final_results">Final results</string>
+
+    <string name="change_account">계정 변경</string>
+    <string name="choose_account">계정 선택</string>
+    <string name="other_color_with_color_picker">"기타 (색 추출)"</string>
+    <string name="change_color">"색 변경"</string>
+    <string name="default_color">"기본 색상"</string>
+    <string name="no_color_label">"색상 레이블이 없습니다"</string>
+
+    <string name="select_upload_plugin">"업로드 플러그인 선택"</string>
+    <string name="upload_with_twitpane">"TwitPane으로 업로드"</string>
+    
+    <string name="image_menu">"이미지 메뉴"</string>
+    <string name="video_menu">비디오 메뉴</string>
+    <string name="media_menu_preview">"미리보기"</string>
+    <string name="image_menu_preview">"미리보기"</string>
+    <string name="image_menu_save">"저장"</string>
+    
+    <string name="hashtag_menu_search">"검색"</string>
+    <string name="hashtag_menu_tweet">"트윗"</string>
+    <string name="hashtag_menu_remember">"저장"</string>
+    <string name="hashtag_menu_mute">"음소거"</string>
+    <string name="hashtag_remembered">"저장됨(새로운 트윗창에 불러올 수 있습니다)"</string>
+    
+    <string name="menu_change_name">"탭 이름 변경"</string>
+    <string name="menu_change_keyword">"키워드 변경"</string>
+    
+    <!-- ================================================================================ -->
+    <!-- WriteView -->
+    <!-- ================================================================================ -->
+    <string name="write_view_activity_title">"트윗"</string>
+    <string name="write_view_body_label">"무슨 생각을 하고 계십니까?"</string>
+    <string name="write_view_submit_button">"트윗"</string>
+    <string name="write_view_send_button">"보내기"</string>
+    <string name="picture1_select_button">"사진"</string>
+    <string name="mush_button_text">"버섯"</string>
+    <string name="minimize">Minimize</string>
+    <string name="maximize">Maximize</string>
+    <string name="hashtag">"해시태그"</string>
+    <string name="hashtag_remove_confirm_title">"삭제 확인"</string>
+    <string name="hashtag_remove_confirm_message">"이 해시태그를 삭제하시겠습니까?"</string>
+    <string name="no_recent_hashtags">"최근의 해시태그가 없습니다"</string>
+    <string name="screen_name_select">"회신 사용자를 선택"</string>
+    <string name="reload_screen_name_list_confirm_title">"리로드 확인"</string>
+    <string name="reload_screen_name_list_confirm_message">"팔로잉 유저 및 팔로워의 목록을 리로드합니다. 괜찮습니까?"</string>
+    <string name="call_twicca_plugin">"플러그인"</string>
+    <string name="write_view_finish_confirm_title">"확인"</string>
+    <string name="write_view_finish_confirm_message">"정말로 종료하시겠습니까?"</string>
+    <string name="write_view_finish_save_confirm_message">"임시보관함에 저장하시겠습니까?"</string>
+    <string name="write_view_finish_save">"저장"</string>
+    <string name="write_view_finish_save_discard">"저장안함"</string>
+    <string name="write_view_finish_save_cancel">"취소"</string>
+    <string name="no_drafts">"초안이 없음"</string>
+    <string name="select_items_to_delete">삭제하려는 항목을 선택하십시오</string>
+    <string name="drafts">"임시보관함"</string>
+    <string name="drafts_and_tweet_history">초안 및 트윗 기록</string>
+    <string name="drafts_only">초안만</string>
+    <string name="tweet_history_only">트윗 기록만</string>
+    <string name="filter">필터</string>
+    <string name="draft_remove_confirm_title">"삭제 확인"</string>
+    <string name="draft_remove_confirm_message">"이 초안을 삭제하시겠습니까?"</string>
+    <string name="draft_remove">제거</string>
+    <string name="delete_hashtag_confirm">다음 해시태그를 삭제하시겠습니까?</string>
+    <string name="write_view_picture_preview">"미리보기"</string>
+    <string name="write_view_picture_edit">편집</string>
+    <string name="write_view_movie_cut_edit">편집을 잘라</string>
+    <string name="write_view_movie_install_lvc">스토어에 LosslessVideoCutter를 설치하십시오</string>
+    <string name="write_view_picture_cancel">"취소"</string>
+    <string name="write_view_picture_select">"사진 선택(갤러리)"</string>
+    <string name="write_view_movie_select">선택 영화</string>
+    <string name="write_view_picture_multi_select">"사진 선택(객관식)"</string>
+    <string name="write_view_picture_multi_select_alt">"사진 선택(객관식)"</string>
+    <string name="write_view_picture_shot">"사진을 찍으세요"</string>
+    <string name="write_view_movie_shot">비디오를 타고</string>
+    <string name="write_view_cannot_attach_anymore">더 이상 연결할 수 없습니다.</string>
+    <string name="write_view_input_body">"본문을 입력해주세요"</string>
+    <string name="write_view_body_length_error">"%1$d자 이하의 텍스트를 입력하십시오"</string>
+    <string name="write_view_twitlonger_confirm">"140자 이상. 당신이 TwitLonger를 통해 게시하시겠습니까?"</string>
+    <string name="write_view_twitter_dm_command_notice">그것은 DM 명령입니다. OK?</string>
+    <string name="write_view_tweet_confirm">"새로운 트윗을 보냅니다. 괜찮습니까?"</string>
+    <string name="write_view_sent_tweet">"게시됨"</string>
+    <string name="write_view_failed_to_send_tweet">트윗 못했습니다 ...</string>
+    <string name="write_view_restricted_who_can_reply_to_this_tweet">{errorMessage}</string>
+    <string name="write_view_convert_to_quote_tweet_config">당신이 인용 트윗로 변환 하시겠습니까?</string>
+    <string name="write_view_dm_confirm">"\@%1$s에게 DM을 보냅니다. 괜찮습니까?"</string>
+    <string name="write_view_sent_dm">"발신완료"</string>
+    <string name="write_view_chars">"문자"</string>
+    <string name="write_view_cannot_get_photo_error">"사진을 가져올 수 없습니다. 다시 선택하십시오."</string>
+    <string name="write_view_photo_size_error_title">"사진 크기 오류"</string>
+    <string name="write_view_photo_size_error_message">"첨부하기에 너무 큽니다"</string>
+    <string name="write_view_no_mushroom_app">"버섯 앱이 없습니다. 
+\n\n 구글플레이 스토어에서 버섯앱을 다운로드해주세요"</string>
+    <string name="write_view_move_to_left">왼쪽으로 이동</string>
+    <string name="write_view_move_to_right">오른쪽으로 이동</string>
+
+    <!-- ================================================================================ -->
+    <!-- 内蔵ブラウザ -->
+    <!-- ================================================================================ -->
+    
+    <!-- ツールバーボタン -->
+    <string name="browser_top_button">"홈"</string>
+    <string name="browser_back_button">"뒤로"</string>
+    <string name="browser_menu_button">"메뉴"</string>
+    <string name="browser_scroll_to_top_button">"맨 위로 스크롤"</string>
+    <string name="browser_scroll_to_bottom_button">"아래로 스크롤"</string>
+    <string name="browser_reload_button">"리로드"</string>
+    <string name="browser_open_browser_button">"브라우저로 열기"</string>
+    <string name="browser_exit_button">"종료"</string>
+    
+    <string name="browser_cancel_text">"취소"</string>
+    
+    <!-- その他 -->
+    <string name="browser_share_by_browser_confirm_dialog_title">"브라우저"</string>
+    <string name="browser_share_by_browser_confirm_dialog_message">"이 페이지를 정말로 브라우저에서 여시겠습니까?"</string>
+    <string name="browser_dialog_yes">"예"</string>
+    <string name="browser_dialog_no">"아니오"</string>
+    <string name="browser_history">"역사"</string>
+    <string name="browser_cannot_specify_the_tapped_image">"탭된 이미지를 지정할 수 없습니다."</string>
+    <string name="browser_show_url_menu">"URL"</string>
+    <string name="browser_share_menu">"공유"</string>
+    <string name="browser_debug_menu">"디버그 정보"</string>
+    <string name="browser_jb_copy_start_message">"선택을 시작하기 위한 긴 탭 텍스트"</string>
+    
+    <!-- 終了確認 -->
+    <string name="browser_exit_confirm_title">"닫기"</string>
+    <string name="browser_exit_confirm_message">"정말로 종료하시겠습니까?"</string>
+    
+    <!-- URL確認 -->
+    <string name="browser_url_confirm_title">"URL 확인f"</string>
+    <string name="browser_url_confirm_message">"%1$s \n\n '공유' 또는 '클립보드에 복사'"</string>
+    <string name="browser_url_confirm_copy">"복사"</string>
+    <string name="browser_url_confirm_copied">"클립보드에 복사"</string>
+    <string name="browser_url_confirm_cancel">"취소"</string>
+    <string name="copy_link">복사 링크</string>
+
+    <!-- 画像保存確認 -->
+    <string name="browser_save_image_confirm_title">"이미지 저장"</string>
+    <string name="browser_save_image_confirm_message">"이미지를 저장?"</string>
+    
+    <!-- ブラウザのロングタップメニュー -->
+    <string name="browser_long_click_menu_title">"이 페이지를 열까요?"</string>
+    <string name="browser_long_click_menu_open">"열기"</string>
+    <string name="browser_long_click_menu_open_browser">"브라우저 열기"</string>
+    <string name="browser_long_click_menu_share">"공유"</string>
+    <string name="browser_long_click_menu_cancel">"취소"</string>
+    
+    
+    <!-- ================================================================================ -->
+    <!-- Settings -->
+    <!-- ================================================================================ -->
+    <string name="config_timeline_display_settings_category">타임라인 설정</string>
+    <string name="config_timeline_display_settings_category_summary"></string>
+
+	<string name="config_display_settings_category">"디스플레이 설정"</string>
+    <string name="config_display_settings_category_summary"></string>
+
+    <string name="config_font_size">"폰트 크기"</string>
+    <string name="config_line_spacing">줄 간격</string>
+    <string name="config_theme">"테마"</string>
+    <string name="config_appearance">외모</string>
+    <string name="config_timeline_compose_category">타임라인 및 작성</string>
+    <string name="config_media_viewer_category">미디어 뷰어</string>
+	<string name="config_thumb_size">"썸네일 크기"</string>
+    <string name="config_thumb_size_summary">""</string>
+    <string name="config_show_reply_user_thumbnail">"썸네일 응답 보기"</string>
+    <string name="config_show_reply_user_thumbnail_summary">"회신 유저의 썸네일 아이콘을 보이기"</string>
+    <string name="config_wrap_name_line">이름을 바꿈</string>
+    <string name="config_wrap_name_line_summary"></string>
+    <string name="config_preview_of_attached_photo_category">Preview of attached photo</string>
+    <string name="config_photo_thumbnail_layout">Thumbnail Layout</string>
+    <string name="config_photo_thumbnail_layout_new_official_app">Portrait style &lt;br>&lt;small>New Twitter Official App style&lt;/small></string>
+    <string name="config_photo_thumbnail_layout_old_official_app">Landscape style &lt;br>&lt;small>Old Twitter Official App style&lt;/small></string>
+    <string name="config_photo_thumbnail_layout_old_twitpane">Square style &lt;br>&lt;small>Old TwitPane style&lt;/small></string>
+    <string name="config_one_photo_size">축소판 크기 (단일)</string>
+    <string name="config_change_one_photo_size">단일 축소판 크기 변경</string>
+    <string name="config_one_photo_size_summary">단일 사진 첨부시 축소판 크기</string>
+    <string name="config_multi_photo_size">축소판 크기 (다중)</string>
+    <string name="config_change_multi_photo_size">다중 축소판 크기 변경</string>
+    <string name="config_multi_photo_size_summary">여러 장의 사진이 첨부 된 경우 축소판 크기</string>
+    <string name="config_photo_size_hide">"숨기기"</string>
+    <string name="config_tab_icon">"탭 아이콘"</string>
+    <string name="config_tab_icon_summary">"탭에 아이콘 표시"</string>
+    <string name="config_hide_tab_bar_on_landscape">풍경에 탭을 숨기기</string>
+    <string name="config_account_on_title">"제목 계정 (1)"</string>
+    <string name="config_account_on_title_summary">"제목에 계정 화면 이름 (@ 이름) 보이기"</string>
+    <string name="config_account_name_on_title">"제목 계정 (2)"</string>
+    <string name="config_account_name_on_title_summary">"제목에 계정이름을 표시"</string>
+    <string name="config_unread_count_on_right_of_title">오른쪽에 읽지 않은 카운트</string>
+    <string name="config_unread_count_on_right_of_title_summary">제목 오른쪽에 읽지 않은 수를 표시</string>
+    <string name="config_auto_hide_toolbar">자동 숨기기 제목 바</string>
+    <string name="config_auto_hide_toolbar_summary">자동으로 상단에 타이틀 바 숨기기</string>
+    <string name="config_snackbar_for_like_rt_notice">아이콘으로 좋아요 및 RT 알림</string>
+    <string name="config_snackbar_for_like_rt_notice_summary"></string>
+    <string name="config_image_animation">"이미지 애니메이션"</string>
+    <string name="config_image_animation_summary">""</string>
+    <string name="config_enable_fast_scroll">"빠른 스크롤"</string>
+    <string name="config_enable_fast_scroll_summary">"목록에서 빠른 스크롤 상자를 활성화"</string>
+    <string name="config_show_rate_limit_on_title">"속도제한 표시"</string>
+    <string name="config_show_rate_limit_on_title_summary">"제목에 API 속도제한 표시"</string>
+    <string name="config_enable_pull_to_refresh">"당겨서 새로고침"</string>
+    <string name="config_enable_pull_to_refresh_summary">"목록의 당겨서 새로고침 특성을 활성화 [기본값 : ON]"</string>
+    <string name="config_swipe_refresh_trigger_distance">PTR의 감도</string>
+    <string name="config_swipe_refresh_trigger_distance_summary">새로 끌어 거리를 지정합니다 [기본값:32dp]</string>
+    <string name="config_side_menu_category">사이드 메뉴</string>
+    <string name="config_side_menu_background_image">배경 이미지</string>
+    <string name="config_side_menu_background_image_background_of_profile">프로파일의 배경</string>
+    <string name="config_side_menu_background_image_below_profile">프로필 아래</string>
+	<string name="config_show_follow_count_on_timeline">"팔로우 횟수를 보이기"</string>
+	<string name="config_show_follow_count_on_timeline_summary">"타임라인에서 팔로우 및 팔로워 수를 보이기"</string>
+    <string name="config_show_source_app">보기 소스</string>
+    <string name="config_show_source_app_summary"></string>
+    <string name="config_show_image_url">보기 이미지 URL</string>
+    <string name="config_show_image_url_summary"></string>
+    <string name="config_show_followers_count_bar">Show Followers Count Bar</string>
+    <string name="config_show_followers_count_bar_summary">[default:OFF]</string>
+    <string name="config_show_mutual_mark">"상호 팔로잉 아이콘"</string>
+    <string name="config_show_mutual_mark_summary">"타임라인에 상호팔로잉 아이콘 보이기"</string>
+    <string name="config_display_sensitive_iamges_as_blur">민감한 이미지를 흐리게 표시</string>
+    <string name="config_display_sensitive_iamges_as_blur_summary"></string>
+    <string name="config_user_icon_thumbnail_category">User icon</string>
+    <string name="config_use_rounded_thumbnail">Rounded Thumbnail</string>
+    <string name="config_use_rounded_thumbnail_summary">Use rounded profile icon [default:ON]</string>
+    <string name="config_link_area_category">링크</string>
+    <string name="config_show_link_area">링크 영역 표시</string>
+    <string name="config_show_link_area_summary">트윗의 링크 URL에서 링크 이미지 및 제목 표시 [기본값:ON]</string>
+    <string name="config_tweet_design">트윗 디자인</string>
+    <string name="config_show_quote_count">인용된 트윗 수 표시</string>
+    <string name="config_show_quote_count_summary"></string>
+    <string name="config_change_link_area_thumbnail_size">링크 사진 크기 변경</string>
+    <string name="config_link_area_thumbnail_size">링크 사진 크기 변경</string>
+    <string name="config_emoji_size">Emoji Size</string>
+    <string-array name="config_emoji_size_entries">
+        <item>장치 글꼴</item>
+        <item>Twitter Emoji(작은)</item>
+        <item>Twitter Emoji(중)</item>
+        <item>Twitter Emoji(큰)</item>
+    </string-array>
+    <string name="config_userstream_animation_type">삽입 애니메이션</string>
+    <string-array name="config_userstream_animation_type_entries">
+        <item>점점 뚜렷해지다</item>
+        <item>어떤 애니메이션 없음</item>
+    </string-array>
+
+	<string name="config_toolbar">"툴바 설정"</string>
+	<string name="config_toolbar_height">"툴바 높이"</string>
+    <string name="config_toolbar_height_change">"변경"</string>
+	<string name="transparent_toolbar">"투명 툴바"</string>
+    <string name="bottom_toolbar_auto_hide">도구 모음 자동 숨기기</string>
+    <string name="bottom_toolbar_auto_hide_when_scrolling_down">아래로 스크롤 할 때 숨기기</string>
+    <string name="change_function">"변경 조치"</string>
+    <string name="toolbar_button_tutorial1">"기능을 변경하기 위해 버튼을 탭하세요.
+\n 버튼의 색상을 변경하려면 버튼을 탭하세요"</string>
+
+    <string name="config_translation_settings_category">번역 설정</string>
+    <string name="config_show_translation_link">\'번역\' 링크 표시</string>
+    <string name="config_show_translation_link_summary"></string>
+    <string name="config_use_cloud_translation">고품질 번역</string>
+    <string name="config_use_cloud_translation_summary">클라우드 번역을 사용하면 번역 결과의 품질과 정확도가 높아집니다. 유료 외부 서비스를 이용하세요.</string>
+    <string name="config_use_cloud_translation_summary_not_available_due_to_not_subscribed">(내 구독이 이미 취소되었기 때문에 이 서비스를 사용할 수 없습니다.)</string>
+    <string name="config_use_cloud_translation_trial">클라우드 번역 사용해 보기</string>
+    <string name="config_use_cloud_translation_trial_summary"></string>
+    <string name="config_cloud_translation_provider">클라우드 번역 제공업체</string>
+    <string name="translated_by">%1$s 번역</string>
+    <string name="translation_provider_name_mlkit">현지 번역</string>
+    <string name="config_use_mlkit_translation_after_cloud_translation">Show local translation</string>
+    <string name="config_use_mlkit_translation_after_cloud_translation_summary">Show local translation result after cloud translation one</string>
+
+    <string name="config_timeline_settings_category">"타임라인 설정"</string>
+    <string name="config_tweet_load">트윗 로딩</string>
+    <string name="config_action">동작</string>
+    <string name="config_tweet_get_limit_title">"트윗 겟 수"</string>
+    <string name="config_tweet_get_limit_summary">"한 액세스당 추출된 트윗의 수"</string>
+    <string name="config_use_home_timeline_v2">홈 타임라인에 v2 API 사용</string>
+    <string name="config_use_home_timeline_v2_summary">Twitter API v2를 사용하여 홈 타임라인 가져오기</string>
+    <string name="config_auto_load_at_startup">"시작 시 TL 자동로드"</string>
+    <string name="config_auto_load_at_startup_summary">"앱의 시작 시, 커서가 타임라인의 상위에 있을 때 새로운 타임라인이 자동으로 로딩될 것입니다"</string>
+    <string name="config_auto_pager">"자동 호출기"</string>
+    <string name="config_auto_pager_summary">"스크롤 위치가 목록의 하단에 있을 때 다음페이지로 가세요"</string>
+    <string name="config_scroll_pos_after_acquired_gap">"간격 이후에 스크롤 위치"</string>
+    <string name="config_scroll_pos_after_acquired_gap_summary">"중간-간격-트윗을 취득한 후 스크롤 위치를 설정"</string>
+    <string name="config_scroll_pos_after_acquired_gap_top">"중간 트윗의 상위"</string>
+    <string name="config_scroll_pos_after_acquired_gap_bottom">"중간트윗의 바닥"</string>
+    <string name="config_scroll_pos_after_acquired_gap_confirm_each_time">획득 할 때마다 확인하십시오.</string>
+    <string name="config_scroll_pos_after_acquired_new_tweet">"신규 이후의 스크롤 위치"</string>
+    <string name="config_scroll_pos_after_acquired_new_tweet_summary">"새로운 트윗을 취득한 후 스크롤 위치 설정"</string>
+    <string name="config_scroll_pos_after_acquired_new_tweet_top">"새로운 트윗의 상위"</string>
+    <string name="config_scroll_pos_after_acquired_new_tweet_bottom">"새로운 트윗의 하단"</string>
+    <string name="config_volume_key_up_function">"볼륨 업 키"</string>
+	<string name="config_volume_key_down_function">"볼륨 다운 키"</string>
+	<string name="config_volume_key_volume">"볼륨 (기본)"</string>
+	<string name="config_volume_key_scrollup">"위로 스크롤"</string>
+	<string name="config_volume_key_scrolldown">"아래로 스크롤 "</string>
+	<string name="config_volume_key_nextaccount">"다음 계정"</string>
+	<string name="config_volume_key_userstream">"UserStream 온/오프"</string>
+	<string name="config_volume_key_nexttab">"다음 탭"</string>
+	<string name="config_volume_key_prevtab">"이전 탭"</string>
+    <string name="config_open_link_by_tap">"탭으로 링크 열기"</string>
+    <string name="config_open_link_by_tap_summary">"URL을 탭할 때 링크 열기 [기본값 : ON]"</string>
+    <string name="config_open_link_with_internal_browser">Open Internal Browser</string>
+    <string name="config_open_link_with_internal_browser_summary">Open link with internal browser(Chrome Custom Tabs)</string>
+    <string name="config_open_youtube_link_with_internal_browser">Open YouTube in Internal Browser</string>
+    <string name="config_open_youtube_link_with_internal_browser_summary">Open YouTube link with internal browser(Chrome Custom Tabs)</string>
+    <string name="config_show_conversation_from_bottom">아래에서 새로운 트윗을보기</string>
+    <string name="config_show_conversation_from_bottom_summary"></string>
+    <string name="config_conversation_search_count">대화 검색 백작</string>
+    <string name="config_conversation_search_count_summary"></string>
+
+    <string name="config_tap_ex">타임라인 탭 확장</string>
+    <string name="config_tap_ex_action_left">"TL Ex를 탭(왼쪽)"</string>
+	<string name="config_tap_ex_action_left_summary">"타임라인의 왼쪽영역을 탭할 때 펑션을 직접 호출"</string>
+    <string name="config_tap_ex_action_right">"TL Ex를 탭(오른쪽)"</string>
+	<string name="config_tap_ex_action_right_summary">"타임라인의 오른쪽 영역을 긴탭할 때 직접 펑션을 호출"</string>
+    <string name="config_tap_ex_action_left_long">"TL Ex를 긴탭(왼쪽)"</string>
+    <string name="config_tap_ex_action_left_long_summary">"타임라인의 왼쪽영역을 긴탭할 때 펑션을 직접 호출"</string>
+    <string name="config_tap_ex_action_right_long">"TL Ex를 긴탭(오른쪽)"</string>
+    <string name="config_tap_ex_action_right_long_summary">"타임라인의 오른쪽 영역을 탭할 때 직접 펑션을 호출"</string>
+
+	<string name="config_set_read_after_shown">"노출된 후 트윗 읽기를 설정"</string>
+	<string name="config_set_read_after_shown_summary">""</string>
+
+    <string name="config_message_settings_category">메시지 설정</string>
+    <string name="config_show_new_message_from_bottom">바닥에서 새 메시지를보기</string>
+    <string name="config_show_new_message_from_bottom_summary"></string>
+
+    <string name="config_post_category">"트윗 설정"</string>
+    <string name="config_image_uploading_category">이미지 업로드</string>
+    <string name="config_upload_image_size_title">"업로드 이미지 크기"</string>
+    <string name="config_upload_image_size_summary">"이미지 크기 축소"</string>
+    <string name="config_upload_image_quality_title">"업로드 이미지 품질"</string>
+    <string name="config_upload_image_quality_summary">"JPEG 이미지의 품질을 설정합니다"</string>
+    <string name="upload_image_quality_good">Good</string>
+    <string name="upload_image_quality_better">Better</string>
+    <string name="upload_image_quality_best">Best</string>
+	<string name="config_show_tweet_confirm_dialog_title">"트윗 확인"</string>
+	<string name="config_show_tweet_confirm_dialog_summary">"트윗 또는 메시지를 전송하기 전에 확인 대화상자 표시"</string>
+    <string name="config_tweet_font_size">"폰트 크기"</string>
+    <string name="config_refresh_timeline_after_tweet_title">"트윗 후 새로 고침"</string>
+    <string name="config_refresh_timeline_after_tweet_summary">"트윗을 보낸 후 타임 라인을 새로고침 [기본값 : OFF]"</string>
+    <string name="config_live_tweet_mode_title">Live Tweet Mode</string>
+    <string name="config_live_tweet_mode_summary">Remember hashtags in the last tweet</string>
+    <string name="config_v2_tweet_post_title">v2 트윗 모드</string>
+    <string name="config_v2_tweet_post_summary"></string>
+    <string name="config_show_mushroom_button">"버섯 버튼"</string>
+	<string name="config_show_mushroom_button_summary">"버섯 (IME 플러그인) 버튼을 보이기"</string>
+    <string name="config_use_screen_name_completion">사용 \'@\' 완료</string>
+    <string name="config_use_screen_name_completion_summary"></string>
+    <string name="config_show_actionbar_tweet_button">메뉴 버튼을하기 Tweet</string>
+    <string name="config_show_actionbar_tweet_button_summary">메뉴에서 트윗 버튼을 표시</string>
+	<string name="config_show_emoji_ime_title">"이모티콘 입력 지원"</string>
+	<string name="config_show_emoji_ime_summary">"지원하는 경우 IME의 이모티콘 입력 기능을 활성화"</string>
+    <string name="config_hide_compose_reply_area_by_default_title">숨기기 응답 영역</string>
+    <string name="config_hide_compose_reply_area_by_default_summary"></string>
+	<string name="config_show_remain_tweet_length">"남은 트윗 길이 표시"</string>
+	<string name="config_show_remain_tweet_length_summary">"제목에 트윗의 잔여길이 표시"</string>
+    <string name="config_count_tweet_length_as_280">최대 280 개 문자로 간주</string>
+    <string name="config_count_tweet_length_as_280_summary">280 자 이하로 트윗 문자 카운트</string>
+    <string name="config_auto_save_count">자동 카운트를 저장</string>
+    <string name="config_gallery_action">Gallery Type</string>
+    <string name="config_gallery_action_summary"></string>
+    <string-array name="config_gallery_actions">
+        <item>Pick[default]</item>
+        <item>GetContent</item>
+    </string-array>
+
+	<string name="config_confirm_settings_category">"설정 확인"</string>
+	<string name="config_show_rt_confirm_dialog_title">"리트윗"</string>
+    <string name="config_show_image_save_confirm_dialog_title">이미지 저장</string>
+    <string name="config_confirm_settings_notice_about_another_account">당신은 계정과 리트 윗하거나 같은를 선택하면, 확인 설정이 ON 인 경우에도 리트 윗하고 좋아하는 계정을 선택한 후 즉시 실행됩니다</string>
+
+	<string name="config_mute_settings_category">"사용자 뮤트 설정"</string>
+    <string name="config_mute_add">"추가 "</string>
+    <string name="config_mute_sort">종류</string>
+    <string name="config_mute_sort_confirm_message">정렬하시겠습니까? (되돌릴 수 없음)</string>
+    <string name="config_mute_edit">"편집"</string>
+    <string name="config_mute_delete">"삭제"</string>
+	<string name="cannot_include_comma_in_mute">"음소거 텍스트에 쉼표를 포함할 수 없습니다"</string>
+    <string name="confirm_to_add_mute_word">음소거 단어 추가, 알겠습니까?</string>
+    <string name="mute_word_added">음소거 단어 추가</string>
+
+    <string name="temporarily_disable_mute">일시적으로 음소거를 비활성화합니다.</string>
+    <string name="return_mute_to_active">음소거를 활성으로 되돌립니다.</string>
+
+    <string name="config_mute_users">"사용자"</string>
+    <string name="config_mute_users_message">"음소거 사용자의 화면이름을 지정"</string>
+    <string name="config_mute_users_hint">"\@twitpane"</string>
+    <string name="config_mute_no_users">"음소거 사용자 없음"</string>
+    <string name="this_user_is_muted">이 사용자는 음소거되었습니다.</string>
+    
+    <string name="config_mute_clients">"클라이언트"</string>
+    <string name="config_mute_clients_message">"음소거 클라이언트 이름을 지정ㅅ"</string>
+    <string name="config_mute_clients_hint">"클라이언트 이름"</string>
+    <string name="config_mute_no_clients">"음소거 클라이언트가 없습니다"</string>
+    
+    <string name="config_mute_words">"텍스트"</string>
+    <string name="config_mute_words_message">"음소거 단어 지정"</string>
+    <string name="config_mute_words_hint">"단어"</string>
+    <string name="config_mute_no_words">"음소거 단어가 없습니다"</string>
+
+    <string name="config_mute_target">Mute target</string>
+    <string name="config_mute_to_reply_conversation">답장 및 대화 음소거</string>
+    <string name="config_mute_to_reply_conversation_summary"></string>
+    <string name="config_mute_to_messages">메시지 음소거</string>
+    <string name="config_mute_to_messages_summary"></string>
+
+    <string name="config_subscription_settings_category">신청</string>
+    <string name="config_manage_subscriptions">구독 관리</string>
+
+    <string name="config_userstream_settings_category">"UserStream"</string>
+    <string name="config_userstream_auto_start">"자동 시작"</string>
+    <string name="config_userstream_auto_start_summary">"앱의 시작 시 userstream을 자동으로 시작 [기본값 : OFF]"</string>
+    <string name="config_auto_switch_scrolling">오토 스위치 스크롤</string>
+    <string name="config_auto_switch_scrolling_summary">타임 라인 상단에 자동 스크롤을 사용합니다. 아래로 스크롤 할 때이를 해제합니다.</string>
+    <string name="config_auto_scroll_on_new_status">"자동 스크롤"</string>
+    <string name="config_auto_scroll_on_new_status_summary">"새로운 상태로 자동 스크롤"</string>
+    <string name="config_show_auto_scroll_button">쇼 자동 스크롤 버튼</string>
+    <string name="config_show_auto_scroll_button_summary"></string>
+    <string name="config_userstream_keep_screen_on">"화면을 켠 상태로 유지"</string>
+    <string name="config_userstream_keep_screen_on_summary">"자동 수면을 비활성화"</string>
+    
+    <string name="config_notification_category">"알림"</string>
+    <string name="config_notification_category_basic">Basic Settings</string>
+    <string name="config_notification_category_reply">Reply</string>
+    <string name="config_notification_category_message">Messages</string>
+    <string name="config_notification_category_details">Details</string>
+    <string name="config_use_interval_notification">"간격 알림"</string>
+    <string name="config_use_interval_notification_summary">""</string>
+    <string name="config_notification_interval">"간격"</string>
+    <string-array name="config_notification_interval_entries">
+        <item>"3 분."</item>
+        <item>"5 분."</item>
+        <item>"10 분. [기본]"</item>
+        <item>"20 분."</item>
+        <item>"30 분."</item>
+        <item>"60 분."</item>
+        <item>"2시간"</item>
+    </string-array>
+    <string name="default_text"> [기본]</string>
+    <string name="config_show_reply_notification">"응답알림 표시"</string>
+    <string name="config_reply_notification_ticker_type">"응답알림 자막"</string>
+    <string-array name="config_reply_notification_ticker_type_entries">
+        <item>"이름"</item>
+        <item>"이름+트윗"</item>
+        <item>"트윗 [기본값]"</item>
+    </string-array>
+    <string name="config_show_dm_notification">"메시지 알림 표시"</string>
+    <string name="config_notification_ringtone">"벨소리"</string>
+    <string name="config_notification_ringtone_silent">"무음"</string>
+    <string name="config_notification_vibration">"진동"</string>
+    <string name="config_notification_led">"LED"</string>
+    <string name="config_notification_led_color">LED Color</string>
+    <string name="config_show_notification_button">"응답 버튼을 표시"</string>
+    <string name="config_exclude_battery_optimizations">Exclude from battery optimizations</string>
+    <string name="config_exclude_battery_optimizations_summary">If you do not receive periodic notifications, please exclude this app from battery optimization.</string>
+    <string name="config_exclude_battery_optimizations_exclude">Exclude</string>
+    <string name="config_auto_updates">자동 업데이트</string>
+    <string name="set_auto_updates">자동 업데이트 설정</string>
+    <string name="unset_auto_updates">자동 업데이트 설정 해제</string>
+    <string name="auto_updates_is_disabled_when_notification_is_disabled">정기적인 알림이 꺼지므로 자동 업데이트가 이루어지지 않습니다.</string>
+    <string name="auto_update_every_n_minutes">%1$d분마다 자동 업데이트</string>
+
+    <string name="config_color_label">"색상 레이블 설정"</string>
+    
+    <string name="config_search_category">"검색 설정"</string>
+	<string name="config_search_lang">"검색 언어"</string>
+	<string-array name="config_search_lang_entries">
+	    <item>"전체"</item><item>"영어"</item><item>"일본어"</item><item>"한국어"</item>
+	    <item>"암하라어"</item><item>"아라비아어"</item><item>"불가리아어"</item><item>"뱅골어"</item>
+		<item>"티벳어"</item><item>"체로키어"</item><item>"덴마크어"</item><item>"독일어"</item><item>"디베히어"</item>
+		<item>"그리스어"</item><item>"스페인어"</item><item>"페르시아어"</item><item>"핀란드어"</item>
+		<item>"프랑스어"</item><item>"구자라트어"</item><item>"히브리어"</item><item>"힌디어"</item><item>"헝가리어"</item>
+		<item>"아르메니아어"</item><item>"인도네시아어"</item><item>"아이슬란드어"</item><item>"이탈리아어"</item><item>"이누이트어"</item>
+		<item>"그루지야어"</item><item>"크메르어"</item><item>"칸나다어"</item>
+		<item>"라오어 언어"</item><item>"리투아니아어"</item><item>"말라얄람어"</item><item>"미얀마"</item><item>"네팔어"</item>
+		<item>"네덜란드어"</item><item>"노르웨이어"</item><item>"오리야어"</item><item>"펀자브어"</item><item>"폴란드어"</item>
+		<item>"포르투갈어"</item><item>"러시아어"</item><item>"싱 할라 어"</item><item>"스웨덴어"</item><item>"타밀어"</item>
+		<item>"텔루구어"</item><item>"태국어"</item><item>"타갈로그어"</item><item>"터키어"</item><item>"우르두어"</item>
+		<item>"베트남어"</item><item>"중국어(간체)"</item>
+	</string-array>
+	<string name="config_exclude_rt">"RT 제외"</string>
+	<string name="config_exclude_rt_summary">"검색결과에서 리트윗 제외"</string>
+	<string name="config_show_soft_keyboard_activated_plain_search_tab">"키보드 표시"</string>
+	<string name="config_show_soft_keyboard_activated_plain_search_tab_summary">"키워드를 입력하지 않은 검색탭을 활성화할 때 소프트 키보드 표시"</string>
+	<string name="config_show_follow_count_on_search_result">"팔로우 수 표시"</string>
+	<string name="config_show_follow_count_on_search_result_summary">"검색결과에 팔로우와 팔로우 수 표시"</string>
+    <string name="config_open_new_activity_for_trend_search">"새로운 트렌드 검색 열기"</string>
+    <string name="config_open_new_activity_for_trend_search_summary">"트렌드로부터 검색을 표시할 때 새로운 창(활동)을 열기 [기본값 : ON]"</string>
+
+    <string name="config_image_viewer_settings_category">이미지 뷰어 설정</string>
+    <string name="config_image_viewer_back_on_tap_title">"'뒤로'를 탭하여"</string>
+    <string name="config_image_viewer_back_on_tap_summary"></string>
+    <string name="config_image_viewer_vertical_swipe_to_close_title">닫으려면 스 와이프</string>
+    <string name="config_image_viewer_vertical_swipe_to_close_summary"></string>
+    <string name="config_image_save_directory">이미지 저장 디렉토리</string>
+    <string name="config_reset_image_save_directory">Reset Image Save Directory</string>
+    <string name="config_reset_image_save_directory_confirm">Reset OK?</string>
+
+    <string name="config_movie_player_settings_category">동영상 뷰어 설정</string>
+    <string name="config_movie_player_repeating">반복</string>
+    <string name="config_movie_player_initial_mute">Mute</string>
+    <string name="config_movie_player_initial_mute_summary"></string>
+    <string name="movie_player_show_property">재산</string>
+
+    <string name="config_backup_settings_category">백업 및 복원</string>
+
+    <string name="config_advanced_settings_category">"고급 설정"</string>
+    <string name="config_back_to_timeline_title">"백 키 ex."</string>
+	<string name="config_back_to_timeline_summary">"타임라인으로 돌아가기"</string>
+	<string name="config_enable_pinch_zoom">"핀치 줌 인/아웃 활성화 "</string>
+	<string name="config_enable_pinch_zoom_summary">""</string>
+    <string name="config_use_favorite">Use "Favorite"</string>
+    <string name="config_use_favorite_summary">Use "Favorite" instead of "Like"[default:OFF]</string>
+	<string name="config_tab_reload_suppression_interval_title">탭 업데이트 억제 간격</string>
+    <string name="config_tab_reload_suppression_interval_summary">""</string>
+	<string name="config_change_font">"글꼴 변경"</string>
+    <string name="config_change_font_summary"></string>
+	<string name="config_select_font_file">"글꼴 파일을 선택"</string>
+    <string name="config_use_material_design_dialog">새로운 대화 형식</string>
+    <string name="config_locale">언어 (Language)</string>
+    <string-array name="config_locale_names">
+        <item>Auto</item>
+        <item>English (United States)</item>
+        <item>Japanese</item>
+        <item>Korean</item>
+        <item>Spanish</item>
+        <item>Chinese (Simplified)</item>
+        <item>Chinese (Traditional)</item>
+    </string-array>
+
+	<string name="config_save_record_count_for_timeline">"트윗 저장 개수 (TL)"</string>
+	<string name="config_save_record_count_for_timeline_summary">"타임라인 탭을 위한 트윗 저장 수 [기본 : 500]"</string>
+	<string name="config_save_record_count_without_timeline">"트윗 저장 개수 (기타)"</string>
+	<string name="config_save_record_count_without_timeline_summary">"타임라인 탭이 없는 트윗 저장 개수 [기본 : 300]"</string>
+    <string name="config_use_gps_to_get_trend_location">GPS (동향)</string>
+    <string name="config_screen_orientation">화면 방향</string>
+    <string-array name="config_screen_orientation_entries">
+        <item>자동적 인</item>
+        <item>Portrait</item>
+        <item>Landscape</item>
+    </string-array>
+
+	<string name="config_clear_cache">"캐시 지우기"</string>
+    <string name="config_clear_cache_summary"></string>
+    <string name="config_reset_tab_data">지우기 탭 데이터</string>
+    <string name="config_reset_tab_data_confirm_message">모든 탭의 데이터를 제거 하시겠습니까?</string>
+    <string name="config_use_raw_data_store_realm">Tab data store type</string>
+    <string name="config_use_raw_data_store_realm_summary">Use Realm (Better Performance) or SQLite (Stable), Current:%1$s</string>
+    <string name="config_prefs_export">"설정 내보내기"</string>
+    <string name="config_prefs_export_summary">현재 설정 저장</string>
+    <string name="config_prefs_import">"설정 가져오기"</string>
+    <string name="config_prefs_import_summary">설정을 복원</string>
+    <string name="config_prefs_import_confirm_message">"정말로 내보내어진 설정파일로부터 모든 설정을 불러오시겠습니까? (경고!! 모든 계정 설정이 제거됩니다!!)"</string>
+    <string name="config_prefs_clear">설정 지우기</string>
+    <string name="config_prefs_clear_confirm_message">모든 설정을 삭제 하시겠습니까? (경고! 모든 계정 설정이 제거됩니다!)</string>
+    <string name="config_prefer_protocol">"HTTP/2.0 지원"</string>
+    <string name="config_prefer_protocol_summary">"프로토콜 선택"</string>
+    <string name="config_prefer_ipv4_address">Prefer IPv4</string>
+    <string name="config_prefer_ipv4_address_summary">Fix twitter image problem on Wi-Fi (for Japanese xx Hikari network)</string>
+    <string name="config_disable_hardware_rendering">안 하드웨어 렌더링</string>
+    <string name="config_disable_hardware_rendering_summary"></string>
+    <string name="config_disable_image_hardware_rendering">안 하드웨어 렌더링(Image)</string>
+    <string name="config_disable_image_hardware_rendering_summary"></string>
+
+    <string name="config_adfree_category">"AdFree"</string>
+    <string name="config_premium_title">프리미엄 에디션</string>
+    <string name="config_premium_summary">당신은 프리미엄 에디션 광고를 제거 할 수 있습니다</string>
+    <string name="config_adfree_pack_title">"AdFree 팩"</string>
+    <string name="config_adfree_pack_summary">"광고를 제거하기 위해 구글 플레이 스토어에 AdFree팩을 가입하십시오"</string>
+    <string name="config_adfree_pack_already_bought">"이미 구입하였습니다, 감사합니다!"</string>
+    <string name="config_adfree_pr_title">"AdFree 트윗"</string>
+	<string name="config_adfree_pr_summary">"TwitPane의 PR을 트윗함으로써 광고를 제거할 수 있습니다"</string>
+    <string name="config_adfree_video_title">동영상으로 광고를 제거</string>
+    <string name="config_adfree_video_confirm_message">당신은 비디오를보고 광고를 제거 할 수 있습니다</string>
+    <string name="config_adfree_video_start">놀이</string>
+    <string name="config_adfree_video_noads">죄송합니다, 동영상을 재생할 수 ... 몇 분 후 다시 시도하십시오.</string>
+
+	<string name="config_menu_icon_color">"메뉴 아이콘 색상"</string>
+	<string name="config_menu_icon_color_twact">"트위터 액션"</string>
+    <string name="config_menu_icon_color_twact_delete">트위터 액션(삭제)</string>
+	<string name="config_menu_icon_color_streaming">"스트리밍"</string>
+	<string name="config_menu_icon_color_view">"보기"</string>
+	<string name="config_menu_icon_color_share">"공유"</string>
+	<string name="config_menu_icon_color_config">"설정"</string>
+					
+	<string name="config_twicca_plugin">"twicca 플러그인 설정"</string>
+    <string name="twicca_plugin_not_found">"twicca 플러그인을 찾을 수 없습니다"</string>
+
+    <string name="config_debug_settings_category">Debug Config</string>
+    <string name="config_debug_ads">"디버그 광고 설정"</string>
+    <string name="config_debug_ads_auto">"자동 선택"</string>
+
+    <!-- Tap Menu Config -->
+    <string name="config_tap_menu_title">탭 메뉴 버튼 구성</string>
+    <string name="config_tap_menu_change_function">변경 기능</string>
+    <string name="config_tap_menu_move_to_left">왼쪽으로 이동</string>
+    <string name="config_tap_menu_move_to_right">오른쪽으로 이동</string>
+    <string name="config_tap_menu_remove">버튼 삭제</string>
+    <string name="config_tap_menu_add">버튼 추가</string>
+
+    <!-- ================================================================================ -->
+    <!-- Theme Config -->
+    <!-- ================================================================================ -->
+    <string name="theme">"테마"</string>
+    <string name="dark_theme">어둠의 테마</string>
+    <string name="theme_change_bg">"배경 "</string>
+    <string name="theme_bg_reply_for_me">배경(나를 위한 응답)</string>
+    <string name="theme_bg_rt">배경(RT)</string>
+    <string name="theme_gradation">"BG의 그라데이션"</string>
+    <string name="theme_title">"제목"</string>
+    <string name="theme_date_rt">"날짜, RT"</string>
+    <string name="theme_body">"본문"</string>
+    <string name="theme_body_reply_for_me">"본문 (나를 위한 응답)"</string>
+    <string name="theme_body_my_tweet">"본문 (내 트윗)"</string>
+    <string name="theme_body_read">"본문 (읽기)"</string>
+    <string name="theme_name_url_hashtag">"\@ 이름, URL, 해시태그"</string>
+    <string name="theme_tab">"탭"</string>
+    <string name="theme_actionbar">제목 표시 줄</string>
+    <string name="theme_statusbar">상태 표시 줄(Android 5+)</string>
+    <string name="theme_preview">"미리보기"</string>
+    <string name="theme_timeline">"타임라인"</string>
+    <string name="theme_default">"기본값"</string>
+    <string name="dark_theme_same_as_light_theme">빛 테마와 동일</string>
+    <string name="dark_theme_info">안드로이드 10 이상 장치에서 실행되는 설정 어두운 테마.</string>
+
+    
+    <!-- ================================================================================ -->
+    <!-- 画像ビューア -->
+    <!-- ================================================================================ -->
+    <string name="image_viewer_save_image">"저장"</string>
+    <string name="image_viewer_back_button">"뒤로"</string>
+    <string name="browser_save_image_saved">"저장됨 ( %1$s )"</string>
+    <string name="browser_save_image_cannot_save">"이미지를 저장할 수 없습니다"</string>
+    
+    <!-- ================================================================================ -->
+    <!-- Profile Fragment -->
+    <!-- ================================================================================ -->
+    <string name="profile_tweets">"트윗"</string>
+    <string name="profile_follows">"팔로우"</string>
+    <string name="profile_followers">"팔로워"</string>
+
+    <!-- Place画面の位置情報設定確認画面 -->
+    <string name="place_activity_location_setting_dialog_title">"위치 서비스"</string>
+    <string name="place_activity_location_setting_dialog_message">"정말로 위치 서비스 설정을 여시겠습니까?"</string>
+    <string name="place_activity_location_setting_dialog_yes">"예"</string>
+    <string name="place_activity_location_setting_dialog_cancel">"취소"</string>
+    
+    <string name="place_activity_location_not_found">"현재 위치를 가져올 수 없습니다 ..."</string>
+    <string name="place_activity_location_use_last_location">"최근 위치를 사용."</string>
+
+    <string name="plus1_message">귀하의 지원을 주셔서 감사합니다!</string>
+    <string name="title_activity_plus1">Google+에 지원하십시오</string>
+
+    <!-- ================================================================================ -->
+    <!-- Instagram 関連 -->
+    <!-- ================================================================================ -->
+<!--    <string name="login_to_instagram_to_view">Login to Instagram to view</string>-->
+<!--    <string name="config_instagram_settings_category">Instagram Settings</string>-->
+<!--    <string name="clear_instagram_login_info">Clear Instagram login info</string>-->
+<!--    <string name="cannot_show_image_cause_this_account_is_private">Cannot show the image because this account is private on instagram</string>-->
+<!--    <string name="cannot_show_image_cause_your_account_is_locked">Cannot show the image because your account has been locked temporarily</string>-->
+
+    <!-- ================================================================================ -->
+    <!-- パーミッション -->
+    <!-- ================================================================================ -->
+    <string name="no_permission">no permission</string>
+    <string name="request_to_grant_location_permission_on_settings">Require LOCATION permission to run this function.\n\nPlease grant permission of location.</string>
+    <string name="require_location_permission_to_for_trend">Require permission to get location of Trend.</string>
+    <string name="request_to_grant_storage_permission_on_settings">Require STORAGE permission to run this function.\n\nPlease grant permission of storage.</string>
+    <string name="require_storage_permission">Require storage permission</string>
+
+    <!-- ================================================================================ -->
+    <!-- アカウント再認証、自動インポート関連 -->
+    <!-- ================================================================================ -->
+    <string name="migration_from_free_edition_title">무료 버전에서 마이그레이션</string>
+    <string name="migration_from_free_edition_message">%1$s 를 다운로드 해 주셔서 감사합니다! \n당신이 무료 버전에서 설정을 가져 하시겠습니까?</string>
+    <string name="free_edition_update_confirm_title">무료 버전의 업데이트</string>
+    <string name="free_edition_update_confirm_message">무료 버전의 버전이 낮기 때문에 당신은 마이그레이션 할 수 없습니다.\n당신은 최신 버전으로 업데이트 하시겠습니까?</string>
+    <string name="config_import_done_message">설정 가져 오기가 완료되었습니다</string>
+    <string name="account_reauth_title">계정의 재 인증</string>
+    <string name="account_reauth_message">당신은 트위터 응용 프로그램에 대한 재 인증해야합니다. \n
+\n
+다음 화면에서 다시 인증하시기 바랍니다. \n
+\n
+다음 화면 (브라우저)에 표시되는 계정이 다른 경우, 로그 아웃하고 다시 로그인하시기 바랍니다.</string>
+    <string name="add_account_without_login_message">Add account without login(use current account on the browser), ok?</string>
+    <string name="require_authorization_for_bookmark">북마크를 보려면 추가 승인이 필요합니다.</string>
+    <string name="authorize">승인하다</string>
+    <string name="failed_to_authorize_to_twitter_and_confirm_to_reauthorize">트위터 인증에 실패했습니다.\n참고: 북마크 인증 중이라면 다른 기기로 로그인 후 인증이 안될 수 있습니다. \n\n다음 화면에서 재인증을 해주세요.</string>
+    <string name="authorized_account_not_match_to_current_account">인증된 계정이 현재 계정과 일치하지 않습니다.\n\n
+- 인증된 계정: @%1$s\n
+- 기존 계정: @%2$s\n
+\n
+다음 화면에서 재인증하세요.</string>
+
+    <!-- Emoji Picker -->
+    <string name="emojipicker_guide_dialog_title">이모티콘 입력 응용 프로그램</string>
+    <string name="emojipicker_guide_dialog_message">당신이 %1$s 스토어에서 TwitPane에 대한 EmojiPicker4T를 다운로드 하시겠습니까?</string>
+    <string name="emojipicker_guide_dialog_download">다운로드</string>
+
+    <!-- Google Translate -->
+    <string name="translate_app_guide_dialog_title">구글은 설치되지 않은 번역</string>
+    <string name="translate_app_guide_dialog_message">당신은 구글이 앱을 번역해야합니다. %1$s 에서 다운로드?</string>
+    <string name="daily_inline_translation_limit_is_exceeded">오늘의 인라인 번역 실행 횟수를 초과 했으므로 Google Translate 앱으로 번역합니다.</string>
+    <string name="detail">세부</string>
+    <string name="download_translation_ml_data_confirm_message">언어를 번역하려면 기계 학습 데이터(약 30MB)가 필요합니다. 다운로드하시겠습니까?</string>
+    <string name="inline_translation">About Inline-Translation</string>
+<!--    <string name="inline_translation_limit_details">수행 할 수있는 인라인 변환 수에는 제한이 있습니다. free=%1$d, paid=%2$d</string>-->
+
+    <string name="login_with_browser">브라우저에서 로그인</string>
+    <string name="login_failed_and_login_with_browser_confirm">로그인 실패. 당신은 브라우저를 통해 로그인 하시겠습니까?</string>
+    <string name="trade_mark_info">Twitter is trademark of Twitter, Inc.</string>
+    <string name="privacy_policy_agreement">Please sign in after agreeing to &lt;a href="https://twitpane.com/terms_of_use_en/"&gt;Terms of Use&lt;/a&gt;, &lt;a href="https://twitpane.com/privacy_policy_en/"&gt;Privacy Policy&lt;/a&gt;.</string>
+
+    <string name="trend_tweet_count">"%1$s tweets"</string>
+    <string name="dm_not_allowed_and_re_authorize_confirm_message">The permission to access direct message was lost from Twitter. Are you sure you want to re-authorize?</string>
+    <string name="could_not_authenticate_you_re_authorize_confirm_message">트위터에 액세스 할 수있는 권한이 끊어졌습니다. 당신은 다시 권한을 부여 하시겠습니까?</string>
+    <string name="select_copy_content" tools:ignore="TypographyEllipsis">고르다...</string>
+    <string name="some_settings_applied_after_restarted">일부 설정은 응용 프로그램을 다시 시작한 후에 적용됩니다.</string>
+
+    <!-- イベントログ -->
+    <string name="event_log_message_tweet_compose_success">트윗이 게시되었습니다.</string>
+    <string name="event_log_message_tweet_compose_failed">트윗을 게시하지 못했습니다.</string>
+    <string name="event_log_message_new_reply">새로운 답변을 받았습니다.</string>
+    <string name="event_log_message_no_new_reply">새로운 답변이 없습니다.</string>
+    <string name="event_log_message_new_message">새 메시지를 받았습니다.</string>
+    <string name="event_log_message_no_new_message">새 메시지가 없습니다.</string>
+    <string name="event_log_message_new_tweets">새로운 트윗이 검색되었습니다.</string>
+    <string name="new_tweets">새로운 트윗</string>
+    <string name="event_log_message_no_new_tweets">새로운 트윗이 없습니다.</string>
+    <string name="event_log_message_new_tweets_failed">트윗을 가져오지 못했습니다.</string>
+
+</resources>

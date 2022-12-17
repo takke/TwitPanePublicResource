@@ -1,0 +1,1270 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="title_activity_config">TwitPane Settings</string>
+    <string name="title_activity_page_config">Page Config</string>
+    <string name="title_activity_theme_config">Theme Config</string>
+    <string name="title_activity_about">About TwitPane</string>
+    <string name="title_activity_location">Location</string>
+    <string name="title_activity_write_view_for_message">Message</string>
+    <string name="title_activity_create_shortcut_for_tweet">Tweet</string>
+    <string name="title_activity_profile_edit">Profile Edit</string>
+    <string name="title_activity_list_edit">List Edit</string>
+    <string name="title_activity_list_create">New List</string>
+    <string name="title_activity_browser">Browser</string>
+    <string name="title_activity_movie_player"></string>
+    <string name="title_activity_tweet_select">Tweet select</string>
+    <string name="title_activity_toolbar_config">Toolbar Config</string>
+    <string name="title_activity_gallery_image_picker">Gallery</string>
+    <string name="title_activity_subscription_guide">Upgrade to Subscription</string>
+
+    <string name="pane_name_trend">Trend</string>
+    <string name="pane_name_search">Search</string>
+    <string name="pane_name_profile">Profile</string>
+    <string name="pane_name_timeline">Timeline</string>
+    <string name="pane_name_reply">Reply</string>
+    <string name="pane_name_mytweet">MyTweets</string>
+    <string name="pane_name_media">Media</string>
+    <string name="pane_name_favorite_like">Likes</string>
+    <string name="liked_order">liked order</string>
+    <string name="pane_name_favorite_favorite">Favorite</string>
+    <string name="pane_name_quoted_tweets">Quoted Tweets</string>
+    <string name="pane_name_rt_of_me">RT of me</string>
+    <string name="pane_name_bookmark">Bookmarks</string>
+    <string name="pane_name_conversation">Conversation</string>
+    <string name="pane_name_tweet">Tweets</string>
+    <string name="pane_name_rt_users">RT users</string>
+    <string name="pane_name_thread_list">DM</string>
+    <string name="pane_name_dm">DM</string>
+    <string name="pane_name_sent_dm">Sent DM</string>
+    <string name="pane_name_lists">Lists</string>
+    <string name="pane_name_lists_memberships">Lists Memberships</string>
+    <string name="pane_name_list_member">List member</string>
+    <string name="pane_name_list_subscribers">List Subscribers</string>
+    <string name="pane_name_follow">%1$s follows</string>
+    <string name="pane_name_follower">%1$s\'s followers</string>
+    <string name="pane_name_blocks">Blocked users</string>
+    <string name="pane_name_search_user">Search User</string>
+    
+    <string name="showcase_start_title">Welcome to TwitPane!</string>
+    <string name="showcase_start_summary">A little bit, how to use it.\n\nFirst, a list of tweets will appear in the middle, of course you can scroll up and down!</string>
+    <string name="showcase_center1_title">You can move the tabs to slide from side to side!</string>
+    <string name="showcase_center1_summary">It is convenient to use by switching the various tabs!</string>
+    <string name="showcase_tweet_title">New tweet from this button at the bottom left.</string>
+    <string name="showcase_tweet_summary">\nYou can save drafts</string>
+    <string name="showcase_menu_title">Menu from this button at the bottom right.</string>
+    <string name="showcase_menu_summary">\nConfig dialog from here</string>
+    <string name="showcase_sidebar_title">Tab list appears when you slide to the right edge of the screen!</string>
+    <string name="showcase_sidebar_summary">\n\nSo, please take advantage of the TwitPane!</string>
+
+    <string name="page_config_showcase_swipe_title">Slide vertically to rearrange the tabs</string>
+    <string name="page_config_showcase_swipe_summary"></string>
+
+    <string name="search_button">Search</string>
+    <string name="saved_search">Saved search</string>
+    <string name="search_save_button">Save this search</string>
+    <string name="search_delete_button">Delete this search</string>
+    <string name="search_config_button">Config</string>
+    <string name="saved_search_capacity_over_message">An error occurred while saving the search keyword. Please check there is a possibility that the number of count has reached the upper limit.</string>
+    <string name="over_saved_search_capacity_message">The maximum number of saved searches has been reached. Please delete other search items before saving.</string>
+    <string name="created_saved_search_message">Saved. You can see the saved keywords from search button from toolbar.</string>
+    <string name="deleted_saved_search_message">Deleted</string>
+    <string name="add_search_page_confirm_message">Are you sure you want to make tab of this keyword?</string>
+    <string name="add_search_page_finish">Added</string>
+    
+    <string name="reload_button">Reload</string>
+    
+    <string name="load_another_locations">other areas</string>
+    
+    <string name="color_edit_button">Edit</string>
+    <string name="restore_default_confirm">Restore default?</string>
+    <string name="import_confirm_message">Are you sure you want to import this design?(restart TwitPane after imported)</string>
+    
+    <!-- ================================================================================ -->
+    <!-- Others -->
+    <!-- ================================================================================ -->
+    <string name="view_date_hour_ago">%1$d hour ago</string>
+    <string name="view_date_hours_ago">%1$d hours ago</string>
+    <string name="view_date_minute_ago">%1$d minute ago</string>
+    <string name="view_date_minutes_ago">%1$d minutes ago</string>
+    <string name="pager_more">Read More Tweets</string>
+    
+    <string name="account_add">Add account</string>
+    <string name="account_delete">Delete account</string>
+    <string name="account_delete_confirm">Are you sure you want to delete this account?</string>
+    <string name="cannot_delete_current_account">Cannot delete current account.</string>
+    <string name="account_reauth">Re-authentication</string>
+    <string name="changing_account_to">Change to \@%1$s</string>
+    <string name="cannot_auth_account_via_official_twitter_app">An error occurred during the login process via the official Twitter application. \n\n(%1$s)\n\nLog in via browser.</string>
+
+    <string name="profile_edit_button">edit profile</string>
+    <string name="profile_edit_banner_image_button">Select Banner</string>
+    <string name="banner_menu">Banner menu</string>
+    <string name="banner_change">Change</string>
+    <string name="banner_remove">Remove</string>
+    <string name="send_dm_button">new message</string>
+    <string name="send_mention_button">new mention</string>
+    
+    <string name="retweet_confirm_message">Retweet this tweet?</string>
+    <string name="retweeted_message">Retweeted</string>
+    <string name="remove_retweet_confirm_message">Remove retweet?</string>
+    <string name="remove_retweeted_message">Removed</string>
+    <string name="favorite_confirm_message_favorite">Favorite this tweet?</string>
+    <string name="created_favorite_message_favorite">Favorited</string>
+    <string name="remove_favorite_confirm_message_favorite">Remove favorite?</string>
+    <string name="remove_favorite_confirm_message_like">Undone like?</string>
+    <string name="destroyed_favorite_message_favorite">Unfavorited</string>
+    <string name="favorite_confirm_message_like">Like this tweet?</string>
+    <string name="created_favorite_message_like">Liked</string>
+    <string name="destroyed_favorite_message_like">Undone liked</string>
+    <string name="cannot_favorite_duplicate_status_favorite">It may already favorited.</string>
+    <string name="cannot_favorite_duplicate_status_like">It may already liked.</string>
+    <string name="bookmarked_message">Bookmarked</string>
+    <string name="unbookmarked_message">Bookmark removed</string>
+    <string name="delete_confirm_message">Delete this tweet?</string>
+    <string name="delete_dm_confirm_message">Delete this message?</string>
+    <string name="deleted_message">Deleted</string>
+    <string name="already_deleted_message">Already deleted</string>
+    <string name="mute_user_confirm_message">Mute this user?</string>
+    <string name="cancel_mute_user_confirm_message">Cancel the mute of user?</string>
+    <string name="mute_app_confirm_message">Mute this app?</string>
+    <string name="cannot_mute_official_app">Cannot mute official twitter app</string>
+    <string name="mute_hashtag_confirm_message">Mute this hashtag?</string>
+    <string name="delete_list_confirm_message">Delete this list?</string>
+    <string name="deleted_list">Deleted</string>
+    <string name="unscribe_list_confirm_message">Unsubscribe this list?</string>
+    <string name="unscribed_list">Unsubscribed</string>
+    <string name="subscribe_list_confirm_message">Subscribe this list?</string>
+    <string name="subscribed_list">Subscribed</string>
+    <string name="destroy_from_list_confirm_message">Remove this member ok?</string>
+    <string name="list_member_destroyed">Removed</string>
+    <string name="add_list_tab">Add List Tab</string>
+    <string name="remove_tab_confirm">"Are you sure you want to remove %1$s from home?"</string>
+    <string name="add_search_tab">Add Search Tab</string>
+    <string name="common_clear">Clear</string>
+    <string name="common_failed_message">Failed..., please try again after a few minutes.</string>
+    <string name="common_delete">Delete</string>
+    <string name="already_task_running">Running, please try again after a few minutes.</string>
+    <string name="cannot_view_private_account_timeline">Cannot view the timeline of private account...</string>
+    <string name="cannot_view_private_account_tweet">Cannot view the tweet of private account...</string>
+    <string name="cannot_retweet_duplicate_status">It may already retweeted.</string>
+    <string name="cannot_retweet_blocked_user">You have been blocked from retweeting this user\'s tweets at their request.</string>
+
+    <string name="image_size_errror">Image Size Error</string>
+    <string name="too_large_image_size_to_attach">Too large image size</string>
+    
+    <string name="block_user_confirm_message">Are you sure you want to block?</string>
+    <string name="block_tweet_confirm_message">Are you sure you want to block?</string>
+    <string name="blocked_message">Blocked</string>
+    <string name="report_spam_confirm_message">Are you sure you want to report spam this user?</string>
+    <string name="user_reported_message">Reported</string>
+    <string name="destroy_block_user_confirm_message">Are you sure you want to destroy blocking?</string>
+    <string name="destroy_block_message">Unblocked</string>
+    
+    <string name="following">Following</string>
+    <string name="follow">Follow</string>
+    <string name="you_are_followed">[Follows you]</string>
+    <string name="follow_confirm_title">Follow</string>
+    <string name="follow_confirm_message">Follow \@%1$s ?</string>
+    <string name="follow_or_unfollow">Follow / Unfollow</string>
+    <string name="unfollow_confirm_title">Unfollow</string>
+    <string name="unfollow_confirm_message">Unfollow \@%1$s ?</string>
+    <string name="follow_done">Follow done</string>
+    <string name="unfollow_done">Unfollow done</string>
+    <string name="cannot_send_dm">You cannot dm, cause not followed from the user</string>
+    
+    <string name="show_retweet">Turn on Retweets</string>
+    <string name="hide_retweet">Turn off Retweets</string>
+    <string name="hide_retweet_done">Retweets from \@%1$s will no longer appear in your timeline</string>
+    <string name="show_retweet_done">Retweets from \@%1$s will appear in your timeline</string>
+    <string name="turn_on_retweet_confirm_title">Turn on Retweets</string>
+    <string name="turn_on_retweet_confirm_message">Turn on Retweets from %1$s ?</string>
+    <string name="turn_off_retweet_confirm_title">Turn off Retweets</string>
+    <string name="turn_off_retweet_confirm_message">Turn off Retweets from %1$s ?</string>
+    
+    <string name="twitter_error_network_issue">Failed. It may cannot communicate with twitter server. Please try again after a few minutes.</string>
+    <string name="twitter_error_resource_not_found">Failed. It may be deleted the resource(tweet or dm or other resource)</string>
+    <string name="twitter_error_api_rate_limitation_with_reset_minutes">Rate limit exceeded(Twitter API Request Limit)\n\nPlease try again after approx %1$dmin.%2$dsec.</string>
+
+    <string name="rate_limit_list_does_not_include_api_v2" translatable="false">This list does not include Twitter API v2 rate limits.</string>
+
+    <string name="account_list">Account List</string>
+    <string name="over_account_count_in_subscription">Over account count limit</string>
+    <string name="over_account_count_not_subscription">Over account count limit: you can get limit to 5 if you subscribed</string>
+    <string name="account_change_confirm">Change account?</string>
+
+    <string name="failed_to_load_image_and_try_again">Failed to load image, try again after a few minutes...</string>
+    
+    <string name="another_menu">Other</string>
+    <string name="another_menu_dots">Other…</string>
+
+    <string name="notification_new_reply_ticker">There\'s some updates</string>
+    <string name="notification_new_reply_text">There\'s some tweets for you</string>
+    
+    <string name="notification_new_dm_ticker">You got a new message</string>
+    <string name="notification_new_dm_text">New direct messages</string>
+    <string name="notification_new_dm_text_with_user">Message from \@%1$s</string>
+    
+    <string name="retweeted_by_user">Retweeted by %1$s</string>
+    <string name="source_from">from %1$s</string>
+    <string name="reply_to">to %1$s</string>
+    <string name="cannot_launch_official_twitter_app">Cannot launch the official Twitter app.\nPlease make sure that installed the latest official Twitter app.</string>
+    
+    <string name="compass_button">Get current location</string>
+
+    <string name="show_tweet_activity">Show tweet activity</string>
+    
+    <!-- リスト作成・編集画面 -->
+    <string name="list_name_text">List name</string>
+    <string name="list_description_text">Description</string>
+    <string name="privacy_text">Privacy</string>
+    <string name="privacy_public">Public</string>
+    <string name="privacy_private">Private</string>
+    <string name="private_save_button">Save</string>
+    <string name="list_created">Saved</string>
+    <string name="list_edited">Saved</string>
+    <string name="list_description_length_error">Please enter description text in 140 characters or less</string>
+    <string name="no_list_name_error">Please input list name</string>
+    
+    <!-- リストメンバー編集 -->
+    <string name="list_member_added">Added list member</string>
+    <string name="select_list_to_add_the_member">Select a list to add the member</string>
+    <string name="remove_from_list_confirm">"@%1$s is already member of %2$s, remove ?"</string>
+    
+    <!-- プロフィール編集画面 -->
+    <string name="profile_edit_screen_name_text_dummy">screen name</string>
+    <string name="profile_edit_name_label">Name</string>
+    <string name="profile_edit_description_text">Description</string>
+    <string name="profile_edit_description_label">Description</string>
+    <string name="profile_edit_location_label">Location</string>
+    <string name="profile_edit_url_label">URL</string>
+    <string name="profile_edit_save_button">Save</string>
+    <string name="profile_edit_saved">Saved</string>
+    <string name="profile_banner_saved">Saved, and affects in a few minutes</string>
+    <string name="profile_banner_removed">Removed, and affects in a few minutes</string>
+    
+    <!-- レビューのお願い画面 -->
+    <string name="review_dialog_title">Please...</string>
+    <string name="review_dialog_message">How about TwitPane?\nCan you support out development on Google Play?</string>
+    <string name="review_dialog_later_button">Later</string>
+    <string name="review_dialog_review_button">OK</string>
+    
+    <!-- お気に入り表示公式アプリ確認関連 -->
+    <string name="need_twitter_app_title">About liked users</string>
+    <string name="need_twitter_app_message">Showing liked users is restricted by twitter, so show the tweet by official app of twitter alternatively. \n\nInstall offical app?</string>
+<!--	<string name="show_favorited_users_by_twitter_app_run_message">Showing liked users is restricted by twitter, so show the tweet by official app of twitter alternatively. \n\nRun offical app?</string>-->
+    
+	<string name="drawer_open">Open</string>
+	<string name="drawer_close">Close</string>
+
+    <string name="search_around_tweets_not_found_message">"Not found in @%1$s's timeline…"</string>
+
+    <!-- 固定ツイート -->
+    <string name="pinned_tweet">Pinned Tweet</string>
+    <string name="config_show_pinned_tweet">Show pinned tweets</string>
+    <string name="config_show_pinned_tweet_summary">[default:ON]</string>
+
+    <!-- サブスクリプション画面 -->
+    <string name="continue_to_trial">Continue to trial</string>
+    <string name="cloud_translation_subscription_title">Subscription</string>
+    <string name="subscription_title">Subscription</string>
+
+
+    <!-- ================================================================================ -->
+    <!-- Menu -->
+    <!-- ================================================================================ -->
+    <string name="menu_tab">Tab</string>
+
+    <string name="menu_list_member">List Member</string>
+    <string name="menu_show_list_member">Show Member</string>
+    <string name="menu_show_list_subscribers">Show Subscribers</string>
+    <string name="menu_create_list">Create List</string>
+    <string name="menu_list_edit">Edit</string>
+    <string name="menu_list_delete">Delete</string>
+    <string name="menu_list_subscribe">Subscribe</string>
+    <string name="menu_list_unscribe">Unscribe</string>
+    <string name="menu_new">New</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_config">Config</string>
+    <string name="menu_event">Event</string>
+    <string name="menu_about">About</string>
+    <string name="menu_debug">Debug</string>
+    <string name="debug_mode_confirm_title">Debug mode confirm</string>
+    <string name="debug_mode_confirm_message">Are you sure you want to enter debug mode?</string>
+    <string name="debug_mode_entered">Entered debug mode</string>
+    <string name="debug_mode_canceled">Debug mode canceled</string>
+    <string name="debug_mode_menu">Debug mode menu</string>
+    <string name="debug_mode_cancel">Cancel debug mode</string>
+    <string name="debug_mode_send_debug_log">Send debug log</string>
+    <string name="debug_mode_send_debug_log_short">Send</string>
+    <string name="debug_mode_send_debug_log_confirm_title">Send debug log</string>
+    <string name="debug_mode_send_debug_log_confirm_message">Sorry for the inconvenience.
+\n
+\nThere is a possibility that you are no longer available due to specification changes of Twitter.
+\n
+\nPlease check for updates in the Google Play Store because there is a possibility that a modified version has been published already.
+\n(Please wait for a while now to the public if it is not published.)
+\n
+\nIn addition, it is possible to cooperate to fix in a future version by sending to the author debug log.
+\nHowever, please note it may contain personal information in the log.
+\nIf you want to send the debug log, select \"Gmail\" on the next screen.</string>
+    <string name="debug_mode_check_update">Check update</string>
+    <string name="show_internal_cache">Show internal cache</string>
+    <string name="show_debug_log">Show debug log</string>
+    <string name="show_debug_notification" translatable="false">Notification test(Reply)</string>
+
+    <string name="menu_show_account_list">Accounts</string>
+    <string name="menu_tab_config">Tab settings</string>
+    <string name="menu_show_tab_list">Tab List</string>
+    <string name="menu_open_tab_list">Open Tab List</string>
+    <string name="menu_close_tab_list">Close Tab List</string>
+    <string name="menu_page_config">Tab Customize</string>
+    <string name="add_tab">Add Tab</string>
+    
+    <string name="menu_ok">OK</string>
+    <string name="menu_cancel">Cancel</string>
+    <string name="menu_restore_default">Default</string>
+    <string name="restore_default_confirm_message">Are you sure to restore default tabs. OK?</string>
+    <string name="menu_add">Add</string>
+    <string name="menu_delete_tab">Delete Tab</string>
+    <string name="tab_delete_confirm">Are you sure you want to delete tab "%1$s" ?</string>
+    <string name="menu_add_user_page_to_home">Add Page to Top</string>
+    <string name="add_user_page_to_home_already_added">already added..</string>
+    <string name="add_user_page_to_home_finish">added</string>
+    <string name="menu_add_user_list_to_home">Add List to Top</string>
+    <string name="add_user_list_to_home_already_added">already added..</string>
+    <string name="add_user_list_to_home_finish">added</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_share_design">Share Design</string>
+    
+    <string name="menu_stop_userstream">Stop UserStream</string>
+    <string name="menu_start_userstream">Start UserStream</string>
+    <string name="menu_enable_auto_scroll">Enable Auto Scroll</string>
+    <string name="menu_disable_auto_scroll">Disable Auto Scroll</string>
+    
+    <string name="menu_add_search_tab_to_home">Add Search Tab</string>
+    <string name="add_search_tab_to_home_already_added">already added..</string>
+    <string name="add_search_tab_to_home_finish">added</string>
+    <string name="menu_open_saved_search">Open Saved Search</string>
+    
+    <string name="menu_show_image_only">Show Image Only</string>
+    <string name="menu_cancel_image_only">Cancel Image Only</string>
+
+    <string name="menu_show_all_rt">"Show All RT"</string>
+    <string name="menu_show_first_rt_only">"Show First RT Only"</string>
+    <string name="menu_search_with_official_app">Search with Twitter App</string>
+
+    <string name="menu_show_user">Show User</string>
+    <string name="menu_search_user">Search User</string>
+    <string name="menu_show_block_users">Show Blocked Users</string>
+    <string name="menu_show_no_retweet_users">Show Non Retweet Users</string>
+
+    <string name="menu_campaign_ad">Ad Campaign</string>
+    <string name="campaign_info">About Campaign</string>
+    <string name="campaign_info_message">Thanks for using this App!\n\nIf you wish to hide ads, you can tweet the ad-tweet of this app. (Approx. %1$d days)</string>
+    <string name="campaign_info_tweet">Input tweet</string>
+    <string name="campaign_input_title">Please input tweet</string>
+    <string name="campaign_input_alert">Input tweet including \'TwitPane\'</string>
+    <string name="campaign_already_ad_hiding">Already hided ads..\nAre you sure to restore ads. OK?</string>
+    <string name="campaign_tweet_done_title">Campaign tweet done</string>
+    <string name="campaign_tweet_done_message">Sent the campaign tweet. so ads will hide about %1$ddays!</string>
+    <string name="campaign_tweet_count_exceeded">The number of times you have performed ad removal by PR Tweet has exceeded the limit. Please consider an ad cancellation pack (subscription) or paid version.</string>
+    
+    
+    <string name="menu_no_tap_ex_action">no tap ex action(default)</string>
+    <string name="reply_button">Reply</string>
+    <string name="menu_reply">Reply</string>
+    <string name="menu_reply_all">Reply All</string>
+    <string name="menu_hidden_button">No Function(Hidden)</string>
+    <string name="menu_rt">Retweet</string>
+    <string name="menu_quote_tweet">Quote Tweet</string>
+    <string name="menu_tweet_with_comment">Tweet with Comment(Twitter Style)</string>
+    <string name="menu_unofficial_retweet">RT \@TwitPane: …</string>
+    <string name="cannot_retweet_protected_user_tweet">Cannot retweet protected user\'s tweet</string>
+    <string name="menu_remove_rt">Remove Retweet</string>
+    <string name="menu_create_favorite_favorite">Favorite</string>
+    <string name="menu_remove_favorite_favorite">Remove Favorite</string>
+    <string name="menu_create_favorite_like">Like</string>
+    <string name="menu_remove_favorite_like">Undo like</string>
+    <string name="menu_add_bookmark">Add to Bookmark</string>
+    <string name="menu_delete_bookmark">Delete from Bookmark</string>
+    <string name="menu_show_conversation">Conversation</string>
+    <string name="menu_search_conversation">Search Conversation</string>
+    <string name="menu_search_around_tweets">Search around tweets</string>
+    <string name="found_new_reply_tweets">Found new tweets(%1$s)</string>
+    <string name="menu_show_rt_users">RT Users</string>
+    <string name="menu_show_quoted_tweets">Quoted tweets</string>
+    <string name="menu_show_favorite_users_favorite">Favorite Users</string>
+    <string name="menu_show_favorite_users_like">Like Users</string>
+    <string name="menu_show_profile">Show Profile</string>
+    <string name="menu_show_timeline">Show Timeline</string>
+    <string name="show_latest_tweet">Show Last Tweet</string>
+    <string name="menu_show_tweet">View</string>
+    <string name="menu_set_color_label_dots">Set Color Label...</string>
+    <string name="menu_set_color_label_short">Set Color Label</string>
+    <string name="menu_set_all_color_label">Set All Color Label</string>
+    <string name="menu_cancel_color_label_short">Cancel Color Label</string>
+    <string name="cancel_all_color_labels_in_list">Cancel all labels of users included in this list(%1$susers), OK?</string>
+    <string name="set_all_color_labels_in_list">Set all labels of users included in this list(%1$susers) to \"%2$s\", OK?
+\n\nNote: keep users\' labels that already set labels</string>
+    <string name="set_color_labels_done">Set all color labels done.(user count:%1$s)</string>
+    <string name="jump_to_other_tab1">Jump to other tab1</string>
+    <string name="jump_to_other_tab2">Jump to other tab2</string>
+    <string name="jump_to_other_tab3">Jump to other tab3</string>
+    <string name="select_jump_destination_tab">Jump destination tab settings</string>
+    <string name="tab_jump_introduction">- Tap this button on the main screen to set the jump destination tab. \n- Press and hold the button to change the jump destination.</string>
+
+    <string name="menu_share_tweet">Share Tweet</string>
+    <string name="menu_remove_tweet">Delete</string>
+    <string name="menu_open_with_official_app">Open Twitter App</string>
+    <string name="menu_import_design">Import Design</string>
+    
+    <string name="menu_user_mute">Mute this user</string>
+    <string name="menu_user_block">Block this user</string>
+    <string name="menu_block_this_tweet">Block this tweet</string>
+    <string name="show_blocked_tweets">Blocked tweets</string>
+    <string name="menu_user_reply_search">Search replies</string>
+    <string name="menu_user_conversation_with_me_search">Search conversation with me</string>
+    <string name="menu_show_image_timeline">Show image timeline</string>
+    <string name="menu_user_show_list">Show lists</string>
+    <string name="menu_user_show_favorite_favorite">Show favorites</string>
+    <string name="menu_user_show_favorite_like">Show likes</string>
+    <string name="menu_user_show_quoted_tweets">Show quoted tweets</string>
+    <string name="menu_user_show_timeline">Show timeline</string>
+    <string name="menu_user_reply_to">Reply to</string>
+    <string name="menu_user_send_message">Send message to</string>
+    
+    <string name="menu_guide">Show Tutorial</string>
+    <string name="menu_add_list">Add to list...</string>
+    
+    <string name="menu_tweet_config">Config</string>
+    <string name="menu_reply_to_other_tweet">Link to other tweet</string>
+    <string name="menu_cancel_reply_to_other_tweet">Cancel link to other tweet</string>
+    <string name="select_tweet_to_link_to">Select tweet to link to</string>
+    <string name="menu_hide_reply_area">Hide Reply Area</string>
+    <string name="menu_show_reply_area">Show Reply Area</string>
+    <string name="menu_hide_attached_image_area">Hide Attached Image Area</string>
+    <string name="menu_show_attached_image_area">Show Attached Image Area</string>
+    <string name="menu_add_app_link">Add TwitPane Link</string>
+    
+    <string name="menu_block">Block</string>
+    <string name="menu_block_dots">Block...</string>
+    <string name="menu_spam">Spam Report</string>
+    <string name="menu_report_as_spam">Report as spam...</string>
+    <string name="report_tweet_as_spam_confirm_message">Do you really want to mark this tweet as spam?</string>
+    <string name="tweet_reported_message">Reported</string>
+    <string name="edited_tweet">Edited history</string>
+    <string name="edited">Edited</string>
+    <string name="there_is_a_new_version_of_this_tweet">There\'s a new version of this Tweet.</string>
+    <string name="latest_tweet">Latest Tweet</string>
+    <string name="version_history">Version history</string>
+    <string name="menu_delete_user_from_list">Delete user from list...</string>
+    <string name="menu_delete_from_block_list">Delete from block list...</string>
+    <string name="menu_scroll_to_top">Scroll to top</string>
+    <string name="menu_scroll_to_bottom">Scroll to bottom</string>
+    <string name="menu_move_up">Move up</string>
+    <string name="menu_move_down">Move down</string>
+    <string name="menu_mute">Mute...</string>
+    <string name="menu_misc_block_mute">Block, Spam...</string>
+    <string name="menu_choose_tweets">Choose Tweets...</string>
+    <string name="message_for">Message for %1$s</string>
+    <string name="message_from">Message from %1$s</string>
+    <string name="loaded_messages">Loaded %1$d messages</string>
+    <string name="menu_delete_message">Delete...</string>
+    <string name="menu_share_message">Share</string>
+    <string name="menu_share_lists">Share</string>
+    <string name="menu_copy">Copy...</string>
+    <string name="menu_translate">Translate</string>
+    <string name="set_startup_pane">Set as Startup Tab</string>
+
+    <string name="show_polls_result">View the progress of this poll.</string>
+    <string name="votes">%1$d votes</string>
+    <string name="polls_until">until %1$s</string>
+    <string name="polls_final_results">Final results</string>
+
+    <string name="change_account">Change Account</string>
+    <string name="choose_account">Choose Account</string>
+    <string name="other_color_with_color_picker">Other(Color Picker)</string>
+    <string name="change_color">Change Color</string>
+    <string name="default_color">Default Color</string>
+    <string name="no_color_label">No color label</string>
+
+    <string name="select_upload_plugin">Select Upload Plugin</string>
+    <string name="upload_with_twitpane">Upload with TwitPane</string>
+
+    <string name="image_menu">Image Menu</string>
+    <string name="video_menu">Video Menu</string>
+    <string name="media_menu_preview">Preview</string>
+    <string name="image_menu_preview">Preview</string>
+    <string name="image_menu_save">Save</string>
+    
+    <string name="hashtag_menu_search">Search</string>
+    <string name="hashtag_menu_tweet">Tweet</string>
+    <string name="hashtag_menu_remember">Remember</string>
+    <string name="hashtag_menu_mute">Mute</string>
+    <string name="hashtag_remembered">Remembered(You can call it in new tweet window)</string>
+    
+    <string name="menu_change_name">Change Tab Name</string>
+    <string name="menu_change_keyword">Change Keyword</string>
+    
+    <!-- ================================================================================ -->
+    <!-- WriteView -->
+    <!-- ================================================================================ -->
+    <string name="write_view_activity_title">Tweet</string>
+    <string name="write_view_body_label">What\'s your mind?</string>
+    <string name="write_view_submit_button">Tweet</string>
+    <string name="write_view_send_button">Send</string>
+    <string name="picture1_select_button">Photo</string>
+    <string name="mush_button_text">Mushroom</string>
+    <string name="minimize">Minimize</string>
+    <string name="maximize">Maximize</string>
+    <string name="hashtag">Hashtag</string>
+    <string name="hashtag_remove_confirm_title">Delete confirm</string>
+    <string name="hashtag_remove_confirm_message">Delete this hashtag?</string>
+    <string name="no_recent_hashtags">No recent hashtags</string>
+    <string name="screen_name_select">Select replying user</string>
+    <string name="reload_screen_name_list_confirm_title">Reload confirm</string>
+    <string name="reload_screen_name_list_confirm_message">Reload list of following users and followers, OK?</string>
+    <string name="call_twicca_plugin">Plugin</string>
+    <string name="write_view_finish_confirm_title">Confirm</string>
+    <string name="write_view_finish_confirm_message">Are you sure you want to close?</string>
+    <string name="write_view_finish_save_confirm_message">Save to drafts?</string>
+    <string name="write_view_finish_save">Save</string>
+    <string name="write_view_finish_save_discard">Discard</string>
+    <string name="write_view_finish_save_cancel">Cancel</string>
+    <string name="no_drafts">No drafts</string>
+    <string name="select_items_to_delete">Select the item you wish to delete</string>
+    <string name="drafts">Drafts</string>
+    <string name="drafts_and_tweet_history">Drafts and tweet history</string>
+    <string name="drafts_only">Drafts only</string>
+    <string name="tweet_history_only">Tweet history only</string>
+    <string name="filter">Filter</string>
+    <string name="draft_remove_confirm_title">Delete confirm</string>
+    <string name="draft_remove_confirm_message">Delete this draft?</string>
+    <string name="draft_remove">Delete</string>
+    <string name="delete_hashtag_confirm">Are you sure you want to remove the following hashtag?</string>
+    <string name="write_view_picture_preview">Preview</string>
+    <string name="write_view_picture_edit">Edit</string>
+    <string name="write_view_movie_cut_edit">Cut Edit</string>
+    <string name="write_view_movie_install_lvc">Please install Lossless Video Cutter on Store</string>
+    <string name="write_view_picture_cancel">Cancel</string>
+    <string name="write_view_picture_select">Select Photo(Gallery)</string>
+    <string name="write_view_movie_select">Select Movie</string>
+    <string name="write_view_picture_multi_select">Select Multiple Photos</string>
+    <string name="write_view_picture_multi_select_alt">Select Photo(In-app Gallery)</string>
+    <string name="write_view_picture_shot">Take a Photo</string>
+    <string name="write_view_movie_shot">Take a Video</string>
+    <string name="write_view_cannot_attach_anymore">Can not attach any more</string>
+    <string name="write_view_input_body">Please input body text</string>
+    <string name="write_view_body_length_error">Please enter in %1$d characters or less text</string>
+    <string name="write_view_twitlonger_confirm">Over 140 characters. Do you want to post via TwitLonger?</string>
+    <string name="write_view_twitter_dm_command_notice">"It's DM command. OK?"</string>
+    <string name="write_view_tweet_confirm">Send new tweet. ok?</string>
+    <string name="write_view_sent_tweet">Posted</string>
+    <string name="write_view_failed_to_send_tweet">Failed to send tweet…</string>
+    <string name="write_view_restricted_who_can_reply_to_this_tweet">{errorMessage}</string>
+    <string name="write_view_duplicate_content" translatable="false">Tweet is duplicated.\n({errorMessage})</string>
+    <string name="write_view_convert_to_quote_tweet_config">Do you want to convert it into a quoted tweet ?</string>
+    <string name="write_view_dm_confirm">Send DM to \@%1$s, OK?</string>
+    <string name="write_view_sent_dm">Sent</string>
+    <string name="write_view_chars">chars</string>
+    <string name="write_view_cannot_get_photo_error">Cannot get photo. Please choose it again.</string>
+    <string name="write_view_photo_size_error_title">Photo size error</string>
+    <string name="write_view_photo_size_error_message">Too big to attach to</string>
+    <string name="write_view_no_mushroom_app">No mushroom app.
+\n\nPlease download mushroom app from Google Play Store.</string>
+    <string name="write_view_move_to_left">Move to Left</string>
+    <string name="write_view_move_to_right">Move to Right</string>
+
+    <!-- ================================================================================ -->
+    <!-- 内蔵ブラウザ -->
+    <!-- ================================================================================ -->
+    
+    <!-- ツールバーボタン -->
+    <string name="browser_top_button">Home</string>
+    <string name="browser_back_button">Back</string>
+    <string name="browser_menu_button">Menu</string>
+    <string name="browser_scroll_to_top_button">Scroll to top</string>
+    <string name="browser_scroll_to_bottom_button">Scroll to bottom</string>
+    <string name="browser_reload_button">Reload</string>
+    <string name="browser_open_browser_button">Open Browser</string>
+    <string name="browser_exit_button">Exit</string>
+    
+    <string name="browser_cancel_text">Cancel</string>
+    
+    <!-- その他 -->
+    <string name="browser_share_by_browser_confirm_dialog_title">Browser</string>
+    <string name="browser_share_by_browser_confirm_dialog_message">Do you really want to open this page with browser?</string>
+    <string name="browser_dialog_yes">Yes</string>
+    <string name="browser_dialog_no">No</string>
+    <string name="browser_history">History</string>
+    <string name="browser_cannot_specify_the_tapped_image">Cannot specify the tapped image.</string>
+    <string name="browser_show_url_menu">URL</string>
+    <string name="browser_share_menu">Share</string>
+    <string name="browser_debug_menu">Debug info</string>
+    <string name="browser_jb_copy_start_message">Long tap text to start selection</string>
+    
+    <!-- 終了確認 -->
+    <string name="browser_exit_confirm_title">Exit</string>
+    <string name="browser_exit_confirm_message">Do you really want to exit?</string>
+    
+    <!-- URL確認 -->
+    <string name="browser_url_confirm_title">URL Confirm</string>
+    <string name="browser_url_confirm_message">%1$s\n\n\'Share\' or \'Copy to clipboard\'</string>
+    <string name="browser_url_confirm_copy">Copy</string>
+    <string name="browser_url_confirm_copied">Copied to clipboard</string>
+    <string name="browser_url_confirm_cancel">Cancel</string>
+    <string name="copy_link">Copy link</string>
+
+    <!-- 画像保存確認 -->
+    <string name="browser_save_image_confirm_title">Save image</string>
+    <string name="browser_save_image_confirm_message">Save image ?</string>
+    
+    <!-- ブラウザのロングタップメニュー -->
+    <string name="browser_long_click_menu_title">Open this page?</string>
+    <string name="browser_long_click_menu_open">Open</string>
+    <string name="browser_long_click_menu_open_browser">Open with browser</string>
+    <string name="browser_long_click_menu_share">Share</string>
+    <string name="browser_long_click_menu_cancel">Cancel</string>
+    
+    
+    <!-- ================================================================================ -->
+    <!-- Settings -->
+    <!-- ================================================================================ -->
+    <string name="config_timeline_display_settings_category">TL Display Settings</string>
+    <string name="config_timeline_display_settings_category_summary">Font size, thumbnail size, icon, pinned tweet and tweet design</string>
+
+	<string name="config_display_settings_category">Display Settings</string>
+    <string name="config_display_settings_category_summary">Title bar, tab, side menu, etc.</string>
+
+    <string name="config_font_size">Font Size</string>
+    <string name="config_line_spacing">Line Spacing</string>
+    <string name="config_theme">Theme</string>
+    <string name="config_appearance">Appearance</string>
+    <string name="config_timeline_compose_category">Timeline and Compose</string>
+    <string name="config_media_viewer_category">Media Viewer</string>
+	<string name="config_thumb_size">Thumbnail size</string>
+    <string name="config_thumb_size_summary"></string>
+    <string name="config_show_reply_user_thumbnail">Show reply thumb</string>
+    <string name="config_show_reply_user_thumbnail_summary">Show thumbnail icon of replying user</string>
+    <string name="config_wrap_name_line">Wrap name</string>
+    <string name="config_wrap_name_line_summary"></string>
+    <string name="config_preview_of_attached_photo_category">Preview of attached photo</string>
+    <string name="config_photo_thumbnail_layout">Thumbnail Layout</string>
+    <string name="config_photo_thumbnail_layout_new_official_app">Portrait style &lt;br>&lt;small>New Twitter Official App style&lt;/small></string>
+    <string name="config_photo_thumbnail_layout_old_official_app">Landscape style &lt;br>&lt;small>Old Twitter Official App style&lt;/small></string>
+    <string name="config_photo_thumbnail_layout_old_twitpane">Square style &lt;br>&lt;small>Old TwitPane style&lt;/small></string>
+    <string name="config_one_photo_size">Thumbnail size (single)</string>
+    <string name="config_change_one_photo_size">Change single-thumbnail size</string>
+    <string name="config_one_photo_size_summary">Thumbnail size when single photo attached</string>
+    <string name="config_multi_photo_size">Thumbnail size (multi)</string>
+    <string name="config_change_multi_photo_size">Change multi-thumbnail size</string>
+    <string name="config_multi_photo_size_summary">Thumbnail size when multi photos attached</string>
+    <string name="config_photo_size_hide">Hide</string>
+    <string name="config_tab_icon">Tab icon</string>
+    <string name="config_tab_icon_summary">Show icon on tab</string>
+    <string name="config_hide_tab_bar_on_landscape">Hide tab on landscape</string>
+    <string name="config_account_on_title">Title account(1)</string>
+    <string name="config_account_on_title_summary">Show account screen name (@name) on title</string>
+    <string name="config_account_name_on_title">Title account(2)</string>
+    <string name="config_account_name_on_title_summary">Show account name on title</string>
+    <string name="config_unread_count_on_right_of_title">Unread Count on Right</string>
+    <string name="config_unread_count_on_right_of_title_summary">Show unread count on the right of title</string>
+    <string name="config_auto_hide_toolbar">Auto Hide Title-bar</string>
+    <string name="config_auto_hide_toolbar_summary">Hide title-bar on the top automatically</string>
+    <string name="config_snackbar_for_like_rt_notice">Notification of Likes and RTs with icons</string>
+    <string name="config_snackbar_for_like_rt_notice_summary"></string>
+    <string name="config_image_animation">Image animation</string>
+    <string name="config_image_animation_summary"></string>
+    <string name="config_enable_fast_scroll">Fast scrolling</string>
+    <string name="config_enable_fast_scroll_summary">Enable fast scrolling box on list</string>
+    <string name="config_show_rate_limit_on_title">Show Rate Limit</string>
+    <string name="config_show_rate_limit_on_title_summary">Show API rate limit on title</string>
+    <string name="config_enable_pull_to_refresh">Pull To Refresh</string>
+    <string name="config_enable_pull_to_refresh_summary">Enable the pull-to-refresh feature of the list [default:ON]</string>
+    <string name="config_swipe_refresh_trigger_distance">Sensitivity of PTR</string>
+    <string name="config_swipe_refresh_trigger_distance_summary">Specify the distance to pull to refresh[default:32dp]</string>
+    <string name="config_side_menu_category">Side Menu</string>
+    <string name="config_side_menu_background_image">Background image</string>
+    <string name="config_side_menu_background_image_background_of_profile">Background of profile</string>
+    <string name="config_side_menu_background_image_below_profile">Below profile</string>
+    <string name="config_show_follow_count_on_timeline">Show Follow Count</string>
+	<string name="config_show_follow_count_on_timeline_summary">Show follow and follower count on timeline</string>
+    <string name="config_show_source_app">Show Source App</string>
+    <string name="config_show_source_app_summary"></string>
+    <string name="config_show_image_url">Show Image URL</string>
+    <string name="config_show_image_url_summary"></string>
+    <string name="config_show_followers_count_bar">Show Followers Count Bar</string>
+    <string name="config_show_followers_count_bar_summary">[default:OFF]</string>
+    <string name="config_show_mutual_mark">Mutual Following Icon</string>
+    <string name="config_show_mutual_mark_summary">Show mutual-following icon on timeline</string>
+    <string name="config_display_sensitive_iamges_as_blur">Display sensitive images as blur</string>
+    <string name="config_display_sensitive_iamges_as_blur_summary"></string>
+    <string name="config_user_icon_thumbnail_category">User icon</string>
+    <string name="config_use_rounded_thumbnail">Rounded Thumbnail</string>
+    <string name="config_use_rounded_thumbnail_summary">Use rounded profile icon [default:ON]</string>
+    <string name="config_link_area_category">Link</string>
+    <string name="config_show_link_area">Show link area</string>
+    <string name="config_show_link_area_summary">Show link image and title from link url in the tweet [default:ON]</string>
+    <string name="config_tweet_design">Tweet design</string>
+    <string name="config_show_quote_count">Show quote count</string>
+    <string name="config_show_quote_count_summary">[default:ON]</string>
+    <string name="config_change_link_area_thumbnail_size">Change link photo size</string>
+    <string name="config_link_area_thumbnail_size">Change link photo size</string>
+    <string name="config_emoji_size">Emoji Size</string>
+    <string-array name="config_emoji_size_entries">
+        <item>Device Font</item>
+        <item>Twitter Emoji(Small)</item>
+        <item>Twitter Emoji(Medium)</item>
+        <item>Twitter Emoji(Large)</item>
+    </string-array>
+    <string name="config_userstream_animation_type">Insertion Animation</string>
+    <string-array name="config_userstream_animation_type_entries">
+        <item>Fade In</item>
+        <item>No Animation</item>
+    </string-array>
+
+	<string name="config_toolbar">Toolbar Settings</string>
+	<string name="config_toolbar_height">Toolbar Height</string>
+    <string name="config_toolbar_height_change">Change</string>
+	<string name="transparent_toolbar">Transparent Toolbar</string>
+    <string name="bottom_toolbar_auto_hide">Hide Toolbar Automatically</string>
+    <string name="bottom_toolbar_auto_hide_when_scrolling_down">Hide when scrolling down</string>
+    <string name="change_function">Change Action</string>
+    <string name="toolbar_button_tutorial1">Tap button to change function.
+\nLong tap button to change color of button.</string>
+    <string name="toolbar_button_move_to_left_or_right" translatable="false">◀▶</string>
+
+    <string name="config_translation_settings_category">Translation Settings</string>
+    <string name="config_show_translation_link">Show `translate\' link</string>
+    <string name="config_show_translation_link_summary"></string>
+    <string name="config_use_cloud_translation">High quality translation</string>
+    <string name="config_use_cloud_translation_summary">By using cloud translation including DeepL and Google Translation service, the translation results will be higher quality and more accurate. Use a paid external services.</string>
+    <string name="config_use_cloud_translation_summary_not_available_due_to_not_subscribed">(can\'t use this service because my subscription has already been cancelled.)</string>
+    <string name="config_use_cloud_translation_trial">Try Cloud Translation</string>
+    <string name="config_use_cloud_translation_trial_summary"></string>
+    <string name="config_cloud_translation_provider">Provider of cloud translation</string>
+    <string name="translated_by">Translated by %1$s</string>
+    <string name="translation_provider_name_mlkit">Local Translation</string>
+    <string name="config_use_mlkit_translation_after_cloud_translation">Show local translation</string>
+    <string name="config_use_mlkit_translation_after_cloud_translation_summary">Show local translation result after cloud translation one</string>
+
+    <string name="config_timeline_settings_category">Timeline Settings</string>
+    <string name="config_tweet_load">Tweet loading</string>
+    <string name="config_action">Action</string>
+    <string name="config_tweet_get_limit_title">Tweet Get Count</string>
+    <string name="config_tweet_get_limit_summary">Number of tweets to be retrieved per one access</string>
+    <string name="config_use_home_timeline_v2">Use v2 API for Home Timeline</string>
+    <string name="config_use_home_timeline_v2_summary">Use Twitter API v2 to get the home timeline [default: OFF]</string>
+    <string name="config_use_home_timeline_v2_confirm_message" translatable="false">✔ API limit will be increased from 15 times per 15 minutes to 180 times per 15 minutes.\n
+✔ The maximum number of tweets that can be retrieved at one time will be 100. \n
+✔ If the app becomes unstable, please turn the setting back off. \n
+\n
+Do you want to enable it?</string>
+    <string name="config_auto_load_at_startup">Auto load TL at startup</string>
+    <string name="config_auto_load_at_startup_summary">at the startup of app, the new timeline will loaded automatically when the cursor is top of timeline</string>
+    <string name="config_auto_pager">Auto pager</string>
+    <string name="config_auto_pager_summary">Get next page when the scrolling position is bottom of the list</string>
+    <string name="config_scroll_pos_after_acquired_gap">Scroll pos after gap</string>
+    <string name="config_scroll_pos_after_acquired_gap_summary">Set scroll position after acquired the mid-gap-tweets</string>
+    <string name="config_scroll_pos_after_acquired_gap_top">top of mid-tweets</string>
+    <string name="config_scroll_pos_after_acquired_gap_bottom">bottom of mid-tweets</string>
+    <string name="config_scroll_pos_after_acquired_gap_confirm_each_time">Check every time when acquiring.</string>
+    <string name="config_scroll_pos_after_acquired_new_tweet">Scroll pos after new</string>
+    <string name="config_scroll_pos_after_acquired_new_tweet_summary">Set scroll position after acquired the new tweets</string>
+    <string name="config_scroll_pos_after_acquired_new_tweet_top">top of new-tweets</string>
+    <string name="config_scroll_pos_after_acquired_new_tweet_bottom">bottom of new-tweets</string>
+    <string name="config_volume_key_up_function">Volume Up Key</string>
+	<string name="config_volume_key_down_function">Volume Down Key</string>
+	<string name="config_volume_key_volume">Volume (default)</string>
+	<string name="config_volume_key_scrollup">Scroll Up</string>
+	<string name="config_volume_key_scrolldown">Scroll Down</string>
+	<string name="config_volume_key_nextaccount">Next Account</string>
+	<string name="config_volume_key_userstream">UserStream On/Off</string>
+	<string name="config_volume_key_nexttab">Next Tab</string>
+	<string name="config_volume_key_prevtab">Prev Tab</string>
+    <string name="config_open_link_by_tap">Open Link by Tap</string>
+    <string name="config_open_link_by_tap_summary">Open link when tap the URL [default: ON]</string>
+    <string name="config_open_link_with_internal_browser">Open Internal Browser</string>
+    <string name="config_open_link_with_internal_browser_summary">Open link with internal browser(Chrome Custom Tabs)</string>
+    <string name="config_open_youtube_link_with_internal_browser">Open YouTube in Internal Browser</string>
+    <string name="config_open_youtube_link_with_internal_browser_summary">Open YouTube link with internal browser(Chrome Custom Tabs)</string>
+    <string name="config_show_conversation_from_bottom">Show new tweets to bottom</string>
+    <string name="config_show_conversation_from_bottom_summary"></string>
+    <string name="config_conversation_search_count">Count of conversation search</string>
+    <string name="config_conversation_search_count_summary"></string>
+
+    <string name="config_tap_ex">Timeline Tap Extension</string>
+    <string name="config_tap_ex_action_left">TL Tap Ex(Left)</string>
+	<string name="config_tap_ex_action_left_summary">Call function directly when tap left area of timeline</string>
+	<string name="config_tap_ex_action_right">TL Tap Ex(Right)</string>
+	<string name="config_tap_ex_action_right_summary">Call function directly when tap right area of timeline</string>
+    <string name="config_tap_ex_action_left_long">TL Long Tap Ex(Left)</string>
+    <string name="config_tap_ex_action_left_long_summary">Call function directly when long-tap left area of timeline</string>
+    <string name="config_tap_ex_action_right_long">TL Long Tap Ex(Right)</string>
+    <string name="config_tap_ex_action_right_long_summary">Call function directly when long-tap right area of timeline</string>
+
+	<string name="config_set_read_after_shown">Set read tweet after shown</string>
+	<string name="config_set_read_after_shown_summary"></string>
+
+    <string name="config_message_settings_category">Message Settings</string>
+    <string name="config_show_new_message_from_bottom">Show the new message from the bottom</string>
+    <string name="config_show_new_message_from_bottom_summary"></string>
+
+    <string name="config_post_category">Post Settings</string>
+    <string name="config_image_uploading_category">Image Uploading</string>
+    <string name="config_upload_image_size_title">Upload image size</string>
+    <string name="config_upload_image_size_summary">Shrink image size</string>
+    <string name="config_upload_image_quality_title">Upload image quality</string>
+    <string name="config_upload_image_quality_summary">Set jpeg image quality</string>
+    <string name="upload_image_quality_good">Good</string>
+    <string name="upload_image_quality_better">Better</string>
+    <string name="upload_image_quality_best">Best</string>
+	<string name="config_show_tweet_confirm_dialog_title">Tweet confirm</string>
+	<string name="config_show_tweet_confirm_dialog_summary">Show confirm dialog before sending tweet or message</string>
+    <string name="config_tweet_font_size">Font size</string>
+    <string name="config_refresh_timeline_after_tweet_title">Refresh after tweet</string>
+    <string name="config_refresh_timeline_after_tweet_summary">Refresh timeline after sending tweet [default: OFF]</string>
+    <string name="config_live_tweet_mode_title">Live Tweet Mode</string>
+    <string name="config_live_tweet_mode_summary">Remember hashtags in the last tweet</string>
+    <string name="config_v2_tweet_post_title">v2 tweeting mode</string>
+    <string name="config_v2_tweet_post_summary"></string>
+    <string name="config_show_mushroom_button">Mushroom button</string>
+	<string name="config_show_mushroom_button_summary">Show mushroom (IME plug-in) button</string>
+    <string name="config_use_screen_name_completion">Use \'@\' Completion</string>
+    <string name="config_use_screen_name_completion_summary"></string>
+    <string name="config_show_actionbar_tweet_button">Tweet Button on Menu</string>
+    <string name="config_show_actionbar_tweet_button_summary">Show tweet button on menu</string>
+	<string name="config_show_emoji_ime_title">Emoji input support</string>
+	<string name="config_show_emoji_ime_summary">Enable emoji-input feature of IME if supported</string>
+    <string name="config_hide_compose_reply_area_by_default_title">Hide reply area</string>
+    <string name="config_hide_compose_reply_area_by_default_summary"></string>
+	<string name="config_show_remain_tweet_length">Show remain tweet length</string>
+	<string name="config_show_remain_tweet_length_summary">Show remain length of tweet on the title</string>
+    <string name="config_count_tweet_length_as_280">Count as max=280 chars</string>
+    <string name="config_count_tweet_length_as_280_summary">Count tweet characters as a maximum of 280 characters</string>
+    <string name="config_auto_save_count">Auto save count</string>
+    <string name="config_gallery_action">Gallery Type</string>
+    <string name="config_gallery_action_summary"></string>
+    <string-array name="config_gallery_actions">
+        <item>Pick[default]</item>
+        <item>GetContent</item>
+    </string-array>
+
+	<string name="config_confirm_settings_category">Confirm Settings</string>
+	<string name="config_show_rt_confirm_dialog_title">Retweet</string>
+    <string name="config_show_image_save_confirm_dialog_title">Image Save</string>
+    <string name="config_confirm_settings_notice_about_another_account">When you select an account and retweet or like it, even if the confirmation setting is ON, retweets and likes are executed immediately after selecting the account.</string>
+
+	<string name="config_mute_settings_category">Mute Settings</string>
+    <string name="config_mute_add">Add</string>
+    <string name="config_mute_sort">Sort</string>
+    <string name="config_mute_sort_confirm_message">Are you sure you want to sort? (Cannot be reverted)</string>
+    <string name="config_mute_edit">Edit</string>
+    <string name="config_mute_delete">Delete</string>
+	<string name="cannot_include_comma_in_mute">Cannot include comma in mute text</string>
+    <string name="confirm_to_add_mute_word">Add mute word, OK?</string>
+    <string name="mute_word_added">Mute word added</string>
+
+    <string name="temporarily_disable_mute">Temporarily disable mute.</string>
+    <string name="return_mute_to_active">Return mute to active.</string>
+
+    <string name="config_mute_users">Users</string>
+    <string name="config_mute_users_message">specify mute user\'s screen name</string>
+    <string name="config_mute_users_hint">\@twitpane</string>
+    <string name="config_mute_no_users">No mute users</string>
+    <string name="this_user_is_muted">This user is muted.</string>
+    
+    <string name="config_mute_clients">Clients</string>
+    <string name="config_mute_clients_message">specify mute client name</string>
+    <string name="config_mute_clients_hint">client name</string>
+    <string name="config_mute_no_clients">No mute apps</string>
+    
+    <string name="config_mute_words">Text</string>
+    <string name="config_mute_words_message">Specify mute word</string>
+    <string name="config_mute_words_hint">word</string>
+    <string name="config_mute_no_words">No mute words</string>
+
+    <string name="config_mute_target">Mute target</string>
+    <string name="config_mute_to_reply_conversation">Mute replies and conversations</string>
+    <string name="config_mute_to_reply_conversation_summary"></string>
+    <string name="config_mute_to_messages">Mute messages</string>
+    <string name="config_mute_to_messages_summary"></string>
+
+    <string name="config_subscription_settings_category">Subscription</string>
+    <string name="config_manage_subscriptions">Manage Subscription</string>
+
+    <string name="config_userstream_settings_category">UserStream</string>
+    <string name="config_userstream_auto_start">Auto Start</string>
+    <string name="config_userstream_auto_start_summary">Start userstream automatically the startup of app[default:OFF]</string>
+    <string name="config_auto_switch_scrolling">Auto Switch Scrolling</string>
+    <string name="config_auto_switch_scrolling_summary">Enable auto-scrolling at the top of the timeline. And disable it when scrolling down.</string>
+    <string name="config_auto_scroll_on_new_status">Auto Scroll</string>
+    <string name="config_auto_scroll_on_new_status_summary">auto scroll to new status</string>
+    <string name="config_show_auto_scroll_button">Show Auto Scroll Button</string>
+    <string name="config_show_auto_scroll_button_summary">Show auto scroll button on TL</string>
+    <string name="config_userstream_keep_screen_on">Keep screen on</string>
+    <string name="config_userstream_keep_screen_on_summary">Disable auto sleeping</string>
+    
+    <string name="config_notification_category">Notification</string>
+    <string name="config_notification_category_basic">Basic Settings</string>
+    <string name="config_notification_category_reply">Reply</string>
+    <string name="config_notification_category_message">Messages</string>
+    <string name="config_notification_category_details">Details</string>
+    <string name="config_use_interval_notification">Periodic Notification</string>
+    <string name="config_use_interval_notification_summary"></string>
+    <string name="config_notification_interval">Interval</string>
+    <string-array name="config_notification_interval_entries">
+        <item>3 min.</item>
+        <item>5 min.</item>
+        <item>10 min. [default]</item>
+        <item>20 min.</item>
+        <item>30 min.</item>
+        <item>60 min.</item>
+        <item>2 hours</item>
+    </string-array>
+    <string name="default_text"> [default]</string>
+    <string name="config_show_reply_notification">Show reply notification</string>
+    <string name="config_reply_notification_ticker_type">Reply notif. ticker</string>
+    <string-array name="config_reply_notification_ticker_type_entries">
+        <item>Name</item>
+        <item>Name+Tweet</item>
+        <item>Tweet [default]</item>
+    </string-array>
+    <string name="config_show_dm_notification">Show message notification</string>
+    <string name="config_notification_ringtone">Ringtone</string>
+    <string name="config_notification_ringtone_silent">Silent</string>
+    <string name="config_notification_vibration">Vibration</string>
+    <string name="config_notification_led">LED</string>
+    <string name="config_notification_led_color">LED Color</string>
+    <string name="config_show_notification_button">Show reply button</string>
+    <string name="config_exclude_battery_optimizations">Exclude from battery optimizations</string>
+    <string name="config_exclude_battery_optimizations_summary">If you do not receive periodic notifications, please exclude this app from battery optimization.</string>
+    <string name="config_exclude_battery_optimizations_exclude">Exclude</string>
+    <string name="config_auto_updates">Auto updates</string>
+    <string name="set_auto_updates">Set auto updates</string>
+    <string name="unset_auto_updates">Unset auto updates</string>
+    <string name="auto_updates_is_disabled_when_notification_is_disabled">Periodic notifications are turned off, so no automatic updates will be made.</string>
+    <string name="auto_update_every_n_minutes">Automatically updates every %1$d minutes</string>
+
+    <string name="config_color_label">Color Label Settings</string>
+    
+    <string name="config_search_category">Search Settings</string>
+	<string name="config_search_lang">Search Language</string>
+	<string-array name="config_search_lang_entries">
+	    <item>All</item><item>English</item><item>Japanese</item><item>Korean</item>
+	    <item>Amhara</item><item>Arabic</item><item>Bulgarian</item><item>Bengali</item>
+		<item>Tibetan</item><item>Cherokee</item><item>Danish</item><item>German</item><item>Dhivehi</item>
+		<item>Greek</item><item>Spanish</item><item>Persian</item><item>Finnish</item>
+		<item>French</item><item>Gujarati</item><item>Hebrew</item><item>Hindi</item><item>Hungarian</item>
+		<item>Armenian</item><item>Indonesian</item><item>Icelandic</item><item>Italian</item><item>Inuktitut</item>
+		<item>Georgian</item><item>Khmer</item><item>Kannada</item>
+		<item>Lao language</item><item>Lithuanian</item><item>Malayalam</item><item>Myanmar</item><item>Nepali</item>
+		<item>Dutch</item><item>Norwegian</item><item>Oriya</item><item>Punjabi</item><item>Polish</item>
+		<item>Portuguese</item><item>Russian</item><item>Sinhala</item><item>Swedish</item><item>Tamil language</item>
+		<item>Telugu</item><item>Thai</item><item>Tagalog</item><item>Turkish</item><item>Urdu</item>
+		<item>Vietnamese</item><item>Chinese</item>
+	</string-array>
+	<string name="config_exclude_rt">Exclude RT</string>
+	<string name="config_exclude_rt_summary">Exclude retweets from search result</string>
+	<string name="config_show_soft_keyboard_activated_plain_search_tab">Show Keyboard</string>
+	<string name="config_show_soft_keyboard_activated_plain_search_tab_summary">Show soft keyboard when activated the search tab which not entered keyword</string>
+	<string name="config_show_follow_count_on_search_result">Show Follow Count</string>
+	<string name="config_show_follow_count_on_search_result_summary">Show follow and follower count on search result</string>
+    <string name="config_open_new_activity_for_trend_search">Open New Trend Search</string>
+    <string name="config_open_new_activity_for_trend_search_summary">Open new window(activity) when showing search from trend[default:ON]</string>
+
+    <string name="config_image_viewer_settings_category">Image Viewer Settings</string>
+    <string name="config_image_viewer_back_on_tap_title">Back by Tap</string>
+    <string name="config_image_viewer_back_on_tap_summary"></string>
+    <string name="config_image_viewer_vertical_swipe_to_close_title">Swipe to close</string>
+    <string name="config_image_viewer_vertical_swipe_to_close_summary">Vertical swipe to close(back)</string>
+    <string name="config_image_save_directory">Image Save Directory</string>
+    <string name="config_reset_image_save_directory">Reset Image Save Directory</string>
+    <string name="config_reset_image_save_directory_confirm">Reset OK?</string>
+
+    <string name="config_movie_player_settings_category">Movie Player Settings</string>
+    <string name="config_movie_player_repeating">Repeating</string>
+    <string name="config_movie_player_initial_mute">Mute</string>
+    <string name="config_movie_player_initial_mute_summary"></string>
+    <string name="movie_player_show_property">Property</string>
+
+    <string name="config_backup_settings_category">Backup and Restore</string>
+
+    <string name="config_advanced_settings_category">Advanced Settings</string>
+    <string name="config_back_to_timeline_title">Back Key ex.</string>
+	<string name="config_back_to_timeline_summary">back to timeline</string>
+	<string name="config_enable_pinch_zoom">Enable pinch in/out zooming</string>
+	<string name="config_enable_pinch_zoom_summary"></string>
+    <string name="config_use_favorite">Use "Favorite"</string>
+    <string name="config_use_favorite_summary">Use "Favorite" instead of "Like"[default:OFF]</string>
+	<string name="config_tab_reload_suppression_interval_title">Tab update suppression interval</string>
+    <string name="config_tab_reload_suppression_interval_summary"></string>
+    <string name="config_change_font">Change Font</string>
+    <string name="config_change_font_summary"></string>
+    <string name="config_use_material_design_dialog">Material Design Dialog</string>
+	<string name="config_select_font_file">Select Font File</string>
+    <string name="config_select_font_choose_font_file" translatable="false">Choose ttf or otf file on the next dialog</string>
+    <string name="config_locale">Language</string>
+    <string-array name="config_locale_names">
+        <item>Auto</item>
+        <item>English (United States)</item>
+        <item>Japanese</item>
+        <item>Korean</item>
+        <item>Spanish</item>
+        <item>Chinese (Simplified)</item>
+        <item>Chinese (Traditional)</item>
+    </string-array>
+
+    <string name="config_save_record_count_for_timeline">Tweet Save Count(TL)</string>
+    <string name="config_save_record_count_for_timeline_summary">Tweet save count for timeline tab [default:500]</string>
+    <string name="config_save_record_count_without_timeline">Tweet Save Count(Others)</string>
+    <string name="config_save_record_count_without_timeline_summary">Tweet save count without timeline tab [default:300]</string>
+    <string name="use_conversation_id" translatable="false">Use conversation_id</string>
+    <string name="use_conversation_id_summary" translatable="false">Use conversation_id for conversation search</string>
+    <string name="use_tweet_complementary_fetcher" translatable="false">Get the number of quoted tweets, polls, etc.</string>
+    <string name="use_tweet_complementary_fetcher_summary" translatable="false">Automatically load the number of quoted tweets, replies, polls, etc. [default:ON]</string>
+    <string name="low_packet_mode_text" translatable="false">Low Packet Mode</string>
+    <string name="config_use_gps_to_get_trend_location">Use GPS (Trend)</string>
+    <string name="config_screen_orientation">Screen Orientation</string>
+    <string-array name="config_screen_orientation_entries">
+        <item>Auto</item>
+        <item>Portrait</item>
+        <item>Landscape</item>
+    </string-array>
+
+    <string name="config_clear_cache">Clear cache</string>
+    <string name="config_clear_cache_summary"></string>
+    <string name="config_reset_tab_data">Clear tab data</string>
+    <string name="config_reset_tab_data_confirm_message">Are you sure you want to remove all tab data?</string>
+    <string name="config_use_raw_data_store_realm">Tab data store type</string>
+    <string name="config_use_raw_data_store_realm_summary">Use Realm (Better Performance) or SQLite (Stable), Current:%1$s</string>
+    <string name="conversion_succeeded" translatable="false">Internal DB conversion completed.</string>
+    <string name="conversion_failed" translatable="false">Internal DB conversion failed.</string>
+    <string name="before_conversion" translatable="false">Before Conversion</string>
+    <string name="after_conversion" translatable="false">After Conversion</string>
+    <string name="start_to_conversion_confirm" translatable="false">Convert to %1$s. OK?</string>
+    <string name="conversion_stop_confirm" translatable="false">Stop conversion, OK?</string>
+    <string name="converting" translatable="false">"Converting..."</string>
+    <string name="conversion_aborted" translatable="false">Aborted.</string>
+    <string name="config_prefs_export">Export Settings</string>
+    <string name="config_prefs_export_summary">Save current settings</string>
+    <string name="config_prefs_import">Import Settings</string>
+    <string name="config_prefs_import_summary">Restore settings</string>
+    <string name="config_prefs_import_confirm_message">Are you sure you want to import all settings from the exported-settings file? (WARNING!! ALL ACCOUNT SETTINGS WILL BE REMOVED!!)</string>
+    <string name="config_prefs_clear">Clear Settings</string>
+    <string name="config_prefs_clear_confirm_message">Are you sure you want to CLEAR all settings? (WARNING!! ALL ACCOUNT SETTINGS WILL BE REMOVED!!)</string>
+    <string name="config_prefer_protocol">HTTP/2.0 support</string>
+    <string name="config_prefer_protocol_summary">Select protocol</string>
+    <string name="config_prefer_ipv4_address">Prefer IPv4</string>
+    <string name="config_prefer_ipv4_address_summary">Fix twitter image problem on Wi-Fi (for Japanese au Hikari network)</string>
+    <string name="config_disable_hardware_rendering">Disable Hardware Rendering</string>
+    <string name="config_disable_hardware_rendering_summary"></string>
+    <string name="config_disable_image_hardware_rendering">Disable Hardware Rendering(Image)</string>
+    <string name="config_disable_image_hardware_rendering_summary"></string>
+
+	<string name="config_adfree_category">AdFree</string>
+    <string name="config_premium_title">Premium Edition</string>
+    <string name="config_premium_summary">You can remove ads with premium edition(TwitPane+)</string>
+    <string name="config_adfree_pack_title">AdFree pack</string>
+    <string name="config_adfree_pack_summary">Please subscribe ad-free pack on google play store to remove ads</string>
+    <string name="config_adfree_pack_already_bought">Already bought, thanks!</string>
+    <string name="config_adfree_pr_title">AdFree Tweet</string>
+	<string name="config_adfree_pr_summary">You can remove ads by tweeting PR of TwitPane</string>
+    <string name="config_adfree_video_title">Remove Ads by Video</string>
+    <string name="config_adfree_video_confirm_message">You can remove ads by viewing video</string>
+    <string name="config_adfree_video_start">Play</string>
+    <string name="config_adfree_video_noads">Sorry, could not play video… Please try again after a few minutes.</string>
+
+	<string name="config_menu_icon_color">Menu Icon Color</string>
+    <string name="config_menu_icon_color_twact">Twitter Action</string>
+    <string name="config_menu_icon_color_twact_delete">Twitter Action(Delete)</string>
+	<string name="config_menu_icon_color_streaming">Streaming</string>
+	<string name="config_menu_icon_color_view">View</string>
+	<string name="config_menu_icon_color_share">Share</string>
+	<string name="config_menu_icon_color_config">Config</string>
+					
+	<string name="config_twicca_plugin">twicca Plugin Settings</string>
+    <string name="twicca_plugin_not_found">twicca plugin not found</string>
+
+    <string name="config_debug_settings_category">Debug Config</string>
+    <string name="config_debug_ads">Ads Config for Debug</string>
+    <string name="config_debug_ads_auto">Auto Select</string>
+
+    <!-- Tap Menu Config -->
+    <string name="config_tap_menu_title">Tap Menu Button Config</string>
+    <string name="config_tap_menu_change_function">Change Function</string>
+    <string name="config_tap_menu_move_to_left">Move To Left</string>
+    <string name="config_tap_menu_move_to_right">Move To Right</string>
+    <string name="config_tap_menu_remove">Delete Button</string>
+    <string name="config_tap_menu_add">Add Button</string>
+
+    <!-- ================================================================================ -->
+    <!-- Theme Config -->
+    <!-- ================================================================================ -->
+    <string name="theme">Theme</string>
+    <string name="dark_theme">DarkTheme</string>
+    <string name="theme_change_bg">Background</string>
+    <string name="theme_bg_reply_for_me">BG(Reply for me)</string>
+    <string name="theme_bg_rt">BG(RT)</string>
+    <string name="theme_gradation">Gradation of bg</string>
+    <string name="theme_title">Title</string>
+    <string name="theme_date_rt">Date, RT</string>
+    <string name="theme_body">Body</string>
+    <string name="theme_body_reply_for_me">Body(Reply for me)</string>
+    <string name="theme_body_my_tweet">Body(My tweet)</string>
+    <string name="theme_body_read">Body(Read)</string>
+    <string name="theme_name_url_hashtag">\@name, URL, hashtag</string>
+    <string name="theme_tab">Tab</string>
+    <string name="theme_actionbar">TitleBar</string>
+    <string name="theme_statusbar">StatusBar(Android 5+)</string>
+    <string name="theme_preview">Preview</string>
+    <string name="theme_timeline">Timeline</string>
+    <string name="theme_default">default</string>
+    <string name="dark_theme_same_as_light_theme">Same as light theme</string>
+    <string name="dark_theme_info">Set dark theme running on Android 10 or later devices.</string>
+
+
+    <!-- ================================================================================ -->
+    <!-- 画像ビューア -->
+    <!-- ================================================================================ -->
+    <string name="image_viewer_save_image">Save</string>
+    <string name="image_viewer_back_button">Back</string>
+    <string name="browser_save_image_saved">saved (%1$s)</string>
+    <string name="browser_save_image_cannot_save">can\'t save image</string>
+    
+    <!-- ================================================================================ -->
+    <!-- Profile Fragment -->
+    <!-- ================================================================================ -->
+    <string name="profile_tweets">Tweets</string>
+    <string name="profile_follows">Follows</string>
+    <string name="profile_followers">Followers</string>
+
+    <!-- Place画面の位置情報設定確認画面 -->
+    <string name="place_activity_location_setting_dialog_title">Location Service</string>
+    <string name="place_activity_location_setting_dialog_message">Are you sure you want to open location service setting?</string>
+    <string name="place_activity_location_setting_dialog_yes">Yes</string>
+    <string name="place_activity_location_setting_dialog_cancel">Cancel</string>
+    
+    <string name="place_activity_location_not_found">Can\'t get current location...</string>
+    <string name="place_activity_location_use_last_location">using last location..</string>
+
+    <string name="plus1_message">Thanks your support!</string>
+    <string name="title_activity_plus1">Please support on Google+</string>
+
+    <!-- ================================================================================ -->
+    <!-- Instagram 関連 -->
+    <!-- ================================================================================ -->
+<!--    <string name="login_to_instagram_to_view">Login to Instagram to view</string>-->
+<!--    <string name="config_instagram_settings_category">Instagram Settings</string>-->
+<!--    <string name="clear_instagram_login_info">Clear Instagram login info</string>-->
+<!--    <string name="cannot_show_image_cause_this_account_is_private">Cannot show the image because this account is private on instagram</string>-->
+<!--    <string name="cannot_show_image_cause_your_account_is_locked">Cannot show the image because your account has been locked temporarily</string>-->
+
+    <!-- ================================================================================ -->
+    <!-- パーミッション -->
+    <!-- ================================================================================ -->
+    <string name="no_permission">no permission</string>
+    <string name="request_to_grant_location_permission_on_settings">Require LOCATION permission to run this function.\n\nPlease grant permission of location.</string>
+    <string name="require_location_permission_to_for_trend">Require permission to get location of Trend.</string>
+    <string name="request_to_grant_storage_permission_on_settings">Require STORAGE permission to run this function.\n\nPlease grant permission of storage.</string>
+    <string name="require_storage_permission">Require storage permission</string>
+
+    <!-- ================================================================================ -->
+    <!-- アカウント再認証、自動インポート関連 -->
+    <!-- ================================================================================ -->
+    <string name="migration_from_free_edition_title">Migration from Free Edition</string>
+    <string name="migration_from_free_edition_message">Thank you for downloading %1$s!\nDo you wish to import settings from Free Edition?</string>
+    <string name="free_edition_update_confirm_title">Update of Free Edition</string>
+    <string name="free_edition_update_confirm_message">You cannot migrate because the version of the Free Edition is too old.\nUpdate to the latest version?</string>
+    <string name="config_import_done_message">Import Settings is now complete.</string>
+    <string name="account_reauth_title">Account re-authentication</string>
+    <string name="account_reauth_message">You will need to re-authenticate for Twitter applications.\n
+\n
+Please authenticate again on the next screen. \n
+\n
+If the account displayed in the next screen (browser) is different, please log out and log in again.
+</string>
+    <string name="add_account_without_login_message">Add account without login(use current account on the browser), ok?</string>
+    <string name="require_authorization_for_bookmark">Additional authorization is required to view bookmarks</string>
+    <string name="authorize">authorize</string>
+    <string name="failed_to_authorize_to_twitter_and_confirm_to_reauthorize">Twitter authentication failed.\nnote: If you are authenticating bookmarks, you may not be able to authenticate after logging in with another device. \n\nPlease re-authenticate on the next screen.</string>
+    <string name="authorized_account_not_match_to_current_account">The authenticated account did not match the current account.\n\n
+- Authenticated account: @%1$s\n
+- Current account: @%2$s\n
+\n
+Reauthenticate on the next screen.</string>
+
+    <!-- Emoji Picker -->
+    <string name="emojipicker_guide_dialog_title">Emoji Input App</string>
+    <string name="emojipicker_guide_dialog_message">Do you wish to download EmojiPicker4T for TwitPane from %1$s?</string>
+    <string name="emojipicker_guide_dialog_download">Download</string>
+
+    <!-- Google Translate -->
+    <string name="translate_app_guide_dialog_title">Google Translate is not installed</string>
+    <string name="translate_app_guide_dialog_message">You need the Google Translate app. Download from %1$s?</string>
+    <string name="daily_inline_translation_limit_is_exceeded">"We have exceeded the number of executions of today's inline translation, so we will translate with the Google Translate app"</string>
+    <string name="detail">Details</string>
+    <string name="download_translation_ml_data_confirm_message">We need the machine learning data (about 30MB) for the language to be translated. Are you sure you want to download it?</string>
+    <string name="inline_translation">About Inline-Translation</string>
+<!--    <string name="inline_translation_limit_details">There is a limit to the number of inline translations that can be performed. free=%1$d, paid=%2$d</string>-->
+    <string name="inline_translation_trial_guide" translatable="false">Inline translation trial</string>
+    <string name="inline_translation_trial_guide_message" translatable="false">You can try Google Translation and DeepL Translations up to %1$d times per day.\n
+\n
+*If you want to use more than %2$d times, you need to purchase a subscription. Please check the translation settings.\n
+*The number of times is limited due to the use of a paid cloud service. Thanks for your understanding.</string>
+
+    <string name="login_with_browser">Login with browser</string>
+    <string name="login_failed_and_login_with_browser_confirm">failed to login. Do you want to login via browser?</string>
+    <string name="trade_mark_info">Twitter is trademark of Twitter, Inc.</string>
+    <string name="privacy_policy_agreement">Please sign in after agreeing to &lt;a href="https://twitpane.com/terms_of_use_en/"&gt;Terms of Use&lt;/a&gt;, &lt;a href="https://twitpane.com/privacy_policy_en/"&gt;Privacy Policy&lt;/a&gt;.</string>
+
+    <string name="trend_tweet_count">"%1$s tweets"</string>
+    <string name="dm_not_allowed_and_re_authorize_confirm_message">The permission to access direct message was lost from Twitter. Are you sure you want to re-authorize?</string>
+    <string name="could_not_authenticate_you_re_authorize_confirm_message">The permission to access to Twitter was lost. Are you sure you want to re-authorize?</string>
+
+    <string name="copy" translatable="false">Copy</string>
+    <string name="select_copy_content" tools:ignore="TypographyEllipsis">Select...</string>
+    <string name="some_settings_applied_after_restarted">Some settings will be applied after the application is restarted.</string>
+
+    <!-- サブスクリプションの案内画面 -->
+    <string name="subs_guide_cloud_translation_top_message" translatable="false">The quality of the translation can be improved by using Google\'s service called Cloud Translation.\n\nAs this cloud translation is a paid service, we ask you to subscribe to a subscription in order to continue developing and maintaining this application.</string>
+    <string name="subs_guide_try_7days_for_free" translatable="false">Try 7 days for FREE</string>
+    <string name="subs_guide_other_subscription_privileges" translatable="false">Other Subscription Privileges:</string>
+    <string name="subs_guide_subscription_privileges" translatable="false">Subscription Privileges:</string>
+    <string name="subs_guide_item_cloud_translation" translatable="false">✔ Cloud Translation</string>
+    <string name="subs_guide_item_cloud_translation_message" translatable="false">(Translation results will be more natural and high quality.)</string>
+    <string name="subs_guide_item_no_ads" translatable="false">✔ No Ads</string>
+    <string name="subs_guide_item_no_ads_message" translatable="false">(You can erase the banner ads at the top of the screen)</string>
+    <string name="subs_guide_item_free_more_accounts" translatable="false">✔ +2 Accounts</string>
+    <string name="subs_guide_item_free_more_accounts_message" translatable="false">(You can increase the number of accounts you can register by two.)</string>
+    <string name="subs_guide_item_premium_more_accounts" translatable="false">✔ +5 Accounts</string>
+    <string name="subs_guide_item_premium_more_accounts_message" translatable="false">(You can increase the number of accounts you can register by 5)</string>
+    <string name="subs_guide_item_liked_order_likes" translatable="false">✔ Liked ordered likes</string>
+    <string name="subs_guide_item_liked_order_likes_message" translatable="false"></string>
+    <string name="subs_guide_item_view_quoted_tweets" translatable="false">✔ View quoted tweets</string>
+    <string name="subs_guide_item_view_quoted_tweets_message" translatable="false">(You can view quoted tweets of a tweet)</string>
+    <string name="liked_order_likes" translatable="false">Liked ordered likes</string>
+    <string name="config_use_liked_order_likes_summary" translatable="false">Only available to users with a subscriptions due to Twitter\'s Tweet cap, which is a strict limit on the number of tweets that can be retrieved.</string>
+    <string name="subs_guide_bottom_notice" translatable="false">You will be automatically charged %1$s per month until you cancel in the Google Play Store. Previous charges will not be refunded when you cancel unless it is legally required. There is a limit to the number of times you can use Cloud Translation per day.</string>
+
+    <!-- イベントログ -->
+    <string name="event_log_message_tweet_compose_success">Tweets posted</string>
+    <string name="event_log_message_tweet_compose_failed">Failed to post tweet</string>
+    <string name="event_log_message_new_reply">New replies received.</string>
+    <string name="event_log_message_no_new_reply">No new replies.</string>
+    <string name="event_log_message_new_message">New message received.</string>
+    <string name="event_log_message_no_new_message">No new message.</string>
+    <string name="event_log_message_new_tweets">New tweets retrieved.</string>
+    <string name="new_tweets">New tweets</string>
+    <string name="event_log_message_no_new_tweets">No new tweets.</string>
+    <string name="event_log_message_new_tweets_failed">Failed to get tweets.</string>
+    <string name="event_log_message_1_tweet" translatable="false">1 tweet</string>
+    <string name="event_log_message_n_tweets" translatable="false">%1$d tweets</string>
+    <string name="event_log_delete_confirm_title" translatable="false">Delete log</string>
+    <string name="event_log_delete_confirm_message" translatable="false">Delete this event, OK?</string>
+    <string name="event_log_information" translatable="false">You can see the events that took place in the background, such as "Posts" and "New Notifications".</string>
+
+
+</resources>

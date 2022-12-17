@@ -1,0 +1,1276 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    
+    <string name="title_activity_config">設定</string>
+    <string name="title_activity_page_config">タブのカスタマイズ</string>
+    <string name="title_activity_theme_config">テーマとデザイン設定</string>
+    <string name="title_activity_about">TwitPaneについて</string>
+    <string name="title_activity_location">Location</string>
+    <string name="title_activity_write_view_for_message">メッセージ</string>
+    <string name="title_activity_create_shortcut_for_tweet">ツイート</string>
+    <string name="title_activity_profile_edit">プロフィールを編集</string>
+    <string name="title_activity_list_edit">リストを編集</string>
+    <string name="title_activity_list_create">新しいリストを作成</string>
+    <string name="title_activity_browser">ブラウザ</string>
+    <string name="title_activity_movie_player"></string>
+    <string name="title_activity_tweet_select">ツイート選択</string>
+    <string name="title_activity_toolbar_config">ツールバー設定</string>
+    <string name="title_activity_gallery_image_picker">Gallery</string>
+    <string name="title_activity_subscription_guide">サブスクリプションについて</string>
+
+	<string name="pane_name_trend">トレンド</string>
+    <string name="pane_name_search">検索</string>
+    <string name="pane_name_profile">プロフィール</string>
+    <string name="pane_name_timeline">タイムライン</string>
+    <string name="pane_name_reply">返信</string>
+    <string name="pane_name_mytweet">ツイート</string>
+    <string name="pane_name_media">メディア</string>
+    <string name="pane_name_favorite_like">いいね</string>
+    <string name="liked_order">いいねした順</string>
+    <string name="pane_name_favorite_favorite">お気に入り</string>
+    <string name="pane_name_quoted_tweets">引用されたツイート</string>
+    <string name="pane_name_rt_of_me">RTされたツイート</string>
+    <string name="pane_name_bookmark">ブックマーク</string>
+    <string name="pane_name_conversation">会話</string>
+    <string name="pane_name_tweet">ツイート</string>
+    <string name="pane_name_rt_users">RTしたユーザー一覧</string>
+    <string name="pane_name_thread_list">メッセージ</string>
+    <string name="pane_name_dm">受信メッセージ</string>
+    <string name="pane_name_sent_dm">送信メッセージ</string>
+    <string name="pane_name_lists">リスト</string>
+    <string name="pane_name_lists_memberships">追加されているリスト</string>
+    <string name="pane_name_list_member">リストに追加されているユーザー</string>
+    <string name="pane_name_list_subscribers">リストの購読者</string>
+    <string name="pane_name_follow">%1$sのフォロー</string>
+    <string name="pane_name_follower">%1$sのフォロワー</string>
+    <string name="pane_name_blocks">ブロックユーザー一覧</string>
+    <string name="pane_name_search_user">ユーザー検索</string>
+    
+    <string name="showcase_start_title">TwitPaneをご利用いただきありがとうございます！</string>
+    <string name="showcase_start_summary">使い方を少しだけ説明させていただきます。\n\nまず、真ん中にはツイートの一覧が表示されます。\nもちろん上下にスクロールできます！</string>
+    <string name="showcase_center1_title">左右にスライドするとタブを移動できます！</string>
+    <string name="showcase_center1_summary">色んなタブを切り替えて使うと便利ですね！</string>
+    <string name="showcase_tweet_title">左下のこのボタンからツイートできます</string>
+    <string name="showcase_tweet_summary">\n下書きにも対応しています。</string>
+    <string name="showcase_menu_title">右下のこのボタンを押すとメニューを表示できます。</string>
+    <string name="showcase_menu_summary">\n設定画面もここから開けますよ。</string>
+    <string name="showcase_sidebar_title">画面の端を右にスライドするとタブ一覧が出ます！</string>
+    <string name="showcase_sidebar_summary">カスタマイズもできますよ！\n\nそれではTwitPaneをご活用ください！</string>
+
+    <string name="page_config_showcase_swipe_title">縦にスライドさせるとタブを並べ替えることができます</string>
+    <string name="page_config_showcase_swipe_summary"></string>
+
+    <string name="search_button">検索</string>
+    <string name="saved_search">保存した検索</string>
+    <string name="search_save_button">この検索を保存</string>
+    <string name="search_delete_button">この保存した検索を削除</string>
+    <string name="search_config_button">検索設定</string>
+    <string name="saved_search_capacity_over_message">検索キーワードの保存中にエラーが発生しました。保存件数が上限に達している可能性がありますのでご確認ください。</string>
+    <string name="over_saved_search_capacity_message">保存件数の上限に達しました。他の検索キーワードを削除してから保存してください。タブとして保存するのもすぐに検索できて便利です。</string>
+    <string name="created_saved_search_message">保存しました。保存済みキーワードはツールバーの検索ボタンから呼び出せます</string>
+    <string name="deleted_saved_search_message">削除しました</string>
+    <string name="add_search_page_confirm_message">この検索キーワードのタブを追加しますか？</string>
+    <string name="add_search_page_finish">タブを追加しました</string>
+    
+    <string name="reload_button">リロード</string>
+    
+    <string name="load_another_locations">その他の地域</string>
+    
+    <string name="color_edit_button">変更</string>
+    <string name="restore_default_confirm">初期値に戻してもよろしいですか？</string>
+    <string name="import_confirm_message">デザインをインポートしてもよろしいですか？(インポート後にTwitPaneを再起動します)</string>
+    
+    <!-- ================================================================================ -->
+    <!-- Others -->
+    <!-- ================================================================================ -->
+    <string name="view_date_hour_ago">%1$d時間前</string>
+    <string name="view_date_hours_ago">%1$d時間前</string>
+    <string name="view_date_minute_ago">%1$d分前</string>
+    <string name="view_date_minutes_ago">%1$d分前</string>
+    <string name="pager_more">もっと読む</string>
+    
+    <string name="account_add">アカウントを追加</string>
+    <string name="account_delete">アカウントを削除</string>
+    <string name="account_delete_confirm">アカウントを削除してもよろしいですか？</string>
+    <string name="cannot_delete_current_account">現在のアカウントは削除できません</string>
+    <string name="account_reauth">アカウントの再認証</string>
+    <string name="changing_account_to">\@%1$s に変更します</string>
+    <string name="cannot_auth_account_via_official_twitter_app">Twitter公式アプリ経由のログイン処理中にエラーが発生しました。\n\n(%1$s)\n\nブラウザでログインします。</string>
+
+    <string name="profile_edit_button">プロフィールを編集</string>
+    <string name="profile_edit_banner_image_button">ヘッダー画像設定</string>
+    <string name="banner_menu">ヘッダー画像設定</string>
+    <string name="banner_change">変更</string>
+    <string name="banner_remove">削除</string>
+    <string name="send_dm_button">メッセージを送信する</string>
+    <string name="send_mention_button">\@ツイートを送信する</string>
+    
+    <string name="retweet_confirm_message">このツイートをフォロワーにリツイートしますか？</string>
+    <string name="retweeted_message">リツイートしました</string>
+    <string name="remove_retweet_confirm_message">リツイートを解除しますか？</string>
+    <string name="remove_retweeted_message">リツイートを解除しました</string>
+    <string name="favorite_confirm_message_favorite">このツイートをお気に入りに追加しますか？</string>
+    <string name="created_favorite_message_favorite">お気に入りに追加しました</string>
+    <string name="remove_favorite_confirm_message_favorite">お気に入りから削除しますか？</string>
+    <string name="remove_favorite_confirm_message_like">いいねを取り消しますか？</string>
+    <string name="destroyed_favorite_message_favorite">お気に入りから削除しました</string>
+    <string name="favorite_confirm_message_like">このツイートをいいねしますか？</string>
+    <string name="created_favorite_message_like">いいねしました</string>
+    <string name="destroyed_favorite_message_like">いいねを取り消しました</string>
+    <string name="cannot_favorite_duplicate_status_favorite">このツイートは既にお気に入り済みのようです</string>
+    <string name="cannot_favorite_duplicate_status_like">このツイートは既にいいね済みのようです</string>
+    <string name="bookmarked_message">ブックマークしました</string>
+    <string name="unbookmarked_message">ブックマークを外しました</string>
+    <string name="delete_confirm_message">このツイートを削除しますか？</string>
+    <string name="delete_dm_confirm_message">このメッセージを削除しますか？</string>
+    <string name="deleted_message">削除しました</string>
+    <string name="already_deleted_message">既に削除されています</string>
+    <string name="mute_user_confirm_message">本当にこのユーザーを非表示にしますか？</string>
+    <string name="cancel_mute_user_confirm_message">このユーザーは非表示にしています。表示に戻しますか?</string>
+    <string name="mute_app_confirm_message">本当にこのアプリを非表示にしますか？</string>
+    <string name="cannot_mute_official_app">公式アプリ等をミュートすることはできません</string>
+    <string name="mute_hashtag_confirm_message">本当にこのハッシュタグを非表示にしますか？</string>
+    <string name="delete_list_confirm_message">このリストを削除しますか？</string>
+    <string name="deleted_list">削除しました</string>
+    <string name="unscribe_list_confirm_message">このリストの購読を解除しますか？</string>
+    <string name="unscribed_list">解除しました</string>
+    <string name="subscribe_list_confirm_message">このリストを購読しますか？</string>
+    <string name="subscribed_list">購読しました</string>
+    <string name="destroy_from_list_confirm_message">このユーザーをリストから削除しますか？</string>
+    <string name="list_member_destroyed">削除しました</string>
+    <string name="add_list_tab">リストタブの追加</string>
+    <string name="remove_tab_confirm">"%1$s をタブから削除します。よろしいですか？"</string>
+    <string name="add_search_tab">検索タブの追加</string>
+    <string name="common_clear">クリア</string>
+    <string name="common_failed_message">失敗しました・・・。しばらく待ってからやり直してみてください</string>
+    <string name="common_delete">削除する</string>
+    <string name="already_task_running">通信中です。しばらく待ってからやり直してみてください</string>
+    <string name="cannot_view_private_account_timeline">プライベートアカウントのタイムラインは表示できません</string>
+    <string name="cannot_view_private_account_tweet">プライベートアカウントのツイートなので表示できません</string>
+    <string name="cannot_retweet_duplicate_status">このツイートは既にリツイート済みのようです</string>
+    <string name="cannot_retweet_blocked_user">このユーザーからブロックされているのでリツイートできませんでした。</string>
+    
+    <string name="image_size_errror">画像サイズエラー</string>
+    <string name="too_large_image_size_to_attach">画像サイズが大きいため添付できません。</string>
+    
+    <string name="block_user_confirm_message">本当にこのユーザーをブロックしますか？</string>
+    <string name="block_tweet_confirm_message">本当にこのツイートをブロックしますか？</string>
+    <string name="blocked_message">ユーザーをブロックしました</string>
+    <string name="report_spam_confirm_message">本当にこのユーザーをスパム通報しますか？</string>
+    <string name="user_reported_message">ユーザーをスパム通報しました</string>
+    <string name="destroy_block_user_confirm_message">本当にこのユーザーのブロックを解除しますか？</string>
+    <string name="destroy_block_message">ユーザーのブロックを解除しました</string>
+    
+    <string name="following">フォロー中</string>
+    <string name="follow">フォローする</string>
+    <string name="you_are_followed">[あなたをフォロー中]</string>
+    <string name="follow_confirm_title">フォローする</string>
+    <string name="follow_confirm_message">%1$s をフォローしますか？</string>
+    <string name="follow_or_unfollow">フォロー・フォロー解除</string>
+    <string name="unfollow_confirm_title">フォローを解除する</string>
+    <string name="unfollow_confirm_message">%1$s のフォローを解除してもよろしいですか？</string>
+    <string name="follow_done">フォローしました</string>
+    <string name="unfollow_done">フォローを解除しました</string>
+    <string name="cannot_send_dm">フォローされていないのでDMを送信できません</string>
+    
+    <string name="show_retweet">リツイートを表示する</string>
+    <string name="hide_retweet">リツイートを非表示にする</string>
+    <string name="hide_retweet_done">\@%1$sさんのリツイートは今後タイムラインに表示されません</string>
+    <string name="show_retweet_done">\@%1$sさんのリツイートが今後タイムラインに表示されます</string>
+    <string name="turn_on_retweet_confirm_title">リツイートを表示する</string>
+    <string name="turn_on_retweet_confirm_message">%1$sさんのリツイートを表示しますか？</string>
+    <string name="turn_off_retweet_confirm_title">リツイートを非表示にする</string>
+    <string name="turn_off_retweet_confirm_message">%1$sさんのリツイートを非表示にしますか？</string>
+    
+    <string name="twitter_error_network_issue">失敗しました・・・。通信できないようです。しばらく待ってからやり直してみてください</string>
+    <string name="twitter_error_resource_not_found">失敗しました・・・。ツイートがなくなっているようです。</string>
+    <string name="twitter_error_api_rate_limitation_with_reset_minutes">Twitter API リクエスト上限に達しました\n\n約%1$d分%2$d秒後に解除されますのでしばらくお待ちください</string>
+
+    <string name="rate_limit_list_does_not_include_api_v2">このリストには Twitter API v2 の Rate Limit は含まれません</string>
+
+    <string name="account_list">アカウント一覧</string>
+    <string name="over_account_count_in_subscription">アカウント数の上限に達しました。</string>
+    <string name="over_account_count_not_subscription">アカウント数の上限に達しました。広告解除パックや有料版を導入すると上限が5個になります</string>
+    <string name="account_change_confirm">アカウントを変更しますか？</string>
+
+    <string name="failed_to_load_image_and_try_again">画像のロードに失敗しました。しばらく待ってからやり直してください</string>
+
+    <string name="another_menu">その他</string>
+    <string name="another_menu_dots">その他...</string>
+
+    <string name="notification_new_reply_ticker">タイムラインが更新されました</string>
+    <string name="notification_new_reply_text">あなた宛のツイートがあります。</string>
+    
+    <string name="notification_new_dm_ticker">新しいメッセージがあります</string>
+    <string name="notification_new_dm_text">あなた宛のメッセージがあります。</string>
+    <string name="notification_new_dm_text_with_user">\@%1$sからのメッセージがあります。</string>
+    
+    <string name="retweeted_by_user">%1$sさんがリツイートしました</string>
+    <string name="source_from">%1$sから</string>
+    <string name="reply_to">%1$s宛</string>
+    
+    <string name="cannot_launch_official_twitter_app">公式アプリの起動に失敗しました\n最新版のTwitter公式アプリがインストールされていることをご確認ください。</string>
+    
+    <string name="compass_button">現在地の取得</string>
+
+    <string name="show_tweet_activity">ツイートアクティビティを表示</string>
+    
+	<!-- リスト作成・編集画面 -->
+    <string name="list_name_text">リスト名</string>
+    <string name="list_description_text">説明</string>
+    <string name="privacy_text">プライバシー</string>
+    <string name="privacy_public">公開</string>
+    <string name="privacy_private">非公開</string>
+    <string name="private_save_button">保存</string>
+    <string name="list_created">作成しました</string>
+    <string name="list_edited">保存しました</string>
+    <string name="list_description_length_error">説明は100文字以内で入力してください</string>
+    <string name="no_list_name_error">リスト名を入力してください</string>
+    
+    <!-- リストメンバー編集 -->
+    <string name="list_member_added">リストに追加しました</string>
+    <string name="select_list_to_add_the_member">追加先のリストを選択してください</string>
+    <string name="remove_from_list_confirm">"@%1$s は既に「%2$s」に追加されています。このリストから削除しますか？"</string>
+
+    <!-- プロフィール編集画面 -->
+    <string name="profile_edit_screen_name_text_dummy">screen name</string>
+    <string name="profile_edit_name_label">名前</string>
+    <string name="profile_edit_description_text">自己紹介</string>
+    <string name="profile_edit_description_label">自己紹介</string>
+    <string name="profile_edit_location_label">場所</string>
+    <string name="profile_edit_url_label">ホームページ</string>
+    <string name="profile_edit_save_button">保存</string>
+    <string name="profile_edit_saved">保存しました</string>
+    <string name="profile_banner_saved">保存しました。反映されるまでしばらく時間がかかる場合があります</string>
+    <string name="profile_banner_removed">削除しました。反映されるまでしばらく時間がかかる場合があります</string>
+    
+    <!-- レビューのお願い画面 -->
+    <string name="review_dialog_title">お願い</string>
+    <string name="review_dialog_message">お使いになってみて、いかがでしたか？\nGoogle Playで感想を書いていただけると、今後の開発の励みになります！\nレビューを書いて、TwitPaneを応援して頂けますか？</string>
+    <string name="review_dialog_later_button">後で</string>
+    <string name="review_dialog_review_button">OK</string>
+    
+    <!-- お気に入り表示公式アプリ確認関連 -->
+    <string name="need_twitter_app_title">公式アプリで開く</string>
+    <string name="need_twitter_app_message">アンケート投稿などは Twitter の制約により非公式アプリではできません。\n代わりに公式アプリを呼び出し、表示することができます。\n\n公式アプリをインストールしますか？</string>
+<!--	<string name="show_favorited_users_by_twitter_app_run_message">いいねしたユーザー一覧は Twitter の制約により非公式アプリでは表示できません。\n代わりに公式アプリを呼び出し、このツイートを表示することができます。\n\n公式アプリを起動しますか？</string>-->
+
+	<string name="drawer_open">Open</string>
+	<string name="drawer_close">Close</string>
+
+    <string name="search_around_tweets_not_found_message">指定されたツイートが見つかりませんでした。\n
+下記のような原因が考えられます。\n\n
+- @%1$s の最新 %2$d 件のツイートから検索しましたが見つかりませんでした。もっと古いツイートかもしれません。\n
+- ツイートが削除されているかもしれません。\n
+</string>
+
+    <!-- 固定ツイート -->
+    <string name="pinned_tweet">固定されたツイート</string>
+    <string name="config_show_pinned_tweet">固定ツイートを表示する</string>
+    <string name="config_show_pinned_tweet_summary">ユーザータイムラインの先頭に固定ツイートを表示します【初期値：ON】</string>
+
+    <!-- サブスクリプション画面 -->
+    <string name="continue_to_trial">7日間無料で試す</string>
+    <string name="cloud_translation_subscription_title">翻訳の質を上げるには？</string>
+    <string name="subscription_title">サブスクリプションについて</string>
+
+
+    <!-- ================================================================================ -->
+    <!-- Menu -->
+    <!-- ================================================================================ -->
+    <string name="menu_tab">タブ</string>
+
+    <string name="menu_list_member">リストのメンバー</string>
+    <string name="menu_show_list_member">追加されているユーザー</string>
+    <string name="menu_show_list_subscribers">購読しているユーザー</string>
+    <string name="menu_create_list">リスト作成</string>
+    <string name="menu_list_edit">編集する</string>
+    <string name="menu_list_delete">削除する</string>
+    <string name="menu_list_subscribe">購読する</string>
+    <string name="menu_list_unscribe">購読を解除する</string>
+    <string name="menu_new">ツイート</string>
+    <string name="menu_search">検索</string>
+    <string name="menu_home">ホーム</string>
+    <string name="menu_refresh">更新</string>
+    <string name="menu_config">設定</string>
+    <string name="menu_event">イベント</string>
+    <string name="menu_about">TwitPaneについて</string>
+    <string name="menu_debug">デバッグ</string>
+    <string name="debug_mode_confirm_title">デバッグモード確認</string>
+    <string name="debug_mode_confirm_message">デバッグモードを設定します。よろしいですか？</string>
+    <string name="debug_mode_entered">デバッグモードを設定しました</string>
+    <string name="debug_mode_canceled">デバッグモードを解除しました</string>
+    <string name="debug_mode_menu">デバッグモードメニュー</string>
+    <string name="debug_mode_cancel">デバッグモードの解除</string>
+    <string name="debug_mode_send_debug_log">デバッグログの送信</string>
+    <string name="debug_mode_send_debug_log_short">送付する</string>
+    <string name="debug_mode_send_debug_log_confirm_title">デバッグログの送信確認</string>
+    <string name="debug_mode_send_debug_log_confirm_message">ご迷惑をおかけして申し訳ありません。
+\n
+\nTwitterの仕様変更により利用できなくなっている可能性があります。
+\n既に修正版が公開されている可能性がありますのでGoogle Play Storeでアップデートの確認をお願いします
+\n(公開されていない場合は公開までいましばらくお待ち下さい。)
+\n
+\nまた、デバッグログを作者に送付することで今後のバージョンでの修正に協力することが出来ます。
+\n但し、ログには個人情報を含む場合がありますのであらかじめご了承下さい。
+\nデバッグログを送付する場合は、次の画面で「Gmail」を選択して下さい。</string>
+    <string name="debug_mode_check_update">ストア確認</string>
+    <string name="show_internal_cache">内部キャッシュの確認</string>
+    <string name="show_debug_log">デバッグログ表示</string>
+    <string name="show_debug_notification">通知テスト(返信)</string>
+    
+    <string name="menu_show_account_list">アカウント</string>
+    <string name="menu_tab_config">タブの設定</string>
+    <string name="menu_show_tab_list">タブ一覧</string>
+    <string name="menu_open_tab_list">タブ一覧を開く</string>
+    <string name="menu_close_tab_list">タブ一覧を閉じる</string>
+    <string name="menu_page_config">タブの追加と並べ替え</string>
+    <string name="add_tab">タブの追加</string>
+    
+    <string name="menu_ok">OK</string>
+    <string name="menu_cancel">キャンセル</string>
+    <string name="menu_restore_default">デフォルトに戻す</string>
+    <string name="restore_default_confirm_message">初期配置に戻します。これまでに追加・変更したタブは消去されます。よろしいですか？</string>
+    <string name="menu_add">追加</string>
+    
+    <string name="menu_delete_tab">タブの削除</string>
+    <string name="tab_delete_confirm">「%1$s」タブを削除してもよろしいですか？</string>
+    <string name="menu_add_user_page_to_home">ホームタブに追加</string>
+    <string name="add_user_page_to_home_already_added">既に追加されています</string>
+    <string name="add_user_page_to_home_finish">ホームタブに追加しました</string>
+    <string name="menu_add_user_list_to_home">ホームタブに追加</string>
+    <string name="add_user_list_to_home_already_added">既に追加されています</string>
+    <string name="add_user_list_to_home_finish">ホームタブに追加しました</string>
+    <string name="menu_share">共有</string>
+    <string name="menu_share_design">デザインをツイートする</string>
+    
+    <string name="menu_stop_userstream">UserStream 停止</string>
+    <string name="menu_start_userstream">UserStream 開始</string>
+    <string name="menu_enable_auto_scroll">新着スクロールON</string>
+    <string name="menu_disable_auto_scroll">新着スクロールOFF</string>
+    
+    <string name="menu_add_search_tab_to_home">検索タブを追加する</string>
+    <string name="add_search_tab_to_home_already_added">既に追加されています</string>
+    <string name="add_search_tab_to_home_finish">検索タブを追加しました</string>
+    <string name="menu_open_saved_search">保存した検索を開く</string>
+    
+    <string name="menu_show_image_only">画像のみ表示</string>
+    <string name="menu_cancel_image_only">画像のみ表示の解除</string>
+
+    <string name="menu_show_all_rt">全てのRTを表示する</string>
+    <string name="menu_show_first_rt_only">最初のRTのみ表示する</string>
+    <string name="menu_search_with_official_app">公式アプリで検索</string>
+
+    <string name="menu_show_user">ユーザーを直接表示</string>
+    <string name="menu_search_user">ユーザー検索</string>
+    <string name="menu_show_block_users">ブロックユーザー一覧</string>
+    <string name="menu_show_no_retweet_users">リツイート非表示ユーザー一覧</string>
+
+    <string name="menu_campaign_ad">広告を消す</string>
+    <string name="campaign_info">広告解除について</string>
+    <string name="campaign_info_message">いつもご利用頂きありがとうございます。\n\nTwitPane の宣伝ツイートをすると、広告を約%1$d日間非表示にすることができます。\n有料版で広告がなくなった状態をお試しいただけます。\n宣伝ツイートをしますか？\n\n* 次の画面で宣伝ツイートを入力してください</string>
+    <string name="campaign_info_tweet">ツイート入力</string>
+    <string name="campaign_input_title">ツイートを入力してください</string>
+    <string name="campaign_input_alert">「TwitPane」を含むツイートを入力してください</string>
+    <string name="campaign_already_ad_hiding">既に広告解除済みです。\n広告を元に戻しますか？</string>
+    <string name="campaign_tweet_done_title">ツイート投稿完了</string>
+    <string name="campaign_tweet_done_message">ツイートの投稿が成功しました。\n広告が約%1$d日間非表示になります。</string>
+    <string name="campaign_tweet_count_exceeded">PRツイートによる広告解除回数が上限を超えています。広告解除パック(サブスクリプション)や有料版をご検討ください。</string>
+    
+    
+    <string name="menu_no_tap_ex_action">TLタップ拡張なし(初期値)</string>
+    <string name="reply_button">返信</string>
+    <string name="menu_reply">返信する</string>
+    <string name="menu_reply_all">全員に返信する</string>
+    <string name="menu_hidden_button">機能なし(非表示)</string>
+    <string name="menu_rt">リツイート</string>
+    <string name="menu_quote_tweet">引用ツイート</string>
+    <string name="menu_tweet_with_comment">コメント付きツイート(公式方式)</string>
+    <string name="menu_unofficial_retweet">RT \@TwitPane: …</string>
+    <string name="cannot_retweet_protected_user_tweet">非公開アカウントのツイートはリツイートできません</string>
+    <string name="menu_remove_rt">リツイート解除</string>
+    <string name="menu_create_favorite_favorite">お気に入りに追加する</string>
+    <string name="menu_remove_favorite_favorite">お気に入りから削除する</string>
+    <string name="menu_create_favorite_like">いいね</string>
+    <string name="menu_remove_favorite_like">「いいね」を取り消す</string>
+    <string name="menu_add_bookmark">ブックマークする</string>
+    <string name="menu_delete_bookmark">ブックマークを外す</string>
+    <string name="menu_show_conversation">会話を表示する</string>
+    <string name="menu_search_conversation">会話を検索する</string>
+    <string name="menu_search_around_tweets">前後のツイートを検索する</string>
+    <string name="found_new_reply_tweets">%1$s件の新着返信を取得しました</string>
+    <string name="menu_show_rt_users">リツイートしたユーザー一覧</string>
+    <string name="menu_show_quoted_tweets">引用されたツイート一覧</string>
+    <string name="menu_show_favorite_users_favorite">お気に入りに追加したユーザー一覧</string>
+    <string name="menu_show_favorite_users_like">いいねしたユーザー一覧</string>
+    <string name="menu_show_profile">プロフィールを表示する</string>
+    <string name="menu_show_timeline">タイムラインを表示する</string>
+    <string name="show_latest_tweet">最新のツイートを表示</string>
+    <string name="menu_show_tweet">表示</string>
+    <string name="menu_set_color_label_dots">カラーラベルを設定する...</string>
+    <string name="menu_set_color_label_short">カラーラベル設定</string>
+    <string name="menu_set_all_color_label">カラーラベルを一括設定する</string>
+    <string name="menu_cancel_color_label_short">カラーラベル解除</string>
+    <string name="cancel_all_color_labels_in_list">このリストに含まれるユーザー(%1$sユーザー)のカラーラベルを解除してよろしいですか？</string>
+    <string name="set_all_color_labels_in_list">このリストに含まれるユーザー(%1$sユーザー)のカラーラベルを全て「%2$s」に変更してよろしいですか？
+\n\n※既にカラーラベルが設定されているユーザーのカラーラベルは変更しません</string>
+    <string name="set_color_labels_done">カラーラベル一括設定完了(設定ユーザー数:%1$s)</string>
+    <string name="jump_to_other_tab1">任意のタブにジャンプ1</string>
+    <string name="jump_to_other_tab2">任意のタブにジャンプ2</string>
+    <string name="jump_to_other_tab3">任意のタブにジャンプ3</string>
+    <string name="select_jump_destination_tab">ジャンプ先タブの設定</string>
+    <string name="tab_jump_introduction">・ジャンプ先のタブはメイン画面でこのボタンをタップして設定してください。\n・ボタンを長押しするとジャンプ先を変更できます。</string>
+
+    <string name="menu_share_tweet">ツイートを共有する</string>
+    <string name="menu_remove_tweet">削除する</string>
+    <string name="menu_open_with_official_app">公式アプリで開く</string>
+    <string name="menu_import_design">このデザインをインポートする</string>
+    
+    <string name="menu_user_mute">このユーザーをミュート...</string>
+    <string name="menu_user_block">このユーザーをブロック...</string>
+    <string name="menu_block_this_tweet">このツイートをブロック...</string>
+    <string name="show_blocked_tweets">ブロックツイート一覧</string>
+    <string name="menu_user_reply_search">ユーザー宛のツイートを検索する</string>
+    <string name="menu_user_conversation_with_me_search">自分とのやり取りを検索する</string>
+    <string name="menu_show_image_timeline">画像付きのツイートを表示</string>
+    <string name="menu_user_show_list">ユーザーのリストを表示</string>
+    <string name="menu_user_show_favorite_favorite">ユーザーのお気に入りを表示</string>
+    <string name="menu_user_show_favorite_like">ユーザーのいいねを表示</string>
+    <string name="menu_user_show_quoted_tweets">引用されたツイートを表示</string>
+    <string name="menu_user_show_timeline">ユーザーのタイムラインを表示</string>
+    <string name="menu_user_reply_to">ユーザー宛にツイートする</string>
+    <string name="menu_user_send_message">ユーザーにメッセージを送る</string>
+    
+    <string name="menu_guide">操作ガイド</string>
+    <string name="menu_add_list">リストに追加する...</string>
+    
+    <string name="menu_tweet_config">投稿設定</string>
+    <string name="menu_reply_to_other_tweet">別のツイートに繋ぐ</string>
+    <string name="menu_cancel_reply_to_other_tweet">別のツイートに繋ぐのをやめる</string>
+    <string name="select_tweet_to_link_to">繋ぎ先のツイートを選択してください</string>
+    <string name="menu_hide_reply_area">返信エリアを非表示にする</string>
+    <string name="menu_show_reply_area">返信エリアを表示する</string>
+    <string name="menu_hide_attached_image_area">添付画像エリアを非表示にする</string>
+    <string name="menu_show_attached_image_area">添付画像エリアを表示する</string>
+    <string name="menu_add_app_link">TwitPaneリンクの追加</string>
+    
+    <string name="menu_block">ブロック</string>
+    <string name="menu_block_dots">ブロック...</string>
+    <string name="menu_spam">スパム通報</string>
+    <string name="menu_report_as_spam">スパムとして報告...</string>
+    <string name="report_tweet_as_spam_confirm_message">本当にこのツイートをスパムとしてマークしますか？</string>
+    <string name="tweet_reported_message">ツイートをスパム通報しました</string>
+    <string name="edited_tweet">編集履歴</string>
+    <string name="edited">編集済み</string>
+    <string name="there_is_a_new_version_of_this_tweet">このツイートには新しいバージョンがあります</string>
+    <string name="latest_tweet">最新ツイート</string>
+    <string name="version_history">バージョン履歴</string>
+    <string name="menu_delete_user_from_list">リストから削除...</string>
+    <string name="menu_delete_from_block_list">ブロック解除...</string>
+    <string name="menu_scroll_to_top">一番上に移動</string>
+    <string name="menu_scroll_to_bottom">一番下に移動</string>
+    <string name="menu_move_up">上に移動</string>
+    <string name="menu_move_down">下に移動</string>
+    <string name="menu_mute">ミュート...</string>
+    <string name="menu_misc_block_mute">ブロック・スパム通報...</string>
+    <string name="menu_choose_tweets">複数ツイートの選択...</string>
+    <string name="message_for">%1$s宛のメッセージ</string>
+    <string name="message_from">%1$sからのメッセージ</string>
+    <string name="loaded_messages">%1$d件のメッセージを取得しました</string>
+    <string name="menu_delete_message">削除する...</string>
+    <string name="menu_share_message">共有する</string>
+    <string name="menu_share_lists">共有する</string>
+    <string name="menu_copy">コピーする...</string>
+    <string name="menu_translate">ツイートを翻訳</string>
+    <string name="set_startup_pane">起動タブに設定する</string>
+
+    <string name="show_polls_result">アンケートの途中経過を表示する</string>
+    <string name="votes">%1$d 票</string>
+    <string name="polls_until">%1$s まで</string>
+    <string name="polls_final_results">最終結果</string>
+
+    <string name="change_account">アカウント変更</string>
+    <string name="choose_account">アカウント選択</string>
+    <string name="other_color_with_color_picker">その他(カラーピッカー)</string>
+    <string name="change_color">カラー変更</string>
+    <string name="default_color">既定色</string>
+    <string name="no_color_label">カラーラベルなし</string>
+
+    <string name="select_upload_plugin">アップロードプラグイン選択</string>
+    <string name="upload_with_twitpane">TwitPaneでアップロードする</string>
+    
+    <string name="image_menu">画像メニュー</string>
+    <string name="video_menu">動画メニュー</string>
+    <string name="media_menu_preview">プレビュー</string>
+    <string name="image_menu_preview">画像のプレビュー</string>
+    <string name="image_menu_save">保存する</string>
+    
+    <string name="hashtag_menu_search">検索する</string>
+    <string name="hashtag_menu_tweet">ツイートする</string>
+    <string name="hashtag_menu_remember">記憶する</string>
+    <string name="hashtag_menu_mute">ミュートする...</string>
+    <string name="hashtag_remembered">記憶しました(投稿画面で呼び出せます)</string>
+    
+    <string name="menu_change_name">タブ名の変更</string>
+    <string name="menu_change_keyword">検索キーワード変更</string>
+    
+	<!-- ================================================================================ -->
+    <!-- WriteView -->
+    <!-- ================================================================================ -->
+    <string name="write_view_activity_title">ツイート</string>
+    <string name="write_view_body_label">いまどうしてる？</string>
+    <string name="write_view_submit_button">ツイート</string>
+    <string name="write_view_send_button">送信</string>
+    <string name="picture1_select_button">写真</string>
+    <string name="mush_button_text">マッシュルーム</string>
+    <string name="minimize">閉じる</string>
+    <string name="maximize">開く</string>
+    <string name="hashtag">ハッシュタグ</string>
+    <string name="hashtag_remove_confirm_title">削除確認</string>
+    <string name="hashtag_remove_confirm_message">本当にこのハッシュタグを削除しますか？</string>
+    <string name="no_recent_hashtags">最近使ったハッシュタグはありません</string>
+    <string name="screen_name_select">返信ユーザー選択</string>
+    <string name="reload_screen_name_list_confirm_title">リロード確認</string>
+    <string name="reload_screen_name_list_confirm_message">フォローとフォロワーの一覧を再取得します。よろしいですか？
+\n\n※取得には数分程度かかる場合があります。フォロー・フォロワーそれぞれ最新の200人ずつを取得します。</string>
+    <string name="call_twicca_plugin">プラグイン</string>
+    <string name="write_view_finish_confirm_title">確認</string>
+    <string name="write_view_finish_confirm_message">この画面を閉じてよろしいですか？</string>
+    <string name="write_view_finish_save_confirm_message">下書きに保存しますか？</string>
+    <string name="write_view_finish_save">保存</string>
+    <string name="write_view_finish_save_discard">破棄</string>
+    <string name="write_view_finish_save_cancel">キャンセル</string>
+    <string name="no_drafts">下書きはありません</string>
+    <string name="select_items_to_delete">削除したい項目を選択してください</string>
+    <string name="drafts">下書き・ツイート履歴</string>
+    <string name="drafts_and_tweet_history">下書き・ツイート履歴</string>
+    <string name="drafts_only">下書きのみ</string>
+    <string name="tweet_history_only">ツイート履歴のみ</string>
+    <string name="filter">フィルター</string>
+    <string name="draft_remove_confirm_title">削除確認</string>
+    <string name="draft_remove_confirm_message">下書きを削除しますか？</string>
+    <string name="draft_remove">削除</string>
+    <string name="delete_hashtag_confirm">下記のハッシュタグを削除してもよろしいですか？</string>
+    <string name="write_view_picture_preview">プレビュー</string>
+    <string name="write_view_picture_edit">編集</string>
+    <string name="write_view_movie_cut_edit">カット編集</string>
+    <string name="write_view_movie_install_lvc">ストアで Lossless Video Cutter をインストールしてください。\n
+(インストール後に本アプリに戻るとカット編集画面が開きます)</string>
+    <string name="write_view_picture_cancel">添付解除</string>
+    <string name="write_view_picture_select">写真を選択する(ギャラリー)</string>
+    <string name="write_view_movie_select">動画を選択する</string>
+    <string name="write_view_picture_multi_select">写真を選択する(複数選択)</string>
+    <string name="write_view_picture_multi_select_alt">写真を選択する(内蔵ギャラリー)</string>
+    <string name="write_view_picture_shot">写真を撮影する</string>
+    <string name="write_view_movie_shot">動画を撮影する</string>
+    <string name="write_view_cannot_attach_anymore">これ以上添付できません</string>
+    <string name="write_view_input_body">本文を入力してください</string>
+    <string name="write_view_body_length_error">本文は%1$d文字以内で入力してください</string>
+    <string name="write_view_twitlonger_confirm">本文が140文字を超えています。\nTwitLonger経由で投稿しますか？</string>
+    <string name="write_view_twitter_dm_command_notice">DM送信コマンドになりますがよろしいですか？</string>
+    <string name="write_view_tweet_confirm">ツイートします。よろしいですか？</string>
+    <string name="write_view_sent_tweet">投稿しました</string>
+    <string name="write_view_failed_to_send_tweet">投稿に失敗しました・・・</string>
+    <string name="write_view_restricted_who_can_reply_to_this_tweet">このツイートは返信対象が制限されているので返信できません。\n({errorMessage})</string>
+    <string name="write_view_duplicate_content">ツイートが重複しています。\n({errorMessage})</string>
+    <string name="write_view_convert_to_quote_tweet_config">引用ツイートに変更することで投稿できる場合があります。\n引用ツイートに変更しますか？</string>
+    <string name="write_view_dm_confirm">\@%1$sにDMを送信します。よろしいですか？</string>
+    <string name="write_view_sent_dm">送信しました</string>
+    <string name="write_view_chars">文字</string>
+    <string name="write_view_cannot_get_photo_error">写真を取得できませんでした。再度選択してください。</string>
+    <string name="write_view_photo_size_error_title">画像サイズエラー</string>
+    <string name="write_view_photo_size_error_message">画像サイズが大きいため添付できません。</string>
+    <string name="write_view_no_mushroom_app">マッシュルームが見つかりませんでした。
+\n\nマッシュルームを利用することで絵文字が入力できます。
+\nGoogle Play ストアからダウンロードしてください。</string>
+    <string name="write_view_move_to_left">左に移動</string>
+    <string name="write_view_move_to_right">右に移動</string>
+
+    <!-- ================================================================================ -->
+    <!-- 内蔵ブラウザ -->
+    <!-- ================================================================================ -->
+    
+    <!-- ツールバーボタン -->
+    <string name="browser_top_button">ホームに戻る</string>
+    <string name="browser_back_button">戻る</string>
+    <string name="browser_menu_button">メニュー</string>
+    <string name="browser_scroll_to_top_button">一番上にスクロールする</string>
+    <string name="browser_scroll_to_bottom_button">一番下にスクロールする</string>
+    <string name="browser_reload_button">リロード</string>
+    <string name="browser_open_browser_button">ブラウザで開く</string>
+    <string name="browser_exit_button">終了</string>
+    
+    <string name="browser_cancel_text">キャンセル</string>
+    
+    <!-- その他 -->
+    <string name="browser_share_by_browser_confirm_dialog_title">ブラウザ起動確認</string>
+    <string name="browser_share_by_browser_confirm_dialog_message">現在のページを外部ブラウザで開きます。よろしいですか？</string>
+    <string name="browser_dialog_yes">はい</string>
+    <string name="browser_dialog_no">いいえ</string>
+    <string name="browser_history">閲覧履歴</string>
+    <string name="browser_cannot_specify_the_tapped_image">タップした画像が特定できませんでした。</string>
+    <string name="browser_show_url_menu">URLの確認</string>
+    <string name="browser_share_menu">共有</string>
+    <string name="browser_debug_menu">デバッグ情報</string>
+    <string name="browser_jb_copy_start_message">コピーしたい文字を長押ししてテキスト選択を開始してください</string>
+    
+    <!-- 終了確認 -->
+    <string name="browser_exit_confirm_title">終了確認</string>
+    <string name="browser_exit_confirm_message">終了してもよろしいですか？</string>
+    
+    <!-- URL確認 -->
+    <string name="browser_url_confirm_title">URLの確認</string>
+    <string name="browser_url_confirm_message">%1$s\n\n「共有」または「クリップボードにコピー」できます。</string>
+    <string name="browser_url_confirm_copy">コピーする</string>
+    <string name="browser_url_confirm_copied">クリップボードにコピーしました</string>
+    <string name="browser_url_confirm_cancel">キャンセル</string>
+    <string name="copy_link">リンクをコピー</string>
+    
+    <!-- 画像保存確認 -->
+    <string name="browser_save_image_confirm_title">画像の保存確認</string>
+    <string name="browser_save_image_confirm_message">画像を保存しますか？</string>
+    
+    <!-- ブラウザのロングタップメニュー -->
+    <string name="browser_long_click_menu_title">このURLを開きますか？</string>
+    <string name="browser_long_click_menu_open">開く</string>
+    <string name="browser_long_click_menu_open_browser">ブラウザで開く</string>
+    <string name="browser_long_click_menu_share">共有する</string>
+    <string name="browser_long_click_menu_cancel">キャンセル</string>
+        
+    
+    <!-- ================================================================================ -->
+    <!-- Settings -->
+    <!-- ================================================================================ -->
+    <string name="config_timeline_display_settings_category">タイムライン表示設定</string>
+    <string name="config_timeline_display_settings_category_summary">フォントサイズ、サムネイルサイズ、ユーザーアイコン、固定ツイート、ツイートデザインなど</string>
+
+	<string name="config_display_settings_category">表示設定</string>
+    <string name="config_display_settings_category_summary">タイトルバー、タブ、サイドメニューなど</string>
+
+    <string name="config_font_size">フォントサイズ</string>
+    <string name="config_line_spacing">本文の行間</string>
+    <string name="config_theme">テーマとデザイン設定</string>
+    <string name="config_appearance">外観</string>
+    <string name="config_timeline_compose_category">タイムラインと投稿</string>
+    <string name="config_media_viewer_category">メディアビューア</string>
+    <string name="config_thumb_size">ユーザーアイコンサイズ</string>
+    <string name="config_thumb_size_summary">左側のユーザーアイコンのサイズを設定します</string>
+    <string name="config_show_reply_user_thumbnail">返信ユーザーアイコン表示</string>
+    <string name="config_show_reply_user_thumbnail_summary">返信先ユーザーのアイコンを表示します【初期値：ON】</string>
+    <string name="config_wrap_name_line">名前を折り返す</string>
+    <string name="config_wrap_name_line_summary">長い名前を折り返します【初期値：ON】</string>
+    <string name="config_preview_of_attached_photo_category">添付画像プレビュー</string>
+    <string name="config_photo_thumbnail_layout">サムネイルレイアウトの変更</string>
+    <string name="config_photo_thumbnail_layout_new_official_app">縦長のサムネイル &lt;br>&lt;small>新Twitter公式アプリ方式: 添付画像が1枚の場合、画像のサイズに応じて 横長(2:1)  ～ 縦長(3:4) のサムネイルを表示します。&lt;/small></string>
+    <string name="config_photo_thumbnail_layout_old_official_app">横長のサムネイル &lt;br>&lt;small>旧Twitter公式アプリ方式&lt;/small></string>
+    <string name="config_photo_thumbnail_layout_old_twitpane">正方形のサムネイル &lt;br>&lt;small>旧TwitPane方式&lt;/small></string>
+    <string name="config_one_photo_size">サムネイル画像サイズ(1枚)</string>
+    <string name="config_change_one_photo_size">サムネイル画像サイズ(1枚)の変更</string>
+    <string name="config_one_photo_size_summary">ツイートの添付画像が1枚の場合のプレビュー表示サイズを設定します。サムネイル画像を表示したくない場合は「非表示」に設定してください。</string>
+    <string name="config_multi_photo_size">サムネイル画像サイズ(2枚以上)</string>
+    <string name="config_change_multi_photo_size">サムネイル画像サイズ(複数)の変更</string>
+    <string name="config_multi_photo_size_summary">ツイートの添付画像が2枚以上の場合のプレビュー表示サイズを設定します。サムネイル画像を表示したくない場合は「非表示」に設定してください。</string>
+    <string name="config_photo_size_hide">非表示</string>
+    <string name="config_tab_icon">タブのアイコン</string>
+    <string name="config_tab_icon_summary">タブにアイコンを表示します【初期値：ON】</string>
+    <string name="config_hide_tab_bar_on_landscape">横画面でタブ非表示</string>
+    <string name="config_account_on_title">タイトルのアカウント</string>
+    <string name="config_account_on_title_summary">アプリタイトルにアカウント名(@name)を表示します【初期値：ON】</string>
+    <string name="config_account_name_on_title">タイトルの名前表示</string>
+    <string name="config_account_name_on_title_summary">アプリタイトルにアカウント名(名前)を表示します【初期値：OFF】</string>
+    <string name="config_unread_count_on_right_of_title">未読件数を右に表示</string>
+    <string name="config_unread_count_on_right_of_title_summary">アプリタイトルの右側に未読件数を表示します。OFFの場合はアプリ名・アカウント名の後に表示します【初期値：OFF】</string>
+    <string name="config_auto_hide_toolbar">タイトルバーの自動開閉</string>
+    <string name="config_auto_hide_toolbar_summary">アプリタイトル部分をタイムラインのスクロールで自動的に開閉します。【初期値：ON】</string>
+    <string name="config_snackbar_for_like_rt_notice">いいねとRT通知の新方式</string>
+    <string name="config_snackbar_for_like_rt_notice_summary">いいねとRT後の通知を新しい方式(Snackbar)にします。旧形式(Toast)にしたい場合はオフにしてください【初期値：ON】</string>
+    <string name="config_image_animation">画像表示アニメーション</string>
+    <string name="config_image_animation_summary">画像を表示する際にだんだん現れるアニメーションをします。性能の低い端末ではオフにすると高速に表示できます。【初期値：OFF】</string>
+	<string name="config_enable_fast_scroll">高速スクロールバー表示</string>
+	<string name="config_enable_fast_scroll_summary">タイムラインに高速スクロール用のバーを表示します【初期値：OFF】</string>
+    <string name="config_show_rate_limit_on_title">API残量表示</string>
+    <string name="config_show_rate_limit_on_title_summary">アプリタイトルにAPI残量を表示します【初期値：OFF】</string>
+    <string name="config_enable_pull_to_refresh">引っ張って更新</string>
+    <string name="config_enable_pull_to_refresh_summary">タイムラインの一番上を下側に引っ張って更新できるようにします【初期値：ON】</string>
+    <string name="config_swipe_refresh_trigger_distance">引っ張って更新の感度</string>
+    <string name="config_swipe_refresh_trigger_distance_summary">更新するために必要な距離を指定します【初期値：32dp】</string>
+    <string name="config_side_menu_category">サイドメニュー</string>
+    <string name="config_side_menu_background_image">サイドメニューの背景画像</string>
+    <string name="config_side_menu_background_image_background_of_profile">プロフィールの背景に表示する</string>
+    <string name="config_side_menu_background_image_below_profile">プロフィールの下に表示する</string>
+	<string name="config_show_follow_count_on_timeline">フォロー数等を表示する</string>
+    <string name="config_show_follow_count_on_timeline_summary">タイムラインにそのユーザーのフォロー・フォロワー数を表示する【初期値：OFF】</string>
+    <string name="config_show_source_app">投稿元アプリを表示する</string>
+    <string name="config_show_source_app_summary">投稿に利用したアプリ名を「○○から」のように表示します【初期値：ON】</string>
+    <string name="config_show_image_url">画像URLを表示する</string>
+    <string name="config_show_image_url_summary">オフにすると公式アプリのように公式画像のURLが非表示になりタイムラインがすっきりします【初期値：OFF】</string>
+    <string name="config_show_followers_count_bar">フォロワー数表示バー</string>
+    <string name="config_show_followers_count_bar_summary">名前の上にフォロワー数を表すバーを表示します【初期値：OFF】</string>
+    <string name="config_show_mutual_mark">相互フォローアイコン</string>
+    <string name="config_show_mutual_mark_summary">タイムラインに相互フォローアイコンを表示する(フォロー・フォロワー一覧ではこの設定に関係なく常に表示されます)【初期値：OFF】</string>
+    <string name="config_display_sensitive_iamges_as_blur">センシティブなメディアをぼかす</string>
+    <string name="config_display_sensitive_iamges_as_blur_summary">センシティブフラグのついたツイートのメディアをぼかして表示します【初期値：ON】</string>
+    <string name="config_user_icon_thumbnail_category">ユーザーアイコン</string>
+    <string name="config_use_rounded_thumbnail">ユーザーアイコンを丸くする</string>
+    <string name="config_use_rounded_thumbnail_summary">ユーザーアイコンを丸く表示します【初期値：ON】</string>
+    <string name="config_link_area_category">リンク</string>
+    <string name="config_show_link_area">リンク先の画像と説明文</string>
+    <string name="config_show_link_area_summary">ツイート内のWebサイト(リンク)のヘッダー画像とタイトルを表示します【初期値：ON】</string>
+    <string name="config_tweet_design">ツイートデザイン</string>
+    <string name="config_show_quote_count">引用ツイート数を表示する</string>
+    <string name="config_show_quote_count_summary">【初期値：ON】</string>
+    <string name="config_change_link_area_thumbnail_size">画像サイズの変更</string>
+    <string name="config_link_area_thumbnail_size">リンク先の画像サイズ</string>
+    <string name="config_emoji_size">絵文字表示設定</string>
+    <string-array name="config_emoji_size_entries">
+        <item>端末の絵文字</item>
+        <item>Twitter絵文字(小)</item>
+        <item>Twitter絵文字(中)</item>
+        <item>Twitter絵文字(大)</item>
+    </string-array>
+    <string name="config_userstream_animation_type">新着追加アニメーション</string>
+    <string-array name="config_userstream_animation_type_entries">
+        <item>標準アニメーション</item>
+        <item>アニメーションなし</item>
+    </string-array>
+
+    <string name="config_toolbar">ツールバー設定</string>
+    <string name="config_toolbar_height">ツールバーの高さ</string>
+    <string name="config_toolbar_height_change">変更</string>
+    <string name="transparent_toolbar">透過ツールバー</string>
+    <string name="bottom_toolbar_auto_hide">ツールバー自動開閉(スクロールで自動開閉)</string>
+    <string name="bottom_toolbar_auto_hide_when_scrolling_down">下にスクロールしたときに閉じる(Offの場合、上にスクロールしたときに閉じる)</string>
+    <string name="change_function">機能変更</string>
+    <string name="toolbar_button_tutorial1">ボタンをタップすると機能を変更できます。
+\nまた、長押しするとボタンのカラーを変更できます。</string>
+
+    <string name="config_translation_settings_category">翻訳設定</string>
+    <string name="config_show_translation_link">「ツイートを翻訳」を表示</string>
+    <string name="config_show_translation_link_summary">ツイートの下に「ツイートを翻訳」リンクを表示します【初期値：ON】</string>
+    <string name="config_use_cloud_translation">翻訳の質を上げる</string>
+    <string name="config_use_cloud_translation_summary">クラウド翻訳(DeepL翻訳、Googleクラウド翻訳)を利用することで翻訳結果が高品質・高精度になります。有料の外部サービスを利用します。</string>
+    <string name="config_use_cloud_translation_summary_not_available_due_to_not_subscribed">(定期購入がキャンセル済みなので利用できません)</string>
+    <string name="config_use_cloud_translation_trial">クラウド翻訳を試す</string>
+    <string name="config_use_cloud_translation_trial_summary">1日数回、クラウド翻訳を試すことができます【初期値：ON】</string>
+    <string name="config_cloud_translation_provider">クラウド翻訳の提供元</string>
+    <string name="translated_by">%1$sによる翻訳</string>
+    <string name="translation_provider_name_mlkit">ローカル翻訳</string>
+    <string name="config_use_mlkit_translation_after_cloud_translation">ローカル翻訳の結果も表示する</string>
+    <string name="config_use_mlkit_translation_after_cloud_translation_summary">クラウド翻訳の下にローカル翻訳の結果も表示します【初期値：OFF】</string>
+
+    <string name="config_timeline_settings_category">タイムライン設定</string>
+    <string name="config_tweet_load">ツイート取得</string>
+    <string name="config_action">操作</string>
+	<string name="config_tweet_get_limit_title">ツイート取得件数</string>
+	<string name="config_tweet_get_limit_summary">ツイートを1回に取得する件数です。大きくしすぎると通信時間やデータ量が多くなります。</string>
+    <string name="config_use_home_timeline_v2">タイムラインをTwitter API v2で取得</string>
+    <string name="config_use_home_timeline_v2_summary">ホームタイムラインの取得に Twitter API v2 を使用します。API制限が15回から180回に緩和されます【初期値：OFF】</string>
+    <string name="config_use_home_timeline_v2_confirm_message">・API制限が15分あたり15回から180回に増加します。\n
+・一度に取得できるツイートの上限が100件になります。\n
+・動作が不安定になる場合は設定をオフに戻してください。\n
+\n
+変更しますか？</string>
+    <string name="config_auto_load_at_startup">起動時にTLを取得する</string>
+    <string name="config_auto_load_at_startup_summary">アプリの起動時にカーソルが一番上にある場合、自動的に新着のタイムラインを取得します【初期値：ON】</string>
+    <string name="config_auto_pager">オートページャ</string>
+    <string name="config_auto_pager_summary">リストの下までスクロールした際に自動的に次のページを取得します【初期値：ON】</string>
+    <string name="config_scroll_pos_after_acquired_gap">中間ツイート取得後の位置</string>
+    <string name="config_scroll_pos_after_acquired_gap_summary">…をタップして「間のツイート(ギャップ)」を取得した後のスクロール位置を設定します</string>
+    <string name="config_scroll_pos_after_acquired_gap_top">中間ツイートの上側(移動しない)</string>
+    <string name="config_scroll_pos_after_acquired_gap_bottom">中間ツイートの下側</string>
+    <string name="config_scroll_pos_after_acquired_gap_confirm_each_time">取得時に毎回確認する</string>
+    <string name="config_scroll_pos_after_acquired_new_tweet">新着ツイート取得後の位置</string>
+    <string name="config_scroll_pos_after_acquired_new_tweet_summary">リロードボタン等で新しいツイートを取得した後のスクロール位置を設定します</string>
+    <string name="config_scroll_pos_after_acquired_new_tweet_top">新着ツイートの上側</string>
+    <string name="config_scroll_pos_after_acquired_new_tweet_bottom">新着ツイートの下側(移動しない)</string>
+    <string name="config_volume_key_up_function">ボリュームUpキー</string>
+	<string name="config_volume_key_down_function">ボリュームDownキー</string>
+	<string name="config_volume_key_volume">ボリューム(初期値)</string>
+	<string name="config_volume_key_scrollup">上スクロール</string>
+	<string name="config_volume_key_scrolldown">下スクロール</string>
+	<string name="config_volume_key_nextaccount">アカウント切替</string>
+	<string name="config_volume_key_userstream">UserStream切替</string>
+	<string name="config_volume_key_nexttab">次のタブ</string>
+	<string name="config_volume_key_prevtab">前のタブ</string>
+    <string name="config_open_link_by_tap">URLをタップで開く</string>
+    <string name="config_open_link_by_tap_summary">URLをタップして直接ブラウザを開きます【初期値：ON】</string>
+    <string name="config_open_link_with_internal_browser">内部ブラウザで開く</string>
+    <string name="config_open_link_with_internal_browser_summary">URLを内部ブラウザ(Chrome Custom Tabs)で開く【初期値：ON】</string>
+    <string name="config_open_youtube_link_with_internal_browser">YouTube動画を内部ブラウザで開く</string>
+    <string name="config_open_youtube_link_with_internal_browser_summary">YouTubeのURLを内部ブラウザ(Chrome Custom Tabs)で開く【初期値：OFF】</string>
+    <string name="config_show_conversation_from_bottom">新しいツイートを下に表示</string>
+    <string name="config_show_conversation_from_bottom_summary">公式アプリと同様に下側に新しい会話のツイートを表示します【初期値：ON】</string>
+    <string name="config_conversation_search_count">会話検索の件数</string>
+    <string name="config_conversation_search_count_summary">ツイートの会話を表示する際はそのツイートへの返信をTwitterの「ツイート検索」機能を利用して取得しています。この設定を大きくすることでより多くの返信を取得できる場合がありますが、通信時間が長くなります。設定値：%s</string>
+
+    <string name="config_tap_ex">タイムラインタップ拡張</string>
+	<string name="config_tap_ex_action_left">左側タップ</string>
+	<string name="config_tap_ex_action_left_summary">ツイートの左側(サムネイルのすぐ右側付近)をタップした際に呼び出す機能</string>
+	<string name="config_tap_ex_action_right">右側タップ</string>
+	<string name="config_tap_ex_action_right_summary">ツイートの右側をタップした際に呼び出す機能</string>
+    <string name="config_tap_ex_action_left_long">左側の長押し</string>
+    <string name="config_tap_ex_action_left_long_summary">ツイートの左側を長押しした際に呼び出す機能</string>
+    <string name="config_tap_ex_action_right_long">右側の長押し</string>
+    <string name="config_tap_ex_action_right_long_summary">ツイートの右側を長押しした際に呼び出す機能</string>
+
+	<string name="config_set_read_after_shown">表示時に既読にする</string>
+	<string name="config_set_read_after_shown_summary">ツイートを表示した時点ですぐに既読にする【初期値：OFF】</string>
+
+    <string name="config_message_settings_category">メッセージ設定</string>
+    <string name="config_show_new_message_from_bottom">新しいメッセージを下に表示</string>
+    <string name="config_show_new_message_from_bottom_summary">公式アプリや一般的なメッセージ系アプリと同様に下側に新しいメッセージを表示します【初期値：ON】</string>
+
+    <string name="config_post_category">ツイート投稿設定</string>
+    <string name="config_image_uploading_category">画像のアップロード</string>
+	<string name="config_upload_image_size_title">アップロード画像のサイズ</string>
+    <string name="config_upload_image_size_summary">このサイズよりも縦横が小さくなるように画像を縮小します。大きくすると高品質になりますがアップロード時間が長くなったり、アップロードに失敗する場合があります。</string>
+	<string name="config_upload_image_quality_title">アップロード画像の品質</string>
+	<string name="config_upload_image_quality_summary">JPEG画像の品質を設定します。品質を高くするとファイルサイズが大きくなるためアップロードに失敗する場合があります。</string>
+    <string name="upload_image_quality_good">低画質</string>
+    <string name="upload_image_quality_better">中画質【初期値】</string>
+    <string name="upload_image_quality_best">高画質</string>
+	<string name="config_show_tweet_confirm_dialog_title">投稿前の確認画面</string>
+	<string name="config_show_tweet_confirm_dialog_summary">ツイートやメッセージの投稿前に投稿内容を確認する画面を表示します【初期値：ON】</string>
+    <string name="config_tweet_font_size">フォントサイズ</string>
+    <string name="config_refresh_timeline_after_tweet_title">投稿後の自動更新</string>
+    <string name="config_refresh_timeline_after_tweet_summary">ツイート投稿後にタイムラインを再取得します【初期値：OFF】</string>
+    <string name="config_live_tweet_mode_title">実況モード</string>
+    <string name="config_live_tweet_mode_summary">最後にツイートした際のハッシュタグを記憶します。投稿画面のハッシュタグボタンの長押しでも実況モードを切り替えられます【初期値：OFF】</string>
+    <string name="config_v2_tweet_post_title">v2投稿モード</string>
+    <string name="config_v2_tweet_post_summary">Twitter API v2 で投稿します。【初期値：OFF】</string>
+    <string name="config_show_mushroom_button">マッシュルームボタン</string>
+    <string name="config_show_mushroom_button_summary">マッシュルームボタンを表示する【初期値：ON】</string>
+    <string name="config_use_screen_name_completion">"@ 補完"</string>
+    <string name="config_use_screen_name_completion_summary">\'@\'入力時にユーザー名の選択画面を表示します【初期値：ON】</string>
+    <string name="config_show_actionbar_tweet_button">メニューでツイート</string>
+    <string name="config_show_actionbar_tweet_button_summary">上部メニューにツイートボタンを表示します【初期値：OFF】</string>
+    <string name="config_show_emoji_ime_title">絵文字入力</string>
+    <string name="config_show_emoji_ime_summary">IME(文字・日本語入力パネル)で絵文字を入力できるようにします(実際に入力できるかどうかはIMEにより異なります)【初期値：OFF】</string>
+    <string name="config_hide_compose_reply_area_by_default_title">返信エリアの非表示</string>
+    <string name="config_hide_compose_reply_area_by_default_summary">返信時に返信エリアを閉じた状態で投稿画面を開きます【初期値：OFF】</string>
+	<string name="config_show_remain_tweet_length">残り文字数表示</string>
+    <string name="config_show_remain_tweet_length_summary">タイトルにツイート可能な残り文字数を表示します。オフにすると入力した文字数を表示します【初期値：ON】</string>
+    <string name="config_count_tweet_length_as_280">280文字カウント</string>
+    <string name="config_count_tweet_length_as_280_summary">ツイート文字数を最大280文字としてカウントします。オフにすると日本語は1文字=1文字、英語や記号などは2文字=1文字としてカウントします。【初期値：OFF】</string>
+    <string name="config_auto_save_count">自動保存件数</string>
+    <string name="config_gallery_action">画像選択ギャラリーの種類</string>
+    <string name="config_gallery_action_summary">ギャラリーアプリが複数インストールされている場合、Pickにすると常時選択設定が可能です。また、GetContentにするとDropbox等のギャラリーからも選択できます</string>
+    <string-array name="config_gallery_actions">
+        <item>Pick【初期値】</item>
+        <item>GetContent</item>
+    </string-array>
+		
+	<string name="config_confirm_settings_category">確認設定</string>
+	<string name="config_show_rt_confirm_dialog_title">リツイート</string>
+    <string name="config_show_image_save_confirm_dialog_title">画像の保存</string>
+    <string name="config_confirm_settings_notice_about_another_account">アカウントを選択してリツイートやいいねをする場合は、確認設定がONでもアカウントを選択した後すぐにリツイートやいいねが実行されます</string>
+
+	<string name="config_mute_settings_category">ミュート設定</string>
+    <string name="config_mute_add">追加</string>
+    <string name="config_mute_sort">並び替え</string>
+    <string name="config_mute_sort_confirm_message">辞書順に並び替えてよろしいですか？(元に戻すことはできません)</string>
+    <string name="config_mute_edit">変更</string>
+    <string name="config_mute_delete">削除</string>
+    <string name="cannot_include_comma_in_mute">ミュート文字列の中にカンマを含むことはできません</string>
+    <string name="confirm_to_add_mute_word">ミュートワードに設定します。よろしいですか？</string>
+    <string name="mute_word_added">ミュートワードを追加しました</string>
+
+    <string name="temporarily_disable_mute">ミュートを一時的に無効にする</string>
+    <string name="return_mute_to_active">ミュートを有効に戻す</string>
+
+    <string name="config_mute_users">ユーザー</string>
+    <string name="config_mute_users_message">ミュートしたいユーザーを記述してください</string>
+    <string name="config_mute_users_hint">\@username</string>
+    <string name="config_mute_no_users">ミュートユーザーはありません</string>
+    <string name="this_user_is_muted">このユーザーはミュートしています</string>
+
+    <string name="config_mute_clients">アプリ</string>
+    <string name="config_mute_clients_message">ミュートしたいクライアントアプリ名を記述してください。部分一致です</string>
+    <string name="config_mute_clients_hint">app name</string>
+    <string name="config_mute_no_clients">ミュートクライアントアプリはありません</string>
+    
+    <string name="config_mute_words">ワード</string>
+    <string name="config_mute_words_message">ミュートしたい発言を記述してください。これらを含む発言が非表示になります</string>
+    <string name="config_mute_words_hint">word</string>
+    <string name="config_mute_no_words">ミュートワードはありません</string>
+
+    <string name="config_mute_target">ミュート対象</string>
+    <string name="config_mute_to_reply_conversation">返信や会話もミュートする</string>
+    <string name="config_mute_to_reply_conversation_summary">【初期値：OFF】</string>
+    <string name="config_mute_to_messages">メッセージもミュートする</string>
+    <string name="config_mute_to_messages_summary">【初期値：OFF】</string>
+
+    <string name="config_subscription_settings_category">定期購入</string>
+    <string name="config_manage_subscriptions">定期購入の管理</string>
+
+    <string name="config_userstream_settings_category">UserStream設定</string>
+    <string name="config_userstream_auto_start">起動時に自動開始</string>
+    <string name="config_userstream_auto_start_summary">起動時にUserStreamを自動的に開始します【初期値：OFF】</string>
+    <string name="config_auto_switch_scrolling">新着スクロール自動切替</string>
+    <string name="config_auto_switch_scrolling_summary">タイムラインのトップで新着スクロールを自動的にOnに切り替えます。また、トップより下にスクロールするとOffに切り替えます。</string>
+    <string name="config_auto_scroll_on_new_status">新着スクロール</string>
+    <string name="config_auto_scroll_on_new_status_summary">新しいツイートを取得した際に取得した件数分移動します</string>
+    <string name="config_show_auto_scroll_button">新着スクロールボタン</string>
+    <string name="config_show_auto_scroll_button_summary">UserStream中にタイムライン右上に新着スクロール切り替えボタンを表示します</string>
+    <string name="config_userstream_keep_screen_on">スリープしない</string>
+    <string name="config_userstream_keep_screen_on_summary">UserStream中は画面を自動消灯しません</string>
+    
+    <string name="config_notification_category">通知設定</string>
+    <string name="config_notification_category_basic">基本設定</string>
+    <string name="config_notification_category_reply">新着返信</string>
+    <string name="config_notification_category_message">新着メッセージ</string>
+    <string name="config_notification_category_details">通知のカスタマイズ</string>
+    <string name="config_use_interval_notification">定期通知</string>
+    <string name="config_use_interval_notification_summary">新着返信やメッセージを定期的に取得し通知します。取得するのは「現在のアカウント」のみです【初期値：OFF】</string>
+    <string name="config_notification_interval">通知間隔</string>
+    <string-array name="config_notification_interval_entries">
+        <item>3分</item>
+        <item>5分</item>
+        <item>10分【初期値】</item>
+        <item>20分</item>
+        <item>30分</item>
+        <item>60分</item>
+        <item>2時間</item>
+    </string-array>
+    <string name="default_text">【初期値】</string>
+    <string name="config_show_reply_notification">新着返信の通知</string>
+    <string name="config_reply_notification_ticker_type">新着返信の通知内容</string>
+    <string-array name="config_reply_notification_ticker_type_entries">
+        <item>名前</item>
+        <item>名前＋ツイート本文</item>
+        <item>ツイート本文 【初期値】</item>
+    </string-array>
+    <string name="config_show_dm_notification">新着メッセージの通知</string>
+    <string name="config_notification_ringtone">通知音</string>
+    <string name="config_notification_ringtone_silent">サイレント</string>
+    <string name="config_notification_vibration">バイブレーション</string>
+    <string name="config_notification_led">LED</string>
+    <string name="config_notification_led_color">LEDカラー</string>
+    <string name="config_show_notification_button">返信ボタンを付ける</string>
+    <string name="config_exclude_battery_optimizations">バッテリーの最適化からの除外</string>
+    <string name="config_exclude_battery_optimizations_summary">定期的に通知が来ない場合は本アプリをバッテリーの最適化から除外してください</string>
+    <string name="config_exclude_battery_optimizations_exclude">除外する</string>
+    <string name="config_auto_updates">自動更新</string>
+    <string name="set_auto_updates">自動更新する</string>
+    <string name="unset_auto_updates">自動更新を解除する</string>
+    <string name="auto_updates_is_disabled_when_notification_is_disabled">定期通知がオフなので定期更新は行われません。\n通知設定から定期通知をオンにしてください。</string>
+    <string name="auto_update_every_n_minutes">%1$d 分おきに自動更新します</string>
+
+    <string name="config_color_label">カラーラベル設定</string>
+   
+    <string name="config_search_category">検索設定</string>
+	<string name="config_search_lang">検索の言語</string>
+	<string-array name="config_search_lang_entries">
+	    <item>すべての言語</item><item>英語</item><item>日本語</item><item>韓国語</item>
+	    <item>アムハラ語</item><item>アラビア語</item><item>ブルガリア語</item><item>ベンガル語</item>
+		<item>チベット語</item><item>チェロキー語</item><item>デンマーク語</item><item>ドイツ語</item><item>ディベヒ語</item>
+		<item>ギリシャ語</item><item>スペイン語</item><item>ペルシャ語</item><item>フィンランド語</item>
+		<item>フランス語</item><item>グジャラート語</item><item>ヘブライ語</item><item>ヒンディー語</item><item>ハンガリー語</item>
+		<item>アルメニア語</item><item>インドネシア語</item><item>アイスランド語</item><item>イタリア語</item><item>イヌクティトット語</item>
+		<item>グルジア語</item><item>クメール語</item><item>カンナダ語</item>
+		<item>ラーオ語</item><item>リトアニア語</item><item>マラヤーラム語</item><item>ミャンマー</item><item>ネパール語</item>
+		<item>オランダ語</item><item>ノルウェー語</item><item>オリヤー語</item><item>パンジャブ語</item><item>ポーランド語</item>
+		<item>ポルトガル語</item><item>ロシア語</item><item>シンハラ語</item><item>スウェーデン語</item><item>タミル語</item>
+		<item>テルグ語</item><item>タイ語</item><item>タガログ語</item><item>トルコ語</item><item>ウルドゥ語</item>
+		<item>ベトナム語</item><item>中国語</item>
+    </string-array>
+	<string name="config_exclude_rt">RTを除外する</string>
+	<string name="config_exclude_rt_summary">検索結果からリツイートを除外します【初期値：ON】</string>
+	<string name="config_show_soft_keyboard_activated_plain_search_tab">ソフトキーボード表示</string>
+    <string name="config_show_soft_keyboard_activated_plain_search_tab_summary">キーワード未入力の検索タブに切り替えた際にソフトキーボードを表示します【初期値：ON】</string>
+	<string name="config_show_follow_count_on_search_result">フォロー数等を表示する</string>
+    <string name="config_show_follow_count_on_search_result_summary">検索結果にそのユーザーのフォロー・フォロワー数を表示します【初期値：OFF】</string>
+    <string name="config_open_new_activity_for_trend_search">トレンドを別画面で開く</string>
+    <string name="config_open_new_activity_for_trend_search_summary">トレンドからの検索を別画面で開きます【初期値：ON】</string>
+
+    <string name="config_image_viewer_settings_category">画像ビューア設定</string>
+    <string name="config_image_viewer_back_on_tap_title">タップで閉じる</string>
+    <string name="config_image_viewer_back_on_tap_summary">タップで前の画面に戻ります。画面上部をタップするとボタン等の表示/非表示が切り替わります【初期値：ON】</string>
+    <string name="config_image_viewer_vertical_swipe_to_close_title">縦スワイプで閉じる</string>
+    <string name="config_image_viewer_vertical_swipe_to_close_summary">上下にスワイプすると前の画面に戻ります【初期値：ON】</string>
+    <string name="config_image_save_directory">画像・動画保存先ディレクトリ</string>
+    <string name="config_reset_image_save_directory">保存先ディレクトリの再設定</string>
+    <string name="config_reset_image_save_directory_confirm">画像・動画保存先ディレクトリを初期値に再設定してもよろしいですか？</string>
+
+    <string name="config_movie_player_settings_category">動画プレイヤー設定</string>
+    <string name="config_movie_player_repeating">繰り返し再生</string>
+    <string name="config_movie_player_initial_mute">ミュート</string>
+    <string name="config_movie_player_initial_mute_summary">オンにすると動画プレイヤーを起動したときに音量がゼロ(ミュート)になります。下部のミュートボタンから切り替えることができます。【初期値：OFF】</string>
+    <string name="movie_player_show_property">プロパティ</string>
+
+    <string name="config_backup_settings_category">バックアップと復元</string>
+
+    <string name="config_advanced_settings_category">詳細設定</string>
+	<string name="config_back_to_timeline_title">戻るキー拡張</string>
+	<string name="config_back_to_timeline_summary">戻るキーでタイムラインに戻ります【初期値：ON】</string>
+	<string name="config_enable_pinch_zoom">ピンチイン・アウト</string>
+	<string name="config_enable_pinch_zoom_summary">TLを2本指で広げたり縮めたりすると文字サイズを変更できます【初期値：ON】</string>
+    <string name="config_use_favorite">「★ お気に入り」に変更</string>
+    <string name="config_use_favorite_summary">「♥ いいね」ではなく「★ お気に入り」にする【初期値：OFF】</string>
+	<string name="config_tab_reload_suppression_interval_title">タブ更新抑制時間</string>
+    <string name="config_tab_reload_suppression_interval_summary">「タブ切り替え時に自動的にリロードするまでの時間」(前回のロードからの最低経過時間)を設定します【初期値：30分】</string>
+	<string name="config_change_font">フォント変更</string>
+    <string name="config_change_font_summary">アプリ全体で利用するフォントを変更できます。ttfまたはotfファイルが必要です。</string>
+	<string name="config_select_font_file">フォントファイル選択</string>
+    <string name="config_select_font_choose_font_file" translatable="false">次の画面で ttf または otf ファイルを選択してください</string>
+    <string name="config_use_material_design_dialog">新ダイアログ形式(Material)</string>
+    <string name="config_locale">言語設定 (Language)</string>
+    <string-array name="config_locale_names">
+        <item>端末の言語</item>
+        <item>英語(United States)</item>
+        <item>日本語</item>
+        <item>韓国語</item>
+        <item>スペイン語</item>
+        <item>中国語(簡体字)</item>
+        <item>中国語(繁体字)</item>
+    </string-array>
+
+    <string name="config_save_record_count_for_timeline">ツイート保存件数(TL)</string>
+    <string name="config_save_record_count_for_timeline_summary">タイムラインタブのツイート保存件数【初期値：500】\n※件数が多すぎると性能が低下する可能性がありますのでご注意ください。</string>
+    <string name="config_save_record_count_without_timeline">ツイート保存件数(TL以外)</string>
+    <string name="config_save_record_count_without_timeline_summary">タイムライン以外のタブのツイート保存件数【初期値：300】\n※件数が多すぎると性能が低下する可能性がありますのでご注意ください。</string>
+    <string name="use_conversation_id">会話検索にconversation_idを使う</string>
+    <string name="use_conversation_id_summary">会話検索時に conversation_id を使います。より多くの会話が取得できるようになります【初期値：ON】</string>
+    <string name="use_tweet_complementary_fetcher">引用ツイート数やアンケート等を取得する</string>
+    <string name="use_tweet_complementary_fetcher_summary">ツイートの返信数や引用されたツイート数、いいね数、RT数、アンケート、画像と動画の混在したツイート、「リンク先の画像と説明文」等を非同期で取得します。\n※OFFにすると【省パケットモード】になります。災害時や混雑したお祭り会場、花火大会、ライブ会場などではOFFにすると通信が安定する場合がありますが、通常時はONのままでのご利用をおすすめします。【初期値：ON】</string>
+    <string name="low_packet_mode_text">省パケットモード</string>
+    <string name="config_use_gps_to_get_trend_location">GPS有効(トレンド)</string>
+    <string name="config_screen_orientation">画面の向きを固定</string>
+    <string-array name="config_screen_orientation_entries">
+        <item>固定しない(端末の設定を使う)</item>
+        <item>縦固定</item>
+        <item>横固定</item>
+    </string-array>
+
+    <string name="config_clear_cache">キャッシュ削除</string>
+    <string name="config_clear_cache_summary">強制的にキャッシュの削除を行います。通常はバックグラウンドで定期的に自動実行されますのであえて手動で実行する必要はありません</string>
+    <string name="config_reset_tab_data">タブデータの削除</string>
+    <string name="config_reset_tab_data_confirm_message">全てのタブデータを削除してよろしいですか？\n\n- タブの未読・既読位置とタブ内のツイートデータが削除されます。\n- タブのカスタマイズ設定は失われません。</string>
+    <string name="config_use_raw_data_store_realm">タブデータ保存形式(DEBUG)</string>
+    <string name="config_use_raw_data_store_realm_summary">タブデータの保存形式を変更できます\n【現在値：%1$s】\n\n- 通常は SQLite(安定性重視) を選択してください。\n- 2023年頃に Realm を廃止予定です。\n【初期値：SQLite】</string>
+    <string name="conversion_succeeded">内部DBの変換が完了しました</string>
+    <string name="conversion_failed">内部DBの変換に失敗しました</string>
+    <string name="before_conversion">変換前</string>
+    <string name="after_conversion">変換後</string>
+    <string name="start_to_conversion_confirm" translatable="false">%1$s への変換を開始します。よろしいですか？</string>
+    <string name="conversion_stop_confirm">変換を中断します。よろしいですか？\n(最後まで実行することを強くおすすめします)</string>
+    <string name="converting">"内部DBの変換を行っています。しばらくお待ちください。"</string>
+    <string name="conversion_aborted">中断しました。</string>
+    <string name="config_prefs_export">設定のエクスポート</string>
+    <string name="config_prefs_export_summary">現在の設定を保存します</string>
+    <string name="config_prefs_import">設定のインポート</string>
+    <string name="config_prefs_import_summary">以前の設定を復元します</string>
+    <string name="config_prefs_import_confirm_message">本当に設定をインポートしますか？\n\n(！！警告！！全ての設定は消去されます。また、設定ファイルが他バージョンのものであったり、修正されている場合は起動しなくなる可能性があります)</string>
+    <string name="config_prefs_clear">設定の初期化</string>
+    <string name="config_prefs_clear_confirm_message">本当に設定を初期化しますか？\n\n(！！警告！！全ての設定は消去されます)</string>
+    <string name="config_prefer_protocol">HTTP/2.0 support</string>
+    <string name="config_prefer_protocol_summary">Twitterサーバとの通信プロトコルに HTTP/2.0 を利用します。通信に不具合が発生する場合は HTTP/1.1 にしてください。\n【現在の値：%s】</string>
+    <string name="config_prefer_ipv4_address">IPv4優先(画像取得失敗回避)</string>
+    <string name="config_prefer_ipv4_address_summary">Wi-Fiで某ひかり回線等を利用している場合にTwitter画像を取得できない問題を(IPv6を無効化することで)強制的に回避します。通常はOFFでご利用ください【初期値：OFF】</string>
+    <string name="config_disable_hardware_rendering">GPU無効化(画面全体)</string>
+    <string name="config_disable_hardware_rendering_summary">ハードウェアによる描画を無効化することで旧型端末で希に発生する不具合を回避します。通常はOFF(GPUレンダリング有効)でご利用ください【初期値：OFF】</string>
+    <string name="config_disable_image_hardware_rendering">GPU無効化(画像のみ)</string>
+    <string name="config_disable_image_hardware_rendering_summary">画像表示のハードウェア描画を無効化することで、旧型端末で希に発生する不具合を回避します。通常はOFF(GPUレンダリング有効)でご利用ください【初期値：OFF】</string>
+
+	<string name="config_adfree_category">広告設定</string>
+    <string name="config_premium_title">有料版で広告を解除する</string>
+    <string name="config_premium_summary">Google Playストアで有料版(TwitPane+)を購入すると広告を解除できます。簡単に全ての設定を無料版から移行できます。</string>
+    <string name="config_adfree_pack_title">広告解除パック(サブスクリプション)</string>
+	<string name="config_adfree_pack_summary">Google Playストアで広告解除パック(サブスクリプション)を購入すると広告を解除できます</string>
+    <string name="config_adfree_pack_already_bought">購入済みです。ご購読ありがとうございます。</string>
+    <string name="config_adfree_pr_title">PRツイートをして広告を解除する(お試し)</string>
+	<string name="config_adfree_pr_summary">TwitPaneのPRツイートにより数日間広告を解除できます。有料版のお試し用です</string>
+    <string name="config_adfree_video_title">動画を見て広告を解除する</string>
+    <string name="config_adfree_video_confirm_message">いつもご利用頂きありがとうございます。\n\n次の画面で動画をご覧いただくと、タイムライン上部のバナー広告を約%1$s日間非表示にすることができます。\n動画を再生しますか？</string>
+    <string name="config_adfree_video_start">再生する</string>
+    <string name="config_adfree_video_noads">申し訳ありません。動画の再生に失敗しました。しばらく時間をおいてからやり直してみてください</string>
+
+	<string name="config_menu_icon_color">メニューアイコンカラー設定</string>
+	<string name="config_menu_icon_color_twact">Twitter操作関連</string>
+    <string name="config_menu_icon_color_twact_delete">Twitter操作関連(削除)</string>
+	<string name="config_menu_icon_color_streaming">Streaming関連</string>
+	<string name="config_menu_icon_color_view">表示関連</string>
+	<string name="config_menu_icon_color_share">共有関連</string>
+	<string name="config_menu_icon_color_config">設定関連</string>
+					
+	<string name="config_twicca_plugin">twiccaプラグイン設定</string>
+    <string name="twicca_plugin_not_found">twiccaプラグインが見つかりませんでした</string>
+
+    <string name="config_debug_settings_category">Debug Config</string>
+    <string name="config_debug_ads">デバッグ用広告設定</string>
+    <string name="config_debug_ads_auto">自動選択</string>
+
+    <!-- Tap Menu Config -->
+    <string name="config_tap_menu_title">タップメニューボタン設定</string>
+    <string name="config_tap_menu_change_function">機能変更</string>
+    <string name="config_tap_menu_move_to_left">左に移動</string>
+    <string name="config_tap_menu_move_to_right">右に移動</string>
+    <string name="config_tap_menu_remove">ボタン削除</string>
+    <string name="config_tap_menu_add">ボタン追加</string>
+
+    <!-- ================================================================================ -->
+    <!-- Theme Config -->
+    <!-- ================================================================================ -->
+    <string name="theme">テーマ</string>
+    <string name="dark_theme">ダークテーマ</string>
+    <string name="theme_change_bg">背景色を変更する</string>
+    <string name="theme_bg_reply_for_me">背景色(自分宛の返信)</string>
+    <string name="theme_bg_rt">背景色(RT)</string>
+    <string name="theme_gradation">背景のグラデーション</string>
+    <string name="theme_title">タイトル</string>
+    <string name="theme_date_rt">日付、RTなど</string>
+    <string name="theme_body">本文</string>
+    <string name="theme_body_reply_for_me">本文(自分宛の返信)</string>
+    <string name="theme_body_my_tweet">本文(自分の投稿)</string>
+    <string name="theme_body_read">本文(既読)</string>
+    <string name="theme_name_url_hashtag">\@名前・URL・ハッシュタグ</string>
+    <string name="theme_tab">タブ</string>
+    <string name="theme_actionbar">タイトルバー</string>
+    <string name="theme_statusbar">ステータスバー(Android 5+)</string>
+    <string name="theme_preview">プレビュー</string>
+    <string name="theme_timeline">タイムライン</string>
+    <string name="theme_default">初期値</string>
+    <string name="dark_theme_same_as_light_theme">Lightテーマと同じ</string>
+    <string name="dark_theme_info">Android 10 以降のダークテーマを設定できます。\n\n・端末を「ダークテーマ」に設定したときに自動的に切り替えるテーマを指定できます。</string>
+    
+    
+    <!-- ================================================================================ -->
+    <!-- 画像ビューア -->
+    <!-- ================================================================================ -->
+    <string name="image_viewer_save_image">画像を保存する</string>
+    <string name="image_viewer_back_button">戻る</string>
+    <string name="browser_save_image_saved">保存しました  (%1$s)</string>
+    <string name="browser_save_image_cannot_save">保存できませんでした。SDカードの状態・空き容量などをご確認ください。</string>
+    
+    <!-- ================================================================================ -->
+    <!-- Profile Fragment -->
+    <!-- ================================================================================ -->
+    <string name="profile_tweets">ツイート</string>
+    <string name="profile_follows">フォロー</string>
+    <string name="profile_followers">フォロワー</string>
+
+    <!-- Place画面の位置情報設定確認画面 -->
+    <string name="place_activity_location_setting_dialog_title">現在地機能を改善</string>
+    <string name="place_activity_location_setting_dialog_message">現在、位置情報が有効ではありません。次のように設定すると、より正確に現在地を検出できるようになります:\n\n● 位置情報の設定でGPSとワイヤレスネットワークをオンにする\n\n● Wi-Fiをオンにする</string>
+    <string name="place_activity_location_setting_dialog_yes">設定</string>
+    <string name="place_activity_location_setting_dialog_cancel">キャンセル</string>
+    
+    <string name="place_activity_location_not_found">現在地を特定できませんでした</string>
+    <string name="place_activity_location_use_last_location">現在地を特定できませんでした。以前の位置情報を利用します</string>
+
+    <string name="plus1_message">アプリを気に入って頂けましたら応援をよろしくお願いします！</string>
+    <string name="title_activity_plus1">+1でアプリを応援</string>
+
+    <!-- ================================================================================ -->
+    <!-- Instagram 関連 -->
+    <!-- ================================================================================ -->
+<!--    <string name="login_to_instagram_to_view">Instagramにログインして表示する</string>-->
+<!--    <string name="config_instagram_settings_category">Instagram設定</string>-->
+<!--    <string name="clear_instagram_login_info">Instagramのログイン情報を初期化する</string>-->
+<!--    <string name="cannot_show_image_cause_this_account_is_private">Instagramの非公開アカウントのため表示できません</string>-->
+<!--    <string name="cannot_show_image_cause_your_account_is_locked">Instagramアカウントがロックされています。ブラウザでInstagramを開いてご確認ください。</string>-->
+
+    <!-- ================================================================================ -->
+    <!-- パーミッション -->
+    <!-- ================================================================================ -->
+    <string name="no_permission">パーミッションが許可されていません</string>
+    <string name="request_to_grant_location_permission_on_settings">本機能の実行には「位置情報」権限が必要です。\n\n次の画面で「権限」->「位置情報」をOnにしてください</string>
+    <string name="require_location_permission_to_for_trend">トレンドの地域を判定するために「位置情報」権限が必要です。次の画面で許可してください</string>
+    <string name="request_to_grant_storage_permission_on_settings">本機能の実行には「ストレージ」権限が必要です。\n\n次の画面で「権限」->「ストレージ」をOnにしてください</string>
+    <string name="require_storage_permission">本機能の実行には「ストレージ」権限が必要です。次の画面で許可してください</string>
+
+    <!-- ================================================================================ -->
+    <!-- アカウント再認証、自動インポート関連 -->
+    <!-- ================================================================================ -->
+    <string name="migration_from_free_edition_title">無料版からの移行確認</string>
+    <string name="migration_from_free_edition_message">%1$sをダウンロードしていただき、ありがとうございます！\n無料版から設定を引き継ぎますか？</string>
+    <string name="free_edition_update_confirm_title">無料版のアップデート確認</string>
+    <string name="free_edition_update_confirm_message">無料版のバージョンが低いため移行できません。最新版にアップデートしますか？</string>
+    <string name="config_import_done_message">設定のインポートが完了しました。再起動します。</string>
+    <string name="account_reauth_title">アカウント再認証について</string>
+    <string name="account_reauth_message">設定をインポートした場合、Twitter側が管理するアプリケーションが異なるため再認証する必要があります。\n\n・次の画面でもう一度認証してください。\n・次の画面(ブラウザ)で表示されるアカウントが異なる場合は一度ログアウトしてからログインし直してください。</string>
+    <string name="add_account_without_login_message">ブラウザで再ログインせずにアカウントを追加しますか？\n(ブラウザでログイン済みのアカウントを引き継ぎます)</string>
+    <string name="require_authorization_for_bookmark">ブックマーク機能には追加の認証が必要です</string>
+    <string name="authorize">認証する</string>
+    <string name="failed_to_authorize_to_twitter_and_confirm_to_reauthorize">Twitter の認証に失敗しました。\n※ブックマークの認証の場合、他の端末でログインすると認証できなくなる場合があります。\n\n次の画面で再認証してください。</string>
+    <string name="authorized_account_not_match_to_current_account">認証したアカウントは現在のアカウントと一致しませんでした。\n\n
+・認証したアカウント = @%1$s\n
+・現在のアカウント = @%2$s\n
+\n
+次の画面で再認証してください。\n
+※Twitter というリンクからログアウトして再ログインすることで別アカウントにできるようです。</string>
+
+    <!-- Emoji Picker -->
+    <string name="emojipicker_guide_dialog_title">絵文字入力アプリの確認</string>
+    <string name="emojipicker_guide_dialog_message">TwitPane用絵文字入力用アプリ EmojiPicker4T を利用できます。\n%1$s からダウンロードしますか？</string>
+    <string name="emojipicker_guide_dialog_download">ダウンロード</string>
+
+    <!-- Google Translate -->
+    <string name="translate_app_guide_dialog_title">Google翻訳がインストールされていません</string>
+    <string name="translate_app_guide_dialog_message">翻訳するにはGoogle翻訳アプリが必要です。\n%1$s からダウンロードしますか？</string>
+    <string name="daily_inline_translation_limit_is_exceeded">本日のインライン翻訳の実行回数を超過したのでGoogle翻訳アプリで翻訳します</string>
+    <string name="detail">詳細</string>
+    <string name="download_translation_ml_data_confirm_message">翻訳対象の言語の機械学習用データ(約30MB)が必要です。ダウンロードしてよろしいですか？</string>
+    <string name="inline_translation">インライン翻訳について</string>
+<!--    <string name="inline_translation_limit_details">インライン翻訳はクラウド課金型の翻訳サービスを利用しているため、実行回数が多くなると本アプリの維持ができなくなります。-->
+<!--そのため、一定回数を超える場合はGoogle翻訳アプリを呼び出して翻訳を行います。ご了承ください。-->
+
+<!--【現在の回数制限】-->
+<!--・無料版=%1$d回/日-->
+<!--・有料版=%2$d回/日"</string>-->
+    <string name="inline_translation_trial_guide">クラウド翻訳(お試し)について</string>
+    <string name="inline_translation_trial_guide_message">クラウド翻訳(DeepL翻訳およびGoogleクラウド翻訳)を1日%1$d回までお試しいただけます。\n
+\n
+※%2$d回以上実行したい場合は定期購入が必要です。詳しくは翻訳設定の「翻訳の質を上げる」からご確認ください。\n
+※有料のクラウドサービスを利用しているため回数制限を設けております。ご了承ください。</string>
+
+    <string name="login_with_browser">ブラウザでログイン</string>
+    <string name="login_failed_and_login_with_browser_confirm">ログインに失敗しました。ブラウザ経由でのログインを行いますか？</string>
+    <string name="trade_mark_info">「Twitter」は Twitter, Inc. の商標または登録商標です。</string>
+    <string name="privacy_policy_agreement">&lt;a href="https://twitpane.com/terms_of_use/"&gt;利用規約&lt;/a&gt;、&lt;a href="https://twitpane.com/privacy_policy/"&gt;プライバシーポリシー&lt;/a&gt;に同意の上、&lt;br /&gt;ログインしてください</string>
+
+    <string name="trend_tweet_count">"%1$s ツイート"</string>
+    <string name="dm_not_allowed_and_re_authorize_confirm_message">ダイレクトメッセージのアクセス権限がTwitter社の不具合により消えてしまいました。再度認証することでアクセス権限を取得することができます。再度認証しますか？</string>
+    <string name="could_not_authenticate_you_re_authorize_confirm_message">アカウントの認証に失敗しました。ログイン画面から再度同じアカウントでログインし直してください。再度認証しますか？</string>
+    <string name="select_copy_content" tools:ignore="TypographyEllipsis">選択...</string>
+    <string name="some_settings_applied_after_restarted">一部の設定はアプリ再起動後に反映されます</string>
+
+    <!-- サブスクリプションの案内画面 -->
+    <string name="subs_guide_cloud_translation_top_message">クラウド翻訳というGoogleのサービスを利用することで翻訳の品質を上げることができます。\n\nこのクラウド翻訳は有料サービスのため、本アプリの継続的な開発・維持のためにサブスクリプションへの加入をお願いしております。</string>
+    <string name="subs_guide_try_7days_for_free">7日間無料でお試しいただけます。</string>
+    <string name="subs_guide_other_subscription_privileges">その他のサブスクリプション特典：</string>
+    <string name="subs_guide_subscription_privileges">サブスクリプション特典：</string>
+    <string name="subs_guide_item_cloud_translation">・クラウド翻訳</string>
+    <string name="subs_guide_item_cloud_translation_message">(翻訳結果がより自然で高品質になります)</string>
+    <string name="subs_guide_item_no_ads">・広告なし</string>
+    <string name="subs_guide_item_no_ads_message">(画面上部のバナー広告を消すことができます)</string>
+    <string name="subs_guide_item_free_more_accounts">・+2アカウント</string>
+    <string name="subs_guide_item_free_more_accounts_message">(登録できるアカウント数を2個増やすことができます)</string>
+    <string name="subs_guide_item_premium_more_accounts">・+5アカウント</string>
+    <string name="subs_guide_item_premium_more_accounts_message">(登録できるアカウント数を5個増やすことができます)</string>
+    <string name="subs_guide_item_liked_order_likes" translatable="false">・いいねした順のいいね</string>
+    <string name="subs_guide_item_liked_order_likes_message" translatable="false">(「いいね一覧」をいいねした順にできます)</string>
+    <string name="subs_guide_item_view_quoted_tweets" translatable="false">・引用されたツイート一覧</string>
+    <string name="subs_guide_item_view_quoted_tweets_message" translatable="false">(あるツイートの引用されたツイート一覧を表示できます)</string>
+    <string name="liked_order_likes" translatable="false">いいねした順のいいね</string>
+    <string name="config_use_liked_order_likes_summary" translatable="false">Twitter 社により Tweet cap というツイート取得数の厳しい制限があるため、定期購入中のユーザーにのみ使用可能としています</string>
+    <string name="subs_guide_bottom_notice">Google Play ストアでキャンセルするまで、毎月%1$sが自動的に課金されます。法律で定められている場合を除き、キャンセル時に以前のお支払額は払い戻されませんのでご了承ください。クラウド翻訳には1日当たりの利用回数に上限があります。</string>
+
+    <!-- イベントログ -->
+    <string name="event_log_message_tweet_compose_success">ツイートを投稿しました</string>
+    <string name="event_log_message_tweet_compose_failed">ツイート投稿に失敗しました</string>
+    <string name="event_log_message_new_reply">新着返信がありました</string>
+    <string name="event_log_message_no_new_reply">新着返信はありませんでした</string>
+    <string name="event_log_message_new_message">新着メッセージがありました</string>
+    <string name="event_log_message_no_new_message">新着メッセージはありませんでした</string>
+    <string name="event_log_message_new_tweets">新着ツイートを取得しました</string>
+    <string name="new_tweets">新着ツイート</string>
+    <string name="event_log_message_no_new_tweets">新着ツイートはありませんでした</string>
+    <string name="event_log_message_new_tweets_failed">新着ツイートの取得に失敗しました。</string>
+    <string name="event_log_message_1_tweet" translatable="false">1件</string>
+    <string name="event_log_message_n_tweets" translatable="false">%1$d件</string>
+    <string name="event_log_delete_confirm_title">イベントログの削除</string>
+    <string name="event_log_delete_confirm_message">このイベントを削除してもよろしいですか？\n※ツイート等の投稿データ自体は消えません</string>
+    <string name="event_log_information">"「投稿」や「新着通知」等のバックグラウンドで行われたイベントを確認できます。"</string>
+
+
+</resources>
