@@ -933,6 +933,7 @@
     <string name="config_exclude_battery_optimizations_summary">If you do not receive periodic notifications, please exclude this app from battery optimization.</string>
     <string name="config_exclude_battery_optimizations_exclude">Exclude</string>
     <string name="config_notification_category_auto_updates">자동 업데이트</string>
+    <string name="config_notification_category_auto_updates_summary">Each tab will automatically get new tweets at the above notification interval. Change it by long-pressing the tab or from "Tab Settings".</string>
     <string name="set_auto_updates">자동 업데이트 설정</string>
     <string name="unset_auto_updates">자동 업데이트 설정 해제</string>
     <string name="auto_updates_is_disabled_when_notification_is_disabled">정기적인 알림이 꺼지므로 자동 업데이트가 이루어지지 않습니다.</string>

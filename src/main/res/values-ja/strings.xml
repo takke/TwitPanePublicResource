@@ -951,6 +951,7 @@
     <string name="config_exclude_battery_optimizations_summary">定期的に通知が来ない場合は本アプリをバッテリーの最適化から除外してください</string>
     <string name="config_exclude_battery_optimizations_exclude">除外する</string>
     <string name="config_notification_category_auto_updates">自動更新</string>
+    <string name="config_notification_category_auto_updates_summary">タブ毎に上記の通知間隔で自動的に新着ツイートを取得します。タブの長押しまたは「タブの設定」から変更します。</string>
     <string name="set_auto_updates">自動更新する</string>
     <string name="unset_auto_updates">自動更新を解除する</string>
     <string name="auto_updates_is_disabled_when_notification_is_disabled">定期取得がオフなので自動更新は行われません。\n自動更新設定から定期取得をオンにしてください。</string>

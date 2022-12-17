@@ -932,6 +932,7 @@
     <string name="config_exclude_battery_optimizations_summary">If you do not receive periodic notifications, please exclude this app from battery optimization.</string>
     <string name="config_exclude_battery_optimizations_exclude">Exclude</string>
     <string name="config_notification_category_auto_updates">自动更新</string>
+    <string name="config_notification_category_auto_updates_summary">Each tab will automatically get new tweets at the above notification interval. Change it by long-pressing the tab or from "Tab Settings".</string>
     <string name="set_auto_updates">设置自动更新</string>
     <string name="unset_auto_updates">取消设置自动更新</string>
     <string name="auto_updates_is_disabled_when_notification_is_disabled">定期通知已关闭，因此不会进行自动更新。</string>
