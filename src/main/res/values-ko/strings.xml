@@ -898,6 +898,7 @@
     
     <string name="config_notification_category">"알림"</string>
     <string name="config_notification_category_basic">Basic Settings</string>
+    <string name="config_notification_category_new_tweet">New tweets</string>
     <string name="config_notification_category_reply">Reply</string>
     <string name="config_notification_category_message">Messages</string>
     <string name="config_notification_category_details">Details</string>
@@ -936,6 +937,7 @@
     <string name="unset_auto_updates">자동 업데이트 설정 해제</string>
     <string name="auto_updates_is_disabled_when_notification_is_disabled">정기적인 알림이 꺼지므로 자동 업데이트가 이루어지지 않습니다.</string>
     <string name="auto_update_every_n_minutes">%1$d분마다 자동 업데이트</string>
+    <string name="config_show_new_tweet_notification">새 트윗 알림 표시</string>
 
     <string name="config_color_label">"색상 레이블 설정"</string>
     
