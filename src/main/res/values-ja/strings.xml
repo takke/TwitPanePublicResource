@@ -950,7 +950,7 @@
     <string name="config_exclude_battery_optimizations">バッテリーの最適化からの除外</string>
     <string name="config_exclude_battery_optimizations_summary">定期的に通知が来ない場合は本アプリをバッテリーの最適化から除外してください</string>
     <string name="config_exclude_battery_optimizations_exclude">除外する</string>
-    <string name="config_auto_updates">自動更新</string>
+    <string name="config_notification_category_auto_updates">自動更新</string>
     <string name="set_auto_updates">自動更新する</string>
     <string name="unset_auto_updates">自動更新を解除する</string>
     <string name="auto_updates_is_disabled_when_notification_is_disabled">定期通知がオフなので定期更新は行われません。\n自動更新設定から定期通知をオンにしてください。</string>

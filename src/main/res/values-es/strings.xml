@@ -933,7 +933,7 @@
     <string name="config_exclude_battery_optimizations">Exclude from battery optimizations</string>
     <string name="config_exclude_battery_optimizations_summary">If you do not receive periodic notifications, please exclude this app from battery optimization.</string>
     <string name="config_exclude_battery_optimizations_exclude">Exclude</string>
-    <string name="config_auto_updates">Actualizaciones automáticas</string>
+    <string name="config_notification_category_auto_updates">Actualizaciones automáticas</string>
     <string name="set_auto_updates">Establecer actualizaciones automáticas</string>
     <string name="unset_auto_updates">Desactivar actualizaciones automáticas</string>
     <string name="auto_updates_is_disabled_when_notification_is_disabled">Las notificaciones periódicas están desactivadas, por lo que no se realizarán actualizaciones automáticas.</string>

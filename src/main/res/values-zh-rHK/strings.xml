@@ -930,7 +930,7 @@
     <string name="config_exclude_battery_optimizations">Exclude from battery optimizations</string>
     <string name="config_exclude_battery_optimizations_summary">If you do not receive periodic notifications, please exclude this app from battery optimization.</string>
     <string name="config_exclude_battery_optimizations_exclude">Exclude</string>
-    <string name="config_auto_updates">自動更新</string>
+    <string name="config_notification_category_auto_updates">自動更新</string>
     <string name="set_auto_updates">設置自動更新</string>
     <string name="unset_auto_updates">取消設置自動更新</string>
     <string name="auto_updates_is_disabled_when_notification_is_disabled">定期通知已關閉，因此不會進行自動更新。</string>
