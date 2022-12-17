@@ -921,7 +921,7 @@
     <string name="config_notification_category_message">新着メッセージ</string>
     <string name="config_notification_category_details">通知のカスタマイズ</string>
     <string name="config_use_interval_notification">定期通知</string>
-    <string name="config_use_interval_notification_summary">新着返信やメッセージを定期的に取得し通知します。取得するのは「現在のアカウント」のみです【初期値：OFF】</string>
+    <string name="config_use_interval_notification_summary">タブの自動更新を行ったり、新着返信やメッセージを定期的に取得し通知します。新着返信とメッセージは「現在のアカウント」のみ対応しています【初期値：OFF】</string>
     <string name="config_notification_interval">通知間隔</string>
     <string-array name="config_notification_interval_entries">
         <item>3分</item>
@@ -953,7 +953,7 @@
     <string name="config_auto_updates">自動更新</string>
     <string name="set_auto_updates">自動更新する</string>
     <string name="unset_auto_updates">自動更新を解除する</string>
-    <string name="auto_updates_is_disabled_when_notification_is_disabled">定期通知がオフなので定期更新は行われません。\n通知設定から定期通知をオンにしてください。</string>
+    <string name="auto_updates_is_disabled_when_notification_is_disabled">定期通知がオフなので定期更新は行われません。\n自動更新設定から定期通知をオンにしてください。</string>
     <string name="auto_update_every_n_minutes">%1$d 分おきに自動更新します</string>
     <string name="config_show_new_tweet_notification">新着ツイートの通知</string>
 
