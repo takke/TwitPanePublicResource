@@ -897,7 +897,7 @@
     <string name="config_userstream_keep_screen_on">"Mantener la pantalla encendida"</string>
     <string name="config_userstream_keep_screen_on_summary">"Desactiva el apagado automático de la pantalla"</string>
 
-    <string name="config_notification_category">"Notificaciones"</string>
+    <string name="config_notification_category">Actualización automática y notificaciones</string>
     <string name="config_notification_category_basic">Basic Settings</string>
     <string name="config_notification_category_new_tweet">New tweets</string>
     <string name="config_notification_category_reply">Reply</string>

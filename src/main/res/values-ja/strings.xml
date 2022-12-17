@@ -914,7 +914,7 @@
     <string name="config_userstream_keep_screen_on">スリープしない</string>
     <string name="config_userstream_keep_screen_on_summary">UserStream中は画面を自動消灯しません</string>
     
-    <string name="config_notification_category">通知設定</string>
+    <string name="config_notification_category">自動更新と通知</string>
     <string name="config_notification_category_basic">基本設定</string>
     <string name="config_notification_category_new_tweet">新着ツイート</string>
     <string name="config_notification_category_reply">新着返信</string>

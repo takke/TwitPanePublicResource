@@ -894,7 +894,7 @@
     <string name="config_userstream_keep_screen_on">"保持屏幕開"</string>
     <string name="config_userstream_keep_screen_on_summary">"禁用自動休眠"</string>
     
-    <string name="config_notification_category">"通知"</string>
+    <string name="config_notification_category">自動更新和通知</string>
     <string name="config_notification_category_basic">Basic Settings</string>
     <string name="config_notification_category_new_tweet">New tweets</string>
     <string name="config_notification_category_reply">Reply</string>
