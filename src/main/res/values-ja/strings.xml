@@ -922,7 +922,7 @@
     <string name="config_notification_category_details">通知のカスタマイズ</string>
     <string name="config_use_interval_notification">定期取得</string>
     <string name="config_use_interval_notification_summary">タブの自動更新を行ったり、新着返信やメッセージを定期的に取得し通知します。新着返信とメッセージは「現在のアカウント」のみ対応しています【初期値：OFF】</string>
-    <string name="config_notification_interval">通知間隔</string>
+    <string name="config_notification_interval">取得間隔</string>
     <string-array name="config_notification_interval_entries">
         <item>3分</item>
         <item>5分</item>
@@ -951,7 +951,7 @@
     <string name="config_exclude_battery_optimizations_summary">定期的に通知が来ない場合は本アプリをバッテリーの最適化から除外してください</string>
     <string name="config_exclude_battery_optimizations_exclude">除外する</string>
     <string name="config_notification_category_auto_updates">自動更新</string>
-    <string name="config_notification_category_auto_updates_summary">タブ毎に上記の通知間隔で自動的に新着ツイートを取得します。タブの長押しまたは「タブの設定」から変更します。</string>
+    <string name="config_notification_category_auto_updates_summary">自動的に新しいツイートを取得します。対象となるタブは「タブの長押し」または「タブの設定」から変更します。</string>
     <string name="set_auto_updates">自動更新する</string>
     <string name="unset_auto_updates">自動更新を解除する</string>
     <string name="auto_updates_is_disabled_when_notification_is_disabled">定期取得がオフなので自動更新は行われません。\n自動更新設定から定期取得をオンにしてください。</string>
