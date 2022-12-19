@@ -938,6 +938,7 @@
     <string name="auto_updates_is_disabled_when_notification_is_disabled">定期通知已关闭，因此不会进行自动更新。</string>
     <string name="auto_update_every_n_minutes">每 %1$d 分钟自动更新一次</string>
     <string name="config_show_new_tweet_notification">显示新推文通知</string>
+    <string name="config_new_tweet_notification_icon_type">新推文通知图标</string>
     
     <string name="config_color_label">"彩色标签设置"</string>
     
