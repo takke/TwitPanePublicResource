@@ -1,718 +1,720 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
+<resources xmlns:tools="http://schemas.android.com/tools">">"
 
-    <string name="title_activity_config">"TwitPane配置"</string>
-    <string name="title_activity_page_config">"页面配置"</string>
-    <string name="title_activity_theme_config">"主题配置"</string>
-    <string name="title_activity_about">"关于TwitPane"</string>
-    <string name="title_activity_location">"位置"</string>
-    <string name="title_activity_write_view_for_message">"消息"</string>
-    <string name="title_activity_create_shortcut_for_tweet">"推文"</string>
-    <string name="title_activity_profile_edit">"个人资料编辑"</string>
-    <string name="title_activity_list_edit">"列表编辑"</string>
-    <string name="title_activity_list_create">"新建列表"</string>
-    <string name="title_activity_browser">"浏览器"</string>
+    <string name="title_activity_config">TwitPane设置</string>
+    <string name="title_activity_page_config">页面设置</string>
+    <string name="title_activity_theme_config">主题设置</string>
+    <string name="title_activity_about">关于TwitPane</string>
+    <string name="title_activity_location">位置</string>
+    <string name="title_activity_write_view_for_message">消息</string>
+    <string name="title_activity_create_shortcut_for_tweet">推文</string>
+    <string name="title_activity_profile_edit">个人资料编辑</string>
+    <string name="title_activity_list_edit">列表编辑</string>
+    <string name="title_activity_list_create">新建列表</string>
+    <string name="title_activity_browser">浏览器</string>
     <string name="title_activity_movie_player"></string>
-    <string name="title_activity_tweet_select">"推文选择"</string>
-    <string name="title_activity_toolbar_config">"工具栏配置"</string>
+    <string name="title_activity_tweet_select">推文选择</string>
+    <string name="title_activity_toolbar_config">工具栏设置</string>
     <string name="title_activity_gallery_image_picker">Gallery</string>
     <string name="title_activity_subscription_guide">升级到订阅</string>
 
-    <string name="pane_name_trend">"趋势"</string>
-    <string name="pane_name_search">"搜索"</string>
-    <string name="pane_name_profile">"个人资料"</string>
-    <string name="pane_name_timeline">"时间轴"</string>
-    <string name="pane_name_reply">"回复"</string>
-    <string name="pane_name_mytweet">"我的推文"</string>
+    <string name="pane_name_trend">趋势</string>
+    <string name="pane_name_search">搜索</string>
+    <string name="pane_name_profile">个人资料</string>
+    <string name="pane_name_timeline">时间轴</string>
+    <string name="pane_name_reply">回复</string>
+    <string name="pane_name_mytweet">我的推文</string>
     <string name="pane_name_media">媒体</string>
-    <string name="pane_name_favorite_like">"收藏"</string>
-    <string name="liked_order">liked order</string>
-    <string name="pane_name_favorite_favorite">"收藏"</string>
-    <string name="pane_name_quoted_tweets">引述鸣叫</string>
-    <string name="pane_name_rt_of_me">"我的转推"</string>
+    <string name="pane_name_favorite_like">点赞</string>
+    <string name="liked_order">点赞排序</string>
+    <string name="pane_name_favorite_favorite">收藏</string>
+    <string name="pane_name_quoted_tweets">引用的推文</string>
+    <string name="pane_name_rt_of_me">我的转推</string>
     <string name="pane_name_bookmark">书签</string>
-    <string name="pane_name_conversation">"对话"</string>
-    <string name="pane_name_tweet">"推文"</string>
-    <string name="pane_name_rt_users">"转推用户"</string>
-    <string name="pane_name_thread_list">"私信"</string>
-    <string name="pane_name_dm">"私信"</string>
-    <string name="pane_name_sent_dm">"发送私信"</string>
-    <string name="pane_name_lists">"列表"</string>
-    <string name="pane_name_lists_memberships">列表成员</string>
-    <string name="pane_name_list_member">"列表成员"</string>
-    <string name="pane_name_list_subscribers">订户名单</string>
-    <string name="pane_name_follow">"%1$s的关注"</string>
-    <string name="pane_name_follower">"%1$s的关注者"</string>
-    <string name="pane_name_blocks">"被阻止的用户"</string>
-    <string name="pane_name_search_user">"搜索用户"</string>
-    
-    <string name="showcase_start_title">"欢迎来到TwitPane！"</string>
-    <string name="showcase_start_summary">"也就一点点，如何使用它。\n\n首先，推文列表将出现在中间，当然你也可以上下滚动！"</string>
-    <string name="showcase_center1_title">"你可以移动标签，从一侧滑到另一侧！"</string>
-    <string name="showcase_center1_summary">"通过切换不同的标签，使用起来很方便！"</string>
-    <string name="showcase_tweet_title">"从左下角这个按钮新建推文。"</string>
-    <string name="showcase_tweet_summary">"\n你可以保存草稿"</string>
-    <string name="showcase_menu_title">"菜单在右下角的这个按钮。"</string>
-    <string name="showcase_menu_summary">"\n配置对话框在这里"</string>
-    <string name="showcase_sidebar_title">"当你滑动到屏幕的右边缘出现选项卡列表！"</string>
-    <string name="showcase_sidebar_summary">"\n\n这样，请充分利用TwitPane！"</string>
+    <string name="pane_name_conversation">对话</string>
+    <string name="pane_name_tweet">推文</string>
+    <string name="pane_name_rt_users">转推用户</string>
+    <string name="pane_name_thread_list">私信</string>
+    <string name="pane_name_dm">私信</string>
+    <string name="pane_name_sent_dm">发送私信</string>
+    <string name="pane_name_lists">列表</string>
+    <string name="pane_name_lists_memberships">列表中的成员</string>
+    <string name="pane_name_list_member">列表成员</string>
+    <string name="pane_name_list_subscribers">列表订阅者</string>
+    <string name="pane_name_follow">%1$s 个关注</string>
+    <string name="pane_name_follower">%1$s 个关注者</string>
+    <string name="pane_name_blocks">被屏蔽的用户</string>
+    <string name="pane_name_search_user">搜索用户</string>
 
-    <string name="page_config_showcase_swipe_title">垂直滑动以重新排列标签</string>
+    <string name="showcase_start_title">欢迎使用TwitPane！</string>
+    <string name="showcase_start_summary">简要说明，如何使用它。\n\n首先，推文列表将出现在中间，当然你也可以上下滚动！</string>
+    <string name="showcase_center1_title">你可以移动标签，从一侧滑到另一侧！</string>
+    <string name="showcase_center1_summary">通过切换不同的标签，使用起来很方便！</string>
+    <string name="showcase_tweet_title">使用左下角这个按钮新建推文。</string>
+    <string name="showcase_tweet_summary">\n你可以保存草稿</string>
+    <string name="showcase_menu_title">右下角的这个按钮可以打开菜单。</string>
+    <string name="showcase_menu_summary">\n从这里打开设置对话框</string>
+    <string name="showcase_sidebar_title">从屏幕左边沿向右滑动打开标签列表！</string>
+    <string name="showcase_sidebar_summary">\n\n这样，请充分利用TwitPane！</string>
+
+    <string name="page_config_showcase_swipe_title">上下滑动以重新排列标签</string>
     <string name="page_config_showcase_swipe_summary"></string>
 
-    <string name="search_button">"搜索"</string>
-    <string name="saved_search">"保存的搜索"</string>
-    <string name="search_save_button">"保存此搜索"</string>
-    <string name="search_delete_button">"删除此搜索"</string>
-    <string name="search_config_button">"配置"</string>
-    <string name="saved_search_capacity_over_message">同时节省了搜索关键字时发生错误。请于存在一种可能性，即计数的数目已达到上限。</string>
-    <string name="over_saved_search_capacity_message">已达到已保存搜索的最大数量。保存前请删除其他搜索项。</string>
-    <string name="created_saved_search_message">"已保存。你可以从工具栏的搜索按钮保存的关键词。"</string>
-    <string name="deleted_saved_search_message">"已删除"</string>
-    <string name="add_search_page_confirm_message">"你是否确认希望生成这个关键词的标签？"</string>
-    <string name="add_search_page_finish">"已添加"</string>
-    
-    <string name="reload_button">"重新加载"</string>
-    
-    <string name="load_another_locations">"其他地区"</string>
-    
-    <string name="color_edit_button">"编辑"</string>
-    <string name="restore_default_confirm">"恢复默认？"</string>
-    <string name="import_confirm_message">"您是否确认希望导入此设计？（导入后重新启动TwitPane）"</string>
-    
+    <string name="search_button">搜索</string>
+    <string name="saved_search">保存的搜索</string>
+    <string name="search_save_button">保存此搜索</string>
+    <string name="search_delete_button">删除此搜索</string>
+    <string name="search_config_button">设置</string>
+    <string name="saved_search_capacity_over_message">在保存搜索关键词时发生了一个错误。请检查是否有可能已达到最大保存数量。</string>
+    <string name="over_saved_search_capacity_message">已经达到保存搜索的最大数量。请在保存前删除其他搜索条目。</string>
+    <string name="created_saved_search_message">已保存。你可以从工具栏的搜索按钮中看到保存的关键词。</string>
+    <string name="deleted_saved_search_message">已删除</string>
+    <string name="add_search_page_confirm_message">你确定要用这个关键词做标签吗？</string>
+    <string name="add_search_page_finish">已添加</string>
+
+    <string name="reload_button">重新加载</string>
+
+    <string name="load_another_locations">其他地区</string>
+
+    <string name="color_edit_button">编辑</string>
+    <string name="restore_default_confirm">恢复默认值？</string>
+    <string name="import_confirm_message">你确定要导入这个设计吗？（导入后重新启动TwitPane）</string>
+
     <!-- ================================================================================ -->
     <!-- Others -->
     <!-- ================================================================================ -->
-    <string name="view_date_hour_ago">"%1$d小时前"</string>
-    <string name="view_date_hours_ago">"%1$d小时前"</string>
-    <string name="view_date_minute_ago">"%1$d分钟前"</string>
-    <string name="view_date_minutes_ago">"%1$d分钟前"</string>
-    <string name="pager_more">"阅读更多推文"</string>
-    
-    <string name="account_add">"添加帐户"</string>
-    <string name="account_delete">"删除帐户"</string>
-    <string name="account_delete_confirm">"您是否确认希望删除此帐户？"</string>
-    <string name="cannot_delete_current_account">"不能删除当前帐户。"</string>
+    <string name="view_date_hour_ago">%1$d小时前</string>
+    <string name="view_date_hours_ago">%1$d小时前</string>
+    <string name="view_date_minute_ago">%1$d分钟前</string>
+    <string name="view_date_minutes_ago">%1$d分钟前</string>
+    <string name="pager_more">阅读更多推文</string>
+
+    <string name="account_add">添加帐户</string>
+    <string name="account_delete">删除帐户</string>
+    <string name="account_delete_confirm">你确定要删除这个账户吗？</string>
+    <string name="cannot_delete_current_account">不能删除当前帐户。</string>
     <string name="account_reauth">重新认证</string>
-    <string name="changing_account_to">改变与\@%1$s</string>
+    <string name="changing_account_to">改变为\@%1$s</string>
     <string name="cannot_auth_account_via_official_twitter_app">通过官方 Twitter 应用程序登录过程中发生错误。 \n\n(%1$s)\n\n通过浏览器登录。</string>
 
-    <string name="profile_edit_button">"编辑个人资料"</string>
-    <string name="profile_edit_banner_image_button">"选择横幅"</string>
-    <string name="banner_menu">"横幅菜单"</string>
-    <string name="banner_change">"更改"</string>
-    <string name="banner_remove">"移除"</string>
-    <string name="send_dm_button">"新消息"</string>
-    <string name="send_mention_button">"新提及"</string>
-    
-    <string name="retweet_confirm_message">"转推此推文？"</string>
-    <string name="retweeted_message">"已转推"</string>
-    <string name="remove_retweet_confirm_message">"移除转推？"</string>
-    <string name="remove_retweeted_message">"已移除"</string>
-    <string name="favorite_confirm_message_favorite">"收藏此推文？"</string>
-    <string name="created_favorite_message_favorite">"已收藏"</string>
-    <string name="remove_favorite_confirm_message_favorite">删除最喜欢的？</string>
-    <string name="remove_favorite_confirm_message_like">撤消样？</string>
-    <string name="destroyed_favorite_message_favorite">"已取消收藏"</string>
-    <string name="favorite_confirm_message_like">"收藏此推文？"</string>
-    <string name="created_favorite_message_like">"已收藏"</string>
-    <string name="destroyed_favorite_message_like">"已取消收藏"</string>
-    <string name="cannot_favorite_duplicate_status_favorite">它可能已添加到您的收藏夹</string>
-    <string name="cannot_favorite_duplicate_status_like">它可能已经喜欢</string>
+    <string name="profile_edit_button">编辑个人资料</string>
+    <string name="profile_edit_banner_image_button">选择横幅</string>
+    <string name="banner_menu">横幅菜单</string>
+    <string name="banner_change">修改</string>
+    <string name="banner_remove">移除</string>
+    <string name="send_dm_button">新消息</string>
+    <string name="send_mention_button">新提及</string>
+
+    <string name="retweet_confirm_message">转推此推文？</string>
+    <string name="retweeted_message">已转推</string>
+    <string name="remove_retweet_confirm_message">移除转推？</string>
+    <string name="remove_retweeted_message">已移除</string>
+    <string name="favorite_confirm_message_favorite">收藏此推文？</string>
+    <string name="created_favorite_message_favorite">已收藏</string>
+    <string name="remove_favorite_confirm_message_favorite">删除收藏？</string>
+    <string name="remove_favorite_confirm_message_like">取消收藏？</string>
+    <string name="destroyed_favorite_message_favorite">已取消收藏</string>
+    <string name="favorite_confirm_message_like">收藏此推文？</string>
+    <string name="created_favorite_message_like">已收藏</string>
+    <string name="destroyed_favorite_message_like">已取消收藏</string>
+    <string name="cannot_favorite_duplicate_status_favorite">可能已添加到您的收藏夹</string>
+    <string name="cannot_favorite_duplicate_status_like">可能已收藏</string>
     <string name="bookmarked_message">已收藏</string>
     <string name="unbookmarked_message">书签已删除</string>
-    <string name="delete_confirm_message">"删除此推文？"</string>
-    <string name="delete_dm_confirm_message">"删除此消息？"</string>
-    <string name="deleted_message">"已删除"</string>
+    <string name="delete_confirm_message">删除此推文？</string>
+    <string name="delete_dm_confirm_message">删除此消息？</string>
+    <string name="deleted_message">已删除</string>
     <string name="already_deleted_message">已被删除</string>
-    <string name="mute_user_confirm_message">"将此用户静音？"</string>
+    <string name="mute_user_confirm_message">将此用户静音？</string>
     <string name="cancel_mute_user_confirm_message">取消用户静音？</string>
-    <string name="mute_app_confirm_message">"将此应用静音？"</string>
+    <string name="mute_app_confirm_message">将此应用静音？</string>
     <string name="cannot_mute_official_app">不能静音官方应用程序</string>
-    <string name="mute_hashtag_confirm_message">"将此主题标签静音？"</string>
-    <string name="delete_list_confirm_message">"删除此列表？"</string>
-    <string name="deleted_list">"已删除"</string>
-    <string name="unscribe_list_confirm_message">"退订此列表？"</string>
-    <string name="unscribed_list">"已退订"</string>
-    <string name="subscribe_list_confirm_message">"订阅此列表？"</string>
-    <string name="subscribed_list">"已订阅"</string>
-    <string name="destroy_from_list_confirm_message">"移除此会员，好吗？"</string>
-    <string name="list_member_destroyed">"已移除"</string>
-    <string name="add_list_tab">"添加列表选项卡"</string>
-    <string name="remove_tab_confirm">"你确定要删除 %1$s 吗？"</string>
-    <string name="add_search_tab">"添加搜索选项卡"</string>
-    <string name="common_clear">"清除"</string>
-    <string name="common_failed_message">"失败...，请在几分钟后重试。"</string>
-    <string name="common_delete">"删除"</string>
-    <string name="already_task_running">"正在运行，请在几分钟后重试。"</string>
-    <string name="cannot_view_private_account_timeline">"无法查看私人帐户的时间轴..."</string>
-    <string name="cannot_view_private_account_tweet">"无法查看私人帐户的推文..."</string>
-    <string name="cannot_retweet_duplicate_status">"可能已被转推。"</string>
-    <string name="cannot_retweet_blocked_user">You have been blocked from retweeting this user\'s tweets at their request.</string>
-    
-    <string name="image_size_errror">"图像大小错误"</string>
-    <string name="too_large_image_size_to_attach">"图像尺寸过大"</string>
-    
-    <string name="block_user_confirm_message">"你是否确认希望阻止？"</string>
-    <string name="block_tweet_confirm_message">"你是否确认希望阻止？"</string>
-    <string name="blocked_message">"已阻止"</string>
-    <string name="report_spam_confirm_message">"你是否确认希望举报此用户的垃圾邮件？"</string>
-    <string name="user_reported_message">"已举报"</string>
-    <string name="destroy_block_user_confirm_message">"你是否确认要取消阻止？"</string>
-    <string name="destroy_block_message">"已取消阻止"</string>
-    
-    <string name="following">"正在关注"</string>
-    <string name="follow">"关注"</string>
-    <string name="you_are_followed">"[关注你]"</string>
-    <string name="follow_confirm_title">"关注"</string>
-    <string name="follow_confirm_message">"关注\@%1$s？"</string>
-    <string name="follow_or_unfollow">关注 / 取消关注</string>
-    <string name="unfollow_confirm_title">"取消关注"</string>
-    <string name="unfollow_confirm_message">"停止关注\@%1$s？"</string>
-    <string name="follow_done">"已关注"</string>
-    <string name="unfollow_done">"已取消关注"</string>
-    <string name="cannot_send_dm">"你不能私信，因为该用户没有关注你"</string>
-    
-    <string name="show_retweet">"打开转推"</string>
-    <string name="hide_retweet">"关闭转推"</string>
-    <string name="hide_retweet_done">"自\@%1$s的转推将不再出现在你的时间轴上"</string>
-    <string name="show_retweet_done">"自\@%1$s的转推将出现在你的时间轴上"</string>
-    <string name="turn_on_retweet_confirm_title">"打开转推"</string>
-    <string name="turn_on_retweet_confirm_message">"打开来自%1$s的从转推？"</string>
-    <string name="turn_off_retweet_confirm_title">"关闭转推"</string>
-    <string name="turn_off_retweet_confirm_message">"关闭来自%1$s的转推？"</string>
-    
-    <string name="twitter_error_network_issue">"已失败。可能无法与Twitter服务器进行通信。请在几分钟后重试。"</string>
-    <string name="twitter_error_resource_not_found">"已失败。资源可能已被删除（推文或私信，或者其他资源）"</string>
-    <string name="twitter_error_api_rate_limitation_with_reset_minutes">"已超过速率限制（Twitter的API请求限制）\n\n请在大约%1$d分%2$d秒后再试"</string>
+    <string name="mute_hashtag_confirm_message">将此主题标签静音？</string>
+    <string name="delete_list_confirm_message">删除此列表？</string>
+    <string name="deleted_list">已删除</string>
+    <string name="unscribe_list_confirm_message">退订此列表？</string>
+    <string name="unscribed_list">已退订</string>
+    <string name="subscribe_list_confirm_message">订阅此列表？</string>
+    <string name="subscribed_list">已订阅</string>
+    <string name="destroy_from_list_confirm_message">要移除此成员吗？</string>
+    <string name="list_member_destroyed">已移除</string>
+    <string name="add_list_tab">添加列表选项卡</string>
+    <string name="remove_tab_confirm">你确定要删除 %1$s 吗？</string>
+    <string name="add_search_tab">添加搜索选项卡</string>
+    <string name="common_clear">清除</string>
+    <string name="common_failed_message">失败...，请在几分钟后重试。</string>
+    <string name="common_delete">删除</string>
+    <string name="already_task_running">正在运行，请在几分钟后重试。</string>
+    <string name="cannot_view_private_account_timeline">无法查看私人帐户的推特...</string>
+    <string name="cannot_view_private_account_tweet">无法查看私人帐户的推文...</string>
+    <string name="cannot_retweet_duplicate_status">可能已被转推。</string>
+    <string name="cannot_retweet_blocked_user">应该用户的要求，您已被禁止转发该用户的推文。</string>
 
-    <string name="account_list">"帐户列表"</string>
-    <string name="over_account_count_in_subscription">"超过帐户数限制"</string>
-    <string name="over_account_count_not_subscription">"超过帐户数限制：如果你订阅，可以将限制提高到5个"</string>
+    <string name="image_size_errror">图像大小错误</string>
+    <string name="too_large_image_size_to_attach">图像尺寸过大</string>
+
+    <string name="block_user_confirm_message">你确定要屏蔽吗？</string>
+    <string name="block_tweet_confirm_message">你确定你屏蔽吗？</string>
+    <string name="blocked_message">已屏蔽</string>
+    <string name="report_spam_confirm_message">你确定要举报这个用户的垃圾信息吗？</string>
+    <string name="user_reported_message">已举报</string>
+    <string name="destroy_block_user_confirm_message">你确定要取消屏蔽吗？</string>
+    <string name="destroy_block_message">已取消屏蔽</string>
+
+    <string name="following">正在关注</string>
+    <string name="follow">关注</string>
+    <string name="you_are_followed">[关注你]</string>
+    <string name="follow_confirm_title">关注</string>
+    <string name="follow_confirm_message">关注\@%1$s？</string>
+    <string name="follow_or_unfollow">关注 / 取消关注</string>
+    <string name="unfollow_confirm_title">取消关注</string>
+    <string name="unfollow_confirm_message">停止关注\@%1$s？</string>
+    <string name="follow_done">已关注</string>
+    <string name="unfollow_done">已取消关注</string>
+    <string name="cannot_send_dm">你不能发送私信，因为该用户没有关注你</string>
+
+    <string name="show_retweet">打开转推</string>
+    <string name="hide_retweet">关闭转推</string>
+    <string name="hide_retweet_done">自\@%1$s的转推将不再出现在你的时间轴上</string>
+    <string name="show_retweet_done">自\@%1$s的转推将出现在你的时间轴上</string>
+    <string name="turn_on_retweet_confirm_title">打开转推</string>
+    <string name="turn_on_retweet_confirm_message">打开来自%1$s的转推？</string>
+    <string name="turn_off_retweet_confirm_title">关闭转推</string>
+    <string name="turn_off_retweet_confirm_message">关闭来自%1$s的转推？</string>
+
+    <string name="twitter_error_network_issue">已失败。可能无法与Twitter服务器进行通信。请在几分钟后重试。</string>
+    <string name="twitter_error_resource_not_found">已失败。资源可能已被删除（推文或私信，或者其他资源）</string>
+    <string name="twitter_error_api_rate_limitation_with_reset_minutes">已超过速率限制（Twitter的API请求限制）\n\n请在大约%1$d分%2$d秒后再试</string>
+
+    <string name="rate_limit_list_does_not_include_api_v2" translatable="false">“此列表不包括Twitter API v2的速率限制。”</string>
+    <string name="account_list">帐户列表</string>
+    <string name="over_account_count_in_subscription">超过帐户数限制</string>
+    <string name="over_account_count_not_subscription">超过帐户数限制：如果你订阅了，可以将限制提高到5个</string>
     <string name="account_change_confirm">更改帐户？</string>
 
-    <string name="failed_to_load_image_and_try_again">"无法加载图像，请在几分钟后重试..."</string>
-    
-    <string name="another_menu">"其他"</string>
+    <string name="failed_to_load_image_and_try_again">无法加载图像，请在几分钟后重试...</string>
+
+    <string name="another_menu">其他</string>
     <string name="another_menu_dots">其他…</string>
 
-    <string name="notification_new_reply_ticker">"有一些更新"</string>
-    <string name="notification_new_reply_text">"有一些给你的推文"</string>
-    
-    <string name="notification_new_dm_ticker">"你收到了一条新消息"</string>
-    <string name="notification_new_dm_text">"新的私信"</string>
-    <string name="notification_new_dm_text_with_user">"来自\@%1$s的消息"</string>
-    
-    <string name="retweeted_by_user">"由%1$s转推"</string>
-    <string name="source_from">"自%1$s"</string>
-    <string name="reply_to">"至%1$s"</string>
-    <string name="cannot_launch_official_twitter_app">"不能启动官方Twitter应用。\n请确认安装了最新的官方Twitter应用"</string>
-    
-    <string name="compass_button">"获取当前位置"</string>
+    <string name="notification_new_reply_ticker">有一些更新</string>
+    <string name="notification_new_reply_text">有一些为你准备的推文</string>
+
+    <string name="notification_new_dm_ticker">你收到了一条新消息</string>
+    <string name="notification_new_dm_text">新的私信</string>
+    <string name="notification_new_dm_text_with_user">来自\@%1$s的消息</string>
+
+    <string name="retweeted_by_user">由%1$s转推</string>
+    <string name="source_from">来自%1$s</string>
+    <string name="reply_to">回复%1$s</string>
+    <string name="cannot_launch_official_twitter_app">不能启动官方Twitter应用。\n请确认安装了最新的官方Twitter应用</string>
+
+    <string name="compass_button">获取当前位置</string>
 
     <string name="show_tweet_activity">显示推文活动</string>
 
     <!-- リスト作成・編集画面 -->
-    <string name="list_name_text">"列表名称"</string>
-    <string name="list_description_text">"描述"</string>
-    <string name="privacy_text">"隐私"</string>
-    <string name="privacy_public">"公开"</string>
-    <string name="privacy_private">"私有"</string>
-    <string name="private_save_button">"保存"</string>
-    <string name="list_created">"已保存"</string>
-    <string name="list_edited">"已保存"</string>
-    <string name="list_description_length_error">"请输入140个字符以内的描述文字"</string>
-    <string name="no_list_name_error">"请输入列表名称"</string>
-    
+    <string name="list_name_text">列表名称</string>
+    <string name="list_description_text">描述</string>
+    <string name="privacy_text">隐私</string>
+    <string name="privacy_public">公开</string>
+    <string name="privacy_private">私有</string>
+    <string name="private_save_button">保存</string>
+    <string name="list_created">已保存</string>
+    <string name="list_edited">已保存</string>
+    <string name="list_description_length_error">请输入140个字符以内的描述文字</string>
+    <string name="no_list_name_error">请输入列表名称</string>
+
     <!-- リストメンバー編集 -->
-    <string name="list_member_added">"已添加列表成员"</string>
-    <string name="select_list_to_add_the_member">"选择一个列表来添加成员"</string>
-    <string name="remove_from_list_confirm">"@%1$s is already member of %2$s, remove ?"</string>
+    <string name="list_member_added">已添加列表成员</string>
+    <string name="select_list_to_add_the_member">选择一个列表来添加成员</string>
+    <string name="remove_from_list_confirm">@%1$s 已经是 %2$s 的成员， 要删除吗？</string>
 
     <!-- プロフィール編集画面 -->
-    <string name="profile_edit_screen_name_text_dummy">"网名"</string>
-    <string name="profile_edit_name_label">"姓名"</string>
-    <string name="profile_edit_description_text">"描述"</string>
-    <string name="profile_edit_description_label">"描述"</string>
-    <string name="profile_edit_location_label">"位置"</string>
-    <string name="profile_edit_url_label">"URL"</string>
-    <string name="profile_edit_save_button">"保存"</string>
-    <string name="profile_edit_saved">"已保存"</string>
-    <string name="profile_banner_saved">"已保存，将在几分钟内生效"</string>
-    <string name="profile_banner_removed">"已移除，将在几分钟内生效"</string>
-    
-    <!-- レビューのお願い画面 -->
-    <string name="review_dialog_title">"请..."</string>
-    <string name="review_dialog_message">"TwitPane怎么样？\n你能否在Google Play上支持我们的开发？"</string>
-    <string name="review_dialog_later_button">"以后再说"</string>
-    <string name="review_dialog_review_button">"确定"</string>
-    
-    <!-- お気に入り表示公式アプリ確認関連 -->
-    <string name="need_twitter_app_title">"关于被收藏用户"</string>
-    <string name="need_twitter_app_message">"显示被收藏用户受到Twitter的限制，因此请通过Twitter的官方应用或者。\n\n安装官方的应用吗？"</string>
-<!--	<string name="show_favorited_users_by_twitter_app_run_message">"显示被收藏用户受到Twitter的限制，因此另请通过Twitter的官方应用显示显示的推文。\n\n运行官方应用吗？"</string>-->
-    
-	<string name="drawer_open">"打开"</string>
-	<string name="drawer_close">"关闭"</string>
+    <string name="profile_edit_screen_name_text_dummy">网名</string>
+    <string name="profile_edit_name_label">姓名</string>
+    <string name="profile_edit_description_text">描述</string>
+    <string name="profile_edit_description_label">描述</string>
+    <string name="profile_edit_location_label">位置</string>
+    <string name="profile_edit_url_label">链接</string>
+    <string name="profile_edit_save_button">保存</string>
+    <string name="profile_edit_saved">已保存</string>
+    <string name="profile_banner_saved">已保存，将在几分钟内生效</string>
+    <string name="profile_banner_removed">已移除，将在几分钟内生效</string>
 
-    <string name="search_around_tweets_not_found_message">"Not found in @%1$s's timeline…"</string>
+    <!-- レビューのお願い画面 -->
+    <string name="review_dialog_title">请...</string>
+    <string name="review_dialog_message">TwitPane怎么样？\n你能否在Google Play上支持我们的开发？</string>
+    <string name="review_dialog_later_button">以后再说</string>
+    <string name="review_dialog_review_button">确定</string>
+
+    <!-- お気に入り表示公式アプリ確認関連 -->
+    <string name="need_twitter_app_title">关于已收藏的用户</string>
+    <string name="need_twitter_app_message">显示已收藏的用户是受到Twitter限制的，因此请通过Twitter的官方应用来显示推文。\n\n安装官方应用吗？</string>
+    <!--	<string name="show_favorited_users_by_twitter_app_run_message">显示被收藏用户受到Twitter的限制，因此另请通过Twitter的官方应用显示显示的推文。\n\n运行官方应用吗？</string>-->
+
+    <string name="drawer_open">打开</string>
+    <string name="drawer_close">关闭</string>
+
+    <string name="search_around_tweets_not_found_message">没有在 @%1$s 的时间轴中找到。</string>
 
     <!-- 固定ツイート -->
     <string name="pinned_tweet">置顶推文</string>
     <string name="config_show_pinned_tweet">显示置顶推文</string>
-    <string name="config_show_pinned_tweet_summary"></string>
+    <string name="config_show_pinned_tweet_summary">“[默认:开]”</string>
 
     <!-- サブスクリプション画面 -->
-    <string name="continue_to_trial">Continue to trial</string>
-    <string name="cloud_translation_subscription_title">Subscription</string>
-    <string name="subscription_title">Subscription</string>
+    <string name="continue_to_trial">“继续试用”</string>
+    <string name="cloud_translation_subscription_title">“订阅”</string>
+    <string name="subscription_title">“订阅”</string>
 
 
     <!-- ================================================================================ -->
     <!-- Menu -->
     <!-- ================================================================================ -->
-    <string name="menu_tab">"选项卡"</string>
+    <string name="menu_tab">选项卡</string>
 
-    <string name="menu_list_member">"列表成员"</string>
-    <string name="menu_show_list_member">"显示成员"</string>
-    <string name="menu_show_list_subscribers">显示订户</string>
-    <string name="menu_create_list">"创建列表"</string>
-    <string name="menu_list_edit">"编辑"</string>
-    <string name="menu_list_delete">"删除"</string>
-    <string name="menu_list_subscribe">"订阅"</string>
-    <string name="menu_list_unscribe">"取消订阅"</string>
-    <string name="menu_new">"新建"</string>
-    <string name="menu_search">"搜索"</string>
-    <string name="menu_home">"首页"</string>
-    <string name="menu_refresh">"刷新"</string>
-    <string name="menu_config">"配置"</string>
+    <string name="menu_list_member">列表成员</string>
+    <string name="menu_show_list_member">显示成员</string>
+    <string name="menu_show_list_subscribers">显示订阅用户</string>
+    <string name="menu_create_list">创建列表</string>
+    <string name="menu_list_edit">编辑</string>
+    <string name="menu_list_delete">删除</string>
+    <string name="menu_list_subscribe">订阅</string>
+    <string name="menu_list_unscribe">取消订阅</string>
+    <string name="menu_new">新建</string>
+    <string name="menu_search">搜索</string>
+    <string name="menu_home">首页</string>
+    <string name="menu_refresh">刷新</string>
+    <string name="menu_config">设置</string>
     <string name="menu_event">事件</string>
-    <string name="menu_about">"关于"</string>
-    <string name="menu_debug">"调试"</string>
-    <string name="debug_mode_confirm_title">"调试模式确认"</string>
-    <string name="debug_mode_confirm_message">"您确认希望进入调试模式？"</string>
-    <string name="debug_mode_entered">"已进入调试模式"</string>
-    <string name="debug_mode_canceled">"调试模式已取消"</string>
-    <string name="debug_mode_menu">"调试模式菜单"</string>
-    <string name="debug_mode_cancel">"取消调试模式"</string>
-    <string name="debug_mode_send_debug_log">"发送调试日志"</string>
-    <string name="debug_mode_send_debug_log_short">"发送"</string>
-    <string name="debug_mode_send_debug_log_confirm_title">"发送调试日志"</string>
-    <string name="debug_mode_send_debug_log_confirm_message">"对带来的不便深表歉意。
+    <string name="menu_about">关于</string>
+    <string name="menu_debug">调试</string>
+    <string name="debug_mode_confirm_title">调试模式确认</string>
+    <string name="debug_mode_confirm_message">你确定要进入调试模式吗？</string>
+    <string name="debug_mode_entered">已进入调试模式</string>
+    <string name="debug_mode_canceled">调试模式已取消</string>
+    <string name="debug_mode_menu">调试模式菜单</string>
+    <string name="debug_mode_cancel">取消调试模式</string>
+    <string name="debug_mode_send_debug_log">发送调试日志</string>
+    <string name="debug_mode_send_debug_log_short">发送</string>
+    <string name="debug_mode_send_debug_log_confirm_title">发送调试日志</string>
+    <string name="debug_mode_send_debug_log_confirm_message">很抱歉给你带来不便。
 \n
 \n有可能由于Twitter规则的更改让你无法再使用。
 \n
 \n请检查Google Play商店的更新，因为修改后的版本可能已经发布。
-\n（如果尚未发布，现在请等待一段时间公开）
+\n（如果尚未发布，现在请等待一段时间）
 \n
-\n另外，也可以通过发送作者调试日志在未来的版本中加以解决。
+\n另外，也可以通过向作者发送调试日志以在未来的版本中加以解决。
 \n但是请注意，日志中可能包含个人信息。
-\n如果你希望发送调试日志，请选择”下一个屏幕上的“Gmail。"</string>
-    <string name="debug_mode_check_update">"检查更新"</string>
-    <string name="show_internal_cache">"显示内部缓存"</string>
-    <string name="show_debug_log">"显示调试日志"</string>
+\n如果你希望发送调试日志，请在下一屏上选择 \“Gmail\"。</string>
+    <string name="debug_mode_check_update">检查更新</string>
+    <string name="show_internal_cache">显示内部缓存</string>
+    <string name="show_debug_log">显示调试日志</string>
+    <string name="show_debug_notification" translatable="false">Notification test(Reply)</string>
 
-    <string name="menu_show_account_list">"帐户"</string>
-    <string name="menu_tab_config">选项卡设置</string>
-    <string name="menu_show_tab_list">"选项卡列表"</string>
-    <string name="menu_open_tab_list">"打开选项卡列表"</string>
-    <string name="menu_close_tab_list">"关闭标签列表"</string>
-    <string name="menu_page_config">"自定义选项卡"</string>
-    <string name="add_tab">"添加选项卡"</string>
-    
-    <string name="menu_ok">"确定"</string>
-    <string name="menu_cancel">"取消"</string>
-    <string name="menu_restore_default">"默认"</string>
-    <string name="restore_default_confirm_message">"您是否确认希望恢复默认选项卡。确定吗？"</string>
-    <string name="menu_add">"添加"</string>
-    <string name="menu_delete_tab">"删除选项卡"</string>
-    <string name="tab_delete_confirm">Are you sure you want to delete tab "%1$s" ?</string>
-    <string name="menu_add_user_page_to_home">"将页面添加到顶部"</string>
-    <string name="add_user_page_to_home_already_added">"已经添加.."</string>
-    <string name="add_user_page_to_home_finish">"已添加"</string>
-    <string name="menu_add_user_list_to_home">"将列表添加到顶部"</string>
-    <string name="add_user_list_to_home_already_added">"已经添加.."</string>
-    <string name="add_user_list_to_home_finish">"已添加"</string>
-    <string name="menu_share">"分享"</string>
-    <string name="menu_share_design">"分享设计"</string>
-    
-    <string name="menu_stop_userstream">"停止用户串流"</string>
-    <string name="menu_start_userstream">"启动用户串流"</string>
-    <string name="menu_enable_auto_scroll">"启用自动滚屏"</string>
-    <string name="menu_disable_auto_scroll">"禁用自动滚屏"</string>
-    
-    <string name="menu_add_search_tab_to_home">"添加搜索选项卡"</string>
-    <string name="add_search_tab_to_home_already_added">"已经添加.."</string>
-    <string name="add_search_tab_to_home_finish">"已添加"</string>
-    <string name="menu_open_saved_search">"打开已保存的搜索"</string>
-    
-    <string name="menu_show_image_only">"仅显示图像"</string>
-    <string name="menu_cancel_image_only">"仅取消图像"</string>
+    <string name="menu_show_account_list">帐户</string>
+    <string name="menu_tab_config">标签设置</string>
+    <string name="menu_show_tab_list">标签列表</string>
+    <string name="menu_open_tab_list">打开标签列表</string>
+    <string name="menu_close_tab_list">关闭标签列表</string>
+    <string name="menu_page_config">自定义标签</string>
+    <string name="add_tab">添加标签</string>
 
-    <string name="menu_show_all_rt">"显示所有锐推"</string>
-    <string name="menu_show_first_rt_only">"展会第一部分只"</string>
-    <string name="menu_search_with_official_app">Search with Twitter App</string>
+    <string name="menu_ok">确定</string>
+    <string name="menu_cancel">取消</string>
+    <string name="menu_restore_default">默认</string>
+    <string name="restore_default_confirm_message">你确定要恢复默认标签吗？</string>
+    <string name="menu_add">添加</string>
+    <string name="menu_delete_tab">删除标签</string>
+    <string name="tab_delete_confirm">你确定你要删除标签 "%1$s" 吗？</string>
+    <string name="menu_add_user_page_to_home">将页面添加到顶部</string>
+    <string name="add_user_page_to_home_already_added">已经添加..</string>
+    <string name="add_user_page_to_home_finish">已添加</string>
+    <string name="menu_add_user_list_to_home">将列表添加到顶部</string>
+    <string name="add_user_list_to_home_already_added">已经添加..</string>
+    <string name="add_user_list_to_home_finish">已添加</string>
+    <string name="menu_share">分享</string>
+    <string name="menu_share_design">分享设计</string>
 
-    <string name="menu_show_user">"显示用户"</string>
-    <string name="menu_search_user">"搜索用户"</string>
-    <string name="menu_show_block_users">"显示已阻止的用户"</string>
-    <string name="menu_show_no_retweet_users">非转推用户</string>
+    <string name="menu_stop_userstream">停止用户串流</string>
+    <string name="menu_start_userstream">启动用户串流</string>
+    <string name="menu_enable_auto_scroll">启用自动滚屏</string>
+    <string name="menu_disable_auto_scroll">禁用自动滚屏</string>
 
-    <string name="menu_campaign_ad">"广告活动"</string>
-    <string name="campaign_info">"关于活动"</string>
-    <string name="campaign_info_message">"感谢使用本应用！\n\n如果你希望隐藏广告，你可以发本应用的广告推文。 (%1$d days)"</string>
-    <string name="campaign_info_tweet">"输入推文"</string>
-    <string name="campaign_input_title">"请输入推文"</string>
-    <string name="campaign_input_alert">"输入包含“TwitPane”的推文"</string>
-    <string name="campaign_already_ad_hiding">"广告已经隐藏.. \n你确认要恢复的广告。确定吗？"</string>
-    <string name="campaign_tweet_done_title">"活动推文已完成"</string>
-    <string name="campaign_tweet_done_message">"发送活动推文。这样的广告会隐藏大约%1$d天！ch"</string>
-    <string name="campaign_tweet_count_exceeded">您通过 PR Tweet 执行广告移除的次数已超过限制。请考虑广告取消包（订阅）或付费版本。</string>
-    
-    
-    <string name="menu_no_tap_ex_action">"没有点击扩展动作（默认）"</string>
-    <string name="reply_button">"回复"</string>
-    <string name="menu_reply">"回复"</string>
-    <string name="menu_reply_all">"全部回复"</string>
-    <string name="menu_hidden_button">"无功能（隐藏）"</string>
-    <string name="menu_rt">"转推"</string>
-    <string name="menu_quote_tweet">报价分享Tweet</string>
-    <string name="menu_tweet_with_comment">鸣叫与评论</string>
-    <string name="menu_unofficial_retweet">RT \@TwitPane: …</string>
-    <string name="cannot_retweet_protected_user_tweet">"不能转推保护用户的推文"</string>
-    <string name="menu_remove_rt">"移除转推"</string>
-    <string name="menu_create_favorite_favorite">"收藏"</string>
-    <string name="menu_remove_favorite_favorite">"删除收藏"</string>
-    <string name="menu_create_favorite_like">"收藏"</string>
-    <string name="menu_remove_favorite_like">"删除收藏"</string>
+    <string name="menu_add_search_tab_to_home">添加搜索标签</string>
+    <string name="add_search_tab_to_home_already_added">已经添加..</string>
+    <string name="add_search_tab_to_home_finish">已添加</string>
+    <string name="menu_open_saved_search">打开已保存的搜索</string>
+
+    <string name="menu_show_image_only">仅显示图像</string>
+    <string name="menu_cancel_image_only">取消仅图像</string>
+
+    <string name="menu_show_all_rt">显示所有转推</string>
+    <string name="menu_show_first_rt_only">只显示第一条转推</string>
+    <string name="menu_search_with_official_app">使用Twitter官员应用程序搜索</string>
+
+    <string name="menu_show_user">显示用户</string>
+    <string name="menu_search_user">搜索用户</string>
+    <string name="menu_show_block_users">显示已阻止的用户</string>
+    <string name="menu_show_no_retweet_users">显示非转推用户</string>
+
+    <string name="menu_campaign_ad">广告宣传活动</string>
+    <string name="campaign_info">关于宣传活动</string>
+    <string name="campaign_info_message">感谢使用本应用！\n\n如果你希望隐藏广告，你可以发本应用的广告推文。 (大约 %1$d 天)</string>
+    <string name="campaign_info_tweet">输入推文</string>
+    <string name="campaign_input_title">请输入推文</string>
+    <string name="campaign_input_alert">输入包含“TwitPane”的推文</string>
+    <string name="campaign_already_ad_hiding">广告已经隐藏.. \n你确认要恢复广告吗？</string>
+    <string name="campaign_tweet_done_title">推广推文已完成</string>
+    <string name="campaign_tweet_done_message">发送推广推文。这样的广告会隐藏大约%1$d天！</string>
+    <string name="campaign_tweet_count_exceeded">您通过发送推广推文来移除广告的次数已超过限制。请考虑广告取消包（订阅）或付费版本。</string>
+
+
+    <string name="menu_no_tap_ex_action">没有点击扩展动作（默认）</string>
+    <string name="reply_button">回复</string>
+    <string name="menu_reply">回复</string>
+    <string name="menu_reply_all">全部回复</string>
+    <string name="menu_hidden_button">无功能（隐藏）</string>
+    <string name="menu_rt">转推</string>
+    <string name="menu_quote_tweet">引用推文</string>
+    <string name="menu_tweet_with_comment">带评论的推文（Twitter风格）</string>
+    <string name="menu_unofficial_retweet">转推 \@TwitPane: …</string>
+    <string name="cannot_retweet_protected_user_tweet">不能转推受保护的用户的推文</string>
+    <string name="menu_remove_rt">移除转推</string>
+    <string name="menu_create_favorite_favorite">收藏</string>
+    <string name="menu_remove_favorite_favorite">删除收藏</string>
+    <string name="menu_create_favorite_like">点赞</string>
+    <string name="menu_remove_favorite_like">删除点赞</string>
     <string name="menu_add_bookmark">添加到书签</string>
     <string name="menu_delete_bookmark">从书签中删除</string>
-    <string name="menu_show_conversation">"对话"</string>
+    <string name="menu_show_conversation">对话</string>
     <string name="menu_search_conversation">搜索会话</string>
-    <string name="menu_search_around_tweets">搜索周围的鸣叫</string>
-    <string name="found_new_reply_tweets">发现新的鸣叫(%1$s)</string>
-    <string name="menu_show_rt_users">"转推用户"</string>
+    <string name="menu_search_around_tweets">搜索相关的推文</string>
+    <string name="found_new_reply_tweets">发现新的推文(%1$s)</string>
+    <string name="menu_show_rt_users">转推用户</string>
     <string name="menu_show_quoted_tweets">引用的推文</string>
-    <string name="menu_show_favorite_users_favorite">"收藏用户"</string>
-    <string name="menu_show_favorite_users_like">"收藏用户"</string>
-    <string name="menu_show_profile">"显示个人资料"</string>
-    <string name="menu_show_timeline">"显示时间轴"</string>
+    <string name="menu_show_favorite_users_favorite">收藏的用户</string>
+    <string name="menu_show_favorite_users_like">点赞的用户</string>
+    <string name="menu_show_profile">显示个人资料</string>
+    <string name="menu_show_timeline">显示时间轴</string>
     <string name="show_latest_tweet">显示时间轴</string>
-    <string name="menu_show_tweet">"查看"</string>
-    <string name="menu_set_color_label_dots">"设置彩色标签..."</string>
-    <string name="menu_set_color_label_short">"设置颜色标签"</string>
-    <string name="menu_set_all_color_label">"设置所有颜色标签"</string>
-    <string name="menu_cancel_color_label_short">"取消颜色标签"</string>
-    <string name="cancel_all_color_labels_in_list">"取消此列表中所包括用户的所有标签（%1$s用户），确定吗？"</string>
-    <string name="set_all_color_labels_in_list">"将此列表中所包括用户的所有标签（%1$s用户）设为“%2$s “，好不好？ \n \n注意：保持已设置标签的用户标签"</string>
-    <string name="set_color_labels_done">"设置所有彩色标签已完成（用户数：%1$s）"</string>
+    <string name="menu_show_tweet">查看</string>
+    <string name="menu_set_color_label_dots">设置彩色标签...</string>
+    <string name="menu_set_color_label_short">设置颜色标签</string>
+    <string name="menu_set_all_color_label">设置所有颜色标签</string>
+    <string name="menu_cancel_color_label_short">取消颜色标签</string>
+    <string name="cancel_all_color_labels_in_list">取消包含在此列表中的用户的所有标签（%1$s 个用户），确定吗？</string>
+    <string name="set_all_color_labels_in_list">将此列表中所包括用户的所有标签（%1$s用户）设为“%2$s “，确定吗？ \n \n注意：保持已设置标签的用户的标签</string>
+    <string name="set_color_labels_done">设置所有彩色标签已完成（用户数：%1$s）</string>
     <string name="jump_to_other_tab1">跳转到其他标签1</string>
     <string name="jump_to_other_tab2">跳转到其他标签2</string>
     <string name="jump_to_other_tab3">跳转到其他标签3</string>
-    <string name="select_jump_destination_tab">跳转目标标签设置</string>
-    <string name="tab_jump_introduction">-在主屏幕上点击此按钮可以设置跳转目标选项卡。 \n-按住按钮可更改跳转目的地。</string>
+    <string name="select_jump_destination_tab">跳转到目标标签设置</string>
+    <string name="tab_jump_introduction">-在主屏幕上点这个按钮来设置要跳跃到的标签。 \n-按住按钮可更改跳转目的地。</string>
 
-    <string name="menu_share_tweet">"分享推文"</string>
-    <string name="menu_remove_tweet">"删除"</string>
+    <string name="menu_share_tweet">分享推文</string>
+    <string name="menu_remove_tweet">删除</string>
     <string name="menu_open_with_official_app">打开官方应用程序</string>
-    <string name="menu_import_design">"导入设计"</string>
-    
-    <string name="menu_user_mute">"将用户静音"</string>
+    <string name="menu_import_design">导入设计</string>
+
+    <string name="menu_user_mute">将用户静音</string>
     <string name="menu_user_block">屏蔽此用户</string>
     <string name="menu_block_this_tweet">屏蔽这条推文</string>
-    <string name="show_blocked_tweets">显示被阻止的推文</string>
-    <string name="menu_user_reply_search">"搜索回复"</string>
+    <string name="show_blocked_tweets">显示被屏蔽的推文</string>
+    <string name="menu_user_reply_search">搜索回复</string>
     <string name="menu_user_conversation_with_me_search">搜索与我的对话</string>
-    <string name="menu_show_image_timeline">"显示图像时间轴"</string>
-    <string name="menu_user_show_list">"显示列表"</string>
-    <string name="menu_user_show_favorite_favorite">"显示收藏"</string>
-    <string name="menu_user_show_favorite_like">"显示收藏"</string>
-    <string name="menu_user_show_quoted_tweets">显示引用鸣叫</string>
-    <string name="menu_user_show_timeline">"显示时间轴"</string>
-    <string name="menu_user_reply_to">"回复到"</string>
-    <string name="menu_user_send_message">"发送消息到"</string>
-    
-    <string name="menu_guide">"显示教程"</string>
-    <string name="menu_add_list">"添加到列表..."</string>
-    
-    <string name="menu_tweet_config">"配置"</string>
-    <string name="menu_reply_to_other_tweet">链接到其他鸣叫</string>
-    <string name="menu_cancel_reply_to_other_tweet">取消链接到其他鸣叫</string>
-    <string name="select_tweet_to_link_to">选择的tweet链接</string>
+    <string name="menu_show_image_timeline">显示图像时间轴</string>
+    <string name="menu_user_show_list">显示列表</string>
+    <string name="menu_user_show_favorite_favorite">显示收藏</string>
+    <string name="menu_user_show_favorite_like">显示点赞</string>
+    <string name="menu_user_show_quoted_tweets">显示引用推文</string>
+    <string name="menu_user_show_timeline">显示时间轴</string>
+    <string name="menu_user_reply_to">回复</string>
+    <string name="menu_user_send_message">发送消息给</string>
+
+    <string name="menu_guide">显示教程</string>
+    <string name="menu_add_list">添加到列表...</string>
+
+    <string name="menu_tweet_config">设置</string>
+    <string name="menu_reply_to_other_tweet">链接到其他推文</string>
+    <string name="menu_cancel_reply_to_other_tweet">取消与其他推文的链接</string>
+    <string name="select_tweet_to_link_to">选择要链接的推文</string>
     <string name="menu_hide_reply_area">隐藏回复区</string>
     <string name="menu_show_reply_area">显示回复区</string>
     <string name="menu_hide_attached_image_area">隐藏附加图像区域</string>
-    <string name="menu_show_attached_image_area">显示附加的图像区</string>
-    <string name="menu_add_app_link">"添加TwitPane链接"</string>
-    
-    <string name="menu_block">"阻止"</string>
-    <string name="menu_block_dots">"阻止..."</string>
-    <string name="menu_spam">"垃圾邮件报告"</string>
-    <string name="menu_report_as_spam">报告为垃圾邮件...</string>
-    <string name="report_tweet_as_spam_confirm_message">您真的要将此推文标记为垃圾邮件吗？</string>
-    <string name="tweet_reported_message">Reported</string>
-    <string name="edited_tweet">Edited history</string>
+    <string name="menu_show_attached_image_area">显示附加图像区域</string>
+    <string name="menu_add_app_link">添加TwitPane链接</string>
+
+    <string name="menu_block">屏蔽</string>
+    <string name="menu_block_dots">屏蔽...</string>
+    <string name="menu_spam">有害推文举报</string>
+    <string name="menu_report_as_spam">举报为有害推文...</string>
+    <string name="report_tweet_as_spam_confirm_message">您真的要将此推文标记为有害吗？</string>
+    <string name="tweet_reported_message">已举报</string>
+    <string name="edited_tweet">编辑历史</string>
     <string name="edited">已编辑</string>
     <string name="there_is_a_new_version_of_this_tweet">这条推文有一个新版本。</string>
     <string name="latest_tweet">最新推文</string>
     <string name="version_history">版本历史</string>
-    <string name="menu_delete_user_from_list">"从列表中删除用户..."</string>
-    <string name="menu_delete_from_block_list">"从阻止列表中删除..."</string>
-    <string name="menu_scroll_to_top">"滚动到顶部"</string>
-    <string name="menu_scroll_to_bottom">"滚动到底部"</string>
-    <string name="menu_move_up">提升</string>
+    <string name="menu_delete_user_from_list">从列表中删除用户...</string>
+    <string name="menu_delete_from_block_list">从屏蔽列表中删除...</string>
+    <string name="menu_scroll_to_top">滚动到顶部</string>
+    <string name="menu_scroll_to_bottom">滚动到底部</string>
+    <string name="menu_move_up">上移</string>
     <string name="menu_move_down">下移</string>
-    <string name="menu_mute">"静音..."</string>
-    <string name="menu_misc_block_mute">"阻止、垃圾邮件..."</string>
-    <string name="menu_choose_tweets">"选择推文..."</string>
-    <string name="message_for">"%1$s的消息"</string>
-    <string name="message_from">"来自%1$s的消息"</string>
-    <string name="loaded_messages">Loaded %1$d messages</string>
-    <string name="menu_delete_message">"删除..."</string>
-    <string name="menu_share_message">"分享"</string>
-    <string name="menu_share_lists">"分享"</string>
-    <string name="menu_copy">"复制..."</string>
+    <string name="menu_mute">静音...</string>
+    <string name="menu_misc_block_mute">屏蔽、有害推文...</string>
+    <string name="menu_choose_tweets">选择推文...</string>
+    <string name="message_for">%1$s的消息</string>
+    <string name="message_from">来自%1$s的消息</string>
+    <string name="loaded_messages">已载入 %1$d 条消息</string>
+    <string name="menu_delete_message">删除...</string>
+    <string name="menu_share_message">分享</string>
+    <string name="menu_share_lists">分享</string>
+    <string name="menu_copy">复制...</string>
     <string name="menu_translate">翻译</string>
-    <string name="set_startup_pane">设置为启动选项卡</string>
+    <string name="set_startup_pane">设置为启动标签</string>
 
     <string name="show_polls_result">查看本次调查的进展情况。</string>
-    <string name="votes">%1$d votes</string>
-    <string name="polls_until">until %1$s</string>
-    <string name="polls_final_results">Final results</string>
+    <string name="votes">%1$d 个投票</string>
+    <string name="polls_until">直到 %1$s</string>
+    <string name="polls_final_results">最终结果</string>
 
     <string name="change_account">更改帐户</string>
     <string name="choose_account">选择账户</string>
-    <string name="other_color_with_color_picker">"其他（颜色选取器）"</string>
-    <string name="change_color">"更改颜色"</string>
-    <string name="default_color">"默认颜色"</string>
-    <string name="no_color_label">"无彩色标签"</string>
+    <string name="other_color_with_color_picker">其他（颜色选取器）</string>
+    <string name="change_color">更改颜色</string>
+    <string name="default_color">默认颜色</string>
+    <string name="no_color_label">无彩色标签</string>
 
-    <string name="select_upload_plugin">"选择上传插件"</string>
-    <string name="upload_with_twitpane">"通过TwitPane上传"</string>
-    
-    <string name="image_menu">"图像菜单"</string>
+    <string name="select_upload_plugin">选择上传插件</string>
+    <string name="upload_with_twitpane">通过TwitPane上传</string>
+
+    <string name="image_menu">图像菜单</string>
     <string name="video_menu">視頻菜單</string>
-    <string name="media_menu_preview">"预览"</string>
-    <string name="image_menu_preview">"预览"</string>
-    <string name="image_menu_save">"保存"</string>
-    
-    <string name="hashtag_menu_search">"搜索"</string>
-    <string name="hashtag_menu_tweet">"推文"</string>
-    <string name="hashtag_menu_remember">"记住"</string>
-    <string name="hashtag_menu_mute">"静音"</string>
-    <string name="hashtag_remembered">"已记住（你可以在新推文窗口调用）"</string>
-    
-    <string name="menu_change_name">"更改选项卡名称"</string>
-    <string name="menu_change_keyword">"更改关键词"</string>
-    
+    <string name="media_menu_preview">预览</string>
+    <string name="image_menu_preview">预览</string>
+    <string name="image_menu_save">保存</string>
+
+    <string name="hashtag_menu_search">搜索</string>
+    <string name="hashtag_menu_tweet">推文</string>
+    <string name="hashtag_menu_remember">记住</string>
+    <string name="hashtag_menu_mute">静音</string>
+    <string name="hashtag_remembered">已记住（你可以在新推文窗口调用）</string>
+
+    <string name="menu_change_name">更改标签名称</string>
+    <string name="menu_change_keyword">更改关键词</string>
+
     <!-- ================================================================================ -->
     <!-- WriteView -->
     <!-- ================================================================================ -->
-    <string name="write_view_activity_title">"推文"</string>
-    <string name="write_view_body_label">"你的想法是什么？"</string>
-    <string name="write_view_submit_button">"推文"</string>
-    <string name="write_view_send_button">"发送"</string>
-    <string name="picture1_select_button">"照片"</string>
-    <string name="mush_button_text">"蘑菇"</string>
-    <string name="minimize">Minimize</string>
-    <string name="maximize">Maximize</string>
-    <string name="hashtag">"主题标签"</string>
-    <string name="hashtag_remove_confirm_title">"删除确认"</string>
-    <string name="hashtag_remove_confirm_message">"删除此主题标签括hashtag？"</string>
-    <string name="no_recent_hashtags">"没有最近的主题标签"</string>
-    <string name="screen_name_select">"选择回复用户"</string>
-    <string name="reload_screen_name_list_confirm_title">"重新加载确认"</string>
-    <string name="reload_screen_name_list_confirm_message">"重载下面的用户和追随者的名单，确定吗？"</string>
-    <string name="call_twicca_plugin">"插件"</string>
-    <string name="write_view_finish_confirm_title">"确认"</string>
-    <string name="write_view_finish_confirm_message">"你确认希望要关闭吗？"</string>
-    <string name="write_view_finish_save_confirm_message">"保存到草稿？"</string>
-    <string name="write_view_finish_save">"保存"</string>
-    <string name="write_view_finish_save_discard">"丢弃"</string>
-    <string name="write_view_finish_save_cancel">"取消"</string>
-    <string name="no_drafts">"没有草稿"</string>
+    <string name="write_view_activity_title">推文</string>
+    <string name="write_view_body_label">你在想什么？</string>
+    <string name="write_view_submit_button">推文</string>
+    <string name="write_view_send_button">发送</string>
+    <string name="picture1_select_button">照片</string>
+    <string name="mush_button_text">蘑菇</string>
+    <string name="minimize">最小化</string>
+    <string name="maximize">最大化</string>
+    <string name="hashtag">主题标签</string>
+    <string name="hashtag_remove_confirm_title">删除确认</string>
+    <string name="hashtag_remove_confirm_message">删除此主题标签吗？</string>
+    <string name="no_recent_hashtags">没有最近的主题标签</string>
+    <string name="screen_name_select">选择回复用户</string>
+    <string name="reload_screen_name_list_confirm_title">重新加载确认</string>
+    <string name="reload_screen_name_list_confirm_message">要重新加载关注用户和关注者的名单吗？</string>
+    <string name="call_twicca_plugin">插件</string>
+    <string name="write_view_finish_confirm_title">确认</string>
+    <string name="write_view_finish_confirm_message">你确定要关闭吗？</string>
+    <string name="write_view_finish_save_confirm_message">保存到草稿？</string>
+    <string name="write_view_finish_save">保存</string>
+    <string name="write_view_finish_save_discard">丢弃</string>
+    <string name="write_view_finish_save_cancel">取消</string>
+    <string name="no_drafts">没有草稿</string>
     <string name="select_items_to_delete">选择您要删除的项目</string>
-    <string name="drafts">"草稿"</string>
+    <string name="drafts">草稿</string>
     <string name="drafts_and_tweet_history">草稿和推文历史</string>
     <string name="drafts_only">仅草稿</string>
     <string name="tweet_history_only">仅推文历史</string>
     <string name="filter">筛选</string>
-    <string name="draft_remove_confirm_title">"删除确认"</string>
-    <string name="draft_remove_confirm_message">"删除ci该草案？"</string>
+    <string name="draft_remove_confirm_title">删除确认</string>
+    <string name="draft_remove_confirm_message">删除此草稿吗？</string>
     <string name="draft_remove">删除</string>
     <string name="delete_hashtag_confirm">您确定要删除以下主题标签吗？</string>
-    <string name="write_view_picture_preview">"预览"</string>
+    <string name="write_view_picture_preview">预览</string>
     <string name="write_view_picture_edit">编辑</string>
     <string name="write_view_movie_cut_edit">剪切编辑</string>
-    <string name="write_view_movie_install_lvc">请店安装LosslessVideoCutter</string>
-    <string name="write_view_picture_cancel">"取消"</string>
-    <string name="write_view_picture_select">"选择照片(画廊)"</string>
+    <string name="write_view_movie_install_lvc">请在Play Store上安装无损视频剪辑器</string>
+    <string name="write_view_picture_cancel">取消</string>
+    <string name="write_view_picture_select">选择照片(画廊)</string>
     <string name="write_view_movie_select">选择电影</string>
-    <string name="write_view_picture_multi_select">"选择照片(选择题)"</string>
-    <string name="write_view_picture_multi_select_alt">"选择照片(选择题)"</string>
-    <string name="write_view_picture_shot">"拍照"</string>
-    <string name="write_view_movie_shot">将视频</string>
-    <string name="write_view_cannot_attach_anymore">无法附加</string>
-    <string name="write_view_input_body">"请输入正文"</string>
-    <string name="write_view_body_length_error">"请输入%1$d个字符以内的文字"</string>
-    <string name="write_view_twitlonger_confirm">"超过140个字符。你想通过TwitLonger发布吗？"</string>
-    <string name="write_view_twitter_dm_command_notice">这是糖尿病的命令。行？</string>
-    <string name="write_view_tweet_confirm">"发送新推文，确定tweet。好吗？"</string>
-    <string name="write_view_sent_tweet">"已发布"</string>
-    <string name="write_view_failed_to_send_tweet">未能鸣叫</string>
+    <string name="write_view_picture_multi_select">选择多张照片</string>
+    <string name="write_view_picture_multi_select_alt">选择照片(内部画廊)</string>
+    <string name="write_view_picture_shot">拍照</string>
+    <string name="write_view_movie_shot">拍视频</string>
+    <string name="write_view_cannot_attach_anymore">无法附加更多</string>
+    <string name="write_view_input_body">请输入正文</string>
+    <string name="write_view_body_length_error">请输入%1$d个字符以内的文字</string>
+    <string name="write_view_twitlonger_confirm">超过140个字符。你想通过TwitLonger发布吗？</string>
+    <string name="write_view_twitter_dm_command_notice">发送私信吗？</string>
+    <string name="write_view_tweet_confirm">发送新推文吗？</string>
+    <string name="write_view_sent_tweet">已发布</string>
+    <string name="write_view_failed_to_send_tweet">发送推文失败</string>
     <string name="write_view_restricted_who_can_reply_to_this_tweet">{errorMessage}</string>
-    <string name="write_view_convert_to_quote_tweet_config">你想将其转换为一个带引号的鸣叫？</string>
-    <string name="write_view_dm_confirm">"向\@%1$s发送私信，确定吗？"</string>
-    <string name="write_view_sent_dm">"已发送"</string>
-    <string name="write_view_chars">"字符"</string>
-    <string name="write_view_cannot_get_photo_error">"不能取得照片。请再次选择。"</string>
-    <string name="write_view_photo_size_error_title">"照片大小错误"</string>
-    <string name="write_view_photo_size_error_message">"附件太大"</string>
-    <string name="write_view_no_mushroom_app">"没有蘑菇应用。
-\n\n请从Google Play商店下载蘑菇应用。"</string>
-    <string name="write_view_move_to_left">移动到左</string>
-    <string name="write_view_move_to_right">移动到右</string>
+    <string name="write_view_convert_to_quote_tweet_config">你想把它转化为引用的推文吗？</string>
+    <string name="write_view_dm_confirm">确定要向\@%1$s发送私信吗？</string>
+    <string name="write_view_sent_dm">已发送</string>
+    <string name="write_view_chars">字符</string>
+    <string name="write_view_cannot_get_photo_error">不能获取照片。请再次选择。</string>
+    <string name="write_view_photo_size_error_title">照片大小错误</string>
+    <string name="write_view_photo_size_error_message">附件太大</string>
+    <string name="write_view_no_mushroom_app">没有蘑菇应用。
+\n\n请从Google Play商店下载蘑菇应用。</string>
+    <string name="write_view_move_to_left">移动到左边</string>
+    <string name="write_view_move_to_right">移动到右边</string>
 
     <!-- ================================================================================ -->
     <!-- 内蔵ブラウザ -->
     <!-- ================================================================================ -->
-    
+
     <!-- ツールバーボタン -->
-    <string name="browser_top_button">"首页"</string>
-    <string name="browser_back_button">"后退"</string>
-    <string name="browser_menu_button">"菜单"</string>
-    <string name="browser_scroll_to_top_button">"滚动到顶部"</string>
-    <string name="browser_scroll_to_bottom_button">"滚动到底部"</string>
-    <string name="browser_reload_button">"重新加载"</string>
-    <string name="browser_open_browser_button">"打开浏览器"</string>
-    <string name="browser_exit_button">"退出"</string>
-    
-    <string name="browser_cancel_text">"取消"</string>
-    
+    <string name="browser_top_button">首页</string>
+    <string name="browser_back_button">后退</string>
+    <string name="browser_menu_button">菜单</string>
+    <string name="browser_scroll_to_top_button">滚动到顶部</string>
+    <string name="browser_scroll_to_bottom_button">滚动到底部</string>
+    <string name="browser_reload_button">重新加载</string>
+    <string name="browser_open_browser_button">打开浏览器</string>
+    <string name="browser_exit_button">退出</string>
+
+    <string name="browser_cancel_text">取消</string>
+
     <!-- その他 -->
-    <string name="browser_share_by_browser_confirm_dialog_title">"浏览器"</string>
-    <string name="browser_share_by_browser_confirm_dialog_message">"你真的要用浏览器中打开此页面吗？"</string>
-    <string name="browser_dialog_yes">"是"</string>
-    <string name="browser_dialog_no">"否"</string>
-    <string name="browser_history">"历史"</string>
-    <string name="browser_cannot_specify_the_tapped_image">"不能指定被点击图像。"</string>
-    <string name="browser_show_url_menu">"URL"</string>
-    <string name="browser_share_menu">"分享"</string>
-    <string name="browser_debug_menu">"调试信息"</string>
-    <string name="browser_jb_copy_start_message">"长按文本启动选择"</string>
-    
+    <string name="browser_share_by_browser_confirm_dialog_title">浏览器</string>
+    <string name="browser_share_by_browser_confirm_dialog_message">你真的要用浏览器打开此页面吗？</string>
+    <string name="browser_dialog_yes">是</string>
+    <string name="browser_dialog_no">否</string>
+    <string name="browser_history">历史</string>
+    <string name="browser_cannot_specify_the_tapped_image">不能指定被点击图像。</string>
+    <string name="browser_show_url_menu">链接</string>
+    <string name="browser_share_menu">分享</string>
+    <string name="browser_debug_menu">调试信息</string>
+    <string name="browser_jb_copy_start_message">长按文本进行选择</string>
+
     <!-- 終了確認 -->
-    <string name="browser_exit_confirm_title">"退出"</string>
-    <string name="browser_exit_confirm_message">"你真的希望退出吗？"</string>
-    
+    <string name="browser_exit_confirm_title">退出</string>
+    <string name="browser_exit_confirm_message">你真的希望退出吗？</string>
+
     <!-- URL確認 -->
-    <string name="browser_url_confirm_title">"网址确认"</string>
-    <string name="browser_url_confirm_message">"%1$s\n\n“分享”或“复制到剪贴板”"</string>
-    <string name="browser_url_confirm_copy">"复制"</string>
-    <string name="browser_url_confirm_copied">"复制到剪贴板"</string>
-    <string name="browser_url_confirm_cancel">"取消"</string>
+    <string name="browser_url_confirm_title">网址确认</string>
+    <string name="browser_url_confirm_message">%1$s\n\n“分享”或“复制到剪贴板”</string>
+    <string name="browser_url_confirm_copy">复制</string>
+    <string name="browser_url_confirm_copied">复制到剪贴板</string>
+    <string name="browser_url_confirm_cancel">取消</string>
     <string name="copy_link">复制链接</string>
 
     <!-- 画像保存確認 -->
-    <string name="browser_save_image_confirm_title">"保存图像"</string>
-    <string name="browser_save_image_confirm_message">"保存图像？"</string>
-    
+    <string name="browser_save_image_confirm_title">保存图像</string>
+    <string name="browser_save_image_confirm_message">保存图像？</string>
+
     <!-- ブラウザのロングタップメニュー -->
-    <string name="browser_long_click_menu_title">"打开此页面？"</string>
-    <string name="browser_long_click_menu_open">"打开"</string>
-    <string name="browser_long_click_menu_open_browser">"用浏览器打开"</string>
-    <string name="browser_long_click_menu_share">"分享"</string>
-    <string name="browser_long_click_menu_cancel">"取消"</string>
-    
-    
+    <string name="browser_long_click_menu_title">打开此页面？</string>
+    <string name="browser_long_click_menu_open">打开</string>
+    <string name="browser_long_click_menu_open_browser">用浏览器打开</string>
+    <string name="browser_long_click_menu_share">分享</string>
+    <string name="browser_long_click_menu_cancel">取消</string>
+
+
     <!-- ================================================================================ -->
     <!-- Settings -->
     <!-- ================================================================================ -->
-    <string name="config_timeline_display_settings_category">可视化时间轴</string>
-    <string name="config_timeline_display_settings_category_summary"></string>
+    <string name="config_timeline_display_settings_category">时间轴显示设置</string>
+    <string name="config_timeline_display_settings_category_summary">字体大小、缩略图大小、图标、置顶的推文和推文设计</string>
 
-	<string name="config_display_settings_category">"显示设置"</string>
-    <string name="config_display_settings_category_summary"></string>
+    <string name="config_display_settings_category">显示设置</string>
+    <string name="config_display_settings_category_summary">标题栏、标签、侧边菜单等。</string>
 
-    <string name="config_font_size">"字体大小"</string>
+    <string name="config_font_size">字体大小</string>
     <string name="config_line_spacing">行距</string>
-    <string name="config_theme">"主题"</string>
+    <string name="config_theme">主题</string>
     <string name="config_appearance">外观</string>
-    <string name="config_timeline_compose_category">时间表和撰写</string>
+    <string name="config_timeline_compose_category">时间轴和推文编写</string>
     <string name="config_media_viewer_category">媒体查看器</string>
-	<string name="config_thumb_size">"缩略图大小"</string>
-    <string name="config_thumb_size_summary">""</string>
-    <string name="config_show_reply_user_thumbnail">"显示回复缩略图"</string>
-    <string name="config_show_reply_user_thumbnail_summary">"显示回复用户的缩略图图标"</string>
-    <string name="config_wrap_name_line">裹名</string>
+    <string name="config_thumb_size">缩略图大小</string>
+    <string name="config_thumb_size_summary"></string>
+    <string name="config_show_reply_user_thumbnail">显示回复缩略图</string>
+    <string name="config_show_reply_user_thumbnail_summary">显示回复用户的缩略图图标</string>
+    <string name="config_wrap_name_line">包裹名称</string>
     <string name="config_wrap_name_line_summary"></string>
-    <string name="config_preview_of_attached_photo_category">Preview of attached photo</string>
-    <string name="config_photo_thumbnail_layout">Thumbnail Layout</string>
-    <string name="config_photo_thumbnail_layout_new_official_app">Portrait style &lt;br>&lt;small>New Twitter Official App style&lt;/small></string>
-    <string name="config_photo_thumbnail_layout_old_official_app">Landscape style &lt;br>&lt;small>Old Twitter Official App style&lt;/small></string>
-    <string name="config_photo_thumbnail_layout_old_twitpane">Square style &lt;br>&lt;small>Old TwitPane style&lt;/small></string>
+    <string name="config_preview_of_attached_photo_category">预览附件中的照片</string>
+    <string name="config_photo_thumbnail_layout">缩略图布局</string>
+    <string name="config_photo_thumbnail_layout_new_official_app">纵向风格 &lt;br>&lt;small>新的Twitter官方应用风格&lt;/small></string>
+    <string name="config_photo_thumbnail_layout_old_official_app">横向风格 &lt;br>&lt;small>旧的Twitter官方应用风格&lt;/small></string>
+    <string name="config_photo_thumbnail_layout_old_twitpane">方形风格 &lt;br>&lt;small>旧的 TwitPane 风格&lt;/small></string>
     <string name="config_one_photo_size">缩略图大小（单个）</string>
     <string name="config_change_one_photo_size">更改单缩略图大小</string>
-    <string name="config_one_photo_size_summary">附有单张照片时的缩略图大小</string>
+    <string name="config_one_photo_size_summary">附加单张照片时的缩略图大小</string>
     <string name="config_multi_photo_size">缩略图大小（多）</string>
     <string name="config_change_multi_photo_size">更改多缩略图大小</string>
     <string name="config_multi_photo_size_summary">附加多张照片时的缩略图大小</string>
-    <string name="config_photo_size_hide">"隐藏"</string>
-    <string name="config_tab_icon">"选项卡图标"</string>
-    <string name="config_tab_icon_summary">"在选项卡上显示图标"</string>
-    <string name="config_hide_tab_bar_on_landscape">隐藏在风景标签</string>
-    <string name="config_account_on_title">"标题帐户（1）"</string>
-    <string name="config_account_on_title_summary">"在标题上显示帐户的网名（@name）"</string>
-    <string name="config_account_name_on_title">"标题账户（2）"</string>
-    <string name="config_account_name_on_title_summary">"在标题上显示账户名称"</string>
-    <string name="config_unread_count_on_right_of_title">右键未读邮件数</string>
-    <string name="config_unread_count_on_right_of_title_summary">显示在标题的右侧未读邮件数</string>
+    <string name="config_photo_size_hide">隐藏</string>
+    <string name="config_tab_icon">标签图标</string>
+    <string name="config_tab_icon_summary">在标签上显示图标</string>
+    <string name="config_hide_tab_bar_on_landscape">横屏时隐藏标签</string>
+    <string name="config_account_on_title">标题帐户（1）</string>
+    <string name="config_account_on_title_summary">在标题上显示帐户的网名（@name）</string>
+    <string name="config_account_name_on_title">标题账户（2）</string>
+    <string name="config_account_name_on_title_summary">在标题上显示账户名称</string>
+    <string name="config_unread_count_on_right_of_title">右侧显示未读邮件数</string>
+    <string name="config_unread_count_on_right_of_title_summary">标题的右侧显示未读邮件数</string>
     <string name="config_auto_hide_toolbar">自动隐藏标题栏</string>
     <string name="config_auto_hide_toolbar_summary">自动隐藏顶部标题栏</string>
-    <string name="config_snackbar_for_like_rt_notice">带有图标的点赞和 RT 通知</string>
+    <string name="config_snackbar_for_like_rt_notice">带有图标的点赞和转推通知</string>
     <string name="config_snackbar_for_like_rt_notice_summary"></string>
-    <string name="config_image_animation">"图像动画"</string>
-    <string name="config_image_animation_summary">""</string>
-    <string name="config_enable_fast_scroll">"快速滚动"</string>
-    <string name="config_enable_fast_scroll_summary">"在列表上启用快速滚动框"</string>
-    <string name="config_show_rate_limit_on_title">"显示速率限制"</string>
-    <string name="config_show_rate_limit_on_title_summary">"在标题显示API速率限制"</string>
-    <string name="config_enable_pull_to_refresh">"下拉刷新"</string>
-    <string name="config_enable_pull_to_refresh_summary">"启用列表的下拉刷新功能[默认：开]"</string>
-    <string name="config_swipe_refresh_trigger_distance">PTR的敏感性</string>
-    <string name="config_swipe_refresh_trigger_distance_summary">指定的距离拉刷新 [默认:32dp]</string>
+    <string name="config_image_animation">图像动画</string>
+    <string name="config_image_animation_summary"></string>
+    <string name="config_enable_fast_scroll">快速滚动</string>
+    <string name="config_enable_fast_scroll_summary">在列表上启用快速滚动框</string>
+    <string name="config_show_rate_limit_on_title">显示速率限制</string>
+    <string name="config_show_rate_limit_on_title_summary">在标题显示API速率限制</string>
+    <string name="config_enable_pull_to_refresh">下拉刷新</string>
+    <string name="config_enable_pull_to_refresh_summary">启用列表的下拉刷新功能[默认：开]</string>
+    <string name="config_swipe_refresh_trigger_distance">下拉刷新的敏感度</string>
+    <string name="config_swipe_refresh_trigger_distance_summary">指定刷新的下拉距离 [默认:32dp]</string>
     <string name="config_side_menu_category">侧面菜单</string>
     <string name="config_side_menu_background_image">背景图像</string>
     <string name="config_side_menu_background_image_background_of_profile">简介背景</string>
-    <string name="config_side_menu_background_image_below_profile">下面简介</string>
-	<string name="config_show_follow_count_on_timeline">"显示关注计数"</string>
-	<string name="config_show_follow_count_on_timeline_summary">"在时间轴上显示关注和关注者计数"</string>
-    <string name="config_show_source_app">显示源代码</string>
+    <string name="config_side_menu_background_image_below_profile">简介下方背景</string>
+    <string name="config_show_follow_count_on_timeline">显示关注计数</string>
+    <string name="config_show_follow_count_on_timeline_summary">在时间轴上显示关注和关注者计数</string>
+    <string name="config_show_source_app">显示源应用程序</string>
     <string name="config_show_source_app_summary"></string>
     <string name="config_show_image_url">显示图片网址</string>
     <string name="config_show_image_url_summary"></string>
-    <string name="config_show_followers_count_bar">Show Followers Count Bar</string>
-    <string name="config_show_followers_count_bar_summary">[default:OFF]</string>
-    <string name="config_show_mutual_mark">"相互关注图标"</string>
-    <string name="config_show_mutual_mark_summary">"在时间轴上显示相互关注下图标"</string>
-    <string name="config_display_sensitive_iamges_as_blur">将敏感图像显示为模糊</string>
+    <string name="config_show_followers_count_bar">显示关注者计数栏</string>
+    <string name="config_show_followers_count_bar_summary">[默认:关]</string>
+    <string name="config_show_mutual_mark">相互关注图标</string>
+    <string name="config_show_mutual_mark_summary">在时间轴上显示相互关注图标</string>
+    <string name="config_display_sensitive_iamges_as_blur">对敏感图像进行模糊处理</string>
     <string name="config_display_sensitive_iamges_as_blur_summary"></string>
-    <string name="config_user_icon_thumbnail_category">User icon</string>
-    <string name="config_use_rounded_thumbnail">Rounded Thumbnail</string>
-    <string name="config_use_rounded_thumbnail_summary">Use rounded profile icon [default:ON]</string>
-    <string name="config_link_area_category">关联</string>
+    <string name="config_user_icon_thumbnail_category">用户图标</string>
+    <string name="config_use_rounded_thumbnail">圆形的缩略图</string>
+    <string name="config_use_rounded_thumbnail_summary">使用圆形的个人资料图标 [默认:开]</string>
+    <string name="config_link_area_category">链接</string>
     <string name="config_show_link_area">显示链接区域</string>
-    <string name="config_show_link_area_summary">在推文中显示链接 url 中的链接图像和标题 [默认值：ON]</string>
+    <string name="config_show_link_area_summary">在推文中显示链接图片和链接网址的标题 [默认：开]</string>
     <string name="config_tweet_design">推文设计</string>
     <string name="config_show_quote_count">显示引用的推文计数</string>
-    <string name="config_show_quote_count_summary"></string>
+    <string name="config_show_quote_count_summary">[默认：开]</string>
     <string name="config_change_link_area_thumbnail_size">更改链接照片大小</string>
     <string name="config_link_area_thumbnail_size">更改链接照片大小</string>
-    <string name="config_emoji_size">Emoji Size</string>
+    <string name="config_emoji_size">表情符号大小</string>
     <string-array name="config_emoji_size_entries">
         <item>设备字体</item>
-        <item>Twitter Emoji(小)</item>
-        <item>Twitter Emoji(中)</item>
-        <item>Twitter Emoji(大)</item>
+        <item>Twitter 表情符号(小)</item>
+        <item>Twitter 表情符号(中)</item>
+        <item>Twitter 表情符号(大)</item>
     </string-array>
     <string name="config_userstream_animation_type">插入动画</string>
     <string-array name="config_userstream_animation_type_entries">
@@ -720,161 +722,162 @@
         <item>没有动画</item>
     </string-array>
 
-	<string name="config_toolbar">"工具栏设置"</string>
-	<string name="config_toolbar_height">"工具栏高度"</string>
-    <string name="config_toolbar_height_change">"更改"</string>
-	<string name="transparent_toolbar">"透明工具栏"</string>
-    <string name="bottom_toolbar_auto_hide">隐藏工具栏将自动</string>
-    <string name="bottom_toolbar_auto_hide_when_scrolling_down">滚动时隐藏下来</string>
-    <string name="change_function">"更改动作"</string>
-    <string name="toolbar_button_tutorial1">"dan按钮来更改功能。 \nLong轻按按钮来改变按钮的颜色。"</string>
+    <string name="config_toolbar">工具栏设置</string>
+    <string name="config_toolbar_height">工具栏高度</string>
+    <string name="config_toolbar_height_change">更改</string>
+    <string name="transparent_toolbar">透明工具栏</string>
+    <string name="bottom_toolbar_auto_hide">自动隐藏工具栏</string>
+    <string name="bottom_toolbar_auto_hide_when_scrolling_down">向下滚动时隐藏</string>
+    <string name="change_function">更改动作</string>
+    <string name="toolbar_button_tutorial1">点击按钮来更改功能。 \n长按按钮来改变按钮的颜色。</string>
+    <string name="toolbar_button_move_to_left_or_right" translatable="false">◀▶</string>
 
     <string name="config_translation_settings_category">翻译设置</string>
     <string name="config_show_translation_link">显示“翻译”链接</string>
     <string name="config_show_translation_link_summary"></string>
     <string name="config_use_cloud_translation">高质量的翻译</string>
-    <string name="config_use_cloud_translation_summary">通过使用云翻译，翻译结果将更高质量、更准确。使用付费的外部服务。</string>
+    <string name="config_use_cloud_translation_summary">通过使用云翻译，包括DeepL 和谷歌翻译服务，翻译结果的质量会更高，更准确。使用付费的外部服务。</string>
     <string name="config_use_cloud_translation_summary_not_available_due_to_not_subscribed">(无法使用此服务，因为我的订阅已被取消。)</string>
     <string name="config_use_cloud_translation_trial">试试云翻译</string>
     <string name="config_use_cloud_translation_trial_summary"></string>
     <string name="config_cloud_translation_provider">云翻译提供商</string>
-    <string name="translated_by">由 %1$s 翻译</string>
+    <string name="translated_by">使用 %1$s 翻译</string>
     <string name="translation_provider_name_mlkit">本地翻译</string>
-    <string name="config_use_mlkit_translation_after_cloud_translation">Show local translation</string>
-    <string name="config_use_mlkit_translation_after_cloud_translation_summary">Show local translation result after cloud translation one</string>
+    <string name="config_use_mlkit_translation_after_cloud_translation">显示本地翻译</string>
+    <string name="config_use_mlkit_translation_after_cloud_translation_summary">在云翻译后显示本地翻译结果</string>
 
-    <string name="config_timeline_settings_category">"时间轴设置"</string>
-    <string name="config_tweet_load">鸣叫加载</string>
-    <string name="config_action">行动</string>
-    <string name="config_tweet_get_limit_title">"推文获取计数"</string>
-    <string name="config_tweet_get_limit_summary">"每次访问要检索推文数目"</string>
-    <string name="config_use_home_timeline_v2">将 v2 API 用于家庭时间线</string>
-    <string name="config_use_home_timeline_v2_summary">使用 Twitter API v2 获取主页时间线</string>
-    <string name="config_auto_load_at_startup">"启动时自动加载TL"</string>
-    <string name="config_auto_load_at_startup_summary">"在应用启动时新的时间轴将自动加载，同时在光标在时间轴上方"</string>
-    <string name="config_auto_pager">"自动页导航"</string>
-    <string name="config_auto_pager_summary">"滚动位置在列表底部时获取下一个页面"</string>
-    <string name="config_scroll_pos_after_acquired_gap">"间隙后的滚动位置"</string>
-    <string name="config_scroll_pos_after_acquired_gap_summary">"设置获取的中间间隙推文后的滚动位置"</string>
-    <string name="config_scroll_pos_after_acquired_gap_top">"中间推文顶部"</string>
-    <string name="config_scroll_pos_after_acquired_gap_bottom">"中间推文底部"</string>
+    <string name="config_timeline_settings_category">时间轴设置</string>
+    <string name="config_tweet_load">推文加载</string>
+    <string name="config_action">动作</string>
+    <string name="config_tweet_get_limit_title">获取推文计数</string>
+    <string name="config_tweet_get_limit_summary">每次访问要检索的推文数量</string>
+    <string name="config_use_home_timeline_v2">将 v2 API 用于主页时间轴</string>
+    <string name="config_use_home_timeline_v2_summary">使用 Twitter API v2 获取主页时间轴</string>
+    <string name="config_auto_load_at_startup">启动时自动加载时间轴</string>
+    <string name="config_auto_load_at_startup_summary">在应用程序启动时，当光标位于时间线的顶部时，新的时间线将自动加载。</string>
+    <string name="config_auto_pager">自动页面加载</string>
+    <string name="config_auto_pager_summary">当滚动位置在列表的底部时，获取下一页</string>
+    <string name="config_scroll_pos_after_acquired_gap">设置间隙后的滚动位置</string>
+    <string name="config_scroll_pos_after_acquired_gap_summary">在得到 "中间的推文（空隙） "后，通过点击设置滚动位置</string>
+    <string name="config_scroll_pos_after_acquired_gap_top">中间推文顶部</string>
+    <string name="config_scroll_pos_after_acquired_gap_bottom">中间推文底部</string>
     <string name="config_scroll_pos_after_acquired_gap_confirm_each_time">每次获取时都要检查</string>
-    <string name="config_scroll_pos_after_acquired_new_tweet">"新推文后的滚动位置"</string>
-    <string name="config_scroll_pos_after_acquired_new_tweet_summary">"设置获取的新推文后的滚动位置"</string>
-    <string name="config_scroll_pos_after_acquired_new_tweet_top">"新推文顶部"</string>
-    <string name="config_scroll_pos_after_acquired_new_tweet_bottom">"新推文底部"</string>
-    <string name="config_volume_key_up_function">"音量向上键"</string>
-	<string name="config_volume_key_down_function">"音量向下键"</string>
-	<string name="config_volume_key_volume">"音量（默认）"</string>
-	<string name="config_volume_key_scrollup">"向上滚动"</string>
-	<string name="config_volume_key_scrolldown">"向下滚动"</string>
-	<string name="config_volume_key_nextaccount">"下一个账户"</string>
-	<string name="config_volume_key_userstream">"用户串流开/关"</string>
-	<string name="config_volume_key_nexttab">"下一个选项卡"</string>
-	<string name="config_volume_key_prevtab">"上一个选项卡"</string>
-    <string name="config_open_link_by_tap">"通过点击打开链接"</string>
-    <string name="config_open_link_by_tap_summary">"点击URL时打开链接[默认：开]"</string>
-    <string name="config_open_link_with_internal_browser">Open Internal Browser</string>
-    <string name="config_open_link_with_internal_browser_summary">Open link with internal browser(Chrome Custom Tabs)</string>
-    <string name="config_open_youtube_link_with_internal_browser">Open YouTube in Internal Browser</string>
-    <string name="config_open_youtube_link_with_internal_browser_summary">Open YouTube link with internal browser(Chrome Custom Tabs)</string>
-    <string name="config_show_conversation_from_bottom">显示自底部新的鸣叫</string>
+    <string name="config_scroll_pos_after_acquired_new_tweet">获得新推文后的位置。</string>
+    <string name="config_scroll_pos_after_acquired_new_tweet_summary">在获得新推文后设置滚动位置</string>
+    <string name="config_scroll_pos_after_acquired_new_tweet_top">新推文顶部</string>
+    <string name="config_scroll_pos_after_acquired_new_tweet_bottom">新推文底部</string>
+    <string name="config_volume_key_up_function">音量上键</string>
+    <string name="config_volume_key_down_function">音量下键</string>
+    <string name="config_volume_key_volume">音量（默认）</string>
+    <string name="config_volume_key_scrollup">向上滚动</string>
+    <string name="config_volume_key_scrolldown">向下滚动</string>
+    <string name="config_volume_key_nextaccount">下一个账户</string>
+    <string name="config_volume_key_userstream">用户串流开/关</string>
+    <string name="config_volume_key_nexttab">下一个标签</string>
+    <string name="config_volume_key_prevtab">上一个标签</string>
+    <string name="config_open_link_by_tap">通过点击打开链接</string>
+    <string name="config_open_link_by_tap_summary">点击链接地址时打开链接[默认：开]</string>
+    <string name="config_open_link_with_internal_browser">使用内部浏览?打开</string>
+    <string name="config_open_link_with_internal_browser_summary">用内部浏览器（Chrome自定义标签）打开链接</string>
+    <string name="config_open_youtube_link_with_internal_browser">在内部浏览器中打开YouTube</string>
+    <string name="config_open_youtube_link_with_internal_browser_summary">用内部浏览器打开YouTube链接（Chrome自定义标签）。</string>
+    <string name="config_show_conversation_from_bottom">在底部显示新的推文。</string>
     <string name="config_show_conversation_from_bottom_summary"></string>
-    <string name="config_conversation_search_count">伯爵谈话搜索</string>
+    <string name="config_conversation_search_count">会话搜索的数量</string>
     <string name="config_conversation_search_count_summary"></string>
 
-    <string name="config_tap_ex">时间线点击扩展</string>
-    <string name="config_tap_ex_action_left">"TL点击退出（左）"</string>
-	<string name="config_tap_ex_action_left_summary">"点击时间轴左边区域直接调用函数时，水龙头离开时间轴的面积"</string>
-	<string name="config_tap_ex_action_right">"TL点击扩展（右）"</string>
-	<string name="config_tap_ex_action_right_summary">"点击时间轴右边区域直接调用功能"</string>
-    <string name="config_tap_ex_action_left_long">"TL长按退出（左）"</string>
-    <string name="config_tap_ex_action_left_long_summary">"长按时间轴左边区域直接调用函数时，水龙头离开时间轴的面积"</string>
-    <string name="config_tap_ex_action_right_long">"TL长按扩展（右）"</string>
-    <string name="config_tap_ex_action_right_long_summary">"长按时间轴右边区域直接调用功能"</string>
+    <string name="config_tap_ex">时间轴点击扩展</string>
+    <string name="config_tap_ex_action_left">左侧轻点</string>
+    <string name="config_tap_ex_action_left_summary">点击推文左侧（靠近缩略图的右侧）时调用的功能。</string>
+    <string name="config_tap_ex_action_right">右侧轻点</string>
+    <string name="config_tap_ex_action_right_summary">当点击推文的右侧时，要调用的功能。</string>
+    <string name="config_tap_ex_action_left_long">左侧长按</string>
+    <string name="config_tap_ex_action_left_long_summary">当按住推文的左侧时，要调用的功能。</string>
+    <string name="config_tap_ex_action_right_long">右侧长按</string>
+    <string name="config_tap_ex_action_right_long_summary">当按住推文的右侧时，要调用的功能。</string>
 
-	<string name="config_set_read_after_shown">"设置显示后阅读推文"</string>
-	<string name="config_set_read_after_shown_summary">""</string>
+    <string name="config_set_read_after_shown">设置显示后阅读推文</string>
+    <string name="config_set_read_after_shown_summary">在显示推文时立即阅读[默认:关]。</string>
 
     <string name="config_message_settings_category">消息设置</string>
-    <string name="config_show_new_message_from_bottom">显示从底部新消息</string>
-    <string name="config_show_new_message_from_bottom_summary"></string>
+    <string name="config_show_new_message_from_bottom">从底部显示新消息</string>
+    <string name="config_show_new_message_from_bottom_summary">在底部显示新消息，就像官方应用程序和一般基于消息的应用程序一样[默认：开]。</string>
 
-    <string name="config_post_category">"帖子设置"</string>
+    <string name="config_post_category">帖子设置</string>
     <string name="config_image_uploading_category">图片上传</string>
-    <string name="config_upload_image_size_title">"上传图像大小"</string>
-    <string name="config_upload_image_size_summary">"缩小图像大小"</string>
-    <string name="config_upload_image_quality_title">"上传图像质量"</string>
-    <string name="config_upload_image_quality_summary">"设置JPEG图像质量"</string>
-    <string name="upload_image_quality_good">Good</string>
-    <string name="upload_image_quality_better">Better</string>
-    <string name="upload_image_quality_best">Best</string>
-	<string name="config_show_tweet_confirm_dialog_title">"推文确认"</string>
-	<string name="config_show_tweet_confirm_dialog_summary">"发送推文或消息之前显示确认对话框"</string>
-    <string name="config_tweet_font_size">"字体大小"</string>
-    <string name="config_refresh_timeline_after_tweet_title">"推后刷新"</string>
-    <string name="config_refresh_timeline_after_tweet_summary">"发送推文后刷新时间表[默认：关]"</string>
-    <string name="config_live_tweet_mode_title">Live Tweet Mode</string>
-    <string name="config_live_tweet_mode_summary">Remember hashtags in the last tweet</string>
+    <string name="config_upload_image_size_title">上传图片的大小</string>
+    <string name="config_upload_image_size_summary">缩小图像大小</string>
+    <string name="config_upload_image_quality_title">上传图像质量</string>
+    <string name="config_upload_image_quality_summary">设置JPEG图像质量</string>
+    <string name="upload_image_quality_good">好</string>
+    <string name="upload_image_quality_better">更好</string>
+    <string name="upload_image_quality_best">最好</string>
+    <string name="config_show_tweet_confirm_dialog_title">推文确认</string>
+    <string name="config_show_tweet_confirm_dialog_summary">发送推文或消息之前显示确认对话框</string>
+    <string name="config_tweet_font_size">字体大小</string>
+    <string name="config_refresh_timeline_after_tweet_title">提交后自动更新</string>
+    <string name="config_refresh_timeline_after_tweet_summary">发送推文后刷新时间轴[默认：关]</string>
+    <string name="config_live_tweet_mode_title">推特直播模式</string>
+    <string name="config_live_tweet_mode_summary">记住最后一条推文中的话题标签</string>
     <string name="config_v2_tweet_post_title">v2 推文模式</string>
     <string name="config_v2_tweet_post_summary"></string>
-    <string name="config_show_mushroom_button">"蘑菇按钮"</string>
-	<string name="config_show_mushroom_button_summary">"显示蘑菇（IME插件）按钮"</string>
-    <string name="config_use_screen_name_completion">使用 \'@\' 竣工</string>
+    <string name="config_show_mushroom_button">蘑菇按钮</string>
+    <string name="config_show_mushroom_button_summary">显示蘑菇（IME插件）按钮</string>
+    <string name="config_use_screen_name_completion">使用 \'@\' 补全</string>
     <string name="config_use_screen_name_completion_summary"></string>
-    <string name="config_show_actionbar_tweet_button">推特上的菜单按钮</string>
-    <string name="config_show_actionbar_tweet_button_summary">显示在菜单按钮鸣叫</string>
-	<string name="config_show_emoji_ime_title">"表情符号输入支持"</string>
-	<string name="config_show_emoji_ime_summary">"如果支持，启用输入法的表情符号输入功能"</string>
-    <string name="config_hide_compose_reply_area_by_default_title">隐藏回复区</string>
+    <string name="config_show_actionbar_tweet_button">菜单上的推特按钮</string>
+    <string name="config_show_actionbar_tweet_button_summary">在菜单上显示推特按钮</string>
+    <string name="config_show_emoji_ime_title">表情符号输入支持</string>
+    <string name="config_show_emoji_ime_summary">如果支持，启用输入法的表情符号输入功能</string>
+    <string name="config_hide_compose_reply_area_by_default_title">隐藏回复区域</string>
     <string name="config_hide_compose_reply_area_by_default_summary"></string>
-	<string name="config_show_remain_tweet_length">"显示剩下的推文长度"</string>
-	<string name="config_show_remain_tweet_length_summary">"显示剩下的推文标题长度"</string>
-    <string name="config_count_tweet_length_as_280">算为max = 280个字符</string>
-    <string name="config_count_tweet_length_as_280_summary">算鸣叫字符为最大的280个字符</string>
+    <string name="config_show_remain_tweet_length">显示剩下的推文长度</string>
+    <string name="config_show_remain_tweet_length_summary">显示剩下的推文标题长度</string>
+    <string name="config_count_tweet_length_as_280">计为最大280个字符</string>
+    <string name="config_count_tweet_length_as_280_summary">计入推文的字符数，最多为280个字符</string>
     <string name="config_auto_save_count">自动保存数</string>
-    <string name="config_gallery_action">Gallery Type</string>
+    <string name="config_gallery_action">画廊类型</string>
     <string name="config_gallery_action_summary"></string>
     <string-array name="config_gallery_actions">
         <item>Pick[default]</item>
         <item>GetContent</item>
     </string-array>
 
-	<string name="config_confirm_settings_category">"确认设置"</string>
-	<string name="config_show_rt_confirm_dialog_title">"转推"</string>
+    <string name="config_confirm_settings_category">确认设置</string>
+    <string name="config_show_rt_confirm_dialog_title">转推</string>
     <string name="config_show_image_save_confirm_dialog_title">图片另存</string>
-    <string name="config_confirm_settings_notice_about_another_account">当您选择一个帐户，转推或喜欢它，即使确认设置为ON，锐推和喜欢立即选择帐户后执行</string>
+    <string name="config_confirm_settings_notice_about_another_account">如果你选择了一个账户来转发或点赞，那么在你选择账户后，转发或点赞将立即执行，即使已开启了确认。</string>
 
-	<string name="config_mute_settings_category">"静音设置"</string>
-    <string name="config_mute_add">"添加"</string>
-    <string name="config_mute_sort">种类</string>
+    <string name="config_mute_settings_category">静音设置</string>
+    <string name="config_mute_add">添加</string>
+    <string name="config_mute_sort">排序</string>
     <string name="config_mute_sort_confirm_message">您确定要排序吗？ （无法还原）</string>
-    <string name="config_mute_edit">"编辑"</string>
-    <string name="config_mute_delete">"删除"</string>
-	<string name="cannot_include_comma_in_mute">"静音文本中不能包含逗号"</string>
-    <string name="confirm_to_add_mute_word">添加静音词，好吗？</string>
+    <string name="config_mute_edit">编辑</string>
+    <string name="config_mute_delete">删除</string>
+    <string name="cannot_include_comma_in_mute">静音文本中不能包含逗号</string>
+    <string name="confirm_to_add_mute_word">要添加静音词吗？</string>
     <string name="mute_word_added">添加了静音词</string>
 
     <string name="temporarily_disable_mute">暂时禁用静音</string>
     <string name="return_mute_to_active">将静音恢复为活动状态</string>
 
-    <string name="config_mute_users">"用户"</string>
-    <string name="config_mute_users_message">"指定静音用户的网名"</string>
-    <string name="config_mute_users_hint">"\@twitpane"</string>
-    <string name="config_mute_no_users">"没有静音用户"</string>
+    <string name="config_mute_users">用户</string>
+    <string name="config_mute_users_message">指定静音用户的网名</string>
+    <string name="config_mute_users_hint">\@twitpane</string>
+    <string name="config_mute_no_users">没有静音用户</string>
     <string name="this_user_is_muted">此用户已静音</string>
-    
-    <string name="config_mute_clients">"客户端"</string>
-    <string name="config_mute_clients_message">"指定静音客户端名称"</string>
-    <string name="config_mute_clients_hint">"客户端名称"</string>
-    <string name="config_mute_no_clients">"没有静音客户端"</string>
-    
-    <string name="config_mute_words">"文本"</string>
-    <string name="config_mute_words_message">"指定静音词"</string>
-    <string name="config_mute_words_hint">"词"</string>
-    <string name="config_mute_no_words">"没有静音词"</string>
 
-    <string name="config_mute_target">Mute target</string>
+    <string name="config_mute_clients">客户端</string>
+    <string name="config_mute_clients_message">指定静音客户端名称</string>
+    <string name="config_mute_clients_hint">客户端名称</string>
+    <string name="config_mute_no_clients">没有静音客户端</string>
+
+    <string name="config_mute_words">文本</string>
+    <string name="config_mute_words_message">指定静音词</string>
+    <string name="config_mute_words_hint">词</string>
+    <string name="config_mute_no_words">没有静音词</string>
+
+    <string name="config_mute_target">静音对象</string>
     <string name="config_mute_to_reply_conversation">静音回复和对话</string>
     <string name="config_mute_to_reply_conversation_summary"></string>
     <string name="config_mute_to_messages">将消息静音</string>
@@ -883,195 +886,237 @@
     <string name="config_subscription_settings_category">订阅</string>
     <string name="config_manage_subscriptions">管理订阅</string>
 
-    <string name="config_userstream_settings_category">"用户串流"</string>
-    <string name="config_userstream_auto_start">"自动启动"</string>
-    <string name="config_userstream_auto_start_summary">"应用启动时自动启动用户串流[默认：关]"</string>
+    <string name="config_userstream_settings_category">用户串流</string>
+    <string name="config_userstream_auto_start">自动启动</string>
+    <string name="config_userstream_auto_start_summary">应用启动时自动启动用户串流[默认：关]</string>
     <string name="config_auto_switch_scrolling">自动切换滚动</string>
-    <string name="config_auto_switch_scrolling_summary">启用自动滚动的时间轴的顶部。和滚动下来时禁用它。</string>
-    <string name="config_auto_scroll_on_new_status">"自动滚动"</string>
-    <string name="config_auto_scroll_on_new_status_summary">"自动滚动到新状态"</string>
+    <string name="config_auto_switch_scrolling_summary">在时间轴的顶部启用自动滚动。并在向下滚动时禁用它。</string>
+    <string name="config_auto_scroll_on_new_status">自动滚动</string>
+    <string name="config_auto_scroll_on_new_status_summary">自动滚动到新状态</string>
     <string name="config_show_auto_scroll_button">显示自动滚动按钮</string>
     <string name="config_show_auto_scroll_button_summary"></string>
-    <string name="config_userstream_keep_screen_on">"保持屏幕开"</string>
-    <string name="config_userstream_keep_screen_on_summary">"禁用自动休眠"</string>
-    
+    <string name="config_userstream_keep_screen_on">保持屏幕长亮</string>
+    <string name="config_userstream_keep_screen_on_summary">禁用自动休眠</string>
+
     <string name="config_notification_category">自动更新和通知</string>
-    <string name="config_notification_category_basic">Basic Settings</string>
-    <string name="config_notification_category_new_tweet">New tweets</string>
-    <string name="config_notification_category_reply">Reply</string>
-    <string name="config_notification_category_message">Messages</string>
-    <string name="config_notification_category_details">Details</string>
-    <string name="config_use_interval_notification">"间隔通知"</string>
-    <string name="config_use_interval_notification_summary">""</string>
-    <string name="config_notification_interval">"间隔"</string>
+    <string name="config_notification_category_basic">基本设置</string>
+    <string name="config_notification_category_new_tweet">新的推文</string>
+    <string name="config_notification_category_reply">回复</string>
+    <string name="config_notification_category_message">消息</string>
+    <string name="config_notification_category_details">详情</string>
+    <string name="config_use_interval_notification">定期通知</string>
+    <string name="config_use_interval_notification_summary"></string>
+    <string name="config_notification_interval">间隔</string>
     <string-array name="config_notification_interval_entries">
-        <item>"3分钟"</item>
-        <item>"5分钟"</item>
-        <item>"10分钟[默认]"</item>
-        <item>"20分钟"</item>
-        <item>"30分钟"</item>
-        <item>"60分钟"</item>
-        <item>"2小时"</item>
+        <item>"3分钟</item>
+        <item>"5分钟</item>
+        <item>"10分钟[默认]</item>
+        <item>"20分钟</item>
+        <item>"30分钟</item>
+        <item>"60分钟</item>
+        <item>"2小时</item>
     </string-array>
     <string name="default_text"> [默认]</string>
-    <string name="config_show_reply_notification">"显示回复通知"</string>
-    <string name="config_reply_notification_ticker_type">"回复通知代码"</string>
+    <string name="config_show_reply_notification">显示回复通知</string>
+    <string name="config_reply_notification_ticker_type">回复通知类型</string>
     <string-array name="config_reply_notification_ticker_type_entries">
-        <item>"姓名"</item>
-        <item>"姓名+推文"</item>
-        <item>"推文[默认]"</item>
+        <item>"姓名</item>
+        <item>"姓名+推文</item>
+        <item>"推文[默认]</item>
     </string-array>
-    <string name="config_show_dm_notification">"显示消息通知"</string>
-    <string name="config_notification_ringtone">"铃声"</string>
-    <string name="config_notification_ringtone_silent">"静音"</string>
-    <string name="config_notification_vibration">"振动"</string>
+    <string name="config_show_dm_notification">显示消息通知</string>
+    <string name="config_notification_ringtone">铃声</string>
+    <string name="config_notification_ringtone_silent">静音</string>
+    <string name="config_notification_vibration">振动</string>
     <string name="config_notification_led">LED</string>
-    <string name="config_notification_led_color">LED Color</string>
-    <string name="config_show_notification_button">"显示应答按钮"</string>
-    <string name="config_exclude_battery_optimizations">Exclude from battery optimizations</string>
-    <string name="config_exclude_battery_optimizations_summary">If you do not receive periodic notifications, please exclude this app from battery optimization.</string>
-    <string name="config_exclude_battery_optimizations_exclude">Exclude</string>
+    <string name="config_notification_led_color">LED 颜色</string>
+    <string name="config_show_notification_button">显示应答按钮</string>
+    <string name="config_exclude_battery_optimizations">排除在电池优化之外</string>
+    <string name="config_exclude_battery_optimizations_summary">如果你没有收到定期通知，请将此应用排除在电池优化之外。</string>
+    <string name="config_exclude_battery_optimizations_exclude">排除</string>
     <string name="config_notification_category_auto_updates">自动更新</string>
-    <string name="config_notification_category_auto_updates_summary">Each tab will automatically get new tweets at the above notification interval. Change it by long-pressing the tab or from "Tab Settings".</string>
+    <string name="config_notification_category_auto_updates_summary">每个标签都将在上述通知间隔内自动获得新推文。通过长按标签或从 "标签设置 "来修改设置。</string>
     <string name="set_auto_updates">设置自动更新</string>
-    <string name="unset_auto_updates">取消设置自动更新</string>
+    <string name="unset_auto_updates">取消自动更新设置</string>
     <string name="auto_updates_is_disabled_when_notification_is_disabled">定期通知已关闭，因此不会进行自动更新。</string>
     <string name="auto_update_every_n_minutes">每 %1$d 分钟自动更新一次</string>
     <string name="config_show_new_tweet_notification">显示新推文通知</string>
     <string name="config_new_tweet_notification_icon_type">新推文通知图标</string>
-    
-    <string name="config_color_label">"彩色标签设置"</string>
-    
-    <string name="config_search_category">"搜索设置"</string>
-	<string name="config_search_lang">"搜索语言"</string>
-	<string-array name="config_search_lang_entries">
-	    <item>"全部"</item><item>"英语"</item><item>"日语"</item><item>"韩语"</item>
-	    <item>"阿姆哈拉语"</item><item>"阿拉伯语"</item><item>"保加利亚语"</item><item>"孟加拉语"</item>
-		<item>"藏语"</item><item>"切诺基语"</item><item>"丹麦语"</item><item>"德语"</item><item>"迪维希语"</item>
-		<item>"希腊语"</item><item>"西班牙语"</item><item>"波斯语"</item><item>"芬兰语"</item>
-		<item>"法语"</item><item>"古吉拉特语"</item><item>"希伯来文"</item><item>"印地语"</item><item>"匈牙利语"</item>
-		<item>"亚美尼亚语"</item><item>"印度尼西亚语"</item><item>"冰岛语"</item><item>"意大利语"</item><item>"因纽特语"</item>
-		<item>"格鲁吉亚语"</item><item>"高棉"</item><item>"卡纳达语"</item>
-		<item>"老挝语"</item><item>"立陶宛语"</item><item>"马来语"</item><item>"缅甸语"</item><item>"尼泊尔语"</item>
-		<item>"荷兰语"</item><item>"挪威语"</item><item>"奥里亚语"</item><item>"旁遮普语"</item><item>"波兰语"</item>
-		<item>"葡萄牙语"</item><item>"俄语"</item><item>"僧伽罗语"</item><item>"瑞典语"</item><item>"泰米尔语"</item>
-		<item>"泰卢固语"</item><item>"泰语"</item><item>"菲律宾语"</item><item>"土耳其语"</item><item>"乌尔都语"</item>
-		<item>"越南语"</item><item>"中文"</item>
-	</string-array>
-	<string name="config_exclude_rt">"排转推"</string>
-	<string name="config_exclude_rt_summary">"从搜索结果中排除转推"</string>
-	<string name="config_show_soft_keyboard_activated_plain_search_tab">"显示键盘"</string>
-	<string name="config_show_soft_keyboard_activated_plain_search_tab_summary">"激活选项卡时显示软键盘，它不是输入的关键字在搜索选项卡"</string>
-	<string name="config_show_follow_count_on_search_result">"显示关注计数"</string>
-	<string name="config_show_follow_count_on_search_result_summary">"在搜索结果中显示关注和关注者计数"</string>
-    <string name="config_open_new_activity_for_trend_search">"打开新趋势搜索"</string>
-    <string name="config_open_new_activity_for_trend_search_summary">"显示来自趋势的搜索时打开新窗口（活动）[默认：开]"</string>
+
+    <string name="config_color_label">彩色标签设置</string>
+
+    <string name="config_search_category">搜索设置</string>
+    <string name="config_search_lang">搜索语言</string>
+    <string-array name="config_search_lang_entries">
+        <item>"全部</item>
+        <item>"英语</item>
+        <item>"日语</item>
+        <item>"韩语</item>
+        <item>"阿姆哈拉语</item>
+        <item>"阿拉伯语</item>
+        <item>"保加利亚语</item>
+        <item>"孟加拉语</item>
+        <item>"藏语</item>
+        <item>"切诺基语</item>
+        <item>"丹麦语</item>
+        <item>"德语</item>
+        <item>"迪维希语</item>
+        <item>"希腊语</item>
+        <item>"西班牙语</item>
+        <item>"波斯语</item>
+        <item>"芬兰语</item>
+        <item>"法语</item>
+        <item>"古吉拉特语</item>
+        <item>"希伯来文</item>
+        <item>"印地语</item>
+        <item>"匈牙利语</item>
+        <item>"亚美尼亚语</item>
+        <item>"印度尼西亚语</item>
+        <item>"冰岛语</item>
+        <item>"意大利语</item>
+        <item>"因纽特语</item>
+        <item>"格鲁吉亚语</item>
+        <item>"高棉</item>
+        <item>"卡纳达语</item>
+        <item>"老挝语</item>
+        <item>"立陶宛语</item>
+        <item>"马来语</item>
+        <item>"缅甸语</item>
+        <item>"尼泊尔语</item>
+        <item>"荷兰语</item>
+        <item>"挪威语</item>
+        <item>"奥里亚语</item>
+        <item>"旁遮普语</item>
+        <item>"波兰语</item>
+        <item>"葡萄牙语</item>
+        <item>"俄语</item>
+        <item>"僧伽罗语</item>
+        <item>"瑞典语</item>
+        <item>"泰米尔语</item>
+        <item>"泰卢固语</item>
+        <item>"泰语</item>
+        <item>"菲律宾语</item>
+        <item>"土耳其语</item>
+        <item>"乌尔都语</item>
+        <item>"越南语</item>
+        <item>"中文</item>
+    </string-array>
+    <string name="config_exclude_rt">排除转推</string>
+    <string name="config_exclude_rt_summary">从搜索结果中排除转推</string>
+    <string name="config_show_soft_keyboard_activated_plain_search_tab">显示键盘</string>
+    <string name="config_show_soft_keyboard_activated_plain_search_tab_summary">激活未输入关键词的搜索标签时显示软键盘</string>
+    <string name="config_show_follow_count_on_search_result">显示关注计数</string>
+    <string name="config_show_follow_count_on_search_result_summary">在搜索结果中显示正在关注和关注者数量</string>
+    <string name="config_open_new_activity_for_trend_search">打开新趋势搜索</string>
+    <string name="config_open_new_activity_for_trend_search_summary">当显示来自趋势的搜索时，打开新窗口（活动）[默认：开]</string>
 
     <string name="config_image_viewer_settings_category">图像浏览器设置</string>
-    <string name="config_image_viewer_back_on_tap_title">回来点击</string>
+    <string name="config_image_viewer_back_on_tap_title">轻触返回</string>
     <string name="config_image_viewer_back_on_tap_summary"></string>
     <string name="config_image_viewer_vertical_swipe_to_close_title">通过滑动关闭</string>
-    <string name="config_image_viewer_vertical_swipe_to_close_summary"></string>
+    <string name="config_image_viewer_vertical_swipe_to_close_summary">垂直滑动以关闭（返回）</string>
     <string name="config_image_save_directory">图片保存目录</string>
-    <string name="config_reset_image_save_directory">Reset Image Save Directory</string>
-    <string name="config_reset_image_save_directory_confirm">Reset OK?</string>
+    <string name="config_reset_image_save_directory">重置图片保存目录</string>
+    <string name="config_reset_image_save_directory_confirm">要重置吗？</string>
 
-    <string name="config_movie_player_settings_category">电影查看器设置</string>
+    <string name="config_movie_player_settings_category">视频播放器设置</string>
     <string name="config_movie_player_repeating">重复</string>
-    <string name="config_movie_player_initial_mute">Mute</string>
+    <string name="config_movie_player_initial_mute">静音</string>
     <string name="config_movie_player_initial_mute_summary"></string>
     <string name="movie_player_show_property">属性</string>
 
-    <string name="config_backup_settings_category">备份还原</string>
+    <string name="config_backup_settings_category">备份与还原</string>
 
-    <string name="config_advanced_settings_category">"高级设置"</string>
-    <string name="config_back_to_timeline_title">"后退键扩展。"</string>
-	<string name="config_back_to_timeline_summary">"返回到时间轴"</string>
-	<string name="config_enable_pinch_zoom">"启用捏合缩放"</string>
-	<string name="config_enable_pinch_zoom_summary">""</string>
-    <string name="config_use_favorite">Use "Favorite"</string>
-    <string name="config_use_favorite_summary">Use "Favorite" instead of "Like"[default:OFF]</string>
-	<string name="config_tab_reload_suppression_interval_title">标签更新抑制间隔</string>
-    <string name="config_tab_reload_suppression_interval_summary">""</string>
-	<string name="config_change_font">"改变字体"</string>
+    <string name="config_advanced_settings_category">高级设置</string>
+    <string name="config_back_to_timeline_title">后退键扩展。</string>
+    <string name="config_back_to_timeline_summary">返回到时间轴</string>
+    <string name="config_enable_pinch_zoom">启用双指缩放</string>
+    <string name="config_enable_pinch_zoom_summary"></string>
+    <string name="config_use_favorite">使用 "收藏</string>
+    <string name="config_use_favorite_summary">使用 "收藏" 而不是 "点赞"[默认:关闭]</string>
+    <string name="config_tab_reload_suppression_interval_title">标签的更新间隔</string>
+    <string name="config_tab_reload_suppression_interval_summary">设置切换标签时自动重新加载前的时间（自上次加载后的最小经过时间）。</string>
+    <string name="config_change_font">修改字体</string>
     <string name="config_change_font_summary"></string>
-	<string name="config_select_font_file">"选择字体文件"</string>
+    <string name="config_select_font_file">选择字体文件</string>
     <string name="config_use_material_design_dialog">新的对话格式</string>
     <string name="config_locale">语言 (Language)</string>
     <string-array name="config_locale_names">
-        <item>Auto</item>
-        <item>English (United States)</item>
-        <item>Japanese</item>
-        <item>Korean</item>
-        <item>Spanish</item>
-        <item>Chinese (Simplified)</item>
-        <item>Chinese (Traditional)</item>
+        <item>自动</item>
+        <item>英语 (美国)</item>
+        <item>日语</item>
+        <item>韩语</item>
+        <item>西班牙语</item>
+        <item>中文 (简体)</item>
+        <item>中文 (繁体)</item>
     </string-array>
 
-	<string name="config_save_record_count_for_timeline">"文件保存计数（TL）"</string>
-	<string name="config_save_record_count_for_timeline_summary">"时间轴选项卡推文保存计数[默认：500]"</string>
-	<string name="config_save_record_count_without_timeline">"推文保存计数（其他）"</string>
-	<string name="config_save_record_count_without_timeline_summary">"无时间轴选项卡的推文保存计数[默认：300]"</string>
-    <string name="config_use_gps_to_get_trend_location">GPS（趋势）</string>
+    <string name="config_save_record_count_for_timeline">推文保存数量（时间轴）</string>
+    <string name="config_save_record_count_for_timeline_summary">时间轴标签推文保存数量 [默认：500]</string>
+    <string name="config_save_record_count_without_timeline">推文保存数量（其他）</string>
+    <string name="config_save_record_count_without_timeline_summary">无时间轴标签的推文保存数量 [默认：300]</string>
+
+    <string name="config_use_gps_to_get_trend_location">地理位置（趋势）</string>
     <string name="config_screen_orientation">屏幕方向</string>
     <string-array name="config_screen_orientation_entries">
         <item>自动</item>
-        <item>Portrait</item>
-        <item>Landscape</item>
+        <item>纵向</item>
+        <item>横向</item>
     </string-array>
 
-	<string name="config_clear_cache">"清除缓存"</string>
+    <string name="config_clear_cache">清除缓存</string>
     <string name="config_clear_cache_summary"></string>
     <string name="config_reset_tab_data">清除标签数据</string>
-    <string name="config_reset_tab_data_confirm_message">你确定要删除所有标签的数据？</string>
-    <string name="config_use_raw_data_store_realm">Tab data store type</string>
-    <string name="config_use_raw_data_store_realm_summary">Use Realm (Better Performance) or SQLite (Stable), Current:%1$s</string>
-    <string name="config_prefs_export">"导出设置"</string>
+    <string name="config_reset_tab_data_confirm_message">你确定要删除所有标签的数据吗？</string>
+    <string name="config_use_raw_data_store_realm">标签数据存储类型</string>
+    <string name="config_use_raw_data_store_realm_summary">使用Realm（性能更好）或SQLite（稳定）。当前:%1$s</string>
+
+    <string name="config_prefs_export">导出设置</string>
     <string name="config_prefs_export_summary">保存当前设置</string>
-    <string name="config_prefs_import">"导入设置"</string>
+    <string name="config_prefs_import">导入设置</string>
     <string name="config_prefs_import_summary">恢复设置</string>
-    <string name="config_prefs_import_confirm_message">"您确认要从导出的设置文件导入所有设置吗？（警告！所有帐户设置会被移除！）"</string>
+    <string name="config_prefs_import_confirm_message">你确定你要从导出的设置文件中导入所有的设置吗？(警告！！所有账户设置将被删除！！)</string>
     <string name="config_prefs_clear">清除设置</string>
-    <string name="config_prefs_clear_confirm_message">你确定要清除所有设置？ （注意!! ALL帐户设置将被删除!!）</string>
-    <string name="config_prefer_protocol">"支持HTTP/2.0"</string>
-    <string name="config_prefer_protocol_summary">"选择协议"</string>
-    <string name="config_prefer_ipv4_address">Prefer IPv4</string>
-    <string name="config_prefer_ipv4_address_summary">Fix twitter image problem on Wi-Fi (for Japanese xx Hikari network)</string>
+    <string name="config_prefs_clear_confirm_message">你确定你要清除所有的设置吗？(警告！！所有账户设置将被删除！！)</string>
+    <string name="config_prefer_protocol">支持HTTP/2.0</string>
+    <string name="config_prefer_protocol_summary">选择协议</string>
+    <string name="config_prefer_ipv4_address">首选IPv4</string>
+    <string name="config_prefer_ipv4_address_summary">修复Wi-Fi上的twitter图像问题（针对日本au Hikari网络）。</string>
     <string name="config_disable_hardware_rendering">禁用硬件渲染</string>
     <string name="config_disable_hardware_rendering_summary"></string>
-    <string name="config_disable_image_hardware_rendering">禁用硬件渲染(Image)</string>
+    <string name="config_disable_image_hardware_rendering">禁用硬件渲染(图片)</string>
     <string name="config_disable_image_hardware_rendering_summary"></string>
 
-    <string name="config_adfree_category">"无广告"</string>
+    <string name="config_adfree_category">无广告</string>
     <string name="config_premium_title">高级版</string>
-    <string name="config_premium_summary">您可以删除与高级版广告</string>
-    <string name="config_adfree_pack_title">"无广告包"</string>
-    <string name="config_adfree_pack_summary">"请在google play商店订阅无广告包来去除广告"</string>
-    <string name="config_adfree_pack_already_bought">"已经购买，谢谢！"</string>
-    <string name="config_adfree_pr_title">"无广告推文"</string>
-	<string name="config_adfree_pr_summary">"你可以通过发送TwitPane的PR推文公关删除广告"</string>
-    <string name="config_adfree_video_title">通过删除视频广告</string>
-    <string name="config_adfree_video_confirm_message">您可以通过观看视频广告中删除</string>
-    <string name="config_adfree_video_start">玩</string>
+    <string name="config_premium_summary">你可以使用高级版(TwitPane+)来移除广告。</string>
+    <string name="config_adfree_pack_title">无广告包</string>
+    <string name="config_adfree_pack_summary">请在google play商店订阅无广告包来去除广告</string>
+    <string name="config_adfree_pack_already_bought">已购买，谢谢！</string>
+    <string name="config_adfree_pr_title">无广告推文</string>
+    <string name="config_adfree_pr_summary">你可以通过发送TwitPane的PR推文来移除广告</string>
+    <string name="config_adfree_video_title">看视频移除广告</string>
+    <string name="config_adfree_video_confirm_message">你可以通过观看视频来移除广告</string>
+    <string name="config_adfree_video_start">播放</string>
     <string name="config_adfree_video_noads">很抱歉，无法播放视频......请几分钟后再试。</string>
 
-	<string name="config_menu_icon_color">"菜单图标颜色"</string>
-	<string name="config_menu_icon_color_twact">"Twitter动作"</string>
+    <string name="config_menu_icon_color">菜单图标颜色</string>
+    <string name="config_menu_icon_color_twact">Twitter动作</string>
     <string name="config_menu_icon_color_twact_delete">Twitter动作(删除)</string>
-	<string name="config_menu_icon_color_streaming">"chuan流"</string>
-	<string name="config_menu_icon_color_view">"查看"</string>
-	<string name="config_menu_icon_color_share">"分享"</string>
-	<string name="config_menu_icon_color_config">"配置"</string>
-					
-	<string name="config_twicca_plugin">"twicca插件设置"</string>
-    <string name="twicca_plugin_not_found">"twicca插件未找到"</string>
+    <string name="config_menu_icon_color_streaming">串流</string>
+    <string name="config_menu_icon_color_view">查看</string>
+    <string name="config_menu_icon_color_share">分享</string>
+    <string name="config_menu_icon_color_config">设置</string>
+
+    <string name="config_twicca_plugin">twicca插件设置</string>
+    <string name="twicca_plugin_not_found">未找到twicca插件</string>
 
     <string name="config_debug_settings_category">Debug Config</string>
-    <string name="config_debug_ads">"适用于调试的广告配置"</string>
-    <string name="config_debug_ads_auto">"自动选择"</string>
+    <string name="config_debug_ads">适用于调试的广告设置</string>
+    <string name="config_debug_ads_auto">自动选择</string>
 
     <!-- Tap Menu Config -->
-    <string name="config_tap_menu_title">点击菜单按钮配置</string>
+    <string name="config_tap_menu_title">点击菜单按钮设置</string>
     <string name="config_tap_menu_change_function">更改功能</string>
     <string name="config_tap_menu_move_to_left">左移</string>
     <string name="config_tap_menu_move_to_right">右移</string>
@@ -1081,126 +1126,126 @@
     <!-- ================================================================================ -->
     <!-- Theme Config -->
     <!-- ================================================================================ -->
-    <string name="theme">"主题"</string>
-    <string name="dark_theme">黑暗主题</string>
-    <string name="theme_change_bg">"背景"</string>
+    <string name="theme">主题</string>
+    <string name="dark_theme">暗主题</string>
+    <string name="theme_change_bg">背景</string>
     <string name="theme_bg_reply_for_me">背景(回复我)</string>
     <string name="theme_bg_rt">背景(RT)</string>
-    <string name="theme_gradation">"背景渐变"</string>
-    <string name="theme_title">"标题"</string>
-    <string name="theme_date_rt">"日期，RT"</string>
-    <string name="theme_body">"正文"</string>
-    <string name="theme_body_reply_for_me">"正文（回复我）"</string>
-    <string name="theme_body_my_tweet">"正文（我的推文）"</string>
-    <string name="theme_body_read">"正文（阅读）"</string>
-    <string name="theme_name_url_hashtag">"\@name、URL、主题标签"</string>
-    <string name="theme_tab">"选项卡"</string>
+    <string name="theme_gradation">背景渐变</string>
+    <string name="theme_title">标题</string>
+    <string name="theme_date_rt">日期，RT</string>
+    <string name="theme_body">正文</string>
+    <string name="theme_body_reply_for_me">正文（回复我）</string>
+    <string name="theme_body_my_tweet">正文（我的推文）</string>
+    <string name="theme_body_read">正文（阅读）</string>
+    <string name="theme_name_url_hashtag">\@name、URL、主题标签</string>
+    <string name="theme_tab">标签</string>
     <string name="theme_actionbar">标题栏</string>
     <string name="theme_statusbar">状态栏(Android 5+)</string>
-    <string name="theme_preview">"预览"</string>
-    <string name="theme_timeline">"时间轴"</string>
-    <string name="theme_default">"默认"</string>
-    <string name="dark_theme_same_as_light_theme">同主题为光</string>
-    <string name="dark_theme_info">集黑暗的主题在Android上10或更高版本的设备上运行。</string>
+    <string name="theme_preview">预览</string>
+    <string name="theme_timeline">时间轴</string>
+    <string name="theme_default">默认</string>
+    <string name="dark_theme_same_as_light_theme">与浅色主题相同</string>
+    <string name="dark_theme_info">设置运行在安卓10或更高版本设备上的暗色主题。</string>
 
-    
+
     <!-- ================================================================================ -->
     <!-- 画像ビューア -->
     <!-- ================================================================================ -->
-    <string name="image_viewer_save_image">"保存"</string>
-    <string name="image_viewer_back_button">"后退"</string>
-    <string name="browser_save_image_saved">"已保存（%1$s）"</string>
-    <string name="browser_save_image_cannot_save">"不能保存图像"</string>
-    
+    <string name="image_viewer_save_image">保存</string>
+    <string name="image_viewer_back_button">后退</string>
+    <string name="browser_save_image_saved">已保存（%1$s）</string>
+    <string name="browser_save_image_cannot_save">不能保存图像</string>
+
     <!-- ================================================================================ -->
     <!-- Profile Fragment -->
     <!-- ================================================================================ -->
-    <string name="profile_tweets">"推文"</string>
-    <string name="profile_follows">"关注"</string>
-    <string name="profile_followers">"关注者"</string>
+    <string name="profile_tweets">推文</string>
+    <string name="profile_follows">关注</string>
+    <string name="profile_followers">关注者</string>
 
     <!-- Place画面の位置情報設定確認画面 -->
-    <string name="place_activity_location_setting_dialog_title">"位置服务"</string>
-    <string name="place_activity_location_setting_dialog_message">"你是否确定要打开位置服务设置？"</string>
-    <string name="place_activity_location_setting_dialog_yes">"是"</string>
-    <string name="place_activity_location_setting_dialog_cancel">"取消"</string>
-    
-    <string name="place_activity_location_not_found">"无法获取当前位置..."</string>
-    <string name="place_activity_location_use_last_location">"使用最后的位置.."</string>
+    <string name="place_activity_location_setting_dialog_title">位置服务</string>
+    <string name="place_activity_location_setting_dialog_message">你是否确定要打开位置服务设置？</string>
+    <string name="place_activity_location_setting_dialog_yes">确定</string>
+    <string name="place_activity_location_setting_dialog_cancel">取消</string>
+
+    <string name="place_activity_location_not_found">无法获取当前位置...</string>
+    <string name="place_activity_location_use_last_location">使用最后的位置..</string>
 
     <string name="plus1_message">感谢您的支持！</string>
-    <string name="title_activity_plus1">请大家支持Google+上</string>
+    <string name="title_activity_plus1">请大家在Google+上支持</string>
 
     <!-- ================================================================================ -->
     <!-- Instagram 関連 -->
     <!-- ================================================================================ -->
-<!--    <string name="login_to_instagram_to_view">Login to Instagram to view</string>-->
-<!--    <string name="config_instagram_settings_category">Instagram Settings</string>-->
-<!--    <string name="clear_instagram_login_info">Clear Instagram login info</string>-->
-<!--    <string name="cannot_show_image_cause_this_account_is_private">Cannot show the image because this account is private on instagram</string>-->
-<!--    <string name="cannot_show_image_cause_your_account_is_locked">Cannot show the image because your account has been locked temporarily</string>-->
+    <!--    <string name="login_to_instagram_to_view">Login to Instagram to view</string>-->
+    <!--    <string name="config_instagram_settings_category">Instagram Settings</string>-->
+    <!--    <string name="clear_instagram_login_info">Clear Instagram login info</string>-->
+    <!--    <string name="cannot_show_image_cause_this_account_is_private">Cannot show the image because this account is private on instagram</string>-->
+    <!--    <string name="cannot_show_image_cause_your_account_is_locked">Cannot show the image because your account has been locked temporarily</string>-->
 
     <!-- ================================================================================ -->
     <!-- パーミッション -->
     <!-- ================================================================================ -->
-    <string name="no_permission">no permission</string>
-    <string name="request_to_grant_location_permission_on_settings">Require LOCATION permission to run this function.\n\nPlease grant permission of location.</string>
-    <string name="require_location_permission_to_for_trend">Require permission to get location of Trend.</string>
-    <string name="request_to_grant_storage_permission_on_settings">Require STORAGE permission to run this function.\n\nPlease grant permission of storage.</string>
-    <string name="require_storage_permission">Require storage permission</string>
+    <string name="no_permission">无授权</string>
+    <string name="request_to_grant_location_permission_on_settings">需要获取位置的权限才能运行此功能。 \n\n请授予定位的权限。</string>
+    <string name="require_location_permission_to_for_trend">需要授权来获取本地趋势。</string>
+    <string name="request_to_grant_storage_permission_on_settings">需要访问本地文件的权限才能运行此功能。\n\n请授予访问本地文件的权限</string>
+    <string name="require_storage_permission">需要访问本地文件的权限</string>
 
     <!-- ================================================================================ -->
     <!-- アカウント再認証、自動インポート関連 -->
     <!-- ================================================================================ -->
     <string name="migration_from_free_edition_title">从免费版迁移</string>
-    <string name="migration_from_free_edition_message">感谢您下载%1$s！ \n你想从免费版导入设置？</string>
+    <string name="migration_from_free_edition_message">感谢您下载%1$s！ \n你想从免费版导入设置吗？</string>
     <string name="free_edition_update_confirm_title">免费版更新</string>
-    <string name="free_edition_update_confirm_message">无法迁移，因为免费版本的版本低。\n你要更新到最新版本？</string>
-    <string name="config_import_done_message">导入设置就完成了</string>
+    <string name="free_edition_update_confirm_message">无法迁移，因为免费版的版本太低。\n你要更新到最新版本吗？</string>
+    <string name="config_import_done_message">导入设置现已完成。</string>
     <string name="account_reauth_title">帐号重新认证</string>
-    <string name="account_reauth_message">您将需要重新认证的微博应用。 \n
+    <string name="account_reauth_message">你将需要重新认证Twitter的应用程序。\n
 \n
-请在下一个屏幕上再次进行验证。 \n
+请在下一个屏幕上再次进行认证。 \n
 \n
-如果下一个画面（浏览器）中显示的帐号是不同的，请注销并再次登录。</string>
+如果下一个画面（浏览器）中显示的帐号是不同的，请退出并重新登录。</string>
     <string name="add_account_without_login_message">Add account without login(use current account on the browser), ok?</string>
     <string name="require_authorization_for_bookmark">需要额外授权才能查看书签</string>
     <string name="authorize">授权</string>
-    <string name="failed_to_authorize_to_twitter_and_confirm_to_reauthorize">Twitter 身份验证失败。\n注意：如果您正在对书签进行身份验证，则在使用其他设备登录后可能无法进行身份验证。 \n\n请在下一个屏幕上重新验证。</string>
-    <string name="authorized_account_not_match_to_current_account">经过身份验证的帐户与当前帐户不匹配。\n\n
-- 认证账户: @%1$s\n
-- 现有帐户: @%2$s\n
+    <string name="failed_to_authorize_to_twitter_and_confirm_to_reauthorize">Twitter 身份验证失败。\n注意：如果您正在对书签进行身份认证，则在使用其他设备登录后可能无法进行身份认证。 \n\n请在下一个屏幕上重新认证。</string>
+    <string name="authorized_account_not_match_to_current_account">已认证的账户与当前账户不一致。\n\n
+- 已认证账户: @%1$s\n
+- 当前帐户: @%2$s\n
 \n
-在下一个屏幕上重新验证。</string>
+在下一个屏幕上重新认证。</string>
 
     <!-- Emoji Picker -->
-    <string name="emojipicker_guide_dialog_title">绘文字输入应用程序</string>
-    <string name="emojipicker_guide_dialog_message">你想从谷歌下载EmojiPicker4T的TwitPane播放商店？</string>
+    <string name="emojipicker_guide_dialog_title">表情符号输入程序</string>
+    <string name="emojipicker_guide_dialog_message">你想从 %1$s 下载用于 TwitPane 的 EmojiPicker4T 吗？</string>
     <string name="emojipicker_guide_dialog_download">下载</string>
 
     <!-- Google Translate -->
     <string name="translate_app_guide_dialog_title">谷歌翻译未安装</string>
-    <string name="translate_app_guide_dialog_message">你需要的谷歌翻译应用。从%1$s下载？</string>
-    <string name="daily_inline_translation_limit_is_exceeded">我们已经超过了当今内联翻译的执行量，因此我们将使用Google翻译应用进行翻译</string>
+    <string name="translate_app_guide_dialog_message">你需要谷歌翻译软件。从%1$s下载？</string>
+    <string name="daily_inline_translation_limit_is_exceeded">已经超过了今天使用内部翻译的次数，因此我们将使用Google翻译应用进行翻译</string>
     <string name="detail">细节</string>
-    <string name="download_translation_ml_data_confirm_message">我们需要用于翻译语言的机器学习数据（大约 30MB）。您确定要下载吗？</string>
-    <string name="inline_translation">About Inline-Translation</string>
-<!--    <string name="inline_translation_limit_details">可以执行的内联翻译数量有限制。 free=%1$d, paid=%2$d</string>-->
+    <string name="download_translation_ml_data_confirm_message">我们需要下载用于翻译语言的机器学习数据（大约 30MB）。您确定要下载吗？</string>
+    <string name="inline_translation">关于内部翻译</string>
+    <!--    <string name="inline_translation_limit_details">可以执行的内联翻译数量有限制。 free=%1$d, paid=%2$d</string>-->
 
     <string name="login_with_browser">用浏览器登录</string>
-    <string name="login_failed_and_login_with_browser_confirm">登录失败。你想通过浏览器登录？</string>
-    <string name="trade_mark_info">Twitter is trademark of Twitter, Inc.</string>
-    <string name="privacy_policy_agreement">Please sign in after agreeing to &lt;a href="https://twitpane.com/terms_of_use_en/"&gt;Terms of Use&lt;/a&gt;, &lt;a href="https://twitpane.com/privacy_policy_en/"&gt;Privacy Policy&lt;/a&gt;.</string>
+    <string name="login_failed_and_login_with_browser_confirm">登录失败。你想通过浏览器登录吗？</string>
+    <string name="trade_mark_info">Twitter是Twitter, Inc.的商标。</string>
+    <string name="privacy_policy_agreement">请在同意以下内容后登录 &lt;a href="https://twitpane.com/terms_of_use_en/"&gt;Terms of Use&lt;/a&gt;, &lt;a href="https://twitpane.com/privacy_policy_en/"&gt;隐私政策&lt;/a&gt;.</string>
 
-    <string name="trend_tweet_count">"%1$s tweets"</string>
-    <string name="dm_not_allowed_and_re_authorize_confirm_message">The permission to access direct message was lost from Twitter. Are you sure you want to re-authorize?</string>
-    <string name="could_not_authenticate_you_re_authorize_confirm_message">访问到Twitter的许可丢失。你确定要重新授权？</string>
+    <string name="trend_tweet_count">%1$s 条推文</string>
+    <string name="dm_not_allowed_and_re_authorize_confirm_message">访问私信的权限已丢失。你确定要重新授权吗？</string>
+    <string name="could_not_authenticate_you_re_authorize_confirm_message">访问Twitter的授权已丢失。你确定要重新授权吗？</string>
     <string name="select_copy_content" tools:ignore="TypographyEllipsis">选择...</string>
-    <string name="some_settings_applied_after_restarted">重新启动应用程序后，将应用某些设置。</string>
+    <string name="some_settings_applied_after_restarted">部分设置将在应用程序重新启动后生效。</string>
 
     <!-- イベントログ -->
-    <string name="event_log_message_tweet_compose_success">推文发布。</string>
-    <string name="event_log_message_tweet_compose_failed">无法发布推文。</string>
+    <string name="event_log_message_tweet_compose_success">推文发布成功</string>
+    <string name="event_log_message_tweet_compose_failed">无法发布推文</string>
     <string name="event_log_message_new_reply">收到新回复。</string>
     <string name="event_log_message_no_new_reply">没有新的回复。</string>
     <string name="event_log_message_new_message">收到新消息。</string>
