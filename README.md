@@ -14,8 +14,8 @@ Open for translation.
 |  `src/main/res/values-es`      |  Spanish  | |
 |  `src/main/res/values-ja`      |  Japanese |  Mainly supported by author  |
 |  `src/main/res/values-ko`      |  Korean   | |
-|  `src/main/res/values-zh-rHK`  |  Chinese (Traditional)  | Hong Kong: same as `values-zh-rTW` |
-|  `src/main/res/values-zh-rTW`  |  Chinese (Traditional)  | Taiwan: same as `values-zh-rHK` |
+|  `src/main/res/values-zh-rHK`  |  Chinese (Traditional)  | Hong Kong |
+|  `src/main/res/values-zh-rTW`  |  Chinese (Traditional)  | Taiwan |
 |  `src/main/res/values-zh`      |  Chinese (Simplified)  | |
 
 
@@ -23,6 +23,10 @@ Open for translation.
 
 TAKEUCHI Hiroaki (<a href="https://twitter.com/takke">@takke</a>) - takke30 at gmail.com
 
+
+## Contributers
+
+- [jiangniaoxinerke](https://github.com/jiangniaoxinerke) : Chinese (Traditional, Simplified)
 
 ## License
 
