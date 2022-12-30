@@ -1,6 +1,6 @@
 # TwitPanePublicResource
 
-## What's this?
+## About this repository
 
 Here are the resource files for TwitPane.
 
@@ -12,7 +12,7 @@ Open for translation.
 | ---- | ---- | ---- |
 |  `src/main/res/values`         |  English  |  Default  |
 |  `src/main/res/values-es`      |  Spanish  | |
-|  `src/main/res/values-ja`      |  Japanese |  Mainly supported by author  |
+|  `src/main/res/values-ja`      |  Japanese |  Supported by author  |
 |  `src/main/res/values-ko`      |  Korean   | |
 |  `src/main/res/values-zh-rHK`  |  Chinese (Traditional)  | Hong Kong |
 |  `src/main/res/values-zh-rTW`  |  Chinese (Traditional)  | Taiwan |
