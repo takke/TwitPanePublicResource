@@ -1199,6 +1199,8 @@ If the account displayed in the next screen (browser) is different, please log o
 - Current account: @%2$s\n
 \n
 Reauthenticate on the next screen.</string>
+    <string name="expiration_date_exceeded" translatable="false">Expiration date exceeded</string>
+    <string name="expiration_date_exceeded_message" translatable="false">Expiration date exceeded.\nIf a newer version is released, update or uninstall it.\nFor more information, please check our official account @TwitPane.</string>
 
     <!-- Emoji Picker -->
     <string name="emojipicker_guide_dialog_title">Emoji Input App</string>
