@@ -1197,6 +1197,7 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="trend_tweet_count">"%1$s tweets"</string>
     <string name="dm_not_allowed_and_re_authorize_confirm_message">The permission to access direct message was lost from Twitter. Are you sure you want to re-authorize?</string>
     <string name="could_not_authenticate_you_re_authorize_confirm_message">El permiso de acceso a Twitter se perdió. ¿Está seguro de que quiere volver a autorizar?</string>
+    <string name="fatal_authenticate_error_message">A fatal authentication error has occurred. If this error is displayed repeatedly, there may be some kind of failure. Please check the official website and official account (@TwitPane) for the latest information.</string>
     <string name="check_official_site">Check official site</string>
 
     <string name="select_copy_content" tools:ignore="TypographyEllipsis">Seleccione...</string>
