@@ -1240,6 +1240,8 @@
     <string name="trend_tweet_count">%1$s 条推文</string>
     <string name="dm_not_allowed_and_re_authorize_confirm_message">访问私信的权限已丢失。你确定要重新授权吗？</string>
     <string name="could_not_authenticate_you_re_authorize_confirm_message">访问Twitter的授权已丢失。你确定要重新授权吗？</string>
+    <string name="check_official_site">Check official site</string>
+
     <string name="select_copy_content" tools:ignore="TypographyEllipsis">选择...</string>
     <string name="some_settings_applied_after_restarted">部分设置将在应用程序重新启动后生效。</string>
 

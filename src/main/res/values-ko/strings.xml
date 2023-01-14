@@ -1196,6 +1196,8 @@
     <string name="trend_tweet_count">"%1$s tweets"</string>
     <string name="dm_not_allowed_and_re_authorize_confirm_message">The permission to access direct message was lost from Twitter. Are you sure you want to re-authorize?</string>
     <string name="could_not_authenticate_you_re_authorize_confirm_message">트위터에 액세스 할 수있는 권한이 끊어졌습니다. 당신은 다시 권한을 부여 하시겠습니까?</string>
+    <string name="check_official_site">Check official site</string>
+
     <string name="select_copy_content" tools:ignore="TypographyEllipsis">고르다...</string>
     <string name="some_settings_applied_after_restarted">일부 설정은 응용 프로그램을 다시 시작한 후에 적용됩니다.</string>
 
