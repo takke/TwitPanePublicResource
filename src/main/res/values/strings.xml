@@ -184,6 +184,7 @@
     <string name="twitter_error_network_issue">Failed. It may cannot communicate with twitter server. Please try again after a few minutes.</string>
     <string name="twitter_error_resource_not_found">Failed. It may be deleted the resource(tweet or dm or other resource)</string>
     <string name="twitter_error_api_rate_limitation_with_reset_minutes">Rate limit exceeded(Twitter API Request Limit)\n\nPlease try again after approx %1$dmin.%2$dsec.</string>
+    <string name="twitter_error_api_restricted_by_remote_control_of_twitpane">We are temporarily restricting the use of the API to avoid application outages from Twitter. We apologize for the inconvenience, but please wait for a while until the restriction is lifted.</string>
 
     <string name="rate_limit_list_does_not_include_api_v2" translatable="false">This list does not include Twitter API v2 rate limits.</string>
 

@@ -184,6 +184,7 @@
     <string name="twitter_error_network_issue">失敗しました・・・。通信できないようです。しばらく待ってからやり直してみてください</string>
     <string name="twitter_error_resource_not_found">失敗しました・・・。ツイートがなくなっているようです。</string>
     <string name="twitter_error_api_rate_limitation_with_reset_minutes">Twitter API リクエスト上限に達しました\n\n約%1$d分%2$d秒後に解除されますのでしばらくお待ちください</string>
+    <string name="twitter_error_api_restricted_by_remote_control_of_twitpane">Twitter からのアプリ停止を避けるため API の使用を一時的に制限しています。申し訳ありませんが解除までしばらくお待ちください。</string>
 
     <string name="rate_limit_list_does_not_include_api_v2">このリストには Twitter API v2 の Rate Limit は含まれません</string>
 

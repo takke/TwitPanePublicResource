@@ -184,6 +184,7 @@
     <string name="twitter_error_network_issue">"No ha sido posible. Tal vez no se pueda comunicar con el servidor de Twitter. Por favor, inténtalo de nuevo en unos minutos."</string>
     <string name="twitter_error_resource_not_found">"No se ha podido. Puede haberse suprimido el recurso (tweet, MD u otro recurso)"</string>
     <string name="twitter_error_api_rate_limitation_with_reset_minutes">"Se ha superado el límite de tasa (límite de solicitudes de API de Twitter)\n\nPor favor, inténtalo de nuevo después de unos %1$dmin.%2$dseg."</string>
+    <string name="twitter_error_api_restricted_by_remote_control_of_twitpane">We are temporarily restricting the use of the API to avoid application outages from Twitter. We apologize for the inconvenience, but please wait for a while until the restriction is lifted.</string>
 
     <string name="account_list">"Lista de cuentas"</string>
     <string name="over_account_count_in_subscription">"Por encima del límite del cómputo de cuentas"</string>
