@@ -184,7 +184,8 @@
     <string name="twitter_error_network_issue">已失敗。可能無法與Twitter伺服器進行通訊。請在幾分鐘後重試。</string>
     <string name="twitter_error_resource_not_found">已失敗。資源可能已被刪除（推文或私信，或者其他資源）</string>
     <string name="twitter_error_api_rate_limitation_with_reset_minutes">已超過速率限制（Twitter的API請求限制）\n\n請在大約%1$d分%2$d秒後再試</string>
-    <string name="twitter_error_api_restricted_by_remote_control_of_twitpane">We are temporarily restricting the use of the API to avoid application outages from Twitter. We apologize for the inconvenience, but please wait for a while until the restriction is lifted.</string>
+    <string name="twitter_error_api_restricted_by_remote_control_of_twitpane">We are temporarily restricting the use of the API to avoid application outages from Twitter.</string>
+    <string name="twitter_error_api_restricted_by_remote_control_of_twitpane_full">We are temporarily restricting the use of the API to avoid application outages from Twitter. \nWe apologize for the inconvenience, but please wait for a while until the restriction is lifted.</string>
 
     <string name="rate_limit_list_does_not_include_api_v2" translatable="false">“此列表不包括Twitter API v2的速率限制。”</string>
     <string name="account_list">帳戶列表</string>
