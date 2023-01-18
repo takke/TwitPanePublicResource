@@ -1045,7 +1045,6 @@ Do you want to enable it?</string>
     <string name="config_reset_tab_data">Clear tab data</string>
     <string name="config_reset_tab_data_confirm_message">Are you sure you want to remove all tab data?</string>
     <string name="config_use_raw_data_store_realm">Tab data store type</string>
-    <string name="config_use_raw_data_store_realm_summary">Use Realm (Better Performance) or SQLite (Stable), Current:%1$s</string>
     <string name="conversion_succeeded" translatable="false">Internal DB conversion completed.</string>
     <string name="conversion_failed" translatable="false">Internal DB conversion failed.</string>
     <string name="before_conversion" translatable="false">Before Conversion</string>

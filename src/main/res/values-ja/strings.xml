@@ -1052,7 +1052,6 @@
     <string name="config_reset_tab_data">タブデータの削除</string>
     <string name="config_reset_tab_data_confirm_message">全てのタブデータを削除してよろしいですか？\n\n- タブの未読・既読位置とタブ内のツイートデータが削除されます。\n- タブのカスタマイズ設定は失われません。</string>
     <string name="config_use_raw_data_store_realm">タブデータ保存形式(DEBUG)</string>
-    <string name="config_use_raw_data_store_realm_summary">タブデータの保存形式を変更できます\n【現在値：%1$s】\n\n- 通常は SQLite(安定性重視) を選択してください。\n- 2023年頃に Realm を廃止予定です。\n【初期値：SQLite】</string>
     <string name="conversion_succeeded">内部DBの変換が完了しました</string>
     <string name="conversion_failed">内部DBの変換に失敗しました</string>
     <string name="before_conversion">変換前</string>

@@ -1071,8 +1071,6 @@
     <string name="config_reset_tab_data">清除標籤資料</string>
     <string name="config_reset_tab_data_confirm_message">你確定要刪除所有標籤的資料嗎？</string>
     <string name="config_use_raw_data_store_realm">標籤資料儲存型別</string>
-    <string name="config_use_raw_data_store_realm_summary">使用Realm（效能更好）或SQLite（穩定）。當前:%1$s</string>
-
     <string name="config_prefs_export">匯出設定</string>
     <string name="config_prefs_export_summary">儲存當前設定</string>
     <string name="config_prefs_import">匯入設定</string>

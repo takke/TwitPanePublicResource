@@ -1028,7 +1028,6 @@
     <string name="config_reset_tab_data">지우기 탭 데이터</string>
     <string name="config_reset_tab_data_confirm_message">모든 탭의 데이터를 제거 하시겠습니까?</string>
     <string name="config_use_raw_data_store_realm">Tab data store type</string>
-    <string name="config_use_raw_data_store_realm_summary">Use Realm (Better Performance) or SQLite (Stable), Current:%1$s</string>
     <string name="config_prefs_export">"설정 내보내기"</string>
     <string name="config_prefs_export_summary">현재 설정 저장</string>
     <string name="config_prefs_import">"설정 가져오기"</string>
