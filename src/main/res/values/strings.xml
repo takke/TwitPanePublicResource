@@ -251,10 +251,9 @@
     <string name="review_dialog_review_button">OK</string>
     
     <!-- お気に入り表示公式アプリ確認関連 -->
-    <string name="need_twitter_app_title">About liked users</string>
-    <string name="need_twitter_app_message">Showing liked users is restricted by twitter, so show the tweet by official app of twitter alternatively. \n\nInstall offical app?</string>
-<!--	<string name="show_favorited_users_by_twitter_app_run_message">Showing liked users is restricted by twitter, so show the tweet by official app of twitter alternatively. \n\nRun offical app?</string>-->
-    
+    <string name="need_twitter_app_title">Need twitter app</string>
+    <string name="need_twitter_app_message">Voting and some actions are restricted by twitter, so show the tweet by official app of twitter alternatively. \n\nInstall official app?</string>
+
 	<string name="drawer_open">Open</string>
 	<string name="drawer_close">Close</string>
 
