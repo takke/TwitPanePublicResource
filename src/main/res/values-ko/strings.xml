@@ -1190,6 +1190,7 @@
 <!--    <string name="inline_translation_limit_details">수행 할 수있는 인라인 변환 수에는 제한이 있습니다. free=%1$d, paid=%2$d</string>-->
 
     <string name="login_with_browser">브라우저에서 로그인</string>
+    <string name="login_to_mastodon">Login to Mastodon</string>
     <string name="login_failed_and_login_with_browser_confirm">로그인 실패. 당신은 브라우저를 통해 로그인 하시겠습니까?</string>
     <string name="trade_mark_info">Twitter is trademark of Twitter, Inc.</string>
     <string name="privacy_policy_agreement">Please sign in after agreeing to &lt;a href="https://twitpane.com/terms_of_use_en/"&gt;Terms of Use&lt;/a&gt;, &lt;a href="https://twitpane.com/privacy_policy_en/"&gt;Privacy Policy&lt;/a&gt;.</string>

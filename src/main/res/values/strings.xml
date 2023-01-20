@@ -1222,6 +1222,7 @@ Reauthenticate on the next screen.</string>
 *The number of times is limited due to the use of a paid cloud service. Thanks for your understanding.</string>
 
     <string name="login_with_browser">Login with browser</string>
+    <string name="login_to_mastodon">Login to Mastodon</string>
     <string name="login_failed_and_login_with_browser_confirm">failed to login. Do you want to login via browser?</string>
     <string name="trade_mark_info">Twitter is trademark of Twitter, Inc.</string>
     <string name="privacy_policy_agreement">Please sign in after agreeing to &lt;a href="https://twitpane.com/terms_of_use_en/"&gt;Terms of Use&lt;/a&gt;, &lt;a href="https://twitpane.com/privacy_policy_en/"&gt;Privacy Policy&lt;/a&gt;.</string>
