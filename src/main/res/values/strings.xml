@@ -1275,5 +1275,7 @@ Reauthenticate on the next screen.</string>
     <string name="event_log_delete_confirm_message" translatable="false">Delete this event, OK?</string>
     <string name="event_log_information" translatable="false">You can see the events that took place in the background, such as "Posts" and "New Notifications".</string>
 
+    <!-- Mastodon -->
+    <string name="instance_name_hint" translatable="false">Instance Name (ex: mstdn.jp)</string>
 
 </resources>
