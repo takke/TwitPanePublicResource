@@ -1285,5 +1285,6 @@
 
     <!-- Mastodon -->
     <string name="instance_name_hint">接続先インスタンス("mstdn.jp" など)</string>
+    <string name="close_oauth_activity">閉じる</string>
 
 </resources>
