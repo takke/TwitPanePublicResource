@@ -93,6 +93,7 @@
     <string name="account_delete_confirm">你確定要刪除這個賬戶嗎？</string>
     <string name="cannot_delete_current_account">不能刪除當前帳戶。</string>
     <string name="account_reauth">重新認證</string>
+    <string name="menu_instance_info">Instance Info</string>
     <string name="changing_account_to">改變為\@%1$s</string>
     <string name="cannot_auth_account_via_official_twitter_app">透過官方 Twitter 應用程式登入過程中發生錯誤。 \n\n(%1$s)\n\n透過瀏覽器登入。</string>
 

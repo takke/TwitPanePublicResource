@@ -93,6 +93,7 @@
     <string name="account_delete_confirm">"¿Seguro que quieres eliminar esta cuenta?"</string>
     <string name="cannot_delete_current_account">"No se puede eliminar la cuenta actual."</string>
     <string name="account_reauth">re-autenticación</string>
+    <string name="menu_instance_info">Instance Info</string>
     <string name="changing_account_to">Cambiar a \@%1$s</string>
     <string name="cannot_auth_account_via_official_twitter_app">Ocurrió un error durante el proceso de inicio de sesión a través de la aplicación oficial de Twitter. \n\n(%1$s)\n\nInicie sesión a través del navegador.</string>
 

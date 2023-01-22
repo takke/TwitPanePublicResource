@@ -93,6 +93,7 @@
     <string name="account_delete_confirm">Are you sure you want to delete this account?</string>
     <string name="cannot_delete_current_account">Cannot delete current account.</string>
     <string name="account_reauth">Re-authentication</string>
+    <string name="menu_instance_info">Instance Info</string>
     <string name="changing_account_to">Change to \@%1$s</string>
     <string name="cannot_auth_account_via_official_twitter_app">An error occurred during the login process via the official Twitter application. \n\n(%1$s)\n\nLog in via browser.</string>
 
