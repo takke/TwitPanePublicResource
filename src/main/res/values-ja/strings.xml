@@ -1234,7 +1234,7 @@
     <string name="login_with_browser">ブラウザでログイン</string>
     <string name="login">ログイン</string>
     <string name="login_to_mastodon">マストドンにログイン</string>
-    <string name="login_to_mastodon_instruction">Mastodonはさまざまなサーバで構成されています。ログインしたいサーバを選択してください。一覧にないサーバはURLを直接入力してください。</string>
+    <string name="login_to_mastodon_instruction">Mastodonには色々なサーバがあり自分で選ぶことができます。ログインしたいサーバを選択してください。一覧にないサーバはURLを直接入力してください。</string>
     <string name="login_failed_and_login_with_browser_confirm">ログインに失敗しました。ブラウザ経由でのログインを行いますか？</string>
     <string name="trade_mark_info">「Twitter」は Twitter, Inc. の商標または登録商標です。</string>
     <string name="privacy_policy_agreement">&lt;a href="https://twitpane.com/terms_of_use/"&gt;利用規約&lt;/a&gt;、&lt;a href="https://twitpane.com/privacy_policy/"&gt;プライバシーポリシー&lt;/a&gt;に同意の上、&lt;br /&gt;ログインしてください</string>
