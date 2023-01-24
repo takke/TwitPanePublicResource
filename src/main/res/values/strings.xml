@@ -1284,6 +1284,8 @@ Reauthenticate on the next screen.</string>
     <string name="close_oauth_activity" translatable="false">Close</string>
 
     <!-- Search Edition -->
-    <string name="search_edition_introduction_message" translatable="false">This application is for Twitter search.</string>
+    <string-array name="search_edition_introduction_message" translatable="false">
+        <item>This application is for Twitter search.</item>
+    </string-array>
 
 </resources>

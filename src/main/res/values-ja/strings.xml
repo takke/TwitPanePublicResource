@@ -1291,6 +1291,8 @@
     <string name="close_oauth_activity">閉じる</string>
 
     <!-- Search Edition -->
-    <string name="search_edition_introduction_message">このアプリはTwitter検索専用のアプリです。\n・「検索結果のタブ化(ピン止め)」ができるので「どこまで読んでいたか」を覚えてくれます。\n・タブの長押しメニューから「自動更新」に設定すると見ていないときでも自動で巡回してくれます。</string>
+    <string-array name="search_edition_introduction_message">
+        <item>ついぺんサーチはTwitter検索専用のアプリです。\n・「検索結果のタブ化(ピン止め)」をすることで「どこまで読んでいたか」を覚えてくれます。\n・タブの長押しメニューから「自動更新」に設定するとアプリから離れていても自動で巡回してくれます。</item>
+    </string-array>
 
 </resources>
