@@ -1291,6 +1291,6 @@
     <string name="close_oauth_activity">閉じる</string>
 
     <!-- Search Edition -->
-    <string name="search_edition_introduction_message">このアプリは検索用のアプリです。</string>
+    <string name="search_edition_introduction_message">このアプリはTwitter検索専用のアプリです。\n・「検索結果のタブ化(ピン止め)」ができるので「どこまで読んでいたか」を覚えてくれます。\n・タブの長押しメニューから「自動更新」に設定すると見ていないときでも自動で巡回してくれます。</string>
 
 </resources>
