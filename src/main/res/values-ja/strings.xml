@@ -744,8 +744,7 @@
     <string name="bottom_toolbar_auto_hide">ツールバー自動開閉(スクロールで自動開閉)</string>
     <string name="bottom_toolbar_auto_hide_when_scrolling_down">下にスクロールしたときに閉じる(Offの場合、上にスクロールしたときに閉じる)</string>
     <string name="change_function">機能変更</string>
-    <string name="toolbar_button_tutorial1">ボタンをタップすると機能を変更できます。
-\nまた、長押しするとボタンのカラーを変更できます。</string>
+    <string name="toolbar_button_tutorial1">ボタンをタップすると機能を変更できます。\nまた、長押しするとボタンのカラーを変更できます。</string>
 
     <string name="config_translation_settings_category">翻訳設定</string>
     <string name="config_show_translation_link">「ツイートを翻訳」を表示</string>
