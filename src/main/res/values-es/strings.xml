@@ -63,6 +63,7 @@
     <string name="search_button">"Buscar"</string>
     <string name="saved_search">"Búsqueda guardada"</string>
     <string name="search_save_button">"Guardar esta búsqueda"</string>
+    <string name="search_save_to_tab_button">Save to tab</string>
     <string name="search_delete_button">"Borrar esta búsqueda"</string>
     <string name="search_config_button">"Configurar"</string>
     <string name="saved_search_capacity_over_message">Se ha producido un error al guardar la palabra clave de búsqueda. Por favor, compruebe que existe la posibilidad de que el número de la cuenta ha alcanzado el límite máximo.</string>

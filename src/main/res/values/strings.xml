@@ -63,6 +63,7 @@
     <string name="search_button">Search</string>
     <string name="saved_search">Saved search</string>
     <string name="search_save_button">Save this search</string>
+    <string name="search_save_to_tab_button">Save to tab</string>
     <string name="search_delete_button">Delete this search</string>
     <string name="search_config_button">Config</string>
     <string name="saved_search_capacity_over_message">An error occurred while saving the search keyword. Please check there is a possibility that the number of count has reached the upper limit.</string>

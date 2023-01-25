@@ -63,6 +63,7 @@
     <string name="search_button">搜索</string>
     <string name="saved_search">保存的搜索</string>
     <string name="search_save_button">保存此搜索</string>
+    <string name="search_save_to_tab_button">Save to tab</string>
     <string name="search_delete_button">刪除此搜索</string>
     <string name="search_config_button">設置</string>
     <string name="saved_search_capacity_over_message">在保存搜索關鍵詞時發生了一個錯誤。請檢查是否有可能已達到最大保存數量。</string>
