@@ -21,7 +21,7 @@
     <string name="pane_name_search">搜索</string>
     <string name="pane_name_profile">个人资料</string>
     <string name="pane_name_timeline">时间轴</string>
-    <string name="pane_name_search_edition_introduction">Home</string>
+    <string name="pane_name_search_edition_home">Home</string>
     <string name="pane_name_reply">回复</string>
     <string name="pane_name_mytweet">我的推文</string>
     <string name="pane_name_media">媒体</string>

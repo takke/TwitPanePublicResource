@@ -21,7 +21,7 @@
     <string name="pane_name_search">検索</string>
     <string name="pane_name_profile">プロフィール</string>
     <string name="pane_name_timeline">タイムライン</string>
-    <string name="pane_name_search_edition_introduction">ホーム</string>
+    <string name="pane_name_search_edition_home">ホーム</string>
     <string name="pane_name_reply">返信</string>
     <string name="pane_name_mytweet">ツイート</string>
     <string name="pane_name_media">メディア</string>

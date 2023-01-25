@@ -21,7 +21,7 @@
     <string name="pane_name_search">"Buscar"</string>
     <string name="pane_name_profile">"Perfil"</string>
     <string name="pane_name_timeline">"Cronología"</string>
-    <string name="pane_name_search_edition_introduction">Home</string>
+    <string name="pane_name_search_edition_home">Home</string>
     <string name="pane_name_reply">"Responder"</string>
     <string name="pane_name_mytweet">"Mis tweets"</string>
     <string name="pane_name_media">Medios de comunicación</string>
