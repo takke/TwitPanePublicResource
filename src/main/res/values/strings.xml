@@ -1025,9 +1025,9 @@ Do you want to enable it?</string>
     </string-array>
 
     <string name="config_save_record_count_for_timeline">Tweet Save Count(TL)</string>
-    <string name="config_save_record_count_for_timeline_summary">Tweet save count for timeline tab [default:500]</string>
+    <string name="config_save_record_count_for_timeline_summary">Tweet save count for timeline tab [default:1000]</string>
     <string name="config_save_record_count_without_timeline">Tweet Save Count(Others)</string>
-    <string name="config_save_record_count_without_timeline_summary">Tweet save count without timeline tab [default:300]</string>
+    <string name="config_save_record_count_without_timeline_summary">Tweet save count without timeline tab [default:1000]</string>
     <string name="use_conversation_id" translatable="false">Use conversation_id</string>
     <string name="use_conversation_id_summary" translatable="false">Use conversation_id for conversation search</string>
     <string name="use_tweet_complementary_fetcher" translatable="false">Get the number of quoted tweets, polls, etc.</string>

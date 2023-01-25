@@ -1015,9 +1015,9 @@
     </string-array>
 
     <string name="config_save_record_count_for_timeline">"Cantidad Tweets guardados (TL)"</string>
-    <string name="config_save_record_count_for_timeline_summary">"Cantidad de tweets guardados para la pestaña de la cronología [por defecto: 500]"</string>
+    <string name="config_save_record_count_for_timeline_summary">"Cantidad de tweets guardados para la pestaña de la cronología [por defecto: 1000]"</string>
     <string name="config_save_record_count_without_timeline">"Cantidad de tweets guardados (otros)"</string>
-    <string name="config_save_record_count_without_timeline_summary">"Cantidad de tweets guardados sin pestaña de la cronología [por defecto: 300]"</string>
+    <string name="config_save_record_count_without_timeline_summary">"Cantidad de tweets guardados sin pestaña de la cronología [por defecto: 1000]"</string>
     <string name="config_use_gps_to_get_trend_location">"Habilitar GPS (Tendencias)"</string>
     <string name="config_screen_orientation">Orientación de la pantalla</string>
     <string-array name="config_screen_orientation_entries">

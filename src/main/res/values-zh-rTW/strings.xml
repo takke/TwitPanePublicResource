@@ -1056,9 +1056,9 @@
     </string-array>
 
     <string name="config_save_record_count_for_timeline">推文儲存數量（時間軸）</string>
-    <string name="config_save_record_count_for_timeline_summary">時間軸標籤推文儲存數量 [預設：500]</string>
+    <string name="config_save_record_count_for_timeline_summary">時間軸標籤推文儲存數量 [預設：1000]</string>
     <string name="config_save_record_count_without_timeline">推文儲存數量（其他）</string>
-    <string name="config_save_record_count_without_timeline_summary">無時間軸標籤的推文儲存數量 [預設：300]</string>
+    <string name="config_save_record_count_without_timeline_summary">無時間軸標籤的推文儲存數量 [預設：1000]</string>
 
     <string name="config_use_gps_to_get_trend_location">地理位置（趨勢）</string>
     <string name="config_screen_orientation">螢幕方向</string>

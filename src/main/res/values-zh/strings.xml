@@ -1056,9 +1056,9 @@
     </string-array>
 
     <string name="config_save_record_count_for_timeline">推文保存数量（时间轴）</string>
-    <string name="config_save_record_count_for_timeline_summary">时间轴标签推文保存数量 [默认：500]</string>
+    <string name="config_save_record_count_for_timeline_summary">时间轴标签推文保存数量 [默认：1000]</string>
     <string name="config_save_record_count_without_timeline">推文保存数量（其他）</string>
-    <string name="config_save_record_count_without_timeline_summary">无时间轴标签的推文保存数量 [默认：300]</string>
+    <string name="config_save_record_count_without_timeline_summary">无时间轴标签的推文保存数量 [默认：1000]</string>
 
     <string name="config_use_gps_to_get_trend_location">地理位置（趋势）</string>
     <string name="config_screen_orientation">屏幕方向</string>
