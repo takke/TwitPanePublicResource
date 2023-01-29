@@ -1290,6 +1290,7 @@ Reauthenticate on the next screen.</string>
         <item>I am good at list tracking and searching.</item>
         <item>Posting tweets, replying, messages... I don\'t know what you\'re talking about!</item>
         <item>Are there users who don\'t show up in your search? Tweets from users with key accounts or shadow-banned users may not show up.</item>
+        <item>Maybe filter: doesn\'t work in the search. The results are different from the official app or the web version of Twitter.</item>
         <item>Tap on the poll or quoted tweet to launch the official app.</item>
     </string-array>
 
