@@ -396,6 +396,7 @@
     <string name="menu_create_favorite_favorite">お気に入りに追加する</string>
     <string name="menu_remove_favorite_favorite">お気に入りから削除する</string>
     <string name="menu_create_favorite_like">いいね</string>
+    <string name="confirm_create_like_with_official_app">公式アプリのいいね画面を開きます。\n\n公式アプリでログイン済みのアカウントで実行されるのでアカウント誤りにご注意ください。</string>
     <string name="menu_remove_favorite_like">「いいね」を取り消す</string>
     <string name="menu_add_bookmark">ブックマークする</string>
     <string name="menu_delete_bookmark">ブックマークを外す</string>

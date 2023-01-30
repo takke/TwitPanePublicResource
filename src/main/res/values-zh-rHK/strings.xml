@@ -390,6 +390,7 @@
     <string name="menu_create_favorite_favorite">收藏</string>
     <string name="menu_remove_favorite_favorite">刪除收藏</string>
     <string name="menu_create_favorite_like">點贊</string>
+    <string name="confirm_create_like_with_official_app">Open the Like page of the official app. \n\nPlease note the account error as it will be executed with the account already logged in on the official app.</string>
     <string name="menu_remove_favorite_like">刪除點贊</string>
     <string name="menu_add_bookmark">添加到書籤</string>
     <string name="menu_delete_bookmark">從書籤中刪除</string>
