@@ -779,6 +779,7 @@
     <string name="config_volume_key_scrollup">向上滚动</string>
     <string name="config_volume_key_scrolldown">向下滚动</string>
     <string name="config_volume_key_nextaccount">下一个账户</string>
+    <string name="config_volume_key_previousaccount">以前的帐户</string>
     <string name="config_volume_key_userstream">用户串流开/关</string>
     <string name="config_volume_key_nexttab">下一个标签</string>
     <string name="config_volume_key_prevtab">上一个标签</string>

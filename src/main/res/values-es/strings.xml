@@ -778,6 +778,7 @@
     <string name="config_volume_key_scrollup">"Desplazarse hacia arriba"</string>
     <string name="config_volume_key_scrolldown">"Desplazarse hacia abajo"</string>
     <string name="config_volume_key_nextaccount">"Siguiente cuenta"</string>
+    <string name="config_volume_key_previousaccount">Cuenta anterior</string>
     <string name="config_volume_key_userstream">"Transmisión encendido/apagado"</string>
     <string name="config_volume_key_nexttab">"Siguiente pestaña"</string>
     <string name="config_volume_key_prevtab">"Anterior pestaña"</string>

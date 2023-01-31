@@ -793,7 +793,8 @@
 	<string name="config_volume_key_volume">ボリューム(初期値)</string>
 	<string name="config_volume_key_scrollup">上スクロール</string>
 	<string name="config_volume_key_scrolldown">下スクロール</string>
-	<string name="config_volume_key_nextaccount">アカウント切替</string>
+	<string name="config_volume_key_nextaccount">アカウント切替(次へ)</string>
+    <string name="config_volume_key_previousaccount">アカウント切替(前へ)</string>
 	<string name="config_volume_key_userstream">UserStream切替</string>
 	<string name="config_volume_key_nexttab">次のタブ</string>
 	<string name="config_volume_key_prevtab">前のタブ</string>

@@ -787,6 +787,7 @@ Do you want to enable it?</string>
 	<string name="config_volume_key_scrollup">Scroll Up</string>
 	<string name="config_volume_key_scrolldown">Scroll Down</string>
 	<string name="config_volume_key_nextaccount">Next Account</string>
+	<string name="config_volume_key_previousaccount">Previous Account</string>
 	<string name="config_volume_key_userstream">UserStream On/Off</string>
 	<string name="config_volume_key_nexttab">Next Tab</string>
 	<string name="config_volume_key_prevtab">Prev Tab</string>

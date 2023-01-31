@@ -777,6 +777,7 @@
 	<string name="config_volume_key_scrollup">"위로 스크롤"</string>
 	<string name="config_volume_key_scrolldown">"아래로 스크롤 "</string>
 	<string name="config_volume_key_nextaccount">"다음 계정"</string>
+    <string name="config_volume_key_previousaccount">이전 계정</string>
 	<string name="config_volume_key_userstream">"UserStream 온/오프"</string>
 	<string name="config_volume_key_nexttab">"다음 탭"</string>
 	<string name="config_volume_key_prevtab">"이전 탭"</string>
