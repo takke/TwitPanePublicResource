@@ -20,6 +20,9 @@
 	<string name="pane_name_trend">トレンド</string>
     <string name="pane_name_search">検索</string>
     <string name="pane_name_profile">プロフィール</string>
+    <string name="pane_name_notifications">通知</string>
+    <string name="pane_name_local_timeline">ローカル</string>
+    <string name="pane_name_public_timeline">連合</string>
     <string name="pane_name_timeline">タイムライン</string>
     <string name="pane_name_search_edition_home">ホーム</string>
     <string name="pane_name_reply">返信</string>

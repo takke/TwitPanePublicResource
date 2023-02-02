@@ -20,6 +20,9 @@
     <string name="pane_name_trend">趨勢</string>
     <string name="pane_name_search">搜尋</string>
     <string name="pane_name_profile">個人資料</string>
+    <string name="pane_name_notifications">Notifications</string>
+    <string name="pane_name_local_timeline">Local</string>
+    <string name="pane_name_public_timeline">Public</string>
     <string name="pane_name_timeline">時間軸</string>
     <string name="pane_name_search_edition_home">Home</string>
     <string name="pane_name_reply">回覆</string>
