@@ -27,6 +27,7 @@
     <string name="pane_name_search_edition_home">ホーム</string>
     <string name="pane_name_reply">返信</string>
     <string name="pane_name_mytweet">ツイート</string>
+    <string name="pane_name_toots">トゥート</string>
     <string name="pane_name_media">メディア</string>
     <string name="pane_name_favorite_like">いいね</string>
     <string name="liked_order">いいねした順</string>

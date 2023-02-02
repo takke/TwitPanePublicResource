@@ -27,6 +27,7 @@
     <string name="pane_name_search_edition_home">Home</string>
     <string name="pane_name_reply">回复</string>
     <string name="pane_name_mytweet">我的推文</string>
+    <string name="pane_name_toots">Toots</string>
     <string name="pane_name_media">媒体</string>
     <string name="pane_name_favorite_like">点赞</string>
     <string name="liked_order">点赞排序</string>
