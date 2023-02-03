@@ -432,6 +432,7 @@
     <string name="tab_jump_introduction">・ジャンプ先のタブはメイン画面でこのボタンをタップして設定してください。\n・ボタンを長押しするとジャンプ先を変更できます。</string>
 
     <string name="menu_share_tweet">ツイートを共有する</string>
+    <string name="menu_share_toot">トゥートを共有する</string>
     <string name="menu_remove_tweet">削除する</string>
     <string name="menu_open_with_official_app">公式アプリで開く</string>
     <string name="menu_import_design">このデザインをインポートする</string>

@@ -426,6 +426,7 @@
     <string name="tab_jump_introduction">- Tap this button on the main screen to set the jump destination tab. \n- Press and hold the button to change the jump destination.</string>
 
     <string name="menu_share_tweet">Share Tweet</string>
+    <string name="menu_share_toot">Share Toot</string>
     <string name="menu_remove_tweet">Delete</string>
     <string name="menu_open_with_official_app">Open Twitter App</string>
     <string name="menu_import_design">Import Design</string>

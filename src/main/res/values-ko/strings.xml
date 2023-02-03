@@ -423,6 +423,7 @@
     <string name="tab_jump_introduction">-메인 화면에서이 버튼을 눌러 점프 대상 탭을 설정하십시오. \n- 버튼을 누르고 있으면 점프 목적지를 변경합니다.</string>
 
     <string name="menu_share_tweet">"트윗 공유"</string>
+    <string name="menu_share_toot">Share Toot</string>
     <string name="menu_remove_tweet">"삭제"</string>
     <string name="menu_open_with_official_app">공식 앱으로 열기</string>
     <string name="menu_import_design">"디자인 들여오기"</string>

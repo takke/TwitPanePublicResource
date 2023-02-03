@@ -425,6 +425,7 @@
     <string name="tab_jump_introduction">-在主螢幕上點這個按鈕來設定要跳躍到的標籤。 \n-按住按鈕可更改跳轉目的地。</string>
 
     <string name="menu_share_tweet">分享推文</string>
+    <string name="menu_share_toot">Share Toot</string>
     <string name="menu_remove_tweet">刪除</string>
     <string name="menu_open_with_official_app">開啟官方應用程式</string>
     <string name="menu_import_design">匯入設計</string>

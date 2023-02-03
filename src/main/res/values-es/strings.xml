@@ -425,6 +425,7 @@
     <string name="tab_jump_introduction">- Toque este botón en la pantalla principal para configurar la pestaña de destino del salto. \n- Mantenga presionado el botón para cambiar el destino del salto.</string>
 
     <string name="menu_share_tweet">"Compartir tweet"</string>
+    <string name="menu_share_toot">Share Toot</string>
     <string name="menu_remove_tweet">"Eliminar"</string>
     <string name="menu_open_with_official_app">Abra la aplicación oficial</string>
     <string name="menu_import_design">"Importar diseño"</string>
