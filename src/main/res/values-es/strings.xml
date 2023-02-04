@@ -214,6 +214,7 @@
     <string name="notification_new_dm_text_with_user">"Mensaje de \@%1$s"</string>
 
     <string name="retweeted_by_user">"Retwitteado por %1$s"</string>
+    <string name="boosted_by_user">Boosted by %1$s</string>
     <string name="source_from">"de %1$s"</string>
     <string name="reply_to">"a %1$s"</string>
     <string name="cannot_launch_official_twitter_app">"No se puede lanzar la aplicación oficial de Twitter.\nPor favor, asegúrate de que tienes instalada la última aplicación oficial de Twitter."</string>

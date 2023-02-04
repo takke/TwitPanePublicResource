@@ -215,6 +215,7 @@
     <string name="notification_new_dm_text_with_user">来自\@%1$s的消息</string>
 
     <string name="retweeted_by_user">由%1$s转推</string>
+    <string name="boosted_by_user">Boosted by %1$s</string>
     <string name="source_from">来自%1$s</string>
     <string name="reply_to">回复%1$s</string>
     <string name="cannot_launch_official_twitter_app">不能启动官方Twitter应用。\n请确认安装了最新的官方Twitter应用</string>
