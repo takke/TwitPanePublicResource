@@ -118,6 +118,7 @@
     <string name="remove_retweet_confirm_message">"리트윗을 삭제하시겠습니까?"</string>
     <string name="remove_boost_confirm_message">Remove boost?</string>
     <string name="remove_retweeted_message">"제거됨"</string>
+    <string name="removed_boost_message">Removed</string>
     <string name="favorite_confirm_message_favorite">"이 트윗을 즐겨찾기하시겠습니까?"</string>
     <string name="created_favorite_message_favorite">"즐겨찾기"</string>
     <string name="remove_favorite_confirm_message_favorite">즐겨 찾기를 삭제 하시겠습니까?</string>

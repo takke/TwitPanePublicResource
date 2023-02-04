@@ -118,6 +118,7 @@
     <string name="remove_retweet_confirm_message">Remove retweet?</string>
     <string name="remove_boost_confirm_message">Remove boost?</string>
     <string name="remove_retweeted_message">Removed</string>
+    <string name="removed_boost_message">Removed</string>
     <string name="favorite_confirm_message_favorite">Favorite this tweet?</string>
     <string name="created_favorite_message_favorite">Favorited</string>
     <string name="remove_favorite_confirm_message_favorite">Remove favorite?</string>
