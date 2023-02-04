@@ -112,6 +112,7 @@
     <string name="send_mention_button">\@ツイートを送信する</string>
     
     <string name="retweet_confirm_message">このツイートをフォロワーにリツイートしますか？</string>
+    <string name="boost_confirm_message">このトゥートをフォロワーにブーストしますか？</string>
     <string name="retweeted_message">リツイートしました</string>
     <string name="remove_retweet_confirm_message">リツイートを解除しますか？</string>
     <string name="remove_retweeted_message">リツイートを解除しました</string>

@@ -112,6 +112,7 @@
     <string name="send_mention_button">新提及</string>
 
     <string name="retweet_confirm_message">轉推此推文？</string>
+    <string name="boost_confirm_message">Boost this tweet?</string>
     <string name="retweeted_message">已轉推</string>
     <string name="remove_retweet_confirm_message">移除轉推？</string>
     <string name="remove_retweeted_message">已移除</string>
