@@ -116,6 +116,7 @@
     <string name="retweeted_message">"Retwitteado"</string>
     <string name="boosted_message">Boosted</string>
     <string name="remove_retweet_confirm_message">"¿Eliminar retweet?"</string>
+    <string name="remove_boost_confirm_message">Remove boost?</string>
     <string name="remove_retweeted_message">"Eliminado"</string>
     <string name="favorite_confirm_message_favorite">"¿Marcar como favorito este tweet?"</string>
     <string name="created_favorite_message_favorite">"Marcado como favorito"</string>

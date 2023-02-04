@@ -116,6 +116,7 @@
     <string name="retweeted_message">リツイートしました</string>
     <string name="boosted_message">ブーストしました</string>
     <string name="remove_retweet_confirm_message">リツイートを解除しますか？</string>
+    <string name="remove_boost_confirm_message">ブーストを解除しますか？</string>
     <string name="remove_retweeted_message">リツイートを解除しました</string>
     <string name="favorite_confirm_message_favorite">このツイートをお気に入りに追加しますか？</string>
     <string name="created_favorite_message_favorite">お気に入りに追加しました</string>
