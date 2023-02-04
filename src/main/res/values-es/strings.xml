@@ -386,11 +386,13 @@
     <string name="menu_reply_all">"Responder a todo"</string>
     <string name="menu_hidden_button">"Sin función (Oculto)"</string>
     <string name="menu_rt">"Retwittear"</string>
+    <string name="menu_boost">Boost</string>
     <string name="menu_quote_tweet">"Citar Tweet"</string>
     <string name="menu_tweet_with_comment">Tweet con Comentario</string>
     <string name="menu_unofficial_retweet">RT \@TwitPane: …</string>
     <string name="cannot_retweet_protected_user_tweet">"No se puede retwittear el tweet de un usuario protegido"</string>
     <string name="menu_remove_rt">"Eliminar retweet"</string>
+    <string name="menu_remove_boost">Remove Boost</string>
     <string name="menu_create_favorite_favorite">"Favorito"</string>
     <string name="menu_remove_favorite_favorite">"Eliminar favorito"</string>
     <string name="menu_create_favorite_like">Me gusta</string>
