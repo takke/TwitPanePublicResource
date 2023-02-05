@@ -154,6 +154,7 @@
     <string name="common_clear">"Limpiar"</string>
     <string name="common_failed_message">"No ha sido posible, por favor, inténtelo de nuevo en unos minutos."</string>
     <string name="common_delete">"Eliminar"</string>
+    <string name="common_remember">Remember</string>
     <string name="already_task_running">"Ejecutándose, por favor, inténtelo de nuevo en unos minutos."</string>
     <string name="cannot_view_private_account_timeline">"No se puede ver la cronología de la cuenta privada ..."</string>
     <string name="cannot_view_private_account_tweet">"No se puede ver el tweet de la cuenta privada ..."</string>

@@ -154,6 +154,7 @@
     <string name="common_clear">"제거"</string>
     <string name="common_failed_message">"실패 ..., 몇 분 후에 다시 시도하십시오."</string>
     <string name="common_delete">"삭제"</string>
+    <string name="common_remember">Remember</string>
     <string name="already_task_running">"실행 중... 몇 분 후에 다시 시도하십시오"</string>
     <string name="cannot_view_private_account_timeline">"개인계정의 타임라인을 볼 수 없습니다 ..."</string>
     <string name="cannot_view_private_account_tweet">"개인계정의 트윗을 볼 수 없습니다 ..."</string>

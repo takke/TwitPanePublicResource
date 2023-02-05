@@ -154,6 +154,7 @@
     <string name="common_clear">清除</string>
     <string name="common_failed_message">失敗...，請在幾分鐘後重試。</string>
     <string name="common_delete">刪除</string>
+    <string name="common_remember">Remember</string>
     <string name="already_task_running">正在執行，請在幾分鐘後重試。</string>
     <string name="cannot_view_private_account_timeline">無法檢視私人帳戶的推特...</string>
     <string name="cannot_view_private_account_tweet">無法檢視私人帳戶的推文...</string>
