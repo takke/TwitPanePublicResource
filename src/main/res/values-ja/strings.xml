@@ -308,6 +308,8 @@
     <string name="menu_config">設定</string>
     <string name="menu_event">イベント</string>
     <string name="menu_about">TwitPaneについて</string>
+    <string name="menu_about_research">ついぺんリサーチについて</string>
+    <string name="menu_about_zonepane">ZonePaneについて</string>
     <string name="menu_debug">デバッグ</string>
     <string name="debug_mode_confirm_title">デバッグモード確認</string>
     <string name="debug_mode_confirm_message">デバッグモードを設定します。よろしいですか？</string>

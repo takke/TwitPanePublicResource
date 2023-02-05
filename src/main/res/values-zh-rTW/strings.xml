@@ -302,6 +302,8 @@
     <string name="menu_config">設定</string>
     <string name="menu_event">事件</string>
     <string name="menu_about">關於</string>
+    <string name="menu_about_research">About</string>
+    <string name="menu_about_zonepane">About</string>
     <string name="menu_debug">除錯</string>
     <string name="debug_mode_confirm_title">除錯模式確認</string>
     <string name="debug_mode_confirm_message">你確定要進入除錯模式嗎？</string>
