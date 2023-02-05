@@ -474,7 +474,8 @@
     <string name="menu_hide_attached_image_area">添付画像エリアを非表示にする</string>
     <string name="menu_show_attached_image_area">添付画像エリアを表示する</string>
     <string name="menu_add_app_link">TwitPaneリンクの追加</string>
-    
+    <string name="menu_add_app_link_zonepane">ZonePaneリンクの追加</string>
+
     <string name="menu_block">ブロック</string>
     <string name="menu_block_dots">ブロック...</string>
     <string name="menu_spam">スパム通報</string>

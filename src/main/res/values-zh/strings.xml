@@ -467,6 +467,7 @@
     <string name="menu_hide_attached_image_area">隐藏附加图像区域</string>
     <string name="menu_show_attached_image_area">显示附加图像区域</string>
     <string name="menu_add_app_link">添加TwitPane链接</string>
+    <string name="menu_add_app_link_zonepane">添加ZonePane链接</string>
 
     <string name="menu_block">屏蔽</string>
     <string name="menu_block_dots">屏蔽...</string>
