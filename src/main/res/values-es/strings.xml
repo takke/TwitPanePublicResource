@@ -541,6 +541,7 @@
     <string name="visibility_direct">Direct</string>
     <string name="write_view_body_label">"¿Cuál es tu idea?"</string>
     <string name="write_view_submit_button">"Tweet"</string>
+    <string name="toot_button">Toot</string>
     <string name="write_view_send_button">"Enviar"</string>
     <string name="picture1_select_button">"Foto"</string>
     <string name="mush_button_text">"Botón tipo seta"</string>

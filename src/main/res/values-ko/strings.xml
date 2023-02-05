@@ -539,6 +539,7 @@
     <string name="visibility_direct">Direct</string>
     <string name="write_view_body_label">"무슨 생각을 하고 계십니까?"</string>
     <string name="write_view_submit_button">"트윗"</string>
+    <string name="toot_button">Toot</string>
     <string name="write_view_send_button">"보내기"</string>
     <string name="picture1_select_button">"사진"</string>
     <string name="mush_button_text">"버섯"</string>

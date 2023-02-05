@@ -548,6 +548,7 @@
     <string name="visibility_direct">ダイレクト：返信先のユーザーだけに公開</string>
     <string name="write_view_body_label">いまどうしてる？</string>
     <string name="write_view_submit_button">ツイート</string>
+    <string name="toot_button">トゥート</string>
     <string name="write_view_send_button">送信</string>
     <string name="picture1_select_button">写真</string>
     <string name="mush_button_text">マッシュルーム</string>
