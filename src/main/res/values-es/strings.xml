@@ -532,6 +532,13 @@
     <!-- WriteView -->
     <!-- ================================================================================ -->
     <string name="write_view_activity_title">"Tweet"</string>
+    <string name="mst_compose_activity_title">Toot</string>
+    <string name="write_view_spoiler_label">Content warning</string>
+    <string name="visibility">Visibility</string>
+    <string name="visibility_public">Public</string>
+    <string name="visibility_unlisted">Unlisted</string>
+    <string name="visibility_private">private</string>
+    <string name="visibility_direct">Direct</string>
     <string name="write_view_body_label">"¿Cuál es tu idea?"</string>
     <string name="write_view_submit_button">"Tweet"</string>
     <string name="write_view_send_button">"Enviar"</string>

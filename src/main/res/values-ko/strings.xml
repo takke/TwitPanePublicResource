@@ -530,6 +530,13 @@
     <!-- WriteView -->
     <!-- ================================================================================ -->
     <string name="write_view_activity_title">"트윗"</string>
+    <string name="mst_compose_activity_title">Toot</string>
+    <string name="write_view_spoiler_label">Content warning</string>
+    <string name="visibility">Visibility</string>
+    <string name="visibility_public">Public</string>
+    <string name="visibility_unlisted">Unlisted</string>
+    <string name="visibility_private">private</string>
+    <string name="visibility_direct">Direct</string>
     <string name="write_view_body_label">"무슨 생각을 하고 계십니까?"</string>
     <string name="write_view_submit_button">"트윗"</string>
     <string name="write_view_send_button">"보내기"</string>

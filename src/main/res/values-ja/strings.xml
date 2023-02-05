@@ -539,6 +539,13 @@
     <!-- WriteView -->
     <!-- ================================================================================ -->
     <string name="write_view_activity_title">ツイート</string>
+    <string name="mst_compose_activity_title">トゥート</string>
+    <string name="write_view_spoiler_label">内容注意メッセージ</string>
+    <string name="visibility">公開範囲</string>
+    <string name="visibility_public">公開：公開タイムラインに投稿する</string>
+    <string name="visibility_unlisted">未収載：公開タイムラインには表示しない</string>
+    <string name="visibility_private">非公開：フォロワーだけに公開</string>
+    <string name="visibility_direct">ダイレクト：返信先のユーザーだけに公開</string>
     <string name="write_view_body_label">いまどうしてる？</string>
     <string name="write_view_submit_button">ツイート</string>
     <string name="write_view_send_button">送信</string>
