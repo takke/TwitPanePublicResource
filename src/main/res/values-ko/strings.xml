@@ -587,6 +587,7 @@
     <string name="write_view_twitlonger_confirm">"140자 이상. 당신이 TwitLonger를 통해 게시하시겠습니까?"</string>
     <string name="write_view_twitter_dm_command_notice">그것은 DM 명령입니다. OK?</string>
     <string name="write_view_tweet_confirm">"새로운 트윗을 보냅니다. 괜찮습니까?"</string>
+    <string name="write_view_toot_confirm">Send new toot. ok?</string>
     <string name="write_view_sent_tweet">"게시됨"</string>
     <string name="write_view_failed_to_send_tweet">트윗 못했습니다 ...</string>
     <string name="write_view_restricted_who_can_reply_to_this_tweet">{errorMessage}</string>

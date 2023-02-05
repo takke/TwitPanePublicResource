@@ -589,6 +589,7 @@
     <string name="write_view_twitlonger_confirm">超过140个字符。你想通过TwitLonger发布吗？</string>
     <string name="write_view_twitter_dm_command_notice">发送私信吗？</string>
     <string name="write_view_tweet_confirm">发送新推文吗？</string>
+    <string name="write_view_toot_confirm">Send new toot. ok?</string>
     <string name="write_view_sent_tweet">已发布</string>
     <string name="write_view_failed_to_send_tweet">发送推文失败</string>
     <string name="write_view_restricted_who_can_reply_to_this_tweet">{errorMessage}</string>
