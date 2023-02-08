@@ -110,7 +110,8 @@
     <string name="banner_remove">"제거"</string>
     <string name="send_dm_button">"새 메시지"</string>
     <string name="send_mention_button">"새로운 멘션"</string>
-    
+    <string name="send_toot_mention_button">"새로운 멘션"</string>
+
     <string name="retweet_confirm_message">"이 트윗을 리트윗할까요?"</string>
     <string name="boost_confirm_message">Boost this tweet?</string>
     <string name="retweeted_message">"리트윗됨"</string>

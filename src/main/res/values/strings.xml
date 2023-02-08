@@ -110,7 +110,8 @@
     <string name="banner_remove">Remove</string>
     <string name="send_dm_button">new message</string>
     <string name="send_mention_button">new mention</string>
-    
+    <string name="send_toot_mention_button">new mention</string>
+
     <string name="retweet_confirm_message">Retweet this tweet?</string>
     <string name="boost_confirm_message">Boost this tweet?</string>
     <string name="retweeted_message">Retweeted</string>

@@ -110,7 +110,8 @@
     <string name="banner_remove">削除</string>
     <string name="send_dm_button">メッセージを送信する</string>
     <string name="send_mention_button">\@ツイートを送信する</string>
-    
+    <string name="send_toot_mention_button">\@トゥートを送信する</string>
+
     <string name="retweet_confirm_message">このツイートをフォロワーにリツイートしますか？</string>
     <string name="boost_confirm_message">このトゥートをフォロワーにブーストしますか？</string>
     <string name="retweeted_message">リツイートしました</string>
