@@ -1319,9 +1319,9 @@
     <!-- Mastodon -->
     <string name="instance_name_hint">接続先インスタンス</string>
     <string name="close_oauth_activity">閉じる</string>
-    <string name="notification_favourited">%1$s さんがあなたのトゥートをお気に入りに登録しました</string>
-    <string name="notification_reblogged">%1$s さんがあなたのトゥートをブーストしました</string>
-    <string name="notification_followed">%1$s さんにフォローされました</string>
+    <string name="notification_favourited">%1$sさんがあなたのトゥートをお気に入りに登録しました</string>
+    <string name="notification_reblogged">%1$sさんがあなたのトゥートをブーストしました</string>
+    <string name="notification_followed">%1$sさんにフォローされました</string>
 
     <!-- Search Edition -->
     <!-- search_edition_introduction_message は app_search のほうに書く -->
