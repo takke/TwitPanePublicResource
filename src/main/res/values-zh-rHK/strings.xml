@@ -1293,5 +1293,12 @@
     <string name="event_log_message_no_new_tweets">沒有新推文。</string>
     <string name="event_log_message_new_tweets_failed">無法獲取推文。</string>
 
+    <!-- Mastodon -->
+    <string name="instance_name_hint">Instance Name</string>
+    <string name="close_oauth_activity">Close</string>
+    <string name="notification_favourited">%1$s favorited your status</string>
+    <string name="notification_reblogged">%1$s boosted your status</string>
+    <string name="notification_followed">%1$s followed you</string>
+
 </resources>
-                    
+
