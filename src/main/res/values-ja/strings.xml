@@ -1322,6 +1322,8 @@
     <string name="notification_favourited">%1$sさんがあなたのトゥートをお気に入りに登録しました</string>
     <string name="notification_reblogged">%1$sさんがあなたのトゥートをブーストしました</string>
     <string name="notification_followed">%1$sさんにフォローされました</string>
+    <string name="spoiler_less">隠す</string>
+    <string name="spoiler_more">もっと見る</string>
 
     <!-- Search Edition -->
     <!-- search_edition_introduction_message は app_search のほうに書く -->

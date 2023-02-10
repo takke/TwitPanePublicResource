@@ -1315,6 +1315,8 @@ Reauthenticate on the next screen.</string>
     <string name="notification_favourited">%1$s favorited your status</string>
     <string name="notification_reblogged">%1$s boosted your status</string>
     <string name="notification_followed">%1$s followed you</string>
+    <string name="spoiler_less">SHOW LESS</string>
+    <string name="spoiler_more">SHOW MORE</string>
 
     <!-- Search Edition -->
     <string-array name="search_edition_introduction_message" translatable="false">
