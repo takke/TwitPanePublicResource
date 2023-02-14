@@ -1062,6 +1062,7 @@
     <string name="config_use_raw_data_store_realm">Tab data store type</string>
     <string name="config_prefs_export">"설정 내보내기"</string>
     <string name="config_prefs_export_summary">현재 설정 저장</string>
+    <string name="exported">Exported</string>
     <string name="config_prefs_import">"설정 가져오기"</string>
     <string name="config_prefs_import_summary">설정을 복원</string>
     <string name="config_prefs_import_confirm_message">"정말로 내보내어진 설정파일로부터 모든 설정을 불러오시겠습니까? (경고!! 모든 계정 설정이 제거됩니다!!)"</string>

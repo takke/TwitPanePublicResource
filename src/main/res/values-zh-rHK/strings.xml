@@ -1105,6 +1105,7 @@
     <string name="config_use_raw_data_store_realm">標籤數據存儲類型</string>
     <string name="config_prefs_export">導出設置</string>
     <string name="config_prefs_export_summary">保存當前設置</string>
+    <string name="exported">Exported</string>
     <string name="config_prefs_import">導入設置</string>
     <string name="config_prefs_import_summary">恢復設置</string>
     <string name="config_prefs_import_confirm_message">你確定你要從導出的設置文件中導入所有的設置嗎？(警告！！所有賬户設置將被刪除！！)</string>

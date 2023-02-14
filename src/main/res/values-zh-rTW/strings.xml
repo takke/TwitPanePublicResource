@@ -1105,6 +1105,7 @@
     <string name="config_use_raw_data_store_realm">標籤資料儲存型別</string>
     <string name="config_prefs_export">匯出設定</string>
     <string name="config_prefs_export_summary">儲存當前設定</string>
+    <string name="exported">Exported</string>
     <string name="config_prefs_import">匯入設定</string>
     <string name="config_prefs_import_summary">恢復設定</string>
     <string name="config_prefs_import_confirm_message">你確定你要從匯出的設定檔案中匯入所有的設定嗎？(警告！！所有賬戶設定將被刪除！！)</string>

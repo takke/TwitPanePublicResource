@@ -1063,6 +1063,7 @@
     <string name="config_use_raw_data_store_realm">Tab data store type</string>
     <string name="config_prefs_export">"Exportar la configuración"</string>
     <string name="config_prefs_export_summary">Guardar configuración actual</string>
+    <string name="exported">Exported</string>
     <string name="config_prefs_import">"Importar la configuración"</string>
     <string name="config_prefs_import_summary">Restaurar configuracion</string>
     <string name="config_prefs_import_confirm_message">"¿Seguro que deseas importar todos los ajustes desde el archivo de ajustes exportado? (¡ADVERTENCIA! SE ELIMINARÁN TODOS LOS AJUSTES DE LA CUENTA)"</string>

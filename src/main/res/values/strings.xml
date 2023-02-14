@@ -1086,6 +1086,7 @@ Do you want to enable it?</string>
     <string name="conversion_aborted" translatable="false">Aborted.</string>
     <string name="config_prefs_export">Export Settings</string>
     <string name="config_prefs_export_summary">Save current settings</string>
+    <string name="exported">Exported</string>
     <string name="config_prefs_import">Import Settings</string>
     <string name="config_prefs_import_summary">Restore settings</string>
     <string name="config_prefs_import_confirm_message">Are you sure you want to import all settings from the exported-settings file? (WARNING!! ALL ACCOUNT SETTINGS WILL BE REMOVED!!)</string>

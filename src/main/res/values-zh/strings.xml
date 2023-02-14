@@ -1105,6 +1105,7 @@
     <string name="config_use_raw_data_store_realm">标签数据存储类型</string>
     <string name="config_prefs_export">导出设置</string>
     <string name="config_prefs_export_summary">保存当前设置</string>
+    <string name="exported">Exported</string>
     <string name="config_prefs_import">导入设置</string>
     <string name="config_prefs_import_summary">恢复设置</string>
     <string name="config_prefs_import_confirm_message">你确定你要从导出的设置文件中导入所有的设置吗？(警告！！所有账户设置将被删除！！)</string>
