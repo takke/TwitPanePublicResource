@@ -1068,6 +1068,7 @@
     <string name="config_prefs_import">"Importar la configuración"</string>
     <string name="config_prefs_import_summary">Restaurar configuracion</string>
     <string name="config_prefs_import_confirm_message">"¿Seguro que deseas importar todos los ajustes desde el archivo de ajustes exportado? (¡ADVERTENCIA! SE ELIMINARÁN TODOS LOS AJUSTES DE LA CUENTA)"</string>
+    <string name="zonepane_does_not_support_import_from_mastopane">\n\nZonePane does NOT support importing settings from MastoPane.</string>
     <string name="config_prefs_clear">Borrar valores</string>
     <string name="config_prefs_clear_confirm_message">¿Está seguro de que desea borrar todos los ajustes? (ADVERTENCIA !! TODAS CONFIGURACIÓN DE LA CUENTA se eliminará !!)</string>
     <string name="config_prefer_protocol">"Admite HTTP/2.0"</string>

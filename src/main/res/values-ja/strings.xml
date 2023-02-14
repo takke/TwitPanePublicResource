@@ -1097,6 +1097,7 @@
     <string name="config_prefs_import">設定のインポート(復元)</string>
     <string name="config_prefs_import_summary">エクスポートしたファイルから設定を復元します。</string>
     <string name="config_prefs_import_confirm_message">本当に設定をインポートしますか？\n\n(！！警告！！全ての設定は消去されます。また、設定ファイルが他バージョンのものであったり、修正されている場合は起動しなくなる可能性があります)</string>
+    <string name="zonepane_does_not_support_import_from_mastopane">\n\n※MastoPaneからのインポートはできませんのでご注意ください。</string>
     <string name="config_prefs_clear">設定の初期化</string>
     <string name="config_prefs_clear_confirm_message">本当に設定を初期化しますか？\n\n(！！警告！！全ての設定は消去されます)</string>
     <string name="config_prefer_protocol">HTTP/2.0 support</string>
