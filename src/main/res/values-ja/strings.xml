@@ -1091,10 +1091,10 @@
     <string name="conversion_stop_confirm">変換を中断します。よろしいですか？\n(最後まで実行することを強くおすすめします)</string>
     <string name="converting">"内部DBの変換を行っています。しばらくお待ちください。"</string>
     <string name="conversion_aborted">中断しました。</string>
-    <string name="config_prefs_export">設定のエクスポート</string>
-    <string name="config_prefs_export_summary">現在の設定を保存します</string>
-    <string name="config_prefs_import">設定のインポート</string>
-    <string name="config_prefs_import_summary">以前の設定を復元します</string>
+    <string name="config_prefs_export">設定のエクスポート(バックアップ)</string>
+    <string name="config_prefs_export_summary">現在の設定をファイルに保存します。端末の移行時などにご利用ください。\n※ファイルには認証情報が含まれるので取扱いには十分ご注意ください。</string>
+    <string name="config_prefs_import">設定のインポート(復元)</string>
+    <string name="config_prefs_import_summary">エクスポートしたファイルから設定を復元します。</string>
     <string name="config_prefs_import_confirm_message">本当に設定をインポートしますか？\n\n(！！警告！！全ての設定は消去されます。また、設定ファイルが他バージョンのものであったり、修正されている場合は起動しなくなる可能性があります)</string>
     <string name="config_prefs_clear">設定の初期化</string>
     <string name="config_prefs_clear_confirm_message">本当に設定を初期化しますか？\n\n(！！警告！！全ての設定は消去されます)</string>
