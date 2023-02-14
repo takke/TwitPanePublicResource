@@ -1193,6 +1193,7 @@
     <string name="free_edition_update_confirm_title">무료 버전의 업데이트</string>
     <string name="free_edition_update_confirm_message">무료 버전의 버전이 낮기 때문에 당신은 마이그레이션 할 수 없습니다.\n당신은 최신 버전으로 업데이트 하시겠습니까?</string>
     <string name="config_import_done_message">설정 가져 오기가 완료되었습니다</string>
+    <string name="config_import_from_file_done_message">설정 가져 오기가 완료되었습니다</string>
     <string name="account_reauth_title">계정의 재 인증</string>
     <string name="account_reauth_message">당신은 트위터 응용 프로그램에 대한 재 인증해야합니다. \n
 \n

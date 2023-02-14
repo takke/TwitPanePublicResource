@@ -1217,6 +1217,7 @@ Do you want to enable it?</string>
     <string name="free_edition_update_confirm_title">Update of Free Edition</string>
     <string name="free_edition_update_confirm_message">You cannot migrate because the version of the Free Edition is too old.\nUpdate to the latest version?</string>
     <string name="config_import_done_message">Import Settings is now complete.</string>
+    <string name="config_import_from_file_done_message">Import Settings is now complete.</string>
     <string name="account_reauth_title">Account re-authentication</string>
     <string name="account_reauth_message">You will need to re-authenticate for Twitter applications.\n
 \n
