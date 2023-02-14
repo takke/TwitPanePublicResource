@@ -1156,7 +1156,7 @@ Do you want to enable it?</string>
     <string name="theme_name_url_hashtag">\@name, URL, hashtag</string>
     <string name="theme_tab">Tab</string>
     <string name="theme_actionbar">TitleBar</string>
-    <string name="theme_statusbar">StatusBar(Android 5+)</string>
+    <string name="theme_statusbar">StatusBar</string>
     <string name="theme_preview">Preview</string>
     <string name="theme_timeline">Timeline</string>
     <string name="theme_default">default</string>

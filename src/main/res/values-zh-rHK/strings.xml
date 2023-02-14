@@ -1175,7 +1175,7 @@
     <string name="theme_name_url_hashtag">\@name、URL、主題標籤</string>
     <string name="theme_tab">標籤</string>
     <string name="theme_actionbar">標題欄</string>
-    <string name="theme_statusbar">狀態欄(Android 5+)</string>
+    <string name="theme_statusbar">狀態欄</string>
     <string name="theme_preview">預覽</string>
     <string name="theme_timeline">時間軸</string>
     <string name="theme_default">默認</string>

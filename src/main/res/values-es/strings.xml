@@ -1134,7 +1134,7 @@
     <string name="theme_name_url_hashtag">"\@nombre, URL, hashtag"</string>
     <string name="theme_tab">"Pestaña."</string>
     <string name="theme_actionbar">barra de título</string>
-    <string name="theme_statusbar">Barra de estado(Android 5+)</string>
+    <string name="theme_statusbar">Barra de estado</string>
     <string name="theme_preview">"Vista previa"</string>
     <string name="theme_timeline">"Cronología"</string>
     <string name="theme_default">"por defecto"</string>
