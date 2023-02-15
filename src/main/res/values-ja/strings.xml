@@ -1329,6 +1329,20 @@
     <string name="spoiler_less">隠す</string>
     <string name="spoiler_more">もっと見る</string>
 
+    <!-- Mastodon Replacements for Settings -->
+    <string name="mastodon_replace_keyword_retweets">リツイート</string>
+    <string name="mastodon_replace_keyword_boosts">ブースト</string>
+    <string name="mastodon_replace_keyword_retweet">リツイート</string>
+    <string name="mastodon_replace_keyword_boost">ブースト</string>
+    <string name="mastodon_replace_keyword_tweets">ツイート</string>
+    <string name="mastodon_replace_keyword_toots">トゥート</string>
+    <string name="mastodon_replace_keyword_tweet">ツイート</string>
+    <string name="mastodon_replace_keyword_toot">トゥート</string>
+    <string name="mastodon_replace_keyword_likes">いいね</string>
+    <string name="mastodon_replace_keyword_favorites">お気に入り</string>
+    <string name="mastodon_replace_keyword_like">いいね</string>
+    <string name="mastodon_replace_keyword_favorite">お気に入り</string>
+
     <!-- Search Edition -->
     <!-- search_edition_introduction_message は app_search のほうに書く -->
 
