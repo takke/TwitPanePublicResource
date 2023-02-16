@@ -856,6 +856,7 @@ Do you want to enable it?</string>
     <string name="upload_image_quality_best">Best</string>
 	<string name="config_show_tweet_confirm_dialog_title">Tweet confirm</string>
 	<string name="config_show_tweet_confirm_dialog_summary">Show confirm dialog before sending tweet or message</string>
+    <string name="config_initial_visibility">Initial Visibility</string>
     <string name="config_tweet_font_size">Font size</string>
     <string name="config_refresh_timeline_after_tweet_title">Refresh after tweet</string>
     <string name="config_refresh_timeline_after_tweet_summary">Refresh timeline after sending tweet [default: OFF]</string>

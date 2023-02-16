@@ -847,6 +847,7 @@
     <string name="upload_image_quality_best">Best</string>
     <string name="config_show_tweet_confirm_dialog_title">"Confirmar Tweet"</string>
     <string name="config_show_tweet_confirm_dialog_summary">"Mostrar diálogo de confirmación antes de enviar un tweet o mensaje"</string>
+    <string name="config_initial_visibility">Initial Visibility</string>
     <string name="config_tweet_font_size">"Tamaño de la fuente"</string>
     <string name="config_refresh_timeline_after_tweet_title">"Actualizar después de un tweet"</string>
     <string name="config_refresh_timeline_after_tweet_summary">"Actualizar cronología después de enviar un tweet [por defecto: activado]"</string>

@@ -848,6 +848,7 @@
     <string name="upload_image_quality_best">最好</string>
     <string name="config_show_tweet_confirm_dialog_title">推文确认</string>
     <string name="config_show_tweet_confirm_dialog_summary">发送推文或消息之前显示确认对话框</string>
+    <string name="config_initial_visibility">Initial Visibility</string>
     <string name="config_tweet_font_size">字体大小</string>
     <string name="config_refresh_timeline_after_tweet_title">提交后自动更新</string>
     <string name="config_refresh_timeline_after_tweet_summary">发送推文后刷新时间轴[默认：关]</string>
