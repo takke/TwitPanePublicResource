@@ -1329,6 +1329,7 @@
     <string name="notification_followed">%1$sさんにフォローされました</string>
     <string name="spoiler_less">隠す</string>
     <string name="spoiler_more">もっと見る</string>
+    <string name="same_language_only">同一言語のみ</string>
 
     <!-- Mastodon Replacements for Settings -->
     <string name="mastodon_replace_keyword_retweets">リツイート</string>

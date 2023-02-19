@@ -1322,6 +1322,7 @@ Reauthenticate on the next screen.</string>
     <string name="notification_followed">%1$s followed you</string>
     <string name="spoiler_less">SHOW LESS</string>
     <string name="spoiler_more">SHOW MORE</string>
+    <string name="same_language_only">Same language only</string>
 
     <!-- Mastodon Replacements for Settings -->
     <string name="mastodon_replace_keyword_retweets">retweets</string>
