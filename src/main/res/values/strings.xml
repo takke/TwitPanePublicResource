@@ -1337,6 +1337,10 @@ Reauthenticate on the next screen.</string>
     <string name="mastodon_replace_keyword_favorites">favorites</string>
     <string name="mastodon_replace_keyword_like">like</string>
     <string name="mastodon_replace_keyword_favorite">favorite</string>
+    <string name="mst_list_show_replies">Show replies</string>
+    <string name="mst_list_replies_policy_followed">all following users</string>
+    <string name="mst_list_replies_policy_list">list members</string>
+    <string name="mst_list_replies_policy_none">none</string>
 
     <!-- Search Edition -->
     <string-array name="search_edition_introduction_message" translatable="false">
