@@ -1308,6 +1308,7 @@
     <string name="spoiler_less">SHOW LESS</string>
     <string name="spoiler_more">SHOW MORE</string>
     <string name="same_language_only">Same language only</string>
+    <string name="open_registration">Open Registration</string>
 
     <!-- Mastodon Replacements for Settings -->
     <string name="mastodon_replace_keyword_retweets">retweets</string>

@@ -1331,6 +1331,7 @@
     <string name="spoiler_less">隠す</string>
     <string name="spoiler_more">もっと見る</string>
     <string name="same_language_only">同一言語のみ</string>
+    <string name="open_registration">新規登録可</string>
 
     <!-- Mastodon Replacements for Settings -->
     <string name="mastodon_replace_keyword_retweets">リツイート</string>
