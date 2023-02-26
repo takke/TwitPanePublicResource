@@ -872,8 +872,8 @@
     <string name="config_live_tweet_mode_summary">最後にツイートした際のハッシュタグを記憶します。投稿画面のハッシュタグボタンの長押しでも実況モードを切り替えられます【初期値：OFF】</string>
     <string name="config_v2_tweet_post_title">v2投稿モード</string>
     <string name="config_v2_tweet_post_summary">Twitter API v2 で投稿します。【初期値：OFF】</string>
-    <string name="config_show_mushroom_button">マッシュルームボタン</string>
-    <string name="config_show_mushroom_button_summary">マッシュルームボタンを表示する【初期値：ON】</string>
+    <string name="config_show_mushroom_button">絵文字選択ボタン</string>
+    <string name="config_show_mushroom_button_summary">絵文字選択用のボタン(マッシュルームボタン)を表示する【初期値：ON】</string>
     <string name="config_use_screen_name_completion">"@ 補完"</string>
     <string name="config_use_screen_name_completion_summary">\'@\'入力時にユーザー名の選択画面を表示します【初期値：ON】</string>
     <string name="config_show_actionbar_tweet_button">メニューでツイート</string>
