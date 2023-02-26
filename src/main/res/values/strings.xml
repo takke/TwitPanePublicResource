@@ -865,8 +865,8 @@ Do you want to enable it?</string>
     <string name="config_live_tweet_mode_summary">Remember hashtags in the last tweet</string>
     <string name="config_v2_tweet_post_title">v2 tweeting mode</string>
     <string name="config_v2_tweet_post_summary"></string>
-    <string name="config_show_mushroom_button">Mushroom button</string>
-	<string name="config_show_mushroom_button_summary">Show mushroom (IME plug-in) button</string>
+    <string name="config_show_mushroom_button">Emoji picker button</string>
+	<string name="config_show_mushroom_button_summary">Show Emoji picker (mushroom: IME plug-in) button</string>
     <string name="config_use_screen_name_completion">Use \'@\' Completion</string>
     <string name="config_use_screen_name_completion_summary"></string>
     <string name="config_show_actionbar_tweet_button">Tweet Button on Menu</string>
