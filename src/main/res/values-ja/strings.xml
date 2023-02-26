@@ -27,7 +27,7 @@
     <string name="pane_name_search_edition_home">ホーム</string>
     <string name="pane_name_reply">返信</string>
     <string name="pane_name_mytweet">ツイート</string>
-    <string name="pane_name_toots">トゥート</string>
+    <string name="pane_name_toots">投稿</string>
     <string name="pane_name_media">メディア</string>
     <string name="pane_name_favorite_like">いいね</string>
     <string name="liked_order">いいねした順</string>
@@ -113,7 +113,7 @@
     <string name="send_toot_mention_button">\@トゥートを送信する</string>
 
     <string name="retweet_confirm_message">このツイートをフォロワーにリツイートしますか？</string>
-    <string name="boost_confirm_message">このトゥートをフォロワーにブーストしますか？</string>
+    <string name="boost_confirm_message">この投稿をフォロワーにブーストしますか？</string>
     <string name="retweeted_message">リツイートしました</string>
     <string name="boosted_message">ブーストしました</string>
     <string name="remove_retweet_confirm_message">リツイートを解除しますか？</string>
@@ -443,7 +443,7 @@
     <string name="tab_jump_introduction">・ジャンプ先のタブはメイン画面でこのボタンをタップして設定してください。\n・ボタンを長押しするとジャンプ先を変更できます。</string>
 
     <string name="menu_share_tweet">ツイートを共有する</string>
-    <string name="menu_share_toot">トゥートを共有する</string>
+    <string name="menu_share_toot">投稿を共有する</string>
     <string name="menu_remove_tweet">削除する</string>
     <string name="menu_open_with_official_app">公式アプリで開く</string>
     <string name="menu_import_design">このデザインをインポートする</string>
@@ -541,7 +541,7 @@
     <!-- WriteView -->
     <!-- ================================================================================ -->
     <string name="write_view_activity_title">ツイート</string>
-    <string name="mst_compose_activity_title">トゥート</string>
+    <string name="mst_compose_activity_title">投稿</string>
     <string name="custom_emoji_picker_activity_title">カスタム絵文字ピッカー</string>
     <string name="write_view_spoiler_label">内容注意メッセージ</string>
     <string name="visibility">公開範囲</string>
@@ -551,7 +551,7 @@
     <string name="visibility_direct">ダイレクト：返信先のユーザーだけに公開</string>
     <string name="write_view_body_label">いまどうしてる？</string>
     <string name="write_view_submit_button">ツイート</string>
-    <string name="toot_button">トゥート</string>
+    <string name="toot_button">投稿</string>
     <string name="write_view_send_button">送信</string>
     <string name="picture1_select_button">写真</string>
     <string name="mush_button_text">マッシュルーム</string>
@@ -601,7 +601,7 @@
     <string name="write_view_twitlonger_confirm">本文が140文字を超えています。\nTwitLonger経由で投稿しますか？</string>
     <string name="write_view_twitter_dm_command_notice">DM送信コマンドになりますがよろしいですか？</string>
     <string name="write_view_tweet_confirm">ツイートします。よろしいですか？</string>
-    <string name="write_view_toot_confirm">トゥートします。よろしいですか？</string>
+    <string name="write_view_toot_confirm">投稿します。よろしいですか？</string>
     <string name="write_view_sent_tweet">投稿しました</string>
     <string name="write_view_failed_to_send_tweet">投稿に失敗しました・・・</string>
     <string name="write_view_restricted_who_can_reply_to_this_tweet">このツイートは返信対象が制限されているので返信できません。\n({errorMessage})</string>
@@ -1185,7 +1185,7 @@
     <!-- Profile Fragment -->
     <!-- ================================================================================ -->
     <string name="profile_tweets">ツイート</string>
-    <string name="profile_toots">"トゥート"</string>
+    <string name="profile_toots">"投稿"</string>
     <string name="profile_follows">フォロー</string>
     <string name="profile_followers">フォロワー</string>
 
@@ -1325,8 +1325,8 @@
     <!-- Mastodon -->
     <string name="instance_name_hint">接続先インスタンス</string>
     <string name="close_oauth_activity">閉じる</string>
-    <string name="notification_favourited">%1$sさんがあなたのトゥートをお気に入りに登録しました</string>
-    <string name="notification_reblogged">%1$sさんがあなたのトゥートをブーストしました</string>
+    <string name="notification_favourited">%1$sさんがお気に入りに登録しました</string>
+    <string name="notification_reblogged">%1$sさんがブーストしました</string>
     <string name="notification_followed">%1$sさんにフォローされました</string>
     <string name="spoiler_less">隠す</string>
     <string name="spoiler_more">もっと見る</string>
@@ -1337,10 +1337,10 @@
     <string name="mastodon_replace_keyword_boosts">ブースト</string>
     <string name="mastodon_replace_keyword_retweet">リツイート</string>
     <string name="mastodon_replace_keyword_boost">ブースト</string>
-    <string name="mastodon_replace_keyword_tweets">ツイート</string>
-    <string name="mastodon_replace_keyword_toots">トゥート</string>
+    <string name="mastodon_replace_keyword_tweets">ツイート投稿</string>
+    <string name="mastodon_replace_keyword_toots">投稿</string>
     <string name="mastodon_replace_keyword_tweet">ツイート</string>
-    <string name="mastodon_replace_keyword_toot">トゥート</string>
+    <string name="mastodon_replace_keyword_toot">投稿</string>
     <string name="mastodon_replace_keyword_likes">いいね</string>
     <string name="mastodon_replace_keyword_favorites">お気に入り</string>
     <string name="mastodon_replace_keyword_like">いいね</string>
