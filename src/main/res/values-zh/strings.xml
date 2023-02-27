@@ -522,6 +522,7 @@
     <string name="image_menu_save">保存</string>
 
     <string name="hashtag_menu_search">搜索</string>
+    <string name="url_search">Search URL</string>
     <string name="hashtag_menu_tweet">推文</string>
     <string name="hashtag_menu_remember">记住</string>
     <string name="hashtag_menu_mute">静音</string>

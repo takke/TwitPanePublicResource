@@ -523,6 +523,7 @@
     <string name="image_menu_save">Save</string>
     
     <string name="hashtag_menu_search">Search</string>
+    <string name="url_search">Search URL</string>
     <string name="hashtag_menu_tweet">Tweet</string>
     <string name="hashtag_menu_remember">Remember</string>
     <string name="hashtag_menu_mute">Mute</string>

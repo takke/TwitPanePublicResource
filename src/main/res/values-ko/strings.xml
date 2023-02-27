@@ -520,6 +520,7 @@
     <string name="image_menu_save">"저장"</string>
     
     <string name="hashtag_menu_search">"검색"</string>
+    <string name="url_search">Search URL</string>
     <string name="hashtag_menu_tweet">"트윗"</string>
     <string name="hashtag_menu_remember">"저장"</string>
     <string name="hashtag_menu_mute">"음소거"</string>

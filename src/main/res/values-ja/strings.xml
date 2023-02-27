@@ -529,6 +529,7 @@
     <string name="image_menu_save">保存する</string>
     
     <string name="hashtag_menu_search">検索する</string>
+    <string name="url_search">URLを検索する</string>
     <string name="hashtag_menu_tweet">ツイートする</string>
     <string name="hashtag_menu_remember">記憶する</string>
     <string name="hashtag_menu_mute">ミュートする...</string>

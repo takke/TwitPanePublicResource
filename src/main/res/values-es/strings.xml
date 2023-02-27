@@ -522,6 +522,7 @@
     <string name="image_menu_save">"Guardar"</string>
 
     <string name="hashtag_menu_search">"Buscar"</string>
+    <string name="url_search">Search URL</string>
     <string name="hashtag_menu_tweet">"Tweet"</string>
     <string name="hashtag_menu_remember">"Recordar"</string>
     <string name="hashtag_menu_mute">"Silenciar"</string>
