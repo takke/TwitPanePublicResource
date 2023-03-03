@@ -245,6 +245,7 @@
     <!-- リストメンバー編集 -->
     <string name="list_member_added">リストに追加しました</string>
     <string name="select_list_to_add_the_member">追加先のリストを選択してください</string>
+    <string name="cannot_add_list_member_because_not_following_follow_confirm">このユーザーをフォローしていないのでリストに追加できません。先にフォローしてください。</string>
     <string name="remove_from_list_confirm">"@%1$s は既に「%2$s」に追加されています。このリストから削除しますか？"</string>
 
     <!-- プロフィール編集画面 -->

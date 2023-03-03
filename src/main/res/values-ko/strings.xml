@@ -242,6 +242,7 @@
     <!-- リストメンバー編集 -->
     <string name="list_member_added">"추가된 목록멤버"</string>
     <string name="select_list_to_add_the_member">"멤버를 추가할 목록을 선택하세요"</string>
+    <string name="cannot_add_list_member_because_not_following_follow_confirm">Cannot add list member, because not following. Follow this user ?</string>
     <string name="remove_from_list_confirm">"@%1$s is already member of %2$s, remove ?"</string>
 
     <!-- プロフィール編集画面 -->
