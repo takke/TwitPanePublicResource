@@ -488,7 +488,7 @@
     <string name="there_is_a_new_version_of_this_tweet">このツイートには新しいバージョンがあります</string>
     <string name="latest_tweet">最新ツイート</string>
     <string name="version_history">バージョン履歴</string>
-    <string name="menu_delete_user_from_list">リストから削除...</string>
+    <string name="menu_delete_user_from_list">リストから削除する...</string>
     <string name="menu_delete_from_block_list">ブロック解除...</string>
     <string name="menu_scroll_to_top">一番上に移動</string>
     <string name="menu_scroll_to_bottom">一番下に移動</string>
