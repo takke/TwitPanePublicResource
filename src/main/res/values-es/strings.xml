@@ -745,6 +745,7 @@
     <string name="config_change_link_area_thumbnail_size">Cambiar el tamaño de la foto del enlace</string>
     <string name="config_link_area_thumbnail_size">Cambiar el tamaño de la foto del enlace</string>
     <string name="config_emoji_size">"Tamaño de Emojis"</string>
+    <string name="config_custom_emoji_size">Custom Emoji Size</string>
     <string-array name="config_emoji_size_entries">
         <item>Fuente del dispositivo</item>
         <item>Twitter Emoji(pequeño)</item>
