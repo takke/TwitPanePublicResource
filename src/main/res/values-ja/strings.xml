@@ -505,6 +505,7 @@
     <string name="menu_share_message">共有する</string>
     <string name="menu_share_lists">共有する</string>
     <string name="menu_copy">コピーする...</string>
+    <string name="menu_emoji_reaction">絵文字リアクション</string>
     <string name="menu_translate">ツイートを翻訳</string>
     <string name="set_startup_pane">起動タブに設定する</string>
 
