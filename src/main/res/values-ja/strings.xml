@@ -506,6 +506,9 @@
     <string name="menu_share_lists">共有する</string>
     <string name="menu_copy">コピーする...</string>
     <string name="menu_emoji_reaction">絵文字リアクション</string>
+    <string name="emoji_unreactioned">解除しました</string>
+    <string name="emoji_reactioned">リアクションしました</string>
+    <string name="already_emoji_reactioned">リアクション済みなので追加できません</string>
     <string name="menu_translate">ツイートを翻訳</string>
     <string name="set_startup_pane">起動タブに設定する</string>
 

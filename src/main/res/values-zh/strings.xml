@@ -499,6 +499,9 @@
     <string name="menu_share_lists">分享</string>
     <string name="menu_copy">复制...</string>
     <string name="menu_emoji_reaction">Emoji reaction</string>
+    <string name="emoji_unreactioned">Removed.</string>
+    <string name="emoji_reactioned">Added.</string>
+    <string name="already_emoji_reactioned">Already added.</string>
     <string name="menu_translate">翻译</string>
     <string name="set_startup_pane">设置为启动标签</string>
 
