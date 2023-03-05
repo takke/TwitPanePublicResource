@@ -502,6 +502,7 @@
     <string name="emoji_unreactioned">Removed.</string>
     <string name="emoji_reactioned">Added.</string>
     <string name="already_emoji_reactioned">Already added.</string>
+    <string name="menu_emoji_reaction_add">Add...</string>
     <string name="menu_translate">Traducir</string>
     <string name="set_startup_pane">establecer como pestaña de inicio</string>
 
