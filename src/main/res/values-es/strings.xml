@@ -1240,6 +1240,7 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="login">Login</string>
     <string name="login_to_mastodon">Login to Mastodon</string>
     <string name="login_to_mastodon_instruction">Mastodon consists of a variety of servers. Please select the server you wish to log in to. If you do not see your server in the list, please enter the URL directly.</string>
+    <string name="force_relogin">Force re-login</string>
     <string name="login_failed_and_login_with_browser_confirm">Error al iniciar sesión. ¿Quieres acceder a través del navegador?</string>
     <string name="trade_mark_info">Twitter is trademark of Twitter, Inc.</string>
     <string name="privacy_policy_agreement">Please sign in after agreeing to &lt;a href="https://twitpane.com/terms_of_use_en/"&gt;Terms of Use&lt;/a&gt;, &lt;a href="https://twitpane.com/privacy_policy_en/"&gt;Privacy Policy&lt;/a&gt;.</string>

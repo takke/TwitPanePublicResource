@@ -1282,6 +1282,7 @@
     <string name="login">Login</string>
     <string name="login_to_mastodon">Login to Mastodon</string>
     <string name="login_to_mastodon_instruction">Mastodon consists of a variety of servers. Please select the server you wish to log in to. If you do not see your server in the list, please enter the URL directly.</string>
+    <string name="force_relogin">Force re-login</string>
     <string name="login_failed_and_login_with_browser_confirm">登錄失敗。你想通過瀏覽器登錄嗎？</string>
     <string name="trade_mark_info">Twitter是Twitter, Inc.的商標。</string>
     <string name="privacy_policy_agreement">請在同意以下內容後登錄 &lt;a href="https://twitpane.com/terms_of_use_en/"&gt;Terms of Use&lt;/a&gt;, &lt;a href="https://twitpane.com/privacy_policy_en/"&gt;隱私政策&lt;/a&gt;.</string>

@@ -1239,6 +1239,7 @@
     <string name="login">Login</string>
     <string name="login_to_mastodon">Login to Mastodon</string>
     <string name="login_to_mastodon_instruction">Mastodon consists of a variety of servers. Please select the server you wish to log in to. If you do not see your server in the list, please enter the URL directly.</string>
+    <string name="force_relogin">Force re-login</string>
     <string name="login_failed_and_login_with_browser_confirm">로그인 실패. 당신은 브라우저를 통해 로그인 하시겠습니까?</string>
     <string name="trade_mark_info">Twitter is trademark of Twitter, Inc.</string>
     <string name="privacy_policy_agreement">Please sign in after agreeing to &lt;a href="https://twitpane.com/terms_of_use_en/"&gt;Terms of Use&lt;/a&gt;, &lt;a href="https://twitpane.com/privacy_policy_en/"&gt;Privacy Policy&lt;/a&gt;.</string>
