@@ -750,6 +750,7 @@
     <string name="config_link_area_thumbnail_size">링크 사진 크기 변경</string>
     <string name="config_emoji_size">Emoji Size</string>
     <string name="config_custom_emoji_size">Custom Emoji Size</string>
+    <string name="config_custom_emoji_column_count">Emoji count per line</string>
     <string-array name="config_emoji_size_entries">
         <item>장치 글꼴</item>
         <item>Twitter Emoji(작은)</item>

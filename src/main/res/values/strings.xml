@@ -754,6 +754,7 @@
     <string name="config_link_area_thumbnail_size">Change link photo size</string>
     <string name="config_emoji_size">Emoji Size</string>
     <string name="config_custom_emoji_size">Custom Emoji Size</string>
+    <string name="config_custom_emoji_column_count">Emoji count per line</string>
     <string-array name="config_emoji_size_entries">
         <item>Device Font</item>
         <item>Twitter Emoji(Small)</item>
