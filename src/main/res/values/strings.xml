@@ -938,6 +938,7 @@ Do you want to enable it?</string>
 
     <string name="config_subscription_settings_category">Subscription</string>
     <string name="config_manage_subscriptions">Manage Subscription</string>
+    <string name="config_subscription_settings_coming_soon">Coming soon...</string>
 
     <string name="config_userstream_settings_category">UserStream</string>
     <string name="config_userstream_auto_start">Auto Start</string>

@@ -945,6 +945,7 @@
 
     <string name="config_subscription_settings_category">定期購入</string>
     <string name="config_manage_subscriptions">定期購入の管理</string>
+    <string name="config_subscription_settings_coming_soon">近日中に開始予定です。もうしばらくお待ちください。</string>
 
     <string name="config_userstream_settings_category">UserStream設定</string>
     <string name="config_userstream_auto_start">起動時に自動開始</string>

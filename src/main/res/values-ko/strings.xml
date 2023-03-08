@@ -928,6 +928,7 @@
 
     <string name="config_subscription_settings_category">신청</string>
     <string name="config_manage_subscriptions">구독 관리</string>
+    <string name="config_subscription_settings_coming_soon">Coming soon...</string>
 
     <string name="config_userstream_settings_category">"UserStream"</string>
     <string name="config_userstream_auto_start">"자동 시작"</string>
