@@ -752,6 +752,7 @@
     <string name="config_emoji_size">"Tamaño de Emojis"</string>
     <string name="config_custom_emoji_size">Custom Emoji Size</string>
     <string name="config_custom_emoji_column_count">Emoji count per line</string>
+    <string name="config_custom_emoji_animation_enabled">Animation enabled</string>
     <string-array name="config_emoji_size_entries">
         <item>Fuente del dispositivo</item>
         <item>Twitter Emoji(pequeño)</item>
