@@ -752,6 +752,7 @@
     <string name="config_link_area_thumbnail_size">更改链接照片大小</string>
     <string name="config_emoji_size">表情符号大小</string>
     <string name="config_enable_animation_emoji">Enable Emoji Animation</string>
+    <string name="config_enable_animation_emoji_summary">Animates the timeline emoji. If scrolling is slow, it is recommended to turn it off. [default:ON]</string>
     <string name="config_custom_emoji_size">Custom Emoji Size</string>
     <string name="config_custom_emoji_column_count">Emoji count per line</string>
     <string name="config_custom_emoji_animation_enabled">Animation enabled</string>
