@@ -65,6 +65,7 @@
     <string name="page_config_showcase_swipe_summary"></string>
 
     <string name="search_button">"검색"</string>
+    <string name="search_edit_hint">검색...</string>
     <string name="saved_search">"저장된 검색"</string>
     <string name="search_save_button">"이 검색 결과를 저장"</string>
     <string name="search_save_to_tab_button">Save to tab</string>

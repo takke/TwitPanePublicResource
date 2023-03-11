@@ -65,6 +65,7 @@
     <string name="page_config_showcase_swipe_summary"></string>
 
     <string name="search_button">検索</string>
+    <string name="search_edit_hint">検索...</string>
     <string name="saved_search">保存した検索</string>
     <string name="search_save_button">この検索を保存</string>
     <string name="search_save_to_tab_button">タブに保存</string>
