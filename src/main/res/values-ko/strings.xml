@@ -601,6 +601,7 @@
     <string name="write_view_tweet_confirm">"새로운 트윗을 보냅니다. 괜찮습니까?"</string>
     <string name="write_view_toot_confirm">Send new toot. ok?</string>
     <string name="write_view_attached_files">attached files</string>
+    <string name="write_view_emoji_warning">Emoji may not appear as shown in this preview in some instances</string>
     <string name="write_view_sent_tweet">"게시됨"</string>
     <string name="write_view_failed_to_send_tweet">트윗 못했습니다 ...</string>
     <string name="write_view_restricted_who_can_reply_to_this_tweet">{errorMessage}</string>

@@ -603,6 +603,7 @@
     <string name="write_view_tweet_confirm">"Enviar un nuevo tweet.¿Aceptar?"</string>
     <string name="write_view_toot_confirm">Send new toot. ok?</string>
     <string name="write_view_attached_files">attached files</string>
+    <string name="write_view_emoji_warning">Emoji may not appear as shown in this preview in some instances</string>
     <string name="write_view_sent_tweet">"Publicado"</string>
     <string name="write_view_failed_to_send_tweet">No se ha podido twittear…</string>
     <string name="write_view_restricted_who_can_reply_to_this_tweet">{errorMessage}</string>
