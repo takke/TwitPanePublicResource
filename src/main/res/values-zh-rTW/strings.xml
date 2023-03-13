@@ -602,6 +602,7 @@
     <string name="write_view_twitter_dm_command_notice">傳送私信嗎？</string>
     <string name="write_view_tweet_confirm">傳送新推文嗎？</string>
     <string name="write_view_toot_confirm">Send new toot. ok?</string>
+    <string name="write_view_attached_files">attached files</string>
     <string name="write_view_sent_tweet">已釋出</string>
     <string name="write_view_failed_to_send_tweet">傳送推文失敗</string>
     <string name="write_view_restricted_who_can_reply_to_this_tweet">{errorMessage}</string>
