@@ -939,7 +939,6 @@
 
     <string name="config_subscription_settings_category">订阅</string>
     <string name="config_manage_subscriptions">管理订阅</string>
-    <string name="config_subscription_settings_coming_soon">Coming soon...</string>
 
     <string name="config_userstream_settings_category">用户串流</string>
     <string name="config_userstream_auto_start">自动启动</string>
