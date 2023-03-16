@@ -1326,7 +1326,8 @@
     <string name="subs_guide_item_view_quoted_tweets_message" translatable="false">(あるツイートの引用されたツイート一覧を表示できます)</string>
     <string name="liked_order_likes" translatable="false">いいねした順のいいね</string>
     <string name="config_use_liked_order_likes_summary" translatable="false">Twitter 社により Tweet cap というツイート取得数の厳しい制限があるため、定期購入中のユーザーにのみ使用可能としています</string>
-    <string name="subs_guide_bottom_notice">Google Play ストアでキャンセルするまで、毎月%1$sが自動的に課金されます。法律で定められている場合を除き、キャンセル時に以前のお支払額は払い戻されませんのでご了承ください。クラウド翻訳には1日当たりの利用回数に上限があります。</string>
+    <string name="subs_guide_bottom_notice">Google Play ストアでキャンセルするまで、毎月%1$sが自動的に課金されます。法律で定められている場合を除き、キャンセル時に以前のお支払額は払い戻されませんのでご了承ください。</string>
+    <string name="subs_guide_bottom_notice_cloud_translation">クラウド翻訳には1日当たりの利用回数に上限があります。</string>
 
     <!-- イベントログ -->
     <string name="event_log_message_tweet_compose_success">ツイートを投稿しました</string>
