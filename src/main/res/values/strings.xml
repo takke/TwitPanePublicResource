@@ -1311,6 +1311,8 @@ Reauthenticate on the next screen.</string>
     <string name="subs_guide_item_free_more_accounts_message" translatable="false">(You can increase the number of accounts you can register by two.)</string>
     <string name="subs_guide_item_premium_more_accounts" translatable="false">✔ +5 Accounts</string>
     <string name="subs_guide_item_premium_more_accounts_message" translatable="false">(You can increase the number of accounts you can register by 5)</string>
+    <string name="subs_guide_item_zonepane_more_accounts" translatable="false">✔ +5 Accounts</string>
+    <string name="subs_guide_item_zonepane_more_accounts_message" translatable="false">(You can increase the number of accounts you can register by 5)</string>
     <string name="subs_guide_item_liked_order_likes" translatable="false">✔ Liked ordered likes</string>
     <string name="subs_guide_item_liked_order_likes_message" translatable="false"></string>
     <string name="subs_guide_item_view_quoted_tweets" translatable="false">✔ View quoted tweets</string>
