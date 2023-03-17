@@ -514,6 +514,8 @@
     <string name="votes">%1$d votes</string>
     <string name="polls_until">until %1$s</string>
     <string name="polls_final_results">Final results</string>
+    <string name="voted">Voted</string>
+    <string name="choose_where_to_vote">Please choose where to vote</string>
 
     <string name="change_account">cambie cuenta</string>
     <string name="choose_account">Elija Cuenta</string>

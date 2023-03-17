@@ -514,6 +514,8 @@
     <string name="votes">%1$d 个投票</string>
     <string name="polls_until">直到 %1$s</string>
     <string name="polls_final_results">最终结果</string>
+    <string name="voted">Voted</string>
+    <string name="choose_where_to_vote">Please choose where to vote</string>
 
     <string name="change_account">更改帐户</string>
     <string name="choose_account">选择账户</string>
