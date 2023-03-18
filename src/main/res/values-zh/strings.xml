@@ -1324,6 +1324,7 @@
     <string name="instance_name_hint">Instance Name</string>
     <string name="close_oauth_activity">Close</string>
     <string name="notification_favourited">%1$s favorited your status</string>
+    <string name="notification_poll_ended">The polls have been closed.</string>
     <string name="notification_reblogged">%1$s boosted your status</string>
     <string name="notification_followed">%1$s followed you</string>
     <string name="spoiler_less">SHOW LESS</string>
