@@ -28,6 +28,7 @@
     <string name="pane_name_reply">Reply</string>
     <string name="pane_name_mytweet">MyTweets</string>
     <string name="pane_name_toots">Toots</string>
+    <string name="pane_name_pinned_toots">Pinned</string>
     <string name="pane_name_media">Media</string>
     <string name="pane_name_favorite_like">Likes</string>
     <string name="liked_order">liked order</string>

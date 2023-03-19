@@ -28,6 +28,7 @@
     <string name="pane_name_reply">"답장"</string>
     <string name="pane_name_mytweet">"내 트윗"</string>
     <string name="pane_name_toots">Toots</string>
+    <string name="pane_name_pinned_toots">Pinned</string>
     <string name="pane_name_media">미디어</string>
     <string name="pane_name_favorite_like">마음</string>
     <string name="liked_order">liked order</string>
