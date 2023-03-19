@@ -762,6 +762,7 @@
     <string name="config_custom_emoji_size">Custom Emoji Size</string>
     <string name="config_custom_emoji_column_count">Emoji count per line</string>
     <string name="config_custom_emoji_animation_enabled">Animation enabled</string>
+    <string name="config_custom_emoji_picker_one_tap_mode">One Tap Mode</string>
     <string-array name="config_emoji_size_entries">
         <item>장치 글꼴</item>
         <item>Twitter Emoji(작은)</item>

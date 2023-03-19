@@ -775,6 +775,7 @@
     <string name="config_custom_emoji_size">カスタム絵文字サイズ</string>
     <string name="config_custom_emoji_column_count">1行内の絵文字の個数</string>
     <string name="config_custom_emoji_animation_enabled">アニメーション有効</string>
+    <string name="config_custom_emoji_picker_one_tap_mode">ワンタップモード</string>
     <string-array name="config_emoji_size_entries">
         <item>端末の絵文字</item>
         <item>Twitter絵文字(小)</item>
