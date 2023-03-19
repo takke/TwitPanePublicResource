@@ -280,6 +280,7 @@
     <string name="pinned_tweet">Pinned Tweet</string>
     <string name="config_show_pinned_tweet">Show pinned tweets</string>
     <string name="config_show_pinned_tweet_summary">[default:ON]</string>
+    <string name="no_pinned_toots">There are no pinned toots.</string>
 
     <!-- サブスクリプション画面 -->
     <string name="continue_to_trial">Continue to trial</string>

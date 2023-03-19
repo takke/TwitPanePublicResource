@@ -281,6 +281,7 @@
     <string name="pinned_tweet">Tweet fijado</string>
     <string name="config_show_pinned_tweet">Mostrar tweet anclado</string>
     <string name="config_show_pinned_tweet_summary"></string>
+    <string name="no_pinned_toots">There are no pinned toots.</string>
 
     <!-- サブスクリプション画面 -->
     <string name="continue_to_trial">Continue to trial</string>
