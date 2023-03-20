@@ -350,7 +350,7 @@
     <string name="menu_add">Add</string>
     <string name="menu_delete_tab">Delete Tab</string>
     <string name="tab_delete_confirm">Are you sure you want to delete tab "%1$s" ?</string>
-    <string name="menu_add_user_page_to_home">Add Page to Top</string>
+    <string name="menu_add_page_to_home">Add Page to Top</string>
     <string name="add_user_page_to_home_already_added">already added..</string>
     <string name="add_user_page_to_home_finish">added</string>
     <string name="menu_add_user_list_to_home">Add List to Top</string>
