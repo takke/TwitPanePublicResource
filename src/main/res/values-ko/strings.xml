@@ -442,6 +442,7 @@
 
     <string name="menu_share_tweet">"트윗 공유"</string>
     <string name="menu_share_toot">Share Toot</string>
+    <string name="menu_act_from_main_account">Using with main account</string>
     <string name="menu_remove_tweet">"삭제"</string>
     <string name="menu_open_with_official_app">공식 앱으로 열기</string>
     <string name="menu_import_design">"디자인 들여오기"</string>

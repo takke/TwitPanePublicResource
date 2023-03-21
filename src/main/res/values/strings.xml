@@ -445,6 +445,7 @@
 
     <string name="menu_share_tweet">Share Tweet</string>
     <string name="menu_share_toot">Share Toot</string>
+    <string name="menu_act_from_main_account">Using with main account</string>
     <string name="menu_remove_tweet">Delete</string>
     <string name="menu_open_with_official_app">Open Twitter App</string>
     <string name="menu_import_design">Import Design</string>
