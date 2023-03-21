@@ -445,6 +445,7 @@
     <string name="menu_share_tweet">分享推文</string>
     <string name="menu_share_toot">Share Toot</string>
     <string name="menu_act_from_main_account">Using with main account</string>
+    <string name="cannot_resolve_target_toot">Could not find the toot to be handled from the main account instance</string>
     <string name="menu_remove_tweet">删除</string>
     <string name="menu_open_with_official_app">打开官方应用程序</string>
     <string name="menu_import_design">导入设计</string>
