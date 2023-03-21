@@ -387,6 +387,7 @@
     <string name="menu_show_block_users">ブロックユーザー一覧</string>
     <string name="menu_show_local_tl_of_any_instance">任意のインスタンスのローカルTL</string>
     <string name="menu_show_local_timeline_of_this_server">公開タイムラインを閲覧してみる</string>
+    <string name="menu_show_local_timeline_of_user">%1$sのローカルTL</string>
     <string name="menu_show_suggested_users">おすすめユーザー</string>
     <string name="menu_show_emoji_reactions">絵文字リアクションした投稿</string>
     <string name="menu_show_no_retweet_users">リツイート非表示ユーザー一覧</string>

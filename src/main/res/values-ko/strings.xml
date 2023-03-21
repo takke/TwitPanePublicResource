@@ -378,6 +378,7 @@
     <string name="menu_show_block_users">"차단된 유저를 보이기"</string>
     <string name="menu_show_local_tl_of_any_instance">Show Local TL of Any Instance</string>
     <string name="menu_show_local_timeline_of_this_server">Browse public local timeline</string>
+    <string name="menu_show_local_timeline_of_user">Local timeline on %1$s</string>
     <string name="menu_show_suggested_users">Suggested Users</string>
     <string name="menu_show_emoji_reactions">Emoji Reactions</string>
     <string name="menu_show_no_retweet_users">비 리트 윗 사용자</string>
