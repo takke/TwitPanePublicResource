@@ -407,6 +407,7 @@
     <string name="menu_rt">Retweet</string>
     <string name="menu_boost">Boost</string>
     <string name="menu_quote_tweet">Quote Tweet</string>
+    <string name="menu_quote">Quote</string>
     <string name="menu_tweet_with_comment">Tweet with Comment(Twitter Style)</string>
     <string name="menu_unofficial_retweet">RT \@TwitPane: …</string>
     <string name="cannot_retweet_protected_user_tweet">Cannot retweet protected user\'s tweet</string>

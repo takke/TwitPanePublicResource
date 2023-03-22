@@ -407,6 +407,7 @@
     <string name="menu_rt">转推</string>
     <string name="menu_boost">Boost</string>
     <string name="menu_quote_tweet">引用推文</string>
+    <string name="menu_quote">引用</string>
     <string name="menu_tweet_with_comment">带评论的推文（Twitter风格）</string>
     <string name="menu_unofficial_retweet">转推 \@TwitPane: …</string>
     <string name="cannot_retweet_protected_user_tweet">不能转推受保护的用户的推文</string>
