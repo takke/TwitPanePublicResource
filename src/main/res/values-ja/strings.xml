@@ -1332,6 +1332,8 @@
     <string name="subs_guide_item_premium_more_accounts_message">(登録できるアカウント数を5個増やすことができます)</string>
     <string name="subs_guide_item_zonepane_more_accounts">・+5アカウント</string>
     <string name="subs_guide_item_zonepane_more_accounts_message">(登録できるアカウント数を5個増やすことができます)</string>
+    <string name="subs_guide_item_research_more_accounts">・+5アカウント</string>
+    <string name="subs_guide_item_research_more_accounts_message">(登録できるアカウント数を5個増やすことができます)</string>
     <string name="subs_guide_item_liked_order_likes" translatable="false">・いいねした順のいいね</string>
     <string name="subs_guide_item_liked_order_likes_message" translatable="false">(「いいね一覧」をいいねした順にできます)</string>
     <string name="subs_guide_item_view_quoted_tweets" translatable="false">・引用されたツイート一覧</string>
