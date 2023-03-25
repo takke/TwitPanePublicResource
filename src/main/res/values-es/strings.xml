@@ -459,6 +459,7 @@
     <string name="menu_block_this_tweet">Bloquea este tuit</string>
     <string name="show_blocked_tweets">mostrar tweets bloqueados</string>
     <string name="menu_user_reply_search">"Buscar respuestas"</string>
+    <string name="menu_search_with">Search with \"%1$s\"</string>
     <string name="menu_user_conversation_with_me_search">Busca conversación conmigo</string>
     <string name="menu_show_image_timeline">"Mostrar la cronología de la imagen"</string>
     <string name="menu_user_show_list">"Mostrar listas"</string>

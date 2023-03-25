@@ -466,6 +466,7 @@
     <string name="menu_block_this_tweet">このツイートをブロック...</string>
     <string name="show_blocked_tweets">ブロックツイート一覧</string>
     <string name="menu_user_reply_search">ユーザー宛のツイートを検索する</string>
+    <string name="menu_search_with">\"%1$s\" で検索する</string>
     <string name="menu_user_conversation_with_me_search">自分とのやり取りを検索する</string>
     <string name="menu_show_image_timeline">画像付きのツイートを表示</string>
     <string name="menu_user_show_list">ユーザーのリストを表示</string>

@@ -459,6 +459,7 @@
     <string name="menu_block_this_tweet">遮蔽這條推文</string>
     <string name="show_blocked_tweets">顯示被遮蔽的推文</string>
     <string name="menu_user_reply_search">搜尋回覆</string>
+    <string name="menu_search_with">Search with \"%1$s\"</string>
     <string name="menu_user_conversation_with_me_search">搜尋與我的對話</string>
     <string name="menu_show_image_timeline">顯示影象時間軸</string>
     <string name="menu_user_show_list">顯示列表</string>
