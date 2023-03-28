@@ -518,6 +518,8 @@
     <string name="emoji_reactioned">Added.</string>
     <string name="already_emoji_reactioned">Already added.</string>
     <string name="menu_emoji_reaction_add">Add...</string>
+    <string name="delete_emoji_reaction_confirm">Delete the emoji reaction?</string>
+    <string name="delete_emoji_reaction">Delete</string>
     <string name="menu_translate">Translate</string>
     <string name="set_startup_pane">Set as Startup Tab</string>
 
