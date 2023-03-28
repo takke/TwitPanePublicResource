@@ -517,6 +517,8 @@
     <string name="menu_emoji_reaction_add">Add...</string>
     <string name="delete_emoji_reaction_confirm">Delete the emoji reaction?</string>
     <string name="delete_emoji_reaction">Delete</string>
+    <string name="put_emoji_reaction_confirm">Put the emoji reaction?</string>
+    <string name="put_emoji_reaction">Put</string>
     <string name="menu_translate">번역</string>
     <string name="set_startup_pane">시작 프로그램 탭으로 설정</string>
 

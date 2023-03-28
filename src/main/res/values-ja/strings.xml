@@ -526,6 +526,8 @@
     <string name="menu_emoji_reaction_add">追加...</string>
     <string name="delete_emoji_reaction_confirm">絵文字リアクションを解除しますか？</string>
     <string name="delete_emoji_reaction">解除</string>
+    <string name="put_emoji_reaction_confirm">絵文字リアクションしますか？</string>
+    <string name="put_emoji_reaction">追加</string>
     <string name="menu_translate">ツイートを翻訳</string>
     <string name="set_startup_pane">起動タブに設定する</string>
 
