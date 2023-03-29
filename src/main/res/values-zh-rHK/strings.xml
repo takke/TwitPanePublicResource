@@ -627,6 +627,7 @@
     <string name="write_view_emoji_warning">Emoji may not appear as shown in this preview in some instances</string>
     <string name="write_view_has_quote">Has quote</string>
     <string name="write_view_sent_tweet">已發佈</string>
+    <string name="write_view_edited_toot">Edited</string>
     <string name="write_view_failed_to_send_tweet">發送推文失敗</string>
     <string name="write_view_restricted_who_can_reply_to_this_tweet">{errorMessage}</string>
     <string name="write_view_convert_to_quote_tweet_config">你想把它轉化為引用的推文嗎？</string>

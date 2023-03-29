@@ -625,6 +625,7 @@
     <string name="write_view_emoji_warning">Emoji may not appear as shown in this preview in some instances</string>
     <string name="write_view_has_quote">Has quote</string>
     <string name="write_view_sent_tweet">"게시됨"</string>
+    <string name="write_view_edited_toot">Edited</string>
     <string name="write_view_failed_to_send_tweet">트윗 못했습니다 ...</string>
     <string name="write_view_restricted_who_can_reply_to_this_tweet">{errorMessage}</string>
     <string name="write_view_convert_to_quote_tweet_config">당신이 인용 트윗로 변환 하시겠습니까?</string>
