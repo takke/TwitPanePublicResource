@@ -409,6 +409,7 @@
     <string name="reply_button">返信</string>
     <string name="menu_reply">返信する</string>
     <string name="menu_reply_all">全員に返信する</string>
+    <string name="menu_edit">編集する</string>
     <string name="menu_hidden_button">機能なし(非表示)</string>
     <string name="menu_rt">リツイート</string>
     <string name="menu_boost">ブースト</string>
