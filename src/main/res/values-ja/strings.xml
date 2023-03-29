@@ -578,6 +578,7 @@
     <string name="visibility_unlisted">未収載：公開タイムラインには表示しない</string>
     <string name="visibility_private">非公開：フォロワーだけに公開</string>
     <string name="visibility_direct">ダイレクト：返信先のユーザーだけに公開</string>
+    <string name="cant_change_visibility_when_edit">編集時は公開範囲を変更できません</string>
     <string name="write_view_body_label">いまどうしてる？</string>
     <string name="write_view_submit_button">ツイート</string>
     <string name="toot_button">投稿</string>

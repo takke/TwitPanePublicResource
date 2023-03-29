@@ -572,6 +572,7 @@
     <string name="visibility_unlisted">Unlisted</string>
     <string name="visibility_private">private</string>
     <string name="visibility_direct">Direct</string>
+    <string name="cant_change_visibility_when_edit">Can\'t change visibility when editing.</string>
     <string name="write_view_body_label">What\'s your mind?</string>
     <string name="write_view_submit_button">Tweet</string>
     <string name="toot_button">Toot</string>

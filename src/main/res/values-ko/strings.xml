@@ -569,6 +569,7 @@
     <string name="visibility_unlisted">Unlisted</string>
     <string name="visibility_private">private</string>
     <string name="visibility_direct">Direct</string>
+    <string name="cant_change_visibility_when_edit">Can\'t change visibility when editing.</string>
     <string name="write_view_body_label">"무슨 생각을 하고 계십니까?"</string>
     <string name="write_view_submit_button">"트윗"</string>
     <string name="toot_button">Toot</string>
