@@ -570,6 +570,8 @@
     <string name="visibility_private">private</string>
     <string name="visibility_direct">Direct</string>
     <string name="cant_change_visibility_when_edit">Can\'t change visibility when editing.</string>
+    <string name="edit_file_attached_toot_warning">Editing posts with attachments may possibly degrade attachments.</string>
+    <string name="cant_edit_toot_with_polls">Not supported to edit posts with polls.</string>
     <string name="write_view_body_label">"무슨 생각을 하고 계십니까?"</string>
     <string name="write_view_submit_button">"트윗"</string>
     <string name="toot_button">Toot</string>

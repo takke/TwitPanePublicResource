@@ -579,6 +579,8 @@
     <string name="visibility_private">非公開：フォロワーだけに公開</string>
     <string name="visibility_direct">ダイレクト：返信先のユーザーだけに公開</string>
     <string name="cant_change_visibility_when_edit">編集時は公開範囲を変更できません</string>
+    <string name="edit_file_attached_toot_warning">添付ファイル付きの投稿を編集すると、添付ファイルが劣化する可能性があります。</string>
+    <string name="cant_edit_toot_with_polls">アンケートがある投稿の編集は未対応です</string>
     <string name="write_view_body_label">いまどうしてる？</string>
     <string name="write_view_submit_button">ツイート</string>
     <string name="toot_button">投稿</string>
