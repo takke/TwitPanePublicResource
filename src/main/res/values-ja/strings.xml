@@ -631,6 +631,7 @@
     <string name="write_view_twitter_dm_command_notice">DM送信コマンドになりますがよろしいですか？</string>
     <string name="write_view_tweet_confirm">ツイートします。よろしいですか？</string>
     <string name="write_view_toot_confirm">投稿します。よろしいですか？</string>
+    <string name="write_view_toot_edit_confirm">編集します。よろしいですか？</string>
     <string name="write_view_attached_files">添付ファイル</string>
     <string name="write_view_emoji_warning">絵文字はインスタンスによってはこのプレビュー通りに表示されない場合があります</string>
     <string name="write_view_has_quote">引用あり</string>
