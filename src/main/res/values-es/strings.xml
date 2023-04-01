@@ -310,6 +310,7 @@
     <string name="menu_event">Evento</string>
     <string name="menu_about">"Acerca"</string>
     <string name="menu_about_research">About</string>
+    <string name="menu_about_light">About</string>
     <string name="menu_about_zonepane">About</string>
     <string name="menu_debug">"Depurar fallos"</string>
     <string name="debug_mode_confirm_title">"Confirmar modo depuración"</string>

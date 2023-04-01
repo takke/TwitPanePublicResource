@@ -308,6 +308,7 @@
     <string name="menu_event">이벤트</string>
     <string name="menu_about">"약"</string>
     <string name="menu_about_research">About</string>
+    <string name="menu_about_light">About</string>
     <string name="menu_about_zonepane">About</string>
     <string name="menu_debug">"디버그"</string>
     <string name="debug_mode_confirm_title">"디버그 모드 확인"</string>
