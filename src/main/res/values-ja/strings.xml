@@ -102,6 +102,7 @@
     <string name="cannot_delete_current_account">現在のアカウントは削除できません</string>
     <string name="account_reauth">アカウントの再認証</string>
     <string name="menu_instance_info">インスタンス情報</string>
+    <string name="mst_announcements">管理者からのお知らせ</string>
     <string name="changing_account_to">\@%1$s に変更します</string>
     <string name="cannot_auth_account_via_official_twitter_app">Twitter公式アプリ経由のログイン処理中にエラーが発生しました。\n\n(%1$s)\n\nブラウザでログインします。</string>
 

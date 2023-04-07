@@ -102,6 +102,7 @@
     <string name="cannot_delete_current_account">"현재의 계정을 삭제할 수 없습니다."</string>
     <string name="account_reauth">재 인증</string>
     <string name="menu_instance_info">Instance Info</string>
+    <string name="mst_announcements">Announcements</string>
     <string name="changing_account_to">"\@로 변경 %1$s"</string>
     <string name="cannot_auth_account_via_official_twitter_app">공식 트위터 애플리케이션을 통한 로그인 과정에서 오류가 발생했습니다. \n\n(%1$s)\n\n브라우저를 통해 로그인합니다.</string>
     
