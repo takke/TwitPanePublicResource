@@ -1309,6 +1309,7 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="notification_poll_ended">The polls have been closed.</string>
     <string name="notification_reblogged">%1$s boosted your status</string>
     <string name="notification_followed">%1$s followed you</string>
+    <string name="notification_referenced">%1$s referenced your status</string>
     <string name="spoiler_less">SHOW LESS</string>
     <string name="spoiler_more">SHOW MORE</string>
     <string name="same_language_only">Same language only</string>

@@ -1380,6 +1380,7 @@
     <string name="notification_poll_ended">アンケートが終了しました</string>
     <string name="notification_reblogged">%1$sさんがブーストしました</string>
     <string name="notification_followed">%1$sさんにフォローされました</string>
+    <string name="notification_referenced">%1$sさんがあなたの投稿を参照しました</string>
     <string name="spoiler_less">隠す</string>
     <string name="spoiler_more">もっと見る</string>
     <string name="same_language_only">同一言語のみ</string>
