@@ -588,7 +588,7 @@
     <string name="toot_button">投稿</string>
     <string name="write_view_send_button">送信</string>
     <string name="picture1_select_button">写真</string>
-    <string name="mush_button_text">マッシュルーム</string>
+    <string name="mush_button_text">絵文字ピッカー</string>
     <string name="minimize">閉じる</string>
     <string name="maximize">開く</string>
     <string name="hashtag">ハッシュタグ</string>
