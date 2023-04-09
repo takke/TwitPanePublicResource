@@ -257,6 +257,7 @@
     <string name="profile_edit_url_label">"URL"</string>
     <string name="profile_edit_save_button">"저장"</string>
     <string name="profile_edit_saved">"저장됨"</string>
+    <string name="profile_fields">Profile Fields</string>
     <string name="profile_banner_saved">"저장됨, 몇 분 후에 유효화됩니다"</string>
     <string name="profile_banner_removed">"제거됨. 몇 분 후에 유효화됩니다"</string>
     
