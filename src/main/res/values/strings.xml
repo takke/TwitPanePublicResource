@@ -383,6 +383,8 @@
     <string name="menu_search_user">Search User</string>
     <string name="menu_show_block_users">Show Blocked Users</string>
     <string name="menu_show_follow_requests">Show Follow Requests</string>
+    <string name="menu_authorize_follow_request">Authorize Follower</string>
+    <string name="menu_reject_follow_request">Reject Follow</string>
     <string name="menu_show_local_tl_of_any_instance">Show Local TL of Any Instance</string>
     <string name="menu_show_local_timeline_of_this_server">Browse public local timeline</string>
     <string name="menu_show_local_timeline_of_user">Local timeline on %1$s</string>

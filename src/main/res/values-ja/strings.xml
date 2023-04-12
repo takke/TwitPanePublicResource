@@ -389,6 +389,8 @@
     <string name="menu_search_user">ユーザー検索</string>
     <string name="menu_show_block_users">ブロックユーザー一覧</string>
     <string name="menu_show_follow_requests">フォローリクエスト</string>
+    <string name="menu_authorize_follow_request">フォローを許可する</string>
+    <string name="menu_reject_follow_request">フォローを拒否する</string>
     <string name="menu_show_local_tl_of_any_instance">任意のインスタンスのローカルTL</string>
     <string name="menu_show_local_timeline_of_this_server">公開タイムラインを閲覧してみる</string>
     <string name="menu_show_local_timeline_of_user">%1$sのローカルTL</string>
