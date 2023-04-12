@@ -391,6 +391,8 @@
     <string name="menu_show_follow_requests">フォローリクエスト</string>
     <string name="menu_authorize_follow_request">フォローを許可する</string>
     <string name="menu_reject_follow_request">フォローを拒否する</string>
+    <string name="follow_request_authorized">許可しました</string>
+    <string name="follow_request_rejected">拒否しました</string>
     <string name="menu_show_local_tl_of_any_instance">任意のインスタンスのローカルTL</string>
     <string name="menu_show_local_timeline_of_this_server">公開タイムラインを閲覧してみる</string>
     <string name="menu_show_local_timeline_of_user">%1$sのローカルTL</string>
