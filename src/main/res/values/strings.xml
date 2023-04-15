@@ -592,6 +592,7 @@
     <string name="minimize">Minimize</string>
     <string name="maximize">Maximize</string>
     <string name="hashtag">Hashtag</string>
+    <string name="double_quote">DoubleQuote</string>
     <string name="hashtag_remove_confirm_title">Delete confirm</string>
     <string name="hashtag_remove_confirm_message">Delete this hashtag?</string>
     <string name="no_recent_hashtags">No recent hashtags</string>

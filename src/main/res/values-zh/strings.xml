@@ -591,6 +591,7 @@
     <string name="minimize">最小化</string>
     <string name="maximize">最大化</string>
     <string name="hashtag">主题标签</string>
+    <string name="double_quote">DoubleQuote</string>
     <string name="hashtag_remove_confirm_title">删除确认</string>
     <string name="hashtag_remove_confirm_message">删除此主题标签吗？</string>
     <string name="no_recent_hashtags">没有最近的主题标签</string>

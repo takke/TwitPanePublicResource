@@ -598,6 +598,7 @@
     <string name="minimize">閉じる</string>
     <string name="maximize">開く</string>
     <string name="hashtag">ハッシュタグ</string>
+    <string name="double_quote">ダブルクォート</string>
     <string name="hashtag_remove_confirm_title">削除確認</string>
     <string name="hashtag_remove_confirm_message">本当にこのハッシュタグを削除しますか？</string>
     <string name="no_recent_hashtags">最近使ったハッシュタグはありません</string>
