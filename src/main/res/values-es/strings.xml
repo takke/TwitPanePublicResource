@@ -116,7 +116,7 @@
     <string name="send_toot_mention_button">"nueva mención"</string>
 
     <string name="retweet_confirm_message">"¿Retwittear este tweet?"</string>
-    <string name="boost_confirm_message">Boost this tweet?</string>
+    <string name="boost_confirm_message">Boost this toot?</string>
     <string name="retweeted_message">"Retwitteado"</string>
     <string name="boosted_message">Boosted</string>
     <string name="remove_retweet_confirm_message">"¿Eliminar retweet?"</string>
