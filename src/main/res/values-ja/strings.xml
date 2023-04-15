@@ -1320,6 +1320,7 @@
 
     <string name="login_with_browser">ブラウザでログイン</string>
     <string name="login">ログイン</string>
+    <string name="login_with_another_account">別アカウントでログイン</string>
     <string name="login_to_mastodon">マストドンにログイン</string>
     <string name="login_to_mastodon_instruction">Mastodonには色々なインスタンス(サーバ)があり自分で選ぶことができます。ログインしたいインスタンスを選択してください。一覧にないインスタンスはURLを直接入力してください。</string>
     <string name="force_relogin">再ログインする</string>
