@@ -514,6 +514,7 @@
     <string name="message_for">"%1$s에 대한 메세지"</string>
     <string name="message_from">"%1$s로부터의 메세지"</string>
     <string name="loaded_messages">Loaded %1$d messages</string>
+    <string name="not_support_messages">DM cannot be retrieved in this version</string>
     <string name="menu_delete_message">"삭제..."</string>
     <string name="menu_share_message">"공유"</string>
     <string name="menu_share_lists">"공유"</string>

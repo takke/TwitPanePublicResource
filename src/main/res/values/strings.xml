@@ -517,6 +517,7 @@
     <string name="message_for">Message for %1$s</string>
     <string name="message_from">Message from %1$s</string>
     <string name="loaded_messages">Loaded %1$d messages</string>
+    <string name="not_support_messages">DM cannot be retrieved in this version</string>
     <string name="menu_delete_message">Delete...</string>
     <string name="menu_share_message">Share</string>
     <string name="menu_share_lists">Share</string>

@@ -523,6 +523,7 @@
     <string name="message_for">%1$s宛のメッセージ</string>
     <string name="message_from">%1$sからのメッセージ</string>
     <string name="loaded_messages">%1$d件のメッセージを取得しました</string>
+    <string name="not_support_messages">このバージョンではDMは取得できません</string>
     <string name="menu_delete_message">削除する...</string>
     <string name="menu_share_message">共有する</string>
     <string name="menu_share_lists">共有する</string>
