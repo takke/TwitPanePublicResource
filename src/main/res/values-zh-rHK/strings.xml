@@ -836,6 +836,9 @@
 
     <string name="config_timeline_settings_category">時間軸設置</string>
     <string name="config_tweet_load">推文加載</string>
+    <string name="config_official_app_cooperation">Official App Cooperation</string>
+    <string name="config_use_official_app_for_tweet_operation">Perform tweets, etc. via official apps</string>
+    <string name="config_use_official_app_for_tweet_operation_summary">Like, RT, and Tweets are posted via the official Twitter application. [Default:ON]</string>
     <string name="config_action">動作</string>
     <string name="config_tweet_get_limit_title">獲取推文計數</string>
     <string name="config_tweet_get_limit_summary">每次訪問要檢索的推文數量</string>

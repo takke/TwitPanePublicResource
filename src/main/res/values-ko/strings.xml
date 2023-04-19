@@ -834,6 +834,9 @@
 
     <string name="config_timeline_settings_category">"타임라인 설정"</string>
     <string name="config_tweet_load">트윗 로딩</string>
+    <string name="config_official_app_cooperation">Official App Cooperation</string>
+    <string name="config_use_official_app_for_tweet_operation">Perform tweets, etc. via official apps</string>
+    <string name="config_use_official_app_for_tweet_operation_summary">Like, RT, and Tweets are posted via the official Twitter application. [Default:ON]</string>
     <string name="config_action">동작</string>
     <string name="config_tweet_get_limit_title">"트윗 겟 수"</string>
     <string name="config_tweet_get_limit_summary">"한 액세스당 추출된 트윗의 수"</string>

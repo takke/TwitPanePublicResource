@@ -846,6 +846,9 @@
 
     <string name="config_timeline_settings_category">タイムライン設定</string>
     <string name="config_tweet_load">ツイート取得</string>
+    <string name="config_official_app_cooperation">公式アプリ連携</string>
+    <string name="config_use_official_app_for_tweet_operation">公式アプリ経由でツイート操作を行う</string>
+    <string name="config_use_official_app_for_tweet_operation_summary">Twitter公式アプリを経由していいねやRT、ツイート投稿を行います。【初期値：ON】</string>
     <string name="config_action">操作</string>
 	<string name="config_tweet_get_limit_title">ツイート取得件数</string>
 	<string name="config_tweet_get_limit_summary">ツイートを1回に取得する件数です。大きくしすぎると通信時間やデータ量が多くなります。</string>

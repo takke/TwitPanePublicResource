@@ -835,6 +835,9 @@
 
     <string name="config_timeline_settings_category">"Cronología"</string>
     <string name="config_tweet_load">Tweet carga</string>
+    <string name="config_official_app_cooperation">Official App Cooperation</string>
+    <string name="config_use_official_app_for_tweet_operation">Perform tweets, etc. via official apps</string>
+    <string name="config_use_official_app_for_tweet_operation_summary">Like, RT, and Tweets are posted via the official Twitter application. [Default:ON]</string>
     <string name="config_action">Acción</string>
     <string name="config_tweet_get_limit_title">"Cantidad de Tweet a obtener"</string>
     <string name="config_tweet_get_limit_summary">"Cantidad de tweets que hay que recuperar al actualizar"</string>

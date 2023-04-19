@@ -839,6 +839,9 @@
 
     <string name="config_timeline_settings_category">Timeline Settings</string>
     <string name="config_tweet_load">Tweet loading</string>
+    <string name="config_official_app_cooperation">Official App Cooperation</string>
+    <string name="config_use_official_app_for_tweet_operation">Perform tweets, etc. via official apps</string>
+    <string name="config_use_official_app_for_tweet_operation_summary">Like, RT, and Tweets are posted via the official Twitter application. [Default:ON]</string>
     <string name="config_action">Action</string>
     <string name="config_tweet_get_limit_title">Tweet Get Count</string>
     <string name="config_tweet_get_limit_summary">Number of tweets to be retrieved per one access</string>
