@@ -1009,6 +1009,7 @@
     <string name="config_notification_category">自動更新と通知</string>
     <string name="config_notification_category_basic">基本設定</string>
     <string name="config_notification_category_new_tweet">新着ツイート</string>
+    <string name="config_notification_category_new_toot">新着投稿</string>
     <string name="config_notification_category_reply">新着返信</string>
     <string name="config_notification_category_message">新着メッセージ</string>
     <string name="config_notification_category_details">通知のカスタマイズ</string>

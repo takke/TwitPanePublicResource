@@ -1002,6 +1002,7 @@ Do you want to enable it?</string>
     <string name="config_notification_category">Auto Update and Notifications</string>
     <string name="config_notification_category_basic">Basic Settings</string>
     <string name="config_notification_category_new_tweet">New tweets</string>
+    <string name="config_notification_category_new_toot">New toots</string>
     <string name="config_notification_category_reply">Reply</string>
     <string name="config_notification_category_message">Messages</string>
     <string name="config_notification_category_details">Details</string>

@@ -994,6 +994,7 @@
     <string name="config_notification_category">自動更新和通知</string>
     <string name="config_notification_category_basic">基本設定</string>
     <string name="config_notification_category_new_tweet">新的推文</string>
+    <string name="config_notification_category_new_toot">New toots</string>
     <string name="config_notification_category_reply">回覆</string>
     <string name="config_notification_category_message">訊息</string>
     <string name="config_notification_category_details">詳情</string>
