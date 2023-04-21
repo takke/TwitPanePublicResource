@@ -1314,6 +1314,7 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="event_log_message_no_new_message">No hay mensajes nuevos.</string>
     <string name="event_log_message_new_tweets">Nuevos tweets recuperados.</string>
     <string name="new_tweets">Nuevos tweets</string>
+    <string name="new_toots">New toots</string>
     <string name="event_log_message_no_new_tweets">No hay tuits nuevos.</string>
     <string name="event_log_message_new_tweets_failed">Error al obtener tweets.</string>
 
