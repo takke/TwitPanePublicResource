@@ -1307,6 +1307,8 @@
     <!-- イベントログ -->
     <string name="event_log_message_tweet_compose_success">트윗이 게시되었습니다.</string>
     <string name="event_log_message_tweet_compose_failed">트윗을 게시하지 못했습니다.</string>
+    <string name="event_log_message_toot_compose_success">Toot posted</string>
+    <string name="event_log_message_toot_compose_failed">Failed to post toot</string>
     <string name="event_log_message_new_reply">새로운 답변을 받았습니다.</string>
     <string name="event_log_message_no_new_reply">새로운 답변이 없습니다.</string>
     <string name="event_log_message_new_message">새 메시지를 받았습니다.</string>

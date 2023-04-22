@@ -1350,6 +1350,8 @@
     <!-- イベントログ -->
     <string name="event_log_message_tweet_compose_success">推文发布成功</string>
     <string name="event_log_message_tweet_compose_failed">无法发布推文</string>
+    <string name="event_log_message_toot_compose_success">Toot posted</string>
+    <string name="event_log_message_toot_compose_failed">Failed to post toot</string>
     <string name="event_log_message_new_reply">收到新回复。</string>
     <string name="event_log_message_no_new_reply">没有新的回复。</string>
     <string name="event_log_message_new_message">收到新消息。</string>
