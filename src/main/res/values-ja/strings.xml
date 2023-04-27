@@ -467,6 +467,8 @@
     <string name="menu_act_from_main_account">メインアカウントで操作する</string>
     <string name="cannot_resolve_target_toot">メインアカウントのインスタンスから操作対象の投稿を見つけられませんでした</string>
     <string name="menu_remove_tweet">削除する</string>
+    <string name="menu_pin_toot">プロフィールに固定表示</string>
+    <string name="menu_unpin_toot">プロフィールへの固定を解除</string>
     <string name="menu_open_with_official_app">公式アプリで開く</string>
     <string name="menu_import_design">このデザインをインポートする</string>
     

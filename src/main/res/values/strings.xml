@@ -461,6 +461,8 @@
     <string name="menu_act_from_main_account">Using with main account</string>
     <string name="cannot_resolve_target_toot">Could not find the toot to be handled from the main account instance</string>
     <string name="menu_remove_tweet">Delete</string>
+    <string name="menu_pin_toot">Pin Toot</string>
+    <string name="menu_unpin_toot">Unpin Toot</string>
     <string name="menu_open_with_official_app">Open Twitter App</string>
     <string name="menu_import_design">Import Design</string>
     
