@@ -463,6 +463,8 @@
     <string name="menu_remove_tweet">Delete</string>
     <string name="menu_pin_toot">Pin Toot</string>
     <string name="menu_unpin_toot">Unpin Toot</string>
+    <string name="pinned_toot">Pinned Toot</string>
+    <string name="unpinned_toot">Unpinned Toot</string>
     <string name="menu_open_with_official_app">Open Twitter App</string>
     <string name="menu_import_design">Import Design</string>
     

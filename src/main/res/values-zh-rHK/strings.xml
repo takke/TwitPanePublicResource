@@ -462,6 +462,8 @@
     <string name="menu_remove_tweet">刪除</string>
     <string name="menu_pin_toot">Pin Toot</string>
     <string name="menu_unpin_toot">Unpin Toot</string>
+    <string name="pinned_toot">Pinned Toot</string>
+    <string name="unpinned_toot">Unpinned Toot</string>
     <string name="menu_open_with_official_app">打開官方應用程序</string>
     <string name="menu_import_design">導入設計</string>
 
