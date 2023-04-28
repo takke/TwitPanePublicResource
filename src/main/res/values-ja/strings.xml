@@ -1411,6 +1411,10 @@
     <string name="same_language_only">同一言語のみ</string>
     <string name="open_registration">新規登録可</string>
 
+    <!-- Misskey -->
+    <string name="misskey_server_name_hint">接続先サーバー</string>
+
+
     <!-- Mastodon Replacements for Settings -->
     <string name="mastodon_replace_keyword_retweets">リツイート</string>
     <string name="mastodon_replace_keyword_boosts">ブースト</string>

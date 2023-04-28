@@ -1339,6 +1339,9 @@
     <string name="same_language_only">Same language only</string>
     <string name="open_registration">Open Registration</string>
 
+    <!-- Misskey -->
+    <string name="misskey_server_name_hint">Server Name</string>
+
     <!-- Mastodon Replacements for Settings -->
     <string name="mastodon_replace_keyword_retweets">retweets</string>
     <string name="mastodon_replace_keyword_boosts">boots</string>
