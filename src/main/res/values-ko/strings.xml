@@ -223,6 +223,7 @@
     
     <string name="retweeted_by_user">"%1$s에 의해 리트윗됨"</string>
     <string name="boosted_by_user">Boosted by %1$s</string>
+    <string name="renoted_by_user">Renoted by %1$s</string>
     <string name="source_from">"%1$s로부터"</string>
     <string name="reply_to">"%1$s에게"</string>
     <string name="cannot_launch_official_twitter_app">"공식 트위터 앱을 실행할 수 없습니다. \n 최신 공식 트위터 앱의 설치를 확인해주세요."</string>

@@ -224,6 +224,7 @@
 
     <string name="retweeted_by_user">由%1$s轉推</string>
     <string name="boosted_by_user">Boosted by %1$s</string>
+    <string name="renoted_by_user">Renoted by %1$s</string>
     <string name="source_from">來自%1$s</string>
     <string name="reply_to">回覆%1$s</string>
     <string name="cannot_launch_official_twitter_app">不能啓動官方Twitter應用。\n請確認安裝了最新的官方Twitter應用</string>
