@@ -539,6 +539,7 @@
     <string name="emoji_unreactioned">解除しました</string>
     <string name="emoji_reactioned">リアクションしました</string>
     <string name="already_emoji_reactioned">リアクション済みなので追加できません</string>
+    <string name="cannot_add_remote_emoji_reaction">リモートの絵文字リアクションは追加できません</string>
     <string name="menu_emoji_reaction_add">追加...</string>
     <string name="delete_emoji_reaction_confirm">絵文字リアクションを解除しますか？</string>
     <string name="delete_emoji_reaction">解除</string>
