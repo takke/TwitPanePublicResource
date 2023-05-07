@@ -1427,16 +1427,26 @@
     <!-- Mastodon Replacements for Settings -->
     <string name="mastodon_replace_keyword_retweets">リツイート</string>
     <string name="mastodon_replace_keyword_boosts">ブースト</string>
+    <string name="mastodon_replace_keyword_renotes">renotes</string>
+
     <string name="mastodon_replace_keyword_retweet">リツイート</string>
     <string name="mastodon_replace_keyword_boost">ブースト</string>
+    <string name="mastodon_replace_keyword_renote">renote</string>
+
     <string name="mastodon_replace_keyword_tweets">ツイート投稿</string>
     <string name="mastodon_replace_keyword_toots">投稿</string>
+    <string name="mastodon_replace_keyword_notes">notes</string>
+
     <string name="mastodon_replace_keyword_tweet">ツイート</string>
     <string name="mastodon_replace_keyword_toot">投稿</string>
+    <string name="mastodon_replace_keyword_note">note</string>
+
     <string name="mastodon_replace_keyword_likes">いいね</string>
     <string name="mastodon_replace_keyword_favorites">お気に入り</string>
+
     <string name="mastodon_replace_keyword_like">いいね</string>
     <string name="mastodon_replace_keyword_favorite">お気に入り</string>
+
     <string name="mst_list_show_replies">返信を表示</string>
     <string name="mst_list_replies_policy_followed">フォロー中のユーザー全員</string>
     <string name="mst_list_replies_policy_list">リストのメンバー</string>
