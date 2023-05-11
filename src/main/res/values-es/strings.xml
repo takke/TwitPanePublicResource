@@ -1326,6 +1326,8 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="event_log_message_tweet_compose_failed">No se pudo publicar el tuit.</string>
     <string name="event_log_message_toot_compose_success">Toot posted</string>
     <string name="event_log_message_toot_compose_failed">Failed to post toot</string>
+    <string name="event_log_message_note_compose_success">Note posted</string>
+    <string name="event_log_message_note_compose_failed">Failed to post note</string>
     <string name="event_log_message_new_reply">Nuevas respuestas recibidas.</string>
     <string name="event_log_message_no_new_reply">No hay nuevas respuestas.</string>
     <string name="event_log_message_new_message">Nuevo mensaje recibido.</string>

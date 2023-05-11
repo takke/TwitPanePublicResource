@@ -1392,6 +1392,8 @@
     <string name="event_log_message_tweet_compose_failed">ツイート投稿に失敗しました</string>
     <string name="event_log_message_toot_compose_success">投稿しました</string>
     <string name="event_log_message_toot_compose_failed">投稿に失敗しました</string>
+    <string name="event_log_message_note_compose_success">投稿しました</string>
+    <string name="event_log_message_note_compose_failed">投稿に失敗しました</string>
     <string name="event_log_message_new_reply">新着返信がありました</string>
     <string name="event_log_message_no_new_reply">新着返信はありませんでした</string>
     <string name="event_log_message_new_message">新着メッセージがありました</string>
