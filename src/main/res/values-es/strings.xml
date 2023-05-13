@@ -116,6 +116,7 @@
     <string name="send_dm_button">"nuevo mensaje"</string>
     <string name="send_mention_button">"nueva mención"</string>
     <string name="send_toot_mention_button">"nueva mención"</string>
+    <string name="send_note_mention_button">"nueva mención"</string>
 
     <string name="retweet_confirm_message">"¿Retwittear este tweet?"</string>
     <string name="boost_confirm_message">Boost this toot?</string>

@@ -116,6 +116,7 @@
     <string name="send_dm_button">新消息</string>
     <string name="send_mention_button">新提及</string>
     <string name="send_toot_mention_button">新提及</string>
+    <string name="send_note_mention_button">新提及</string>
 
     <string name="retweet_confirm_message">转推此推文？</string>
     <string name="boost_confirm_message">Boost this toot?</string>
