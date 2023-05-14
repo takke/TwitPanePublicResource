@@ -1141,11 +1141,15 @@
     <string name="config_save_record_count_for_timeline_summary">タイムラインタブのツイート保存件数【初期値：1000】\n※件数が多すぎると性能が低下する可能性がありますのでご注意ください。</string>
     <string name="config_save_record_count_without_timeline">ツイート保存件数(TL以外)</string>
     <string name="config_save_record_count_without_timeline_summary">タイムライン以外のタブのツイート保存件数【初期値：1000】\n※件数が多すぎると性能が低下する可能性がありますのでご注意ください。</string>
+
+    <string name="config_misskey_use_since_id_limit_hours">[Misskey]新着取得時に「続きから」をキープする時間</string>
+    <string name="config_misskey_use_since_id_limit_hours_summary">Misskeyでは新着取得(例えば先頭を引っ張ったときの更新)が常に「続きから」になるため久しぶりに取得するとなかなか最新のノートを見られないことになります。そのため一定期間以上空いたら「続きからではなく最新を取得する」ようにします。</string>
     <string name="use_conversation_id">会話検索にconversation_idを使う</string>
     <string name="use_conversation_id_summary">会話検索時に conversation_id を使います。より多くの会話が取得できるようになります【初期値：ON】</string>
     <string name="use_tweet_complementary_fetcher">引用ツイート数やアンケート等を取得する</string>
     <string name="use_tweet_complementary_fetcher_summary">ツイートの返信数や引用されたツイート数、いいね数、RT数、アンケート、画像と動画の混在したツイート、「リンク先の画像と説明文」等を非同期で取得します。\n※OFFにすると【省パケットモード】になります。災害時や混雑したお祭り会場、花火大会、ライブ会場などではOFFにすると通信が安定する場合がありますが、通常時はONのままでのご利用をおすすめします。【初期値：ON】</string>
     <string name="low_packet_mode_text">省パケットモード</string>
+
     <string name="config_use_gps_to_get_trend_location">GPS有効(トレンド)</string>
     <string name="config_screen_orientation">画面の向きを固定</string>
     <string-array name="config_screen_orientation_entries">

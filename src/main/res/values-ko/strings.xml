@@ -1123,6 +1123,7 @@
 	<string name="config_save_record_count_for_timeline_summary">"타임라인 탭을 위한 트윗 저장 수 [기본 : 1000]"</string>
 	<string name="config_save_record_count_without_timeline">"트윗 저장 개수 (기타)"</string>
 	<string name="config_save_record_count_without_timeline_summary">"타임라인 탭이 없는 트윗 저장 개수 [기본 : 1000]"</string>
+
     <string name="config_use_gps_to_get_trend_location">GPS (동향)</string>
     <string name="config_screen_orientation">화면 방향</string>
     <string-array name="config_screen_orientation_entries">
