@@ -1142,7 +1142,7 @@
     <string name="config_save_record_count_without_timeline">ツイート保存件数(TL以外)</string>
     <string name="config_save_record_count_without_timeline_summary">タイムライン以外のタブのツイート保存件数【初期値：1000】\n※件数が多すぎると性能が低下する可能性がありますのでご注意ください。</string>
 
-    <string name="config_misskey_use_since_id_limit_hours">[Misskey]新着取得時に「続きから」をキープする時間</string>
+    <string name="config_misskey_use_since_id_limit_hours">新着取得を「続きから」にする時間</string>
     <string name="config_misskey_use_since_id_limit_hours_summary">Misskeyでは新着取得(例えば先頭を引っ張ったときの更新)が常に「続きから」になるため久しぶりに取得するとなかなか最新のノートを見られないことになります。そのため一定期間以上空いたら「続きからではなく最新を取得する」ようにします。</string>
     <string name="use_conversation_id">会話検索にconversation_idを使う</string>
     <string name="use_conversation_id_summary">会話検索時に conversation_id を使います。より多くの会話が取得できるようになります【初期値：ON】</string>
