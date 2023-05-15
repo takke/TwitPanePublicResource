@@ -1349,9 +1349,9 @@
     <string name="login">ログイン</string>
     <string name="login_with_another_account">ログインと再認証(別アカウントでログイン)</string>
     <string name="login_to_mastodon">マストドンにログイン</string>
-    <string name="login_to_mastodon_instruction">Mastodonには色々なインスタンス(サーバ)があり自分で選ぶことができます。ログインしたいインスタンスを選択してください。一覧にないインスタンスはドメインを直接入力してください。</string>
+    <string name="login_to_mastodon_instruction">Mastodonには色々なインスタンス(サーバ)があり自分で選ぶことができます。ログインしたいインスタンスを選択してください。一覧にないインスタンスはドメインを直接入力してください。アカウントは事前に作成してください。</string>
     <string name="login_to_misskey">Misskeyにログイン</string>
-    <string name="login_to_misskey_instruction">Misskeyには色々なサーバーがあり自分で選ぶことができます。ログインしたいサーバーのドメインを入力してください。</string>
+    <string name="login_to_misskey_instruction">Misskeyには色々なサーバーがあり自分で選ぶことができます。ログインしたいサーバーを選択してください。一覧にないサーバーはドメインを直接入力してください。アカウントは事前に作成してください。</string>
     <string name="force_relogin">再ログインする</string>
     <string name="login_failed_and_login_with_browser_confirm">ログインに失敗しました。ブラウザ経由でのログインを行いますか？</string>
     <string name="trade_mark_info">「Twitter」は Twitter, Inc. の商標または登録商標です。</string>
