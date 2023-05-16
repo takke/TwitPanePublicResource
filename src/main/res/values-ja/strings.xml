@@ -1430,7 +1430,8 @@
     <string name="open_registration">新規登録可</string>
 
     <!-- Misskey -->
-    <string name="misskey_server_name_hint">接続先サーバー</string>
+    <string name="misskey_server_name_label">接続先サーバー</string>
+    <string name="misskey_server_name_hint">ドメイン名(misskey.ioなど)</string>
 
 
     <!-- Mastodon Replacements for Settings -->

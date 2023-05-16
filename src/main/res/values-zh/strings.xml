@@ -1397,7 +1397,8 @@
     <string name="open_registration">Open Registration</string>
 
     <!-- Misskey -->
-    <string name="misskey_server_name_hint">Server Name</string>
+    <string name="misskey_server_name_label">Server Name</string>
+    <string name="misskey_server_name_hint">Server Domain</string>
 
     <!-- Mastodon Replacements for Settings -->
     <string name="mastodon_replace_keyword_retweets">retweets</string>
