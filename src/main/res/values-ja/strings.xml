@@ -1416,7 +1416,7 @@
     <string name="event_log_information">"「投稿」や「新着通知」等のバックグラウンドで行われたイベントを確認できます。"</string>
 
     <!-- Mastodon -->
-    <string name="instance_name_hint">接続先インスタンス</string>
+    <string name="instance_name_label">接続先インスタンス</string>
     <string name="close_oauth_activity">閉じる</string>
     <string name="notification_favourited">%1$sさんがお気に入りに登録しました</string>
     <string name="notification_poll_ended">アンケートが終了しました</string>

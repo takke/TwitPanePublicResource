@@ -1383,7 +1383,7 @@
     <string name="event_log_message_new_tweets_failed">无法获取推文。</string>
 
     <!-- Mastodon -->
-    <string name="instance_name_hint">Instance Name</string>
+    <string name="instance_name_label">Instance Name</string>
     <string name="close_oauth_activity">Close</string>
     <string name="notification_favourited">%1$s favorited your status</string>
     <string name="notification_poll_ended">The polls have been closed.</string>
