@@ -1423,6 +1423,7 @@
     <string name="notification_poll_ended">アンケートが終了しました</string>
     <string name="notification_reblogged">%1$sさんがブーストしました</string>
     <string name="notification_renoted">%1$sさんがRenoteしました</string>
+    <string name="notification_quoted">%1$sさんが引用しました</string>
     <string name="notification_followed">%1$sさんにフォローされました</string>
     <string name="notification_follow_requested">%1$sさんがフォローをリクエストしています</string>
     <string name="notification_referenced">%1$sさんがあなたの投稿を参照しました</string>
