@@ -1393,6 +1393,7 @@
     <string name="notification_quoted">%1$s quoted your note</string>
     <string name="notification_followed">%1$s followed you</string>
     <string name="notification_follow_requested">%1$s requested to follow you</string>
+    <string name="notification_follow_accepted">%1$s accepted your follow request</string>
     <string name="notification_referenced">%1$s referenced your status</string>
     <string name="spoiler_less">SHOW LESS</string>
     <string name="spoiler_more">SHOW MORE</string>
