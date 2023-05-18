@@ -1427,6 +1427,7 @@
     <string name="notification_followed">%1$sさんにフォローされました</string>
     <string name="notification_follow_requested">%1$sさんがフォローをリクエストしています</string>
     <string name="notification_follow_accepted">%1$sさんへのフォローが承認されました</string>
+    <string name="notification_achievement">実績を獲得！(%1$s)</string>
     <string name="notification_referenced">%1$sさんがあなたの投稿を参照しました</string>
     <string name="spoiler_less">隠す</string>
     <string name="spoiler_more">もっと見る</string>
