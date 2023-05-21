@@ -1369,18 +1369,22 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <!-- Mastodon Replacements for Settings -->
     <string name="mastodon_replace_keyword_retweets">retweets</string>
     <string name="mastodon_replace_keyword_boosts">boots</string>
+    <string name="mastodon_replace_keyword_boosts_renotes">boots/renotes</string>
     <string name="mastodon_replace_keyword_renotes">renotes</string>
 
     <string name="mastodon_replace_keyword_retweet">retweet</string>
     <string name="mastodon_replace_keyword_boost">boost</string>
+    <string name="mastodon_replace_keyword_boost_renote">boost/renote</string>
     <string name="mastodon_replace_keyword_renote">renote</string>
 
     <string name="mastodon_replace_keyword_tweets">tweets</string>
     <string name="mastodon_replace_keyword_toots">toots</string>
+    <string name="mastodon_replace_keyword_toots_notes">toots/notes</string>
     <string name="mastodon_replace_keyword_notes">notes</string>
 
     <string name="mastodon_replace_keyword_tweet">tweet</string>
     <string name="mastodon_replace_keyword_toot">toot</string>
+    <string name="mastodon_replace_keyword_toot_note">toot/note</string>
     <string name="mastodon_replace_keyword_note">note</string>
 
     <string name="mastodon_replace_keyword_likes">likes</string>
