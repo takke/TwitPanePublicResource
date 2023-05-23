@@ -824,6 +824,9 @@
     <string name="config_enable_animation_emoji">絵文字のアニメーション</string>
     <string name="config_enable_animation_emoji_summary">タイムラインの絵文字をアニメーションさせます。スクロール等が遅くなる場合はオフにすることをおすすめします。バッテリー消費量抑制のためアニメーションは数秒間で自動停止します。【初期値：ON】</string>
     <string name="config_custom_emoji_size">カスタム絵文字サイズ</string>
+    <string name="config_custom_emoji_size_name">カスタム絵文字サイズ(名前)</string>
+    <string name="config_custom_emoji_size_body">カスタム絵文字サイズ(本文)</string>
+    <string name="config_custom_emoji_size_reaction">カスタム絵文字サイズ(絵文字リアクション)</string>
     <string name="config_custom_emoji_column_count">1行内の絵文字の個数</string>
     <string name="config_custom_emoji_animation_enabled">アニメーション有効</string>
     <string name="config_custom_emoji_picker_one_tap_mode">ワンタップモード</string>
