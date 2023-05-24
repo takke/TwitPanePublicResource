@@ -606,6 +606,9 @@
     <string name="visibility_mky_home">ホーム：ホームタイムラインのみに公開</string>
     <string name="visibility_mky_followers">フォロワー：フォロワーのみに公開</string>
     <string name="visibility_mky_specified">ダイレクト：指定したユーザーのみに公開</string>
+    <string name="local_only">連合なし</string>
+    <string name="set_local_only_message">連合なしにしますか？\n連合なしにしても投稿は非公開になりません。ほとんどの場合、連合なしにする必要はありません。</string>
+    <string name="set_local_only">連合なしにする</string>
     <string name="cant_change_visibility_when_edit">編集時は公開範囲を変更できません</string>
     <string name="edit_file_attached_toot_warning">添付ファイル付きの投稿を編集すると、添付ファイルが劣化する可能性があります。</string>
     <string name="cant_edit_toot_with_polls">アンケートがある投稿の編集は未対応です</string>
