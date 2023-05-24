@@ -399,6 +399,7 @@
     <string name="not_to_be_an_instance_of_mastodon">The host does not seem to be an instance of Mastodon</string>
     <string name="menu_show_suggested_users">Suggested Users</string>
     <string name="menu_show_emoji_reactions">Emoji Reactions</string>
+    <string name="menu_show_emoji_reactions_notes">Emoji Reacted Notes</string>
     <string name="menu_show_no_retweet_users">Los usuarios no Retweet</string>
 
     <string name="menu_campaign_ad">"Ocultar publicidad"</string>
