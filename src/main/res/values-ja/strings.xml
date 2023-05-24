@@ -1476,6 +1476,8 @@
     <string name="mst_list_replies_policy_list">リストのメンバー</string>
     <string name="mst_list_replies_policy_none">表示しない</string>
 
+    <string name="select_compose_service_type">投稿するSNSを選択してください</string>
+
     <!-- Search Edition -->
     <!-- search_edition_introduction_message は app_search のほうに書く -->
 

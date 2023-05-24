@@ -1468,6 +1468,8 @@ Reauthenticate on the next screen.</string>
     <string name="mst_list_replies_policy_list">list members</string>
     <string name="mst_list_replies_policy_none">none</string>
 
+    <string name="select_compose_service_type">Choose service to compose</string>
+
     <!-- Search Edition -->
     <string-array name="search_edition_introduction_message" translatable="false">
         <item>This application is for Twitter search.</item>

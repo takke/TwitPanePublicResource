@@ -1400,4 +1400,6 @@
     <string name="mst_list_replies_policy_list">list members</string>
     <string name="mst_list_replies_policy_none">none</string>
 
+    <string name="select_compose_service_type">Choose service to compose</string>
+
 </resources>
