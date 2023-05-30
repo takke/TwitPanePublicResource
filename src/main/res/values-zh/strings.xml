@@ -160,6 +160,7 @@
     <string name="destroy_from_list_confirm_message">要移除此成员吗？</string>
     <string name="list_member_destroyed">已移除</string>
     <string name="add_list_tab">添加列表选项卡</string>
+    <string name="add_channel_tab">Add Channel Tab</string>
     <string name="remove_tab_confirm">你确定要删除 %1$s 吗？</string>
     <string name="add_search_tab">添加搜索选项卡</string>
     <string name="common_clear">清除</string>
