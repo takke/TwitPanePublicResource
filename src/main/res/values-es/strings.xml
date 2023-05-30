@@ -161,6 +161,7 @@
     <string name="list_member_destroyed">"Eliminado"</string>
     <string name="add_list_tab">"Añadir pestaña de lista"</string>
     <string name="add_channel_tab">Add Channel Tab</string>
+    <string name="no_channels">No Channels</string>
     <string name="remove_tab_confirm">"¿Seguro que desea eliminar %1$s ?"</string>
     <string name="add_search_tab">"Añadir búsqueda a pestañas"</string>
     <string name="common_clear">"Limpiar"</string>

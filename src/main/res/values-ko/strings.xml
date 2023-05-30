@@ -161,6 +161,7 @@
     <string name="list_member_destroyed">"제거됨"</string>
     <string name="add_list_tab">"목록 탭 추가"</string>
     <string name="add_channel_tab">Add Channel Tab</string>
+    <string name="no_channels">No Channels</string>
     <string name="remove_tab_confirm">"당신은 당신이 %1$s 제거 하시겠습니까?"</string>
     <string name="add_search_tab">"검색 탭 추가"</string>
     <string name="common_clear">"제거"</string>
