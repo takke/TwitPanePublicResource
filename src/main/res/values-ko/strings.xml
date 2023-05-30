@@ -45,6 +45,8 @@
     <string name="pane_name_thread_list">"DM"</string>
     <string name="pane_name_dm">"DM"</string>
     <string name="pane_name_sent_dm">"보낸 DM"</string>
+    <string name="pane_name_channels">Channels</string>
+    <string name="pane_name_channel">Channel</string>
     <string name="pane_name_lists">"목록"</string>
     <string name="pane_name_lists_memberships">목록의 구성원</string>
     <string name="pane_name_list_member">"목록 멤버"</string>

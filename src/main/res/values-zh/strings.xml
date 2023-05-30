@@ -45,6 +45,8 @@
     <string name="pane_name_thread_list">私信</string>
     <string name="pane_name_dm">私信</string>
     <string name="pane_name_sent_dm">发送私信</string>
+    <string name="pane_name_channels">Channels</string>
+    <string name="pane_name_channel">Channel</string>
     <string name="pane_name_lists">列表</string>
     <string name="pane_name_lists_memberships">列表中的成员</string>
     <string name="pane_name_list_member">列表成员</string>
