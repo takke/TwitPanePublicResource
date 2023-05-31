@@ -160,6 +160,7 @@
     <string name="destroy_from_list_confirm_message">要移除此成員嗎？</string>
     <string name="list_member_destroyed">已移除</string>
     <string name="add_list_tab">添加列表選項卡</string>
+    <string name="no_lists">No lists</string>
     <string name="add_channel_tab">Add Channel Tab</string>
     <string name="no_channels">No Channels</string>
     <string name="remove_tab_confirm">你確定要刪除 %1$s 嗎？</string>

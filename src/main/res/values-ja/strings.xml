@@ -160,6 +160,7 @@
     <string name="destroy_from_list_confirm_message">このユーザーをリストから削除しますか？</string>
     <string name="list_member_destroyed">削除しました</string>
     <string name="add_list_tab">リストタブの追加</string>
+    <string name="no_lists">リストがありませんでした。リストを追加してからやり直してください。</string>
     <string name="add_channel_tab">チャンネルタブの追加</string>
     <string name="no_channels">チャンネルがありませんでした。チャンネルをフォローしてからやり直してください。</string>
     <string name="remove_tab_confirm">"%1$s をタブから削除します。よろしいですか？"</string>

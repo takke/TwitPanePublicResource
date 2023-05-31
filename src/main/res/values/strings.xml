@@ -160,6 +160,7 @@
     <string name="destroy_from_list_confirm_message">Remove this member ok?</string>
     <string name="list_member_destroyed">Removed</string>
     <string name="add_list_tab">Add List Tab</string>
+    <string name="no_lists">No lists</string>
     <string name="add_channel_tab">Add Channel Tab</string>
     <string name="no_channels">No Channels</string>
     <string name="remove_tab_confirm">"Are you sure you want to remove %1$s from home?"</string>

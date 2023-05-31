@@ -160,6 +160,7 @@
     <string name="destroy_from_list_confirm_message">"이 멤버를 정말로 삭제하시겠습니까?"</string>
     <string name="list_member_destroyed">"제거됨"</string>
     <string name="add_list_tab">"목록 탭 추가"</string>
+    <string name="no_lists">No lists</string>
     <string name="add_channel_tab">Add Channel Tab</string>
     <string name="no_channels">No Channels</string>
     <string name="remove_tab_confirm">"당신은 당신이 %1$s 제거 하시겠습니까?"</string>

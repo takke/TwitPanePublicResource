@@ -160,6 +160,7 @@
     <string name="destroy_from_list_confirm_message">"¿Eliminar a este miembro?"</string>
     <string name="list_member_destroyed">"Eliminado"</string>
     <string name="add_list_tab">"Añadir pestaña de lista"</string>
+    <string name="no_lists">No lists</string>
     <string name="add_channel_tab">Add Channel Tab</string>
     <string name="no_channels">No Channels</string>
     <string name="remove_tab_confirm">"¿Seguro que desea eliminar %1$s ?"</string>
