@@ -1394,6 +1394,7 @@
     <string name="event_log_message_new_tweets">检索到新推文。</string>
     <string name="new_tweets">新推文</string>
     <string name="new_toots">New toots</string>
+    <string name="new_notes">New notes</string>
     <string name="event_log_message_no_new_tweets">没有新推文。</string>
     <string name="event_log_message_new_tweets_failed">无法获取推文。</string>
 

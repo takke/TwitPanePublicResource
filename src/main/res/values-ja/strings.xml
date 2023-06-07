@@ -1422,6 +1422,7 @@
     <string name="event_log_message_new_tweets">新着ツイートを取得しました</string>
     <string name="new_tweets">新着ツイート</string>
     <string name="new_toots">新着投稿</string>
+    <string name="new_notes">新着ノート</string>
     <string name="event_log_message_no_new_tweets">新着ツイートはありませんでした</string>
     <string name="event_log_message_new_tweets_failed">新着ツイートの取得に失敗しました。</string>
     <string name="event_log_message_1_tweet" translatable="false">1件</string>

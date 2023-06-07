@@ -1415,6 +1415,7 @@ Reauthenticate on the next screen.</string>
     <string name="event_log_message_new_tweets">New tweets retrieved.</string>
     <string name="new_tweets">New tweets</string>
     <string name="new_toots">New toots</string>
+    <string name="new_notes">New notes</string>
     <string name="event_log_message_no_new_tweets">No new tweets.</string>
     <string name="event_log_message_new_tweets_failed">Failed to get tweets.</string>
     <string name="event_log_message_1_tweet" translatable="false">1 tweet</string>
