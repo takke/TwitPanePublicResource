@@ -164,6 +164,7 @@
     <string name="add_channel_tab">チャンネルタブの追加</string>
     <string name="no_channels">チャンネルがありませんでした。チャンネルをフォローしてからやり直してください。</string>
     <string name="no_channel_privileges_for_sub_account">チャンネルの権限がないようです。アカウント一覧のサブメニューから「アカウントの再認証」を行ってチャンネルの権限を追加してください。</string>
+    <string name="no_channel_privileges_for_main_account">チャンネルの権限がないようです。アカウントの再認証を行いますか？(現在のタブ編集内容は保存されます)</string>
     <string name="remove_tab_confirm">"%1$s をタブから削除します。よろしいですか？"</string>
     <string name="add_search_tab">検索タブの追加</string>
     <string name="common_clear">クリア</string>
