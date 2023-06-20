@@ -842,6 +842,7 @@
     <string name="config_custom_emoji_animation_enabled">アニメーション有効</string>
     <string name="config_custom_emoji_picker_one_tap_mode">ワンタップモード</string>
     <string name="custom_emoji_picker_select">選択</string>
+    <string name="custom_emoji_picker_delete">履歴から削除</string>
     <string-array name="config_emoji_size_entries">
         <item>端末の絵文字</item>
         <item>Twitter絵文字(小)</item>
