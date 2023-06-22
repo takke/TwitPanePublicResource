@@ -85,7 +85,8 @@
     <string name="add_search_page_finish">タブを追加しました</string>
     
     <string name="reload_button">リロード</string>
-    
+    <string name="reload_custom_emojis">リロード(新着絵文字のロード)</string>
+
     <string name="load_another_locations">その他の地域</string>
     
     <string name="color_edit_button">変更</string>
