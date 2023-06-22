@@ -830,6 +830,7 @@
     <string name="config_custom_emoji_animation_enabled">Animation enabled</string>
     <string name="config_custom_emoji_picker_one_tap_mode">One Tap Mode</string>
     <string name="config_custom_emoji_picker_deck_reorder_mode">Deck Reorder Mode</string>
+    <string name="emoji_property">Emoji Property</string>
     <string name="custom_emoji_picker_select">Select</string>
     <string name="custom_emoji_picker_delete">Delete</string>
     <string-array name="config_emoji_size_entries">
