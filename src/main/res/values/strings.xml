@@ -833,7 +833,7 @@
     <string name="config_custom_emoji_column_count">Emoji count per line</string>
     <string name="config_custom_emoji_animation_enabled">Animation enabled</string>
     <string name="config_custom_emoji_picker_one_tap_mode">One Tap Mode</string>
-    <string name="config_custom_emoji_picker_deck_reorder_mode">Deck Reorder Mode</string>
+    <string name="config_custom_emoji_picker_deck_edit_mode">Deck Edit Mode</string>
     <string name="emoji_property">Emoji Property</string>
     <string name="unpin_emoji">Unpin Emoji</string>
     <string name="custom_emoji_picker_select">Select</string>
