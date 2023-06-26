@@ -812,6 +812,8 @@
     <string name="config_show_mutual_mark_summary">在時間軸上顯示相互關注圖示</string>
     <string name="config_display_sensitive_iamges_as_blur">對敏感影象進行模糊處理</string>
     <string name="config_display_sensitive_iamges_as_blur_summary"></string>
+    <string name="config_display_all_iamges_as_blur">Display all images as blur</string>
+    <string name="config_display_all_iamges_as_blur_summary">[default:OFF]</string>
     <string name="config_user_icon_thumbnail_category">使用者圖示</string>
     <string name="config_use_rounded_thumbnail">圓形的縮圖</string>
     <string name="config_use_rounded_thumbnail_summary">使用圓形的個人資料圖示 [預設:開]</string>
