@@ -802,6 +802,8 @@
     <string name="config_show_follow_count_on_timeline_summary">在時間軸上顯示關注和關注者計數</string>
     <string name="config_show_source_app">顯示源應用程序</string>
     <string name="config_show_source_app_summary"></string>
+    <string name="config_show_server_info">Show server info of notes</string>
+    <string name="config_show_server_info_summary">[default:ON]</string>
     <string name="config_show_image_url">顯示圖片網址</string>
     <string name="config_show_image_url_summary"></string>
     <string name="config_show_followers_count_bar">顯示關注者計數欄</string>
