@@ -1016,6 +1016,7 @@
     <string name="config_mute_users_hint">\@username</string>
     <string name="config_mute_no_users">ミュートユーザーはありません</string>
     <string name="this_user_is_muted">このユーザーはミュートしています</string>
+    <string name="misskey_announcement_read">わかった</string>
 
     <string name="config_mute_clients">アプリ</string>
     <string name="config_mute_clients_message">ミュートしたいクライアントアプリ名を記述してください。部分一致です</string>

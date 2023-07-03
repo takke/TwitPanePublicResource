@@ -999,6 +999,7 @@
     <string name="config_mute_users_hint">"\@twitpane"</string>
     <string name="config_mute_no_users">"음소거 사용자 없음"</string>
     <string name="this_user_is_muted">이 사용자는 음소거되었습니다.</string>
+    <string name="misskey_announcement_read">Okay!</string>
     
     <string name="config_mute_clients">"클라이언트"</string>
     <string name="config_mute_clients_message">"음소거 클라이언트 이름을 지정ㅅ"</string>

@@ -1000,6 +1000,7 @@
     <string name="config_mute_users_hint">"\@twitpane"</string>
     <string name="config_mute_no_users">"Ningún miembro silenciado"</string>
     <string name="this_user_is_muted">Este usuario está silenciado</string>
+    <string name="misskey_announcement_read">Okay!</string>
 
     <string name="config_mute_clients">"Clientes"</string>
     <string name="config_mute_clients_message">"especificar el nombre del cliente a silenciar"</string>

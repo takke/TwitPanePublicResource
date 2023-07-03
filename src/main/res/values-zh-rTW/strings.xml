@@ -1001,6 +1001,7 @@
     <string name="config_mute_users_hint">\@twitpane</string>
     <string name="config_mute_no_users">沒有靜音使用者</string>
     <string name="this_user_is_muted">此使用者已靜音</string>
+    <string name="misskey_announcement_read">Okay!</string>
 
     <string name="config_mute_clients">客戶端</string>
     <string name="config_mute_clients_message">指定靜音客戶端名稱</string>

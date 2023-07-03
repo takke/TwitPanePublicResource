@@ -1009,7 +1009,8 @@ Do you want to enable it?</string>
     <string name="config_mute_users_hint">\@twitpane</string>
     <string name="config_mute_no_users">No mute users</string>
     <string name="this_user_is_muted">This user is muted.</string>
-    
+    <string name="misskey_announcement_read">Okay!</string>
+
     <string name="config_mute_clients">Clients</string>
     <string name="config_mute_clients_message">specify mute client name</string>
     <string name="config_mute_clients_hint">client name</string>
