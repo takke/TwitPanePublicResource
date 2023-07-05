@@ -1270,7 +1270,7 @@
     <string name="theme_bg_reply_for_me">背景(回覆我)</string>
     <string name="theme_bg_rt">背景(RT)</string>
     <string name="theme_gradation">背景漸變</string>
-    <string name="theme_title">標題</string>
+    <string name="theme_name">name</string>
     <string name="theme_date_rt">日期，RT</string>
     <string name="theme_body">正文</string>
     <string name="theme_body_reply_for_me">正文（回覆我）</string>

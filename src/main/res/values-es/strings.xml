@@ -1229,7 +1229,7 @@
     <string name="theme_bg_reply_for_me">Fondo(Respuesta para mí)</string>
     <string name="theme_bg_rt">Fondo(RT)</string>
     <string name="theme_gradation">"Gradación de bg"</string>
-    <string name="theme_title">"Título"</string>
+    <string name="theme_name">"nombre"</string>
     <string name="theme_date_rt">"Fecha, RT"</string>
     <string name="theme_body">" Cuerpo"</string>
     <string name="theme_body_reply_for_me">"Cuerpo (Respuesta para mí)"</string>
