@@ -1255,7 +1255,7 @@ Do you want to enable it?</string>
     <string name="theme_bg_reply_for_me">BG(Reply for me)</string>
     <string name="theme_bg_rt">BG(RT)</string>
     <string name="theme_gradation">Gradation of bg</string>
-    <string name="theme_name">Name</string>
+    <string name="theme_name">Name(unread)</string>
     <string name="theme_date_rt">Date, RT</string>
     <string name="theme_body">Body</string>
     <string name="theme_body_reply_for_me">Body(Reply for me)</string>

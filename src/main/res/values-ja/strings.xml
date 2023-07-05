@@ -1262,12 +1262,12 @@
     <string name="theme_bg_reply_for_me">背景色(自分宛の返信)</string>
     <string name="theme_bg_rt">背景色(RT)</string>
     <string name="theme_gradation">背景のグラデーション</string>
-    <string name="theme_name">名前</string>
+    <string name="theme_name">名前(未読)</string>
     <string name="theme_date_rt">日付、RTなど</string>
     <string name="theme_body">本文</string>
     <string name="theme_body_reply_for_me">本文(自分宛の返信)</string>
     <string name="theme_body_my_tweet">本文(自分の投稿)</string>
-    <string name="theme_body_read">本文(既読)</string>
+    <string name="theme_body_read">本文、名前(既読)</string>
     <string name="theme_name_url_hashtag">\@名前・URL・ハッシュタグ</string>
     <string name="theme_tab">タブ</string>
     <string name="theme_actionbar">タイトルバー</string>
