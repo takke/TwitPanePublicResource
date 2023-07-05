@@ -835,6 +835,8 @@
     <string name="config_custom_emoji_size_name">Custom Emoji Size(Name)</string>
     <string name="config_custom_emoji_size_body">Custom Emoji Size(Body)</string>
     <string name="config_custom_emoji_size_reaction">Custom Emoji Size(Emoji Reaction)</string>
+    <string name="config_emoji_reactions_display_limit" translatable="false">Emoji Reaction Display Count</string>
+    <string name="config_emoji_reactions_display_limit_summary" translatable="false">The number of emoji reactions to be displayed on the timeline. If this number is exceeded, the "More" button will be displayed. Misskey or Mastodon(Fedibird, kmy.blue)</string>
     <string name="config_custom_emoji_column_count">Emoji count per line</string>
     <string name="config_custom_emoji_animation_enabled">Animation enabled</string>
     <string name="config_custom_emoji_picker_one_tap_mode">One Tap Mode</string>
