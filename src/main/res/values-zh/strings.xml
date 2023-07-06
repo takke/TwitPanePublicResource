@@ -446,6 +446,7 @@
     <string name="menu_add_bookmark">添加到书签</string>
     <string name="menu_delete_bookmark">从书签中删除</string>
     <string name="menu_show_conversation">对话</string>
+    <string name="menu_open_by_other_account">Open by other account</string>
     <string name="menu_search_conversation">搜索会话</string>
     <string name="menu_search_around_tweets">搜索相关的推文</string>
     <string name="found_new_reply_tweets">发现新的推文(%1$s)</string>

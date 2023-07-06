@@ -446,6 +446,7 @@
     <string name="menu_add_bookmark">Añadir a marcador</string>
     <string name="menu_delete_bookmark">Eliminar de marcador</string>
     <string name="menu_show_conversation">"Conversación"</string>
+    <string name="menu_open_by_other_account">Open by other account</string>
     <string name="menu_search_conversation">Buscar Conversación</string>
     <string name="menu_search_around_tweets">Buscar alrededor de los tweets</string>
     <string name="found_new_reply_tweets">Encuentran nuevos tweets(%1$s)</string>

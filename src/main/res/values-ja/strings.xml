@@ -452,6 +452,7 @@
     <string name="menu_add_bookmark">ブックマークする</string>
     <string name="menu_delete_bookmark">ブックマークを外す</string>
     <string name="menu_show_conversation">会話を表示する</string>
+    <string name="menu_open_by_other_account">他のアカウントで開く</string>
     <string name="menu_search_conversation">会話を検索する</string>
     <string name="menu_search_around_tweets">前後のツイートを検索する</string>
     <string name="found_new_reply_tweets">%1$s件の新着返信を取得しました</string>
