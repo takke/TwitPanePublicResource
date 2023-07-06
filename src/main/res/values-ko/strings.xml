@@ -444,6 +444,8 @@
     <string name="menu_delete_bookmark">북마크에서 삭제</string>
     <string name="menu_show_conversation">"대화"</string>
     <string name="menu_open_by_other_account">Open by other account</string>
+    <string name="note_not_found_on_server">Note not found on %1$s</string>
+    <string name="toot_not_found_on_instance">Toot not found on %1$s</string>
     <string name="menu_search_conversation">대화 보기</string>
     <string name="menu_search_around_tweets">전후 트윗 검색</string>
     <string name="found_new_reply_tweets">발견 새 트윗(%1$s)</string>

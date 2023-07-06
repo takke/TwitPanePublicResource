@@ -447,6 +447,8 @@
     <string name="menu_delete_bookmark">Delete from Bookmark</string>
     <string name="menu_show_conversation">Conversation</string>
     <string name="menu_open_by_other_account">Open by other account</string>
+    <string name="note_not_found_on_server">Note not found on %1$s</string>
+    <string name="toot_not_found_on_instance">Toot not found on %1$s</string>
     <string name="menu_search_conversation">Search Conversation</string>
     <string name="menu_search_around_tweets">Search around tweets</string>
     <string name="found_new_reply_tweets">Found new tweets(%1$s)</string>

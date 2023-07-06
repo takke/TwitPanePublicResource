@@ -447,6 +447,8 @@
     <string name="menu_delete_bookmark">從書籤中刪除</string>
     <string name="menu_show_conversation">對話</string>
     <string name="menu_open_by_other_account">Open by other account</string>
+    <string name="note_not_found_on_server">Note not found on %1$s</string>
+    <string name="toot_not_found_on_instance">Toot not found on %1$s</string>
     <string name="menu_search_conversation">搜索會話</string>
     <string name="menu_search_around_tweets">搜索相關的推文</string>
     <string name="found_new_reply_tweets">發現新的推文(%1$s)</string>
