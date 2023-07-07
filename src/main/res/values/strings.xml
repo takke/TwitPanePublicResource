@@ -274,6 +274,7 @@
     <string name="profile_edit_save_button">Save</string>
     <string name="profile_edit_saved">Saved</string>
     <string name="profile_fields">Profile Fields</string>
+    <string name="profile_fields_misskey">Profile Fields</string>
     <string name="profile_banner_saved">Saved, and affects in a few minutes</string>
     <string name="profile_banner_removed">Removed, and affects in a few minutes</string>
     

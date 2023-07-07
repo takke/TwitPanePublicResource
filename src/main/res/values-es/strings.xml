@@ -272,6 +272,7 @@
     <string name="profile_edit_save_button">"Guardar"</string>
     <string name="profile_edit_saved">"Guardado"</string>
     <string name="profile_fields">Profile Fields</string>
+    <string name="profile_fields_misskey">Profile Fields</string>
     <string name="profile_banner_saved">"Guardado, funciona en pocos minutos"</string>
     <string name="profile_banner_removed">"Eliminado, funciona en pocos minutos"</string>
 
