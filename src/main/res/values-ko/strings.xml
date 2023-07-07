@@ -1235,6 +1235,7 @@
     <string name="theme_name">"이름"</string>
     <string name="theme_date_rt">"날짜, RT"</string>
     <string name="theme_body">"본문"</string>
+    <string name="theme_body_unread">"본문"</string>
     <string name="theme_body_reply_for_me">"본문 (나를 위한 응답)"</string>
     <string name="theme_body_my_tweet">"본문 (내 트윗)"</string>
     <string name="theme_body_read">"본문 (읽기)"</string>

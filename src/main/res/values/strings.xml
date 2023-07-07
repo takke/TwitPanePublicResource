@@ -1263,7 +1263,8 @@ Do you want to enable it?</string>
     <string name="theme_gradation">Gradation of bg</string>
     <string name="theme_name">Name(Unread)</string>
     <string name="theme_date_rt">Date, RT</string>
-    <string name="theme_body">Body(Unread)</string>
+    <string name="theme_body">Body</string>
+    <string name="theme_body_unread">Body(Unread)</string>
     <string name="theme_body_reply_for_me">Body(Reply for me)</string>
     <string name="theme_body_my_tweet">Body(My tweet)</string>
     <string name="theme_body_read">Body(Read)</string>

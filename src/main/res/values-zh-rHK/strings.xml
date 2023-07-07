@@ -1277,6 +1277,7 @@
     <string name="theme_name">name</string>
     <string name="theme_date_rt">日期，RT</string>
     <string name="theme_body">正文</string>
+    <string name="theme_body_unread">正文</string>
     <string name="theme_body_reply_for_me">正文（回覆我）</string>
     <string name="theme_body_my_tweet">正文（我的推文）</string>
     <string name="theme_body_read">正文（閲讀）</string>
