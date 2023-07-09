@@ -49,6 +49,7 @@
     <string name="pane_name_channel">Channel</string>
     <string name="pane_name_antennas">Antennas</string>
     <string name="pane_name_antenna">Antenna</string>
+    <string name="keywords">Keywords</string>
     <string name="pane_name_lists">"목록"</string>
     <string name="pane_name_lists_memberships">목록의 구성원</string>
     <string name="pane_name_list_member">"목록 멤버"</string>
