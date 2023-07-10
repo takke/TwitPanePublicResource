@@ -169,6 +169,7 @@
     <string name="no_channels">No Channels</string>
     <string name="no_channel_privileges_for_sub_account">It seems that you do not have channel privileges. Please "Reauthorize Account" from the sub-menu of the account list to add channel permissions.</string>
     <string name="no_channel_privileges_and_reauth_confirm">It seems that you do not have channel privileges. Would you like to re-authorize your account? (Current tab edits will be saved)</string>
+    <string name="add_antenna_tab">Add Antenna Tab</string>
     <string name="no_antennas">No Antennas</string>
     <string name="remove_tab_confirm">你確定要刪除 %1$s 嗎？</string>
     <string name="add_search_tab">新增搜尋選項卡</string>
