@@ -1056,9 +1056,12 @@
     <string name="config_use_interval_notification_summary"></string>
     <string name="config_notification_interval">間隔</string>
     <string-array name="config_notification_interval_entries">
+        <item>"1分鐘</item>
+        <item>"2分鐘</item>
         <item>"3分鐘</item>
         <item>"5分鐘</item>
         <item>"10分鐘[默認]</item>
+        <item>"15分鐘</item>
         <item>"20分鐘</item>
         <item>"30分鐘</item>
         <item>"60分鐘</item>

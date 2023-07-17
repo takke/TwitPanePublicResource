@@ -1054,9 +1054,12 @@
     <string name="config_use_interval_notification_summary">""</string>
     <string name="config_notification_interval">"간격"</string>
     <string-array name="config_notification_interval_entries">
+        <item>"1 분."</item>
+        <item>"2 분."</item>
         <item>"3 분."</item>
         <item>"5 분."</item>
         <item>"10 분. [기본]"</item>
+        <item>"15 분."</item>
         <item>"20 분."</item>
         <item>"30 분."</item>
         <item>"60 분."</item>

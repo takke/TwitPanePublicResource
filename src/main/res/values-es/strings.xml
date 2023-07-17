@@ -1055,9 +1055,12 @@
     <string name="config_use_interval_notification_summary">"Si está activo se te notificarán las novedades cada x tiempo, según el intervalo que especifiques."</string>
     <string name="config_notification_interval">"Intervalo"</string>
     <string-array name="config_notification_interval_entries">
+        <item>"1 min."</item>
+        <item>"2 min."</item>
         <item>"3 min."</item>
         <item>"5 min."</item>
         <item>"10 min. [predeterminado]"</item>
+        <item>"15 min."</item>
         <item>"20 min."</item>
         <item>"30 min."</item>
         <item>"60 min."</item>

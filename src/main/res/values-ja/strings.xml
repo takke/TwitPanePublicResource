@@ -1073,9 +1073,12 @@
     <string name="config_use_interval_notification_summary">タブの自動更新を行ったり、新着返信やメッセージを定期的に取得し通知します。新着返信とメッセージは「現在のアカウント」のみ対応しています【初期値：OFF】</string>
     <string name="config_notification_interval">取得間隔</string>
     <string-array name="config_notification_interval_entries">
+        <item>1分</item>
+        <item>2分</item>
         <item>3分</item>
         <item>5分</item>
         <item>10分【初期値】</item>
+        <item>15分</item>
         <item>20分</item>
         <item>30分</item>
         <item>60分</item>
