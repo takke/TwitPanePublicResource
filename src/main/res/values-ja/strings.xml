@@ -197,6 +197,7 @@
     <string name="following">フォロー中</string>
     <string name="follow">フォローする</string>
     <string name="you_are_followed">[あなたをフォロー中]</string>
+    <string name="follow_management">フォロー管理(マルチアカウント)</string>
     <string name="follow_confirm_title">フォローする</string>
     <string name="follow_confirm_message">%1$s をフォローしますか？</string>
     <string name="follow_or_unfollow">フォロー・フォロー解除</string>

@@ -197,6 +197,7 @@
     <string name="following">正在關注</string>
     <string name="follow">關注</string>
     <string name="you_are_followed">[關注你]</string>
+    <string name="follow_management">Follow Management</string>
     <string name="follow_confirm_title">關注</string>
     <string name="follow_confirm_message">關注\@%1$s？</string>
     <string name="follow_or_unfollow">關注 / 取消關注</string>
