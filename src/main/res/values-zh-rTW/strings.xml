@@ -88,6 +88,7 @@
     <string name="add_search_page_finish">已新增</string>
 
     <string name="reload_button">重新載入</string>
+    <string name="reloaded">已重新載入</string>
     <string name="reload_custom_emojis">重新載入</string>
 
     <string name="load_another_locations">其他地區</string>

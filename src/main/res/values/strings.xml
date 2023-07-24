@@ -88,6 +88,7 @@
     <string name="add_search_page_finish">Added</string>
     
     <string name="reload_button">Reload</string>
+    <string name="reloaded">Reloaded</string>
     <string name="reload_custom_emojis">Reload</string>
 
     <string name="load_another_locations">other areas</string>

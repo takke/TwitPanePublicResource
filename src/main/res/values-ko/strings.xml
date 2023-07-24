@@ -88,6 +88,7 @@
     <string name="add_search_page_finish">"추가됨"</string>
     
     <string name="reload_button">"리로드"</string>
+    <string name="reloaded">"리로드됨"</string>
     <string name="reload_custom_emojis">"리로드"</string>
 
     <string name="load_another_locations">"다른 지역"</string>
