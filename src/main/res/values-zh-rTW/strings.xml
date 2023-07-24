@@ -416,6 +416,7 @@
     <string name="menu_show_emoji_reactions">Emoji Reactions</string>
     <string name="menu_show_emoji_reactions_notes">Emoji Reacted Notes</string>
     <string name="menu_show_no_retweet_users">顯示非轉推使用者</string>
+    <string name="menu_show_personal_timeline">Personal Timeline</string>
 
     <string name="menu_campaign_ad">廣告宣傳活動</string>
     <string name="campaign_info">關於宣傳活動</string>

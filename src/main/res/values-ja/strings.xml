@@ -422,6 +422,7 @@
     <string name="menu_show_emoji_reactions">絵文字リアクションした投稿</string>
     <string name="menu_show_emoji_reactions_notes">絵文字リアクションしたノート</string>
     <string name="menu_show_no_retweet_users">リツイート非表示ユーザー一覧</string>
+    <string name="menu_show_personal_timeline">自分限定ホーム</string>
 
     <string name="menu_campaign_ad">広告を消す</string>
     <string name="campaign_info">広告解除について</string>
