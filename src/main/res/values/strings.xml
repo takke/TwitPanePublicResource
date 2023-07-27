@@ -664,6 +664,7 @@
     <string name="write_view_picture_preview">Preview</string>
     <string name="write_view_picture_edit">Edit</string>
     <string name="write_view_movie_cut_edit">Cut Edit</string>
+    <string name="alt_text">Description</string>
     <string name="write_view_movie_install_lvc">Please install Lossless Video Cutter on Store</string>
     <string name="write_view_picture_cancel">Cancel</string>
     <string name="write_view_picture_select">Select Photo(Gallery)</string>

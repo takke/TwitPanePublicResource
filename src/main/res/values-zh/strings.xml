@@ -663,6 +663,7 @@
     <string name="write_view_picture_preview">预览</string>
     <string name="write_view_picture_edit">编辑</string>
     <string name="write_view_movie_cut_edit">剪切编辑</string>
+    <string name="alt_text">Description</string>
     <string name="write_view_movie_install_lvc">请在Play Store上安装无损视频剪辑器</string>
     <string name="write_view_picture_cancel">取消</string>
     <string name="write_view_picture_select">选择照片(画廊)</string>

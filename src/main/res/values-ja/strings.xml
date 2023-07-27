@@ -671,6 +671,7 @@
     <string name="write_view_picture_preview">プレビュー</string>
     <string name="write_view_picture_edit">編集</string>
     <string name="write_view_movie_cut_edit">カット編集</string>
+    <string name="alt_text">代替テキスト</string>
     <string name="write_view_movie_install_lvc">ストアで Lossless Video Cutter をインストールしてください。\n
 (インストール後に本アプリに戻るとカット編集画面が開きます)</string>
     <string name="write_view_picture_cancel">添付解除</string>
