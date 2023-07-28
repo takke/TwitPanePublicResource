@@ -305,6 +305,7 @@
     <string name="config_show_pinned_tweet">고정된 트윗 표시</string>
     <string name="config_show_pinned_tweet_summary"></string>
     <string name="no_pinned_toots">There are no pinned toots.</string>
+    <string name="no_pinned_notes">There are no pinned notes.</string>
 
     <!-- サブスクリプション画面 -->
     <string name="continue_to_trial">Continue to trial</string>

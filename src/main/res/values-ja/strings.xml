@@ -312,6 +312,7 @@
     <string name="config_show_pinned_tweet">固定ツイートを表示する</string>
     <string name="config_show_pinned_tweet_summary">ユーザータイムラインの先頭に固定ツイートを表示します【初期値：ON】</string>
     <string name="no_pinned_toots">固定された投稿はありません。</string>
+    <string name="no_pinned_notes">固定されたノートはありません。</string>
 
     <!-- サブスクリプション画面 -->
     <string name="continue_to_trial">7日間無料で試す</string>

@@ -306,6 +306,7 @@
     <string name="config_show_pinned_tweet">顯示置頂推文</string>
     <string name="config_show_pinned_tweet_summary">“[預設:開]”</string>
     <string name="no_pinned_toots">There are no pinned toots.</string>
+    <string name="no_pinned_notes">There are no pinned notes.</string>
 
     <!-- サブスクリプション畫面 -->
     <string name="continue_to_trial">“繼續試用”</string>
