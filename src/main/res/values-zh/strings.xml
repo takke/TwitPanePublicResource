@@ -173,6 +173,7 @@
     <string name="no_channel_privileges_and_reauth_confirm">It seems that you do not have channel privileges. Would you like to re-authorize your account? (Current tab edits will be saved)</string>
     <string name="add_antenna_tab">Add Antenna Tab</string>
     <string name="no_antennas">No Antennas</string>
+    <string name="users_mentioned">Mentioned by %1$s users</string>
     <string name="remove_tab_confirm">你确定要删除 %1$s 吗？</string>
     <string name="add_search_tab">添加搜索选项卡</string>
     <string name="common_clear">清除</string>

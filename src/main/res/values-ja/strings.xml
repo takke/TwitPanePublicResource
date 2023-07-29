@@ -173,6 +173,7 @@
     <string name="no_channel_privileges_and_reauth_confirm">チャンネルの権限がないようです。アカウントの再認証を行いますか？(現在のタブ編集内容は保存されます)</string>
     <string name="add_antenna_tab">アンテナタブの追加</string>
     <string name="no_antennas">アンテナがありませんでした。アンテナを作成してからやり直してください。</string>
+    <string name="users_mentioned">%1$s人が投稿</string>
     <string name="remove_tab_confirm">"%1$s をタブから削除します。よろしいですか？"</string>
     <string name="add_search_tab">検索タブの追加</string>
     <string name="common_clear">クリア</string>
