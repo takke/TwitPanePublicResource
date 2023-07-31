@@ -301,6 +301,7 @@
     <string name="drawer_close">关闭</string>
 
     <string name="search_around_tweets_not_found_message">没有在 @%1$s 的时间轴中找到。</string>
+    <string name="search_around_toots_not_found_message">"Not found in @%1$s's timeline."</string>
 
     <!-- 固定ツイート -->
     <string name="pinned_tweet">置顶推文</string>

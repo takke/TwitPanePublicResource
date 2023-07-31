@@ -307,6 +307,7 @@
 - @%1$s の最新 %2$d 件のツイートから検索しましたが見つかりませんでした。もっと古いツイートかもしれません。\n
 - ツイートが削除されているかもしれません。\n
 </string>
+    <string name="search_around_toots_not_found_message">指定された投稿が @%1$s のタイムラインに見つかりませんでした。</string>
 
     <!-- 固定ツイート -->
     <string name="pinned_tweet">固定されたツイート</string>

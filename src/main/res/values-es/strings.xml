@@ -302,6 +302,7 @@
     <string name="drawer_close">"Cerrar"</string>
 
     <string name="search_around_tweets_not_found_message">"Not found in @%1$s's timeline…"</string>
+    <string name="search_around_toots_not_found_message">"Not found in @%1$s's timeline."</string>
 
     <!-- 固定ツイート -->
     <string name="pinned_tweet">Tweet fijado</string>
