@@ -464,6 +464,9 @@
     <string name="menu_delete_bookmark">Eliminar de marcador</string>
     <string name="menu_add_note_to_clip">Add to Clip</string>
     <string name="menu_remove_note_from_clip">Remove from Clip</string>
+    <string name="no_clips">No clips yet</string>
+    <string name="choose_clip">Choose clip to add note</string>
+    <string name="menu_create_clip">Create Clip</string>
     <string name="menu_show_conversation">"Conversación"</string>
     <string name="menu_open_by_other_account">Open by other account</string>
     <string name="note_not_found_on_server">Note not found on %1$s</string>
