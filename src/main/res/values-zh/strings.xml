@@ -50,6 +50,8 @@
     <string name="pane_name_channel">Channel</string>
     <string name="pane_name_antennas">Antennas</string>
     <string name="pane_name_antenna">Antenna</string>
+    <string name="pane_name_clips">Clips</string>
+    <string name="pane_name_clip">Clip</string>
     <string name="keywords">Keywords</string>
     <string name="pane_name_lists">列表</string>
     <string name="pane_name_lists_memberships">列表中的成员</string>
