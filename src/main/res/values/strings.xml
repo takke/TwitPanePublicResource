@@ -150,6 +150,8 @@
     <string name="cannot_favorite_duplicate_status_like">It may already liked.</string>
     <string name="bookmarked_message">Bookmarked</string>
     <string name="unbookmarked_message">Bookmark removed</string>
+    <string name="added_note_to_clip_message">Added note to clip</string>
+    <string name="removed_note_from_clip_message">Removed note from clip</string>
     <string name="delete_confirm_message">Delete this tweet?</string>
     <string name="delete_dm_confirm_message">Delete this message?</string>
     <string name="deleted_message">Deleted</string>

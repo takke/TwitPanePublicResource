@@ -150,6 +150,8 @@
     <string name="cannot_favorite_duplicate_status_like">このツイートは既にいいね済みのようです</string>
     <string name="bookmarked_message">ブックマークしました</string>
     <string name="unbookmarked_message">ブックマークを外しました</string>
+    <string name="added_note_to_clip_message">クリップしました</string>
+    <string name="removed_note_from_clip_message">クリップを削除しました</string>
     <string name="delete_confirm_message">このツイートを削除しますか？</string>
     <string name="delete_dm_confirm_message">このメッセージを削除しますか？</string>
     <string name="deleted_message">削除しました</string>
