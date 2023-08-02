@@ -462,6 +462,8 @@
     <string name="menu_remove_favorite_like">刪除點贊</string>
     <string name="menu_add_bookmark">添加到書籤</string>
     <string name="menu_delete_bookmark">從書籤中刪除</string>
+    <string name="menu_add_note_to_clip">Add to Clip</string>
+    <string name="menu_remove_note_from_clip">Remove from Clip</string>
     <string name="menu_show_conversation">對話</string>
     <string name="menu_open_by_other_account">Open by other account</string>
     <string name="note_not_found_on_server">Note not found on %1$s</string>

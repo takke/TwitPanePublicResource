@@ -468,6 +468,8 @@
     <string name="menu_remove_favorite_like">「いいね」を取り消す</string>
     <string name="menu_add_bookmark">ブックマークする</string>
     <string name="menu_delete_bookmark">ブックマークを外す</string>
+    <string name="menu_add_note_to_clip">クリップする</string>
+    <string name="menu_remove_note_from_clip">クリップを外す</string>
     <string name="menu_show_conversation">会話を表示する</string>
     <string name="menu_open_by_other_account">他のアカウントで開く</string>
     <string name="note_not_found_on_server">%1$s で対象のノートを取得できませんでしたよう</string>
