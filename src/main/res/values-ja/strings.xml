@@ -472,6 +472,7 @@
     <string name="menu_remove_note_from_clip">クリップを外す</string>
     <string name="no_clips">クリップがまだありません</string>
     <string name="menu_clip_delete">削除する</string>
+    <string name="menu_clip_delete_confirm">このクリップを削除しますか？</string>
     <string name="choose_clip">追加先のクリップを選択してください</string>
     <string name="menu_create_clip">クリップ作成</string>
     <string name="menu_show_conversation">会話を表示する</string>
