@@ -471,7 +471,7 @@
     <string name="menu_add_note_to_clip">クリップする</string>
     <string name="menu_remove_note_from_clip">クリップを外す</string>
     <string name="no_clips">クリップがまだありません</string>
-    <string name="choose_clip">ノートを追加するクリップを選択してください</string>
+    <string name="choose_clip">追加先のクリップを選択してください</string>
     <string name="menu_create_clip">クリップ作成</string>
     <string name="menu_show_conversation">会話を表示する</string>
     <string name="menu_open_by_other_account">他のアカウントで開く</string>
