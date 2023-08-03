@@ -475,6 +475,7 @@
     <string name="menu_clip_delete_confirm">このクリップを削除しますか？</string>
     <string name="choose_clip">追加先のクリップを選択してください</string>
     <string name="menu_create_clip">クリップ作成</string>
+    <string name="menu_edit_clip">クリップ編集</string>
     <string name="create_clip_public">公開する</string>
     <string name="clip_name">名前</string>
     <string name="clip_description">説明（任意）</string>
