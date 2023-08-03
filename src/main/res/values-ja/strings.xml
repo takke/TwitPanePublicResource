@@ -475,6 +475,7 @@
     <string name="menu_clip_delete_confirm">このクリップを削除しますか？</string>
     <string name="choose_clip">追加先のクリップを選択してください</string>
     <string name="menu_create_clip">クリップ作成</string>
+    <string name="create_clip_public">公開する</string>
     <string name="menu_show_conversation">会話を表示する</string>
     <string name="menu_open_by_other_account">他のアカウントで開く</string>
     <string name="note_not_found_on_server">%1$s で対象のノートを取得できませんでしたよう</string>

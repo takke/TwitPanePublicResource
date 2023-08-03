@@ -469,6 +469,7 @@
     <string name="menu_clip_delete_confirm">Delete this clip?</string>
     <string name="choose_clip">Choose clip to add note</string>
     <string name="menu_create_clip">Create Clip</string>
+    <string name="create_clip_public">Public</string>
     <string name="menu_show_conversation">"Conversación"</string>
     <string name="menu_open_by_other_account">Open by other account</string>
     <string name="note_not_found_on_server">Note not found on %1$s</string>
