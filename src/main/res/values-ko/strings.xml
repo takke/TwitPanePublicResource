@@ -1239,7 +1239,7 @@
 	<string name="config_menu_icon_color">"메뉴 아이콘 색상"</string>
 	<string name="config_menu_icon_color_twact">"트위터 액션"</string>
     <string name="config_menu_icon_color_twact_delete">트위터 액션(삭제)</string>
-	<string name="config_menu_icon_color_streaming">"스트리밍"</string>
+	<string name="config_menu_icon_color_notification">"알림"</string>
 	<string name="config_menu_icon_color_view">"보기"</string>
 	<string name="config_menu_icon_color_share">"공유"</string>
 	<string name="config_menu_icon_color_config">"설정"</string>

@@ -1275,7 +1275,7 @@
 	<string name="config_menu_icon_color">メニューアイコンカラー設定</string>
 	<string name="config_menu_icon_color_twact">Twitter操作関連</string>
     <string name="config_menu_icon_color_twact_delete">Twitter操作関連(削除)</string>
-	<string name="config_menu_icon_color_streaming">Streaming関連</string>
+	<string name="config_menu_icon_color_notification">通知関連</string>
 	<string name="config_menu_icon_color_view">表示関連</string>
 	<string name="config_menu_icon_color_share">共有関連</string>
 	<string name="config_menu_icon_color_config">設定関連</string>

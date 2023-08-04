@@ -1240,7 +1240,7 @@
     <string name="config_menu_icon_color">"Color de los iconos de menú"</string>
     <string name="config_menu_icon_color_twact">"Acción Twitter"</string>
     <string name="config_menu_icon_color_twact_delete">Acción Twitter(Eliminar)</string>
-    <string name="config_menu_icon_color_streaming">"Transmisión"</string>
+    <string name="config_menu_icon_color_notification">"Notificación"</string>
     <string name="config_menu_icon_color_view">"Ver"</string>
     <string name="config_menu_icon_color_share">"Compartir"</string>
     <string name="config_menu_icon_color_config">"Configurar"</string>

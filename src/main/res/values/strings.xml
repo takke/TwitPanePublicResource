@@ -1268,7 +1268,7 @@ Do you want to enable it?</string>
 	<string name="config_menu_icon_color">Menu Icon Color</string>
     <string name="config_menu_icon_color_twact">Twitter Action</string>
     <string name="config_menu_icon_color_twact_delete">Twitter Action(Delete)</string>
-	<string name="config_menu_icon_color_streaming">Streaming</string>
+	<string name="config_menu_icon_color_notification">Notification</string>
 	<string name="config_menu_icon_color_view">View</string>
 	<string name="config_menu_icon_color_share">Share</string>
 	<string name="config_menu_icon_color_config">Config</string>

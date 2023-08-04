@@ -1281,7 +1281,7 @@
     <string name="config_menu_icon_color">菜單圖標顏色</string>
     <string name="config_menu_icon_color_twact">Twitter動作</string>
     <string name="config_menu_icon_color_twact_delete">Twitter動作(刪除)</string>
-    <string name="config_menu_icon_color_streaming">串流</string>
+    <string name="config_menu_icon_color_notification">通知</string>
     <string name="config_menu_icon_color_view">查看</string>
     <string name="config_menu_icon_color_share">分享</string>
     <string name="config_menu_icon_color_config">設置</string>
