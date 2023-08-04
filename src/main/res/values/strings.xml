@@ -461,6 +461,7 @@
     <string name="confirm_retweet_with_official_app">Open the Retweet page of the official app. \n\nPlease note the account error as it will be executed with the account already logged in on the official app.\n\n*The \"Remember\" button will immediately open the official application without displaying this screen for about one day from the next time.</string>
     <string name="menu_remove_favorite_like">Undo like</string>
     <string name="menu_add_bookmark">Add to Bookmark</string>
+    <string name="menu_add_bookmark_or_clip">Add to Bookmark or Clip</string>
     <string name="menu_delete_bookmark">Delete from Bookmark</string>
     <string name="menu_add_note_to_clip">Add to Clip</string>
     <string name="menu_remove_note_from_clip">Remove from Clip</string>

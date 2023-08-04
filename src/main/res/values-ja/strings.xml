@@ -467,6 +467,7 @@
     <string name="confirm_retweet_with_official_app">公式アプリのRT画面を開きます。\n\n公式アプリでログイン済みのアカウントで実行されるのでアカウント誤りにご注意ください。\n\n※「記憶する」ボタンを押すと次回から1日程度、この画面を表示せずにすぐに公式アプリを開きます。</string>
     <string name="menu_remove_favorite_like">「いいね」を取り消す</string>
     <string name="menu_add_bookmark">ブックマークする</string>
+    <string name="menu_add_bookmark_or_clip">ブックマーク/クリップする</string>
     <string name="menu_delete_bookmark">ブックマークを外す</string>
     <string name="menu_add_note_to_clip">クリップする</string>
     <string name="menu_remove_note_from_clip">クリップを外す</string>
