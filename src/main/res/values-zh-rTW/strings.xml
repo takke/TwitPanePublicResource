@@ -428,6 +428,7 @@
     <string name="menu_show_personal_timeline">Personal Timeline</string>
     <string name="menu_fedibird_follow_subscribe_management">Follow/subscribe management</string>
     <string name="menu_show_follow_hashtag_management">Hashtags following management</string>
+    <string name="menu_show_follow_follower">Follow and Followers</string>
     <string name="confirm_open_browser_for_fedibird_function_of">Open an in-app browser for Fedibird\'s `$1%s` page.</string>
 
     <string name="menu_campaign_ad">廣告宣傳活動</string>
