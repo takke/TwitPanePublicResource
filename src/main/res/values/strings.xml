@@ -434,6 +434,7 @@
     <string name="menu_show_subscribe_account_management">Subscribe account management</string>
     <string name="confirm_open_browser_for_fedibird_function_of">Open an in-app browser for Fedibird\'s `$1%s` page.</string>
     <string name="menu_show_following_hashtags">Following Hashtags</string>
+    <string name="no_following_hashtags">No following hashtags</string>
 
     <string name="menu_campaign_ad">Ad Campaign</string>
     <string name="campaign_info">About Campaign</string>
