@@ -427,7 +427,7 @@
     <string name="menu_show_no_retweet_users">Los usuarios no Retweet</string>
     <string name="menu_show_personal_timeline">Personal Timeline</string>
     <string name="menu_show_follow_hashtag_management">Hashtags following management</string>
-    <string name="confirm_show_follow_hashtag_settings_of_fedibird">Open an in-app browser for Fedibird\'s Follow Hashtag management page.</string>
+    <string name="confirm_open_browser_for_fedibird_function_of">Open an in-app browser for Fedibird\'s `$1%s` page.</string>
 
     <string name="menu_campaign_ad">"Ocultar publicidad"</string>
     <string name="campaign_info">"Acerca de la campaña"</string>
