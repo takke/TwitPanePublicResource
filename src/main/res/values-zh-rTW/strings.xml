@@ -433,6 +433,7 @@
     <string name="menu_show_subscribe_keyword_management">Subscribe keyword management</string>
     <string name="menu_show_subscribe_account_management">Subscribe account management</string>
     <string name="confirm_open_browser_for_fedibird_function_of">Open an in-app browser for Fedibird\'s `$1%s` page.</string>
+    <string name="menu_show_following_hashtags">Following Hashtags</string>
 
     <string name="menu_campaign_ad">廣告宣傳活動</string>
     <string name="campaign_info">關於宣傳活動</string>
