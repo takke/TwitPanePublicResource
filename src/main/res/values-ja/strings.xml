@@ -436,6 +436,8 @@
     <string name="menu_show_follow_hashtag_management">ハッシュタグのフォロー管理</string>
     <string name="menu_show_follow_follower">フォロー・フォロワー</string>
     <string name="menu_show_subscribe_account_management">アカウントの購読</string>
+    <string name="menu_show_subscribe_domain_management">ドメインの購読</string>
+    <string name="menu_show_subscribe_keyword_management">キーワードの購読</string>
     <string name="confirm_open_browser_for_fedibird_function_of">Fedibird の%1$sをアプリ内ブラウザで開きます。\n※Fedibird の複数アカウントをお持ちの場合は別のアカウントで操作しないようにご注意ください。</string>
 
     <string name="menu_campaign_ad">広告を消す</string>

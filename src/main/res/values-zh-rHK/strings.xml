@@ -429,6 +429,8 @@
     <string name="menu_fedibird_follow_subscribe_management">Follow/subscribe management</string>
     <string name="menu_show_follow_hashtag_management">Hashtags following management</string>
     <string name="menu_show_follow_follower">Follow and Followers</string>
+    <string name="menu_show_subscribe_domain_management">Subscribe domain management</string>
+    <string name="menu_show_subscribe_keyword_management">Subscribe keyword management</string>
     <string name="menu_show_subscribe_account_management">Subscribe account management</string>
     <string name="confirm_open_browser_for_fedibird_function_of">Open an in-app browser for Fedibird\'s `$1%s` page.</string>
 
