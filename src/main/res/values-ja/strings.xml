@@ -432,6 +432,8 @@
     <string name="menu_show_emoji_reactions_notes">絵文字リアクションしたノート</string>
     <string name="menu_show_no_retweet_users">リツイート非表示ユーザー一覧</string>
     <string name="menu_show_personal_timeline">自分限定ホーム</string>
+    <string name="menu_show_follow_hashtag_management">ハッシュタグのフォロー管理</string>
+    <string name="confirm_show_follow_hashtag_settings_of_fedibird">Fedibird のハッシュタグのフォロー管理は本アプリがまだ対応していないためアプリ内ブラウザで開きます。\n※Fedibird の複数アカウントをお持ちの場合は別のアカウントで操作しないようにご注意ください。</string>
 
     <string name="menu_campaign_ad">広告を消す</string>
     <string name="campaign_info">広告解除について</string>

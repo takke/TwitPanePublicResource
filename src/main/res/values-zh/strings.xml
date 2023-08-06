@@ -426,6 +426,8 @@
     <string name="menu_show_emoji_reactions_notes">Emoji Reacted Notes</string>
     <string name="menu_show_no_retweet_users">显示非转推用户</string>
     <string name="menu_show_personal_timeline">Personal Timeline</string>
+    <string name="menu_show_follow_hashtag_management">Hashtags following management</string>
+    <string name="confirm_show_follow_hashtag_settings_of_fedibird">Open an in-app browser for Fedibird\'s Follow Hashtag management page.</string>
 
     <string name="menu_campaign_ad">广告宣传活动</string>
     <string name="campaign_info">关于宣传活动</string>
