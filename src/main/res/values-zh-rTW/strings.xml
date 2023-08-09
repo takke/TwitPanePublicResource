@@ -796,6 +796,8 @@
 
     <string name="config_font_size">字型大小</string>
     <string name="config_line_spacing">行距</string>
+    <string name="config_initial_max_lines_of_body_text">Max lines of text</string>
+    <string name="config_initial_max_lines_of_body_text_summary"></string>
     <string name="config_theme">主題</string>
     <string name="config_appearance">外觀</string>
     <string name="config_timeline_compose_category">時間軸和推文編寫</string>
