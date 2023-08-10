@@ -809,6 +809,7 @@
     <string name="config_line_spacing">本文の行間</string>
     <string name="config_initial_max_lines_of_body_text">長い投稿の折りたたみ表示(最大行数)</string>
     <string name="config_initial_max_lines_of_body_text_summary">長い投稿を折りたたみ表示します。</string>
+    <string name="not_ellipsis">無効(折りたたまない)</string>
     <string name="config_theme">テーマとデザイン設定</string>
     <string name="config_appearance">外観</string>
     <string name="config_timeline_compose_category">タイムラインと投稿</string>

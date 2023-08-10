@@ -798,6 +798,7 @@
     <string name="config_line_spacing">行距</string>
     <string name="config_initial_max_lines_of_body_text">Max lines of text</string>
     <string name="config_initial_max_lines_of_body_text_summary"></string>
+    <string name="not_ellipsis">Not ellipsis</string>
     <string name="config_theme">主题</string>
     <string name="config_appearance">外观</string>
     <string name="config_timeline_compose_category">时间轴和推文编写</string>
