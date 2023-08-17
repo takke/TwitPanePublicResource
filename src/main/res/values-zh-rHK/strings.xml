@@ -1000,6 +1000,7 @@
     <string name="config_show_tweet_confirm_dialog_title">推文確認</string>
     <string name="config_show_tweet_confirm_dialog_summary">發送推文或消息之前顯示確認對話框</string>
     <string name="config_initial_visibility">Initial Visibility</string>
+    <string name="config_initial_visibility_per_account">Initial Visibility(Per Account)</string>
     <string name="config_tweet_font_size">字體大小</string>
     <string name="config_refresh_timeline_after_tweet_title">提交後自動更新</string>
     <string name="config_refresh_timeline_after_tweet_summary">發送推文後刷新時間軸[默認：關]</string>

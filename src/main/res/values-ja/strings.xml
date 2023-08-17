@@ -1017,6 +1017,7 @@
 	<string name="config_show_tweet_confirm_dialog_title">投稿前の確認画面</string>
 	<string name="config_show_tweet_confirm_dialog_summary">ツイートやメッセージの投稿前に投稿内容を確認する画面を表示します【初期値：ON】</string>
     <string name="config_initial_visibility">公開範囲の初期値</string>
+    <string name="config_initial_visibility_per_account">公開範囲の初期値(アカウント毎)</string>
     <string name="config_tweet_font_size">フォントサイズ</string>
     <string name="config_refresh_timeline_after_tweet_title">投稿後の自動更新</string>
     <string name="config_refresh_timeline_after_tweet_summary">ツイート投稿後にタイムラインを再取得します【初期値：OFF】</string>
