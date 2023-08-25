@@ -1382,6 +1382,7 @@
     <string name="require_location_permission_to_for_trend">トレンドの地域を判定するために「位置情報」権限が必要です。次の画面で許可してください</string>
     <string name="request_to_grant_storage_permission_on_settings">本機能の実行には「ストレージ」権限が必要です。\n\n次の画面で「権限」->「ストレージ」をOnにしてください</string>
     <string name="require_storage_permission">本機能の実行には「ストレージ」権限が必要です。次の画面で許可してください</string>
+    <string name="require_notification_permission">本アプリの動作には「通知」権限が必要です。次の画面で許可してください</string>
 
     <!-- ================================================================================ -->
     <!-- アカウント再認証、自動インポート関連 -->

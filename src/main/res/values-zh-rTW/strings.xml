@@ -1388,6 +1388,7 @@
     <string name="require_location_permission_to_for_trend">需要授權來獲取本地趨勢。</string>
     <string name="request_to_grant_storage_permission_on_settings">需要訪問本地檔案的許可權才能執行此功能。\n\n請授予訪問本地檔案的許可權</string>
     <string name="require_storage_permission">需要訪問本地檔案的許可權</string>
+    <string name="require_notification_permission">Require notification permission</string>
 
     <!-- ================================================================================ -->
     <!-- アカウント再認証、自動インポート関連 -->

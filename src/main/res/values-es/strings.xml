@@ -1347,6 +1347,7 @@
     <string name="require_location_permission_to_for_trend">Require permission to get location of Trend.</string>
     <string name="request_to_grant_storage_permission_on_settings">Require STORAGE permission to run this function.\n\nPlease grant permission of storage.</string>
     <string name="require_storage_permission">Require storage permission</string>
+    <string name="require_notification_permission">Require notification permission</string>
 
     <!-- ================================================================================ -->
     <!-- アカウント再認証、自動インポート関連 -->
