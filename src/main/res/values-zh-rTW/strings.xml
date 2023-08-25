@@ -1026,8 +1026,8 @@
     <string name="config_gallery_action">畫廊型別</string>
     <string name="config_gallery_action_summary"></string>
     <string-array name="config_gallery_actions">
-        <item>Pick[default]</item>
-        <item>GetContent</item>
+        <item>Pick</item>
+        <item>GetContent[default]</item>
     </string-array>
 
     <string name="config_confirm_settings_category">確認設定</string>
