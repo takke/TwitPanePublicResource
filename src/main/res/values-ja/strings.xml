@@ -650,6 +650,7 @@
     <string name="mky_compose_activity_title">ノート</string>
     <string name="custom_emoji_picker_activity_title">カスタム絵文字ピッカー</string>
     <string name="write_view_spoiler_label">内容注意メッセージ</string>
+    <string name="write_view_sensitive">Sensitive</string>
     <string name="visibility">公開範囲</string>
     <string name="visibility_public">公開：公開タイムラインに投稿する</string>
     <string name="visibility_unlisted">未収載：公開タイムラインには表示しない</string>

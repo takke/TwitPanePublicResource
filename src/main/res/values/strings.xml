@@ -644,6 +644,7 @@
     <string name="mky_compose_activity_title">Note</string>
     <string name="custom_emoji_picker_activity_title">CustomEmojiPicker</string>
     <string name="write_view_spoiler_label">Content warning</string>
+    <string name="write_view_sensitive">Sensitive</string>
     <string name="visibility">Visibility</string>
     <string name="visibility_public">Public</string>
     <string name="visibility_unlisted">Unlisted</string>
