@@ -1334,6 +1334,8 @@
     <string name="theme_body_my_tweet">正文（我的推文）</string>
     <string name="theme_body_read">正文（閱讀）</string>
     <string name="theme_name_url_hashtag">\@name、URL、主題標籤</string>
+    <string name="theme_name_cw_button">CW按鈕</string>
+    <string name="theme_name_more_button">更多按鈕</string>
     <string name="theme_tab">標籤</string>
     <string name="theme_actionbar">標題欄</string>
     <string name="theme_statusbar">狀態列</string>

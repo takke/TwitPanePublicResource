@@ -1321,6 +1321,8 @@ Do you want to enable it?</string>
     <string name="theme_body_my_tweet">Body(My tweet)</string>
     <string name="theme_body_read">Body(Read)</string>
     <string name="theme_name_url_hashtag">\@name, URL, hashtag</string>
+    <string name="theme_name_cw_button">CW Button</string>
+    <string name="theme_name_more_button">More Button</string>
     <string name="theme_tab">Tab</string>
     <string name="theme_actionbar">TitleBar</string>
     <string name="theme_statusbar">StatusBar</string>

@@ -1292,6 +1292,8 @@
     <string name="theme_body_my_tweet">"본문 (내 트윗)"</string>
     <string name="theme_body_read">"본문 (읽기)"</string>
     <string name="theme_name_url_hashtag">"\@ 이름, URL, 해시태그"</string>
+    <string name="theme_name_cw_button">"CW 버튼"</string>
+    <string name="theme_name_more_button">"더보기 버튼"</string>
     <string name="theme_tab">"탭"</string>
     <string name="theme_actionbar">제목 표시 줄</string>
     <string name="theme_statusbar">상태 표시 줄</string>

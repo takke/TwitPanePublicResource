@@ -1328,6 +1328,8 @@
     <string name="theme_body_my_tweet">本文(自分の投稿)</string>
     <string name="theme_body_read">本文、名前(既読)</string>
     <string name="theme_name_url_hashtag">\@名前・URL・ハッシュタグ</string>
+    <string name="theme_name_cw_button">「もっと見る」ボタン(CW)</string>
+    <string name="theme_name_more_button">「もっと見る」ボタン(省略)</string>
     <string name="theme_tab">タブ</string>
     <string name="theme_actionbar">タイトルバー</string>
     <string name="theme_statusbar">ステータスバー</string>
