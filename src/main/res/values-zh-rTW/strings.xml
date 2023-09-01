@@ -808,6 +808,8 @@
     <string name="config_thumb_size_summary"></string>
     <string name="config_show_reply_user_thumbnail">顯示回覆縮圖</string>
     <string name="config_show_reply_user_thumbnail_summary">顯示回覆使用者的縮圖圖示</string>
+    <string name="config_bold_name">Bold name</string>
+    <string name="config_bold_name_summary"></string>
     <string name="config_wrap_name_line">包裹名稱</string>
     <string name="config_wrap_name_line_summary"></string>
     <string name="config_preview_of_attached_photo_category">預覽附件中的照片</string>

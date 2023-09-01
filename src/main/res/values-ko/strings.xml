@@ -806,6 +806,8 @@
     <string name="config_thumb_size_summary">""</string>
     <string name="config_show_reply_user_thumbnail">"썸네일 응답 보기"</string>
     <string name="config_show_reply_user_thumbnail_summary">"회신 유저의 썸네일 아이콘을 보이기"</string>
+    <string name="config_bold_name">Bold name</string>
+    <string name="config_bold_name_summary"></string>
     <string name="config_wrap_name_line">이름을 바꿈</string>
     <string name="config_wrap_name_line_summary"></string>
     <string name="config_preview_of_attached_photo_category">Preview of attached photo</string>

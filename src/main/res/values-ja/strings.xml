@@ -819,6 +819,8 @@
     <string name="config_thumb_size_summary">左側のユーザーアイコンのサイズを設定します</string>
     <string name="config_show_reply_user_thumbnail">返信ユーザーアイコン表示</string>
     <string name="config_show_reply_user_thumbnail_summary">返信先ユーザーのアイコンを表示します【初期値：ON】</string>
+    <string name="config_bold_name">名前の太字表示</string>
+    <string name="config_bold_name_summary">名前を太字にします【初期値：OFF】</string>
     <string name="config_wrap_name_line">名前を折り返す</string>
     <string name="config_wrap_name_line_summary">長い名前を折り返します【初期値：ON】</string>
     <string name="config_preview_of_attached_photo_category">添付画像プレビュー</string>
