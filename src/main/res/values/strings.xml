@@ -859,6 +859,8 @@
     <string name="config_show_source_app_summary"></string>
     <string name="config_show_server_info">Show server info of notes</string>
     <string name="config_show_server_info_summary">[default:ON]</string>
+    <string name="config_ignore_unsupported_mfm">Ignore unsupported MFM</string>
+    <string name="config_ignore_unsupported_mfm_summary">[default:ON]</string>
     <string name="config_show_image_url">Show Image URL</string>
     <string name="config_show_image_url_summary"></string>
     <string name="config_show_followers_count_bar">Show Followers Count Bar</string>
