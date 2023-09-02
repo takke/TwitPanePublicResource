@@ -868,7 +868,7 @@
     <string name="config_show_source_app_summary">投稿に利用したアプリ名を「○○から」のように表示します【初期値：ON】</string>
     <string name="config_show_server_info">投稿元サーバーを表示する</string>
     <string name="config_show_server_info_summary">Misskeyのノートで他サーバーの情報を表示します【初期値：ON】</string>
-    <string name="config_ignore_unsupported_mfm">未対応のMFMを無視する</string>
+    <string name="config_ignore_unsupported_mfm">未対応のMFMを非表示にする</string>
     <string name="config_ignore_unsupported_mfm_summary">flipやrotateなどの未対応のMFMを無視して表示します【初期値：ON】</string>
     <string name="config_show_image_url">画像URLを表示する</string>
     <string name="config_show_image_url_summary">オフにすると公式アプリのように公式画像のURLが非表示になりタイムラインがすっきりします【初期値：OFF】</string>
