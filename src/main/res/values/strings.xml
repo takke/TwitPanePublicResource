@@ -954,8 +954,8 @@
 Do you want to enable it?</string>
     <string name="config_auto_load_at_startup">Auto load TL at startup</string>
     <string name="config_auto_load_at_startup_summary">at the startup of app, the new timeline will loaded automatically when the cursor is top of timeline</string>
-    <string name="config_misskey_timeline_with_replies">Show replies on timeline</string>
-    <string name="config_misskey_timeline_hide_replies">Hide replies on timeline</string>
+    <string name="config_misskey_timeline_with_replies">Show replies</string>
+    <string name="config_misskey_timeline_hide_replies">Hide replies</string>
     <string name="config_auto_pager">Auto pager</string>
     <string name="config_auto_pager_summary">Get next page when the scrolling position is bottom of the list</string>
     <string name="config_scroll_pos_after_acquired_gap">Scroll pos after gap</string>

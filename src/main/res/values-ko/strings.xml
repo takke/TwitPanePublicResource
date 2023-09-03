@@ -942,8 +942,8 @@
     <string name="config_use_home_timeline_v2_summary">Twitter API v2를 사용하여 홈 타임라인 가져오기</string>
     <string name="config_auto_load_at_startup">"시작 시 TL 자동로드"</string>
     <string name="config_auto_load_at_startup_summary">"앱의 시작 시, 커서가 타임라인의 상위에 있을 때 새로운 타임라인이 자동으로 로딩될 것입니다"</string>
-    <string name="config_misskey_timeline_with_replies">Show replies on timeline</string>
-    <string name="config_misskey_timeline_hide_replies">Hide replies on timeline</string>
+    <string name="config_misskey_timeline_with_replies">Show replies</string>
+    <string name="config_misskey_timeline_hide_replies">Hide replies</string>
     <string name="config_auto_pager">"자동 호출기"</string>
     <string name="config_auto_pager_summary">"스크롤 위치가 목록의 하단에 있을 때 다음페이지로 가세요"</string>
     <string name="config_scroll_pos_after_acquired_gap">"간격 이후에 스크롤 위치"</string>
