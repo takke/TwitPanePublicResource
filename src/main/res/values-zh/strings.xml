@@ -944,6 +944,8 @@
     <string name="config_use_home_timeline_v2_summary">使用 Twitter API v2 获取主页时间轴</string>
     <string name="config_auto_load_at_startup">启动时自动加载时间轴</string>
     <string name="config_auto_load_at_startup_summary">在应用程序启动时，当光标位于时间线的顶部时，新的时间线将自动加载。</string>
+    <string name="config_misskey_timeline_with_replies">Show replies on timeline</string>
+    <string name="config_misskey_timeline_hide_replies">Hide replies on timeline</string>
     <string name="config_auto_pager">自动页面加载</string>
     <string name="config_auto_pager_summary">当滚动位置在列表的底部时，获取下一页</string>
     <string name="config_scroll_pos_after_acquired_gap">设置间隙后的滚动位置</string>
