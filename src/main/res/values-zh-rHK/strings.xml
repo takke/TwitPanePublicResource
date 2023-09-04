@@ -116,6 +116,7 @@
     <string name="account_reauth">重新認證</string>
     <string name="menu_instance_info">Instance Info</string>
     <string name="menu_server_info">Server Info</string>
+    <string name="menu_change_account_color">Change Account Color</string>
     <string name="mst_announcements">Announcements</string>
     <string name="changing_account_to">改變為\@%1$s</string>
     <string name="cannot_auth_account_via_official_twitter_app">通過官方 Twitter 應用程序登錄過程中發生錯誤。 \n\n(%1$s)\n\n通過瀏覽器登錄。</string>
