@@ -611,6 +611,8 @@
     <string name="choose_account">계정 선택</string>
     <string name="other_color_with_color_picker">"기타 (색 추출)"</string>
     <string name="change_color">"색 변경"</string>
+    <string name="change_tab_color">"탭 색상 변경"</string>
+    <string name="change_account_color">"계정 색상 변경"</string>
     <string name="default_color">"기본 색상"</string>
     <string name="no_color_label">"색상 레이블이 없습니다"</string>
 

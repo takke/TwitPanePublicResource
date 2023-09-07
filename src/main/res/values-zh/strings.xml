@@ -613,6 +613,8 @@
     <string name="choose_account">选择账户</string>
     <string name="other_color_with_color_picker">其他（颜色选取器）</string>
     <string name="change_color">更改颜色</string>
+    <string name="change_tab_color">更改标签颜色</string>
+    <string name="change_account_color">更改帐户颜色</string>
     <string name="default_color">默认颜色</string>
     <string name="no_color_label">无彩色标签</string>
 

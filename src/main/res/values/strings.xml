@@ -614,6 +614,8 @@
     <string name="choose_account">Choose Account</string>
     <string name="other_color_with_color_picker">Other(Color Picker)</string>
     <string name="change_color">Change Color</string>
+    <string name="change_tab_color">Change Tab Color</string>
+    <string name="change_account_color">Change Account Color</string>
     <string name="default_color">Default Color</string>
     <string name="no_color_label">No color label</string>
 

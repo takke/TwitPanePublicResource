@@ -620,6 +620,8 @@
     <string name="choose_account">アカウント選択</string>
     <string name="other_color_with_color_picker">その他(カラーピッカー)</string>
     <string name="change_color">カラー変更</string>
+    <string name="change_tab_color">タブのカラー変更</string>
+    <string name="change_account_color">アカウントのカラー変更</string>
     <string name="default_color">既定色</string>
     <string name="no_color_label">カラーラベルなし</string>
 

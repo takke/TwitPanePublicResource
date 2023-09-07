@@ -613,6 +613,8 @@
     <string name="choose_account">Elija Cuenta</string>
     <string name="other_color_with_color_picker">"Otros (selector de color)"</string>
     <string name="change_color">"Cambiar color"</string>
+    <string name="change_tab_color">"Cambiar color de pestaña"</string>
+    <string name="change_account_color">"Cambiar color de cuenta"</string>
     <string name="default_color">"Color predeterminado"</string>
     <string name="no_color_label">"Sin etiqueta de color"</string>
 
