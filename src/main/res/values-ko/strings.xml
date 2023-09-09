@@ -380,7 +380,7 @@
     <string name="restore_default_confirm_message">"기본탭을 정말로 복구하시겠습니까?"</string>
     <string name="menu_add">"추가 "</string>
     <string name="menu_delete_tab">"탭 삭제"</string>
-    <string name="tab_delete_confirm">Are you sure you want to delete tab "%1$s" ?</string>
+    <string name="tab_delete_confirm">Are you sure you want to delete tab ?</string>
     <string name="menu_add_page_to_home">"상위에 페이지 추가"</string>
     <string name="add_user_page_to_home_already_added">"이미 추가되었습니다.."</string>
     <string name="add_user_page_to_home_finish">"추가됨"</string>

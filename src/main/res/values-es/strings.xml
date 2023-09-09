@@ -383,7 +383,7 @@
     <string name="restore_default_confirm_message">"¿Seguro que quiere restaurar las pestañas predeterminadas?"</string>
     <string name="menu_add">"Añadir"</string>
     <string name="menu_delete_tab">"Eliminar pestaña"</string>
-    <string name="tab_delete_confirm">Are you sure you want to delete tab "%1$s" ?</string>
+    <string name="tab_delete_confirm">Are you sure you want to delete tab ?</string>
     <string name="menu_add_page_to_home">"Añadir página a la parte superior"</string>
     <string name="add_user_page_to_home_already_added">"ya se ha añadido .."</string>
     <string name="add_user_page_to_home_finish">"añadido"</string>

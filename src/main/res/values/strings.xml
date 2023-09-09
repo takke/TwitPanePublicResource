@@ -383,7 +383,7 @@
     <string name="restore_default_confirm_message">Are you sure to restore default tabs. OK?</string>
     <string name="menu_add">Add</string>
     <string name="menu_delete_tab">Delete Tab</string>
-    <string name="tab_delete_confirm">Are you sure you want to delete tab "%1$s" ?</string>
+    <string name="tab_delete_confirm">Are you sure you want to delete tab ?</string>
     <string name="menu_add_page_to_home">Add Page to Top</string>
     <string name="add_user_page_to_home_already_added">already added..</string>
     <string name="add_user_page_to_home_finish">added</string>
