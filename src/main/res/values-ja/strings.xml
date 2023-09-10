@@ -462,6 +462,7 @@
     <string name="menu_reply_all">全員に返信する</string>
     <string name="menu_edit">編集する</string>
     <string name="menu_delete_and_redraft">削除して下書きに戻す</string>
+    <string name="delete_and_redraft_warning">本当にこの投稿を削除して下書きに戻しますか？この投稿へのお気に入り登録やブーストは失われ、返信は孤立することになります。</string>
     <string name="menu_hidden_button">機能なし(非表示)</string>
     <string name="menu_rt">リツイート</string>
     <string name="menu_boost">ブースト</string>
