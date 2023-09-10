@@ -455,6 +455,7 @@
     <string name="menu_reply">"Responder"</string>
     <string name="menu_reply_all">"Responder a todo"</string>
     <string name="menu_edit">Edit</string>
+    <string name="menu_delete_and_redraft">Delete and Redraft</string>
     <string name="menu_hidden_button">"Sin función (Oculto)"</string>
     <string name="menu_rt">"Retwittear"</string>
     <string name="menu_boost">Boost</string>

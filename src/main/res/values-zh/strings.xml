@@ -455,6 +455,7 @@
     <string name="menu_reply">回复</string>
     <string name="menu_reply_all">全部回复</string>
     <string name="menu_edit">Edit</string>
+    <string name="menu_delete_and_redraft">Delete and Redraft</string>
     <string name="menu_hidden_button">无功能（隐藏）</string>
     <string name="menu_rt">转推</string>
     <string name="menu_boost">Boost</string>

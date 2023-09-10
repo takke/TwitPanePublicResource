@@ -452,6 +452,7 @@
     <string name="menu_reply">"답장"</string>
     <string name="menu_reply_all">"모두에게 응답"</string>
     <string name="menu_edit">Edit</string>
+    <string name="menu_delete_and_redraft">Delete and Redraft</string>
     <string name="menu_hidden_button">"기능 없음 (숨김)"</string>
     <string name="menu_rt">"리트윗"</string>
     <string name="menu_boost">Boost</string>
