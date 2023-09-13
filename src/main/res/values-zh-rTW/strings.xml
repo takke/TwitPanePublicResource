@@ -132,6 +132,7 @@
     <string name="send_note_mention_button">新提及</string>
 
     <string name="retweet_confirm_message">轉推此推文？</string>
+    <string name="renote_in_channel_confirm_message">Renote this note in the channel?</string>
     <string name="boost_confirm_message">Boost this toot?</string>
     <string name="retweeted_message">已轉推</string>
     <string name="boosted_message">Boosted</string>

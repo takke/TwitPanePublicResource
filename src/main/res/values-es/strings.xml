@@ -132,6 +132,7 @@
     <string name="send_note_mention_button">"nueva mención"</string>
 
     <string name="retweet_confirm_message">"¿Retwittear este tweet?"</string>
+    <string name="renote_in_channel_confirm_message">Renote this note in the channel?</string>
     <string name="boost_confirm_message">Boost this toot?</string>
     <string name="retweeted_message">"Retwitteado"</string>
     <string name="boosted_message">Boosted</string>
