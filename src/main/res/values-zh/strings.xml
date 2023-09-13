@@ -463,6 +463,7 @@
     <string name="delete_and_edit_warning">Are you sure you want to delete this post and edit it? Reactions, Renotes and Replies will be missing.</string>
     <string name="menu_hidden_button">无功能（隐藏）</string>
     <string name="menu_rt">转推</string>
+    <string name="menu_renote_in_channel">Renote in Channel</string>
     <string name="menu_boost">Boost</string>
     <string name="menu_quote_tweet">引用推文</string>
     <string name="menu_quote">引用</string>

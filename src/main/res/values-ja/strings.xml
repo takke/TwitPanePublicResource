@@ -469,6 +469,7 @@
     <string name="delete_and_edit_warning">このノートを削除してもう一度編集しますか？このノートへのリアクション、Renote、返信も全て削除されます。</string>
     <string name="menu_hidden_button">機能なし(非表示)</string>
     <string name="menu_rt">リツイート</string>
+    <string name="menu_renote_in_channel">チャンネル内リノート</string>
     <string name="menu_boost">ブースト</string>
     <string name="menu_quote_tweet">引用ツイート</string>
     <string name="menu_quote">引用して投稿する</string>
