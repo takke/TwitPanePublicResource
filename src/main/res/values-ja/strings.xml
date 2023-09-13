@@ -911,6 +911,7 @@
     <string name="config_emoji_reactions_display_limit">絵文字リアクションの表示件数</string>
     <string name="config_emoji_reactions_display_limit_summary">タイムラインに表示する絵文字リアクションの個数です。これを超える場合は「もっと見る」ボタンが表示されます。Misskey or Mastodon(Fedibird, kmy.blue)</string>
     <string name="config_custom_emoji_column_count">1行内の絵文字の個数</string>
+    <string name="config_custom_emoji_enable_ime_on_startup">起動時にIMEをONにする</string>
     <string name="config_custom_emoji_animation_enabled">アニメーション有効</string>
     <string name="config_custom_emoji_picker_one_tap_mode">ワンタップモード</string>
     <string name="config_custom_emoji_picker_deck_edit_mode">デッキ編集モード</string>
