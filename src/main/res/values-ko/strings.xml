@@ -1028,8 +1028,8 @@
     <string name="config_use_screen_name_completion_summary"></string>
     <string name="config_show_actionbar_tweet_button">메뉴 버튼을하기 Tweet</string>
     <string name="config_show_actionbar_tweet_button_summary">메뉴에서 트윗 버튼을 표시</string>
-	<string name="config_show_emoji_ime_title">"이모티콘 입력 지원"</string>
-	<string name="config_show_emoji_ime_summary">"지원하는 경우 IME의 이모티콘 입력 기능을 활성화"</string>
+<!--	<string name="config_show_emoji_ime_title">"이모티콘 입력 지원"</string>-->
+<!--	<string name="config_show_emoji_ime_summary">"지원하는 경우 IME의 이모티콘 입력 기능을 활성화"</string>-->
     <string name="config_hide_compose_reply_area_by_default_title">숨기기 응답 영역</string>
     <string name="config_hide_compose_reply_area_by_default_summary"></string>
 	<string name="config_show_remain_tweet_length">"남은 트윗 길이 표시"</string>

@@ -1040,8 +1040,8 @@ Do you want to enable it?</string>
     <string name="config_use_screen_name_completion_summary"></string>
     <string name="config_show_actionbar_tweet_button">Tweet Button on Menu</string>
     <string name="config_show_actionbar_tweet_button_summary">Show tweet button on menu</string>
-	<string name="config_show_emoji_ime_title">Emoji input support</string>
-	<string name="config_show_emoji_ime_summary">Enable emoji-input feature of IME if supported</string>
+<!--	<string name="config_show_emoji_ime_title">Emoji input support</string>-->
+<!--	<string name="config_show_emoji_ime_summary">Enable emoji-input feature of IME if supported</string>-->
     <string name="config_hide_compose_reply_area_by_default_title">Hide reply area</string>
     <string name="config_hide_compose_reply_area_by_default_summary"></string>
 	<string name="config_show_remain_tweet_length">Show remain tweet length</string>

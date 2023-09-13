@@ -1047,8 +1047,8 @@
     <string name="config_use_screen_name_completion_summary">\'@\'入力時にユーザー名の選択画面を表示します【初期値：ON】</string>
     <string name="config_show_actionbar_tweet_button">メニューでツイート</string>
     <string name="config_show_actionbar_tweet_button_summary">上部メニューにツイートボタンを表示します【初期値：OFF】</string>
-    <string name="config_show_emoji_ime_title">絵文字入力</string>
-    <string name="config_show_emoji_ime_summary">IME(文字・日本語入力パネル)で絵文字を入力できるようにします(実際に入力できるかどうかはIMEにより異なります)【初期値：OFF】</string>
+<!--    <string name="config_show_emoji_ime_title">絵文字入力</string>-->
+<!--    <string name="config_show_emoji_ime_summary">IME(文字・日本語入力パネル)で絵文字を入力できるようにします(実際に入力できるかどうかはIMEにより異なります)【初期値：OFF】</string>-->
     <string name="config_hide_compose_reply_area_by_default_title">返信エリアの非表示</string>
     <string name="config_hide_compose_reply_area_by_default_summary">返信時に返信エリアを閉じた状態で投稿画面を開きます【初期値：OFF】</string>
 	<string name="config_show_remain_tweet_length">残り文字数表示</string>

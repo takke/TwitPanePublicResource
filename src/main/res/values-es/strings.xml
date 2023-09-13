@@ -1029,8 +1029,8 @@
     <string name="config_use_screen_name_completion_summary"></string>
     <string name="config_show_actionbar_tweet_button">"Botón de Tweet en el menú"</string>
     <string name="config_show_actionbar_tweet_button_summary">Mostrar botón de tweet en el menú</string>
-    <string name="config_show_emoji_ime_title">"Soporte de entrada Emoji"</string>
-    <string name="config_show_emoji_ime_summary">"Habilitar la función de entrada emoji del IME si es compatible"</string>
+<!--    <string name="config_show_emoji_ime_title">"Soporte de entrada Emoji"</string>-->
+<!--    <string name="config_show_emoji_ime_summary">"Habilitar la función de entrada emoji del IME si es compatible"</string>-->
     <string name="config_hide_compose_reply_area_by_default_title">área de respuesta Ocultar</string>
     <string name="config_hide_compose_reply_area_by_default_summary"></string>
     <string name="config_show_remain_tweet_length">"Mostrar logitud de tweet"</string>
