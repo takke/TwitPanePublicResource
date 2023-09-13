@@ -465,6 +465,7 @@
     <string name="menu_boost">Boost</string>
     <string name="menu_quote_tweet">인용 트윗</string>
     <string name="menu_quote">인용</string>
+    <string name="menu_quote_in_channel">Quote in Channel</string>
     <string name="menu_tweet_with_comment">코멘트 트윗</string>
     <string name="menu_unofficial_retweet">RT \@TwitPane: …</string>
     <string name="cannot_retweet_protected_user_tweet">"보호된 사용자의 트윗을 리트윗할 수 없습니다"</string>

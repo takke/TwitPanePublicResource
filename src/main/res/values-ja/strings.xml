@@ -474,6 +474,7 @@
     <string name="menu_boost">ブースト</string>
     <string name="menu_quote_tweet">引用ツイート</string>
     <string name="menu_quote">引用して投稿する</string>
+    <string name="menu_quote_in_channel">チャンネル内で引用して投稿する</string>
     <string name="menu_tweet_with_comment">コメント付きツイート(公式方式)</string>
     <string name="menu_unofficial_retweet">RT \@TwitPane: …</string>
     <string name="cannot_retweet_protected_user_tweet">非公開アカウントのツイートはリツイートできません</string>
