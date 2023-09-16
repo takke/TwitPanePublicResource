@@ -1152,6 +1152,7 @@
     <string name="config_notification_show_auto_update_tabs">Auto Update Tabs</string>
     <string name="config_notification_show_auto_update_tabs_summary">Show tabs that are automatically updated.</string>
     <string name="config_notification_add_auto_update_tabs">Add Auto Update Tab</string>
+    <string name="config_notification_delete_auto_update_tab">Set this tab to not auto-update?</string>
     <string name="set_auto_updates">자동 업데이트 설정</string>
     <string name="unset_auto_updates">자동 업데이트 설정 해제</string>
     <string name="auto_updates_is_disabled_when_notification_is_disabled">정기적인 알림이 꺼지므로 자동 업데이트가 이루어지지 않습니다.</string>

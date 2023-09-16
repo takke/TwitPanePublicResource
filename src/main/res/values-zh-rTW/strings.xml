@@ -1154,6 +1154,7 @@
     <string name="config_notification_show_auto_update_tabs">Auto Update Tabs</string>
     <string name="config_notification_show_auto_update_tabs_summary">Show tabs that are automatically updated.</string>
     <string name="config_notification_add_auto_update_tabs">Add Auto Update Tab</string>
+    <string name="config_notification_delete_auto_update_tab">Set this tab to not auto-update?</string>
     <string name="set_auto_updates">設定自動更新</string>
     <string name="unset_auto_updates">取消自動更新設定</string>
     <string name="auto_updates_is_disabled_when_notification_is_disabled">定期通知已關閉，因此不會進行自動更新。</string>
