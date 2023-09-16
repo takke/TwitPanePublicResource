@@ -1170,6 +1170,7 @@
     <string name="config_notification_category_auto_updates_summary">自動的に新しいツイートを取得します。対象となるタブは「タブの長押し」または「タブの設定」から変更します。</string>
     <string name="config_notification_show_auto_update_tabs">自動更新タブ一覧</string>
     <string name="config_notification_show_auto_update_tabs_summary">自動更新に設定されているタブを確認します。</string>
+    <string name="config_notification_add_auto_update_tabs">自動更新タブの追加</string>
     <string name="set_auto_updates">自動更新する</string>
     <string name="unset_auto_updates">自動更新を解除する</string>
     <string name="auto_updates_is_disabled_when_notification_is_disabled">定期取得がオフなので自動更新は行われません。\n自動更新設定から定期取得をオンにしてください。</string>

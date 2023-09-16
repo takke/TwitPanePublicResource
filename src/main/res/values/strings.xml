@@ -1163,6 +1163,7 @@ Do you want to enable it?</string>
     <string name="config_notification_category_auto_updates_summary">Each tab will automatically get new tweets at the above notification interval. Change it by long-pressing the tab or from "Tab Settings".</string>
     <string name="config_notification_show_auto_update_tabs">Auto Update Tabs</string>
     <string name="config_notification_show_auto_update_tabs_summary">Show tabs that are automatically updated.</string>
+    <string name="config_notification_add_auto_update_tabs">Add Auto Update Tab</string>
     <string name="set_auto_updates">Set auto updates</string>
     <string name="unset_auto_updates">Unset auto updates</string>
     <string name="auto_updates_is_disabled_when_notification_is_disabled">Periodic notifications are turned off, so no automatic updates will be made.</string>

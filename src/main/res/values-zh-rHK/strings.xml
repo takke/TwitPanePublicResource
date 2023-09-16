@@ -1153,6 +1153,7 @@
     <string name="config_notification_category_auto_updates_summary">每個標籤都將在上述通知間隔內自動獲得新推文。通過長按標籤或從 "標籤設置 "來修改設置。</string>
     <string name="config_notification_show_auto_update_tabs">Auto Update Tabs</string>
     <string name="config_notification_show_auto_update_tabs_summary">Show tabs that are automatically updated.</string>
+    <string name="config_notification_add_auto_update_tabs">Add Auto Update Tab</string>
     <string name="set_auto_updates">設置自動更新</string>
     <string name="unset_auto_updates">取消自動更新設置</string>
     <string name="auto_updates_is_disabled_when_notification_is_disabled">定期通知已關閉，因此不會進行自動更新。</string>
