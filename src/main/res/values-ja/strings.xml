@@ -1129,9 +1129,9 @@
     <string name="config_notification_category_new_toot">新着投稿</string>
     <string name="config_notification_category_new_note">新着ノート</string>
     <string name="config_notification_category_reply">新着返信</string>
-    <string name="config_notification_category_reply_summary">新着返信は「現在のアカウント」のみ対応しています。</string>
+    <string name="config_notification_category_reply_summary">新しい返信を通知します。「現在のアカウント」のみ対応しています。</string>
     <string name="config_notification_category_message">新着メッセージ</string>
-    <string name="config_notification_category_message_summary">新着メッセージはMastodonの「現在のアカウント」のみ対応しています。</string>
+    <string name="config_notification_category_message_summary">新しいメッセージを通知します。Mastodonの「現在のアカウント」のみ対応しています。</string>
     <string name="config_notification_category_details">通知のカスタマイズ</string>
     <string name="config_use_interval_notification">定期取得</string>
     <string name="config_use_interval_notification_summary">タブの自動更新を行ったり、新着返信やメッセージを定期的に取得し通知します。【初期値：OFF】</string>
