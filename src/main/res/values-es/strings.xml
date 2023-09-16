@@ -1157,6 +1157,7 @@
     <string name="auto_updates_is_disabled_when_notification_is_disabled">Las notificaciones periódicas están desactivadas, por lo que no se realizarán actualizaciones automáticas.</string>
     <string name="auto_update_every_n_minutes">Se actualiza automáticamente cada %1$d minutos</string>
     <string name="config_show_new_tweet_notification">Mostrar notificación de nuevo tweet</string>
+    <string name="config_show_new_tweet_notification_summary"></string>
     <string name="config_new_tweet_notification_icon_type">Icono de notificación de nuevo tweet</string>
 
     <string name="config_color_label">"Color de la etiqueta"</string>

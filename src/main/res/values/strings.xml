@@ -1168,6 +1168,7 @@ Do you want to enable it?</string>
     <string name="auto_updates_is_disabled_when_notification_is_disabled">Periodic notifications are turned off, so no automatic updates will be made.</string>
     <string name="auto_update_every_n_minutes">Automatically updates every %1$d minutes</string>
     <string name="config_show_new_tweet_notification">Show new tweet notification</string>
+    <string name="config_show_new_tweet_notification_summary"></string>
     <string name="config_new_tweet_notification_icon_type">Icon of new tweet notification</string>
 
     <string name="config_color_label">Color Label Settings</string>
