@@ -1112,7 +1112,9 @@
     <string name="config_notification_category_new_toot">New toots</string>
     <string name="config_notification_category_new_note">New notes</string>
     <string name="config_notification_category_reply">回覆</string>
+    <string name="config_notification_category_reply_summary">New replies are supported only for "current account".</string>
     <string name="config_notification_category_message">訊息</string>
+    <string name="config_notification_category_message_summary">New messages are supported only for "current account" of Mastodon.</string>
     <string name="config_notification_category_details">詳情</string>
     <string name="config_use_interval_notification">定期通知</string>
     <string name="config_use_interval_notification_summary"></string>
