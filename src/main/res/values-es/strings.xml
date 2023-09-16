@@ -1150,6 +1150,8 @@
     <string name="config_exclude_battery_optimizations_exclude">Exclude</string>
     <string name="config_notification_category_auto_updates">Actualizaciones automáticas</string>
     <string name="config_notification_category_auto_updates_summary">Each tab will automatically get new tweets at the above notification interval. Change it by long-pressing the tab or from "Tab Settings".</string>
+    <string name="config_notification_show_auto_update_tabs">Auto Update Tabs</string>
+    <string name="config_notification_show_auto_update_tabs_summary">Show tabs that are automatically updated.</string>
     <string name="set_auto_updates">Establecer actualizaciones automáticas</string>
     <string name="unset_auto_updates">Desactivar actualizaciones automáticas</string>
     <string name="auto_updates_is_disabled_when_notification_is_disabled">Las notificaciones periódicas están desactivadas, por lo que no se realizarán actualizaciones automáticas.</string>
