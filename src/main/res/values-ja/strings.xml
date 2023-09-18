@@ -252,7 +252,7 @@
     
     <string name="retweeted_by_user">%1$sさんがリツイートしました</string>
     <string name="boosted_by_user">%1$sさんがブーストしました</string>
-    <string name="renoted_by_user">%1$sさんがRenoteしました</string>
+    <string name="renoted_by_user">%1$sさんがリノートしました</string>
     <string name="source_from">%1$sから</string>
     <string name="reply_to">%1$s宛</string>
     
@@ -467,7 +467,7 @@
     <string name="already_deleted_and_edit">既に削除されているようです。編集画面を開きます。</string>
     <string name="failed_to_delete_post_but_edit">削除に失敗しました。\n\n・サーバ上では正常に削除されているかもしれません。\n・念のため本アプリ上ではデータを残します。\n\nOKを押すと編集画面を開きます。</string>
     <string name="menu_delete_and_edit">削除して編集</string>
-    <string name="delete_and_edit_warning">このノートを削除してもう一度編集しますか？このノートへのリアクション、Renote、返信も全て削除されます。</string>
+    <string name="delete_and_edit_warning">このノートを削除してもう一度編集しますか？このノートへのリアクション、リノート、返信も全て削除されます。</string>
     <string name="menu_hidden_button">機能なし(非表示)</string>
     <string name="menu_rt">リツイート</string>
     <string name="menu_renote_in_channel">チャンネル内リノート</string>
@@ -1539,7 +1539,7 @@
     <string name="notification_favourited">%1$sさんがお気に入りに登録しました</string>
     <string name="notification_poll_ended">アンケートが終了しました</string>
     <string name="notification_reblogged">%1$sさんがブーストしました</string>
-    <string name="notification_renoted">%1$sさんがRenoteしました</string>
+    <string name="notification_renoted">%1$sさんがリノートしました</string>
     <string name="notification_quoted">%1$sさんが引用しました</string>
     <string name="notification_followed">%1$sさんにフォローされました</string>
     <string name="notification_follow_requested">%1$sさんがフォローをリクエストしています</string>
