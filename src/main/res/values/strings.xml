@@ -898,6 +898,8 @@
     <string name="config_emoji_size">Emoji Size</string>
     <string name="config_enable_animation_emoji">Enable Emoji Animation</string>
     <string name="config_enable_animation_emoji_summary">Animates the timeline emoji. If scrolling is slow, it is recommended to turn it off. [default:ON]</string>
+    <string name="config_emoji_animation_duration">Emoji Animation Duration</string>
+    <string name="config_emoji_animation_duration_summary">Specify the duration of the emoji animation.</string>
     <string name="config_custom_emoji_size">Custom Emoji Size</string>
     <string name="config_custom_emoji_size_name">Custom Emoji Size(Name)</string>
     <string name="config_custom_emoji_size_body">Custom Emoji Size(Body)</string>

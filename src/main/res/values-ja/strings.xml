@@ -907,6 +907,8 @@
     <string name="config_emoji_size">絵文字表示設定</string>
     <string name="config_enable_animation_emoji">絵文字のアニメーション</string>
     <string name="config_enable_animation_emoji_summary">タイムラインの絵文字をアニメーションさせます。スクロール等が遅くなる場合はオフにすることをおすすめします。バッテリー消費量抑制のためアニメーションは数秒間で自動停止します。【初期値：ON】</string>
+    <string name="config_emoji_animation_duration">絵文字のアニメーションの再生時間</string>
+    <string name="config_emoji_animation_duration_summary">タイムラインで絵文字をアニメーション表示させる時間(秒)を設定します。</string>
     <string name="config_custom_emoji_size">カスタム絵文字サイズ</string>
     <string name="config_custom_emoji_size_name">カスタム絵文字サイズ(名前)</string>
     <string name="config_custom_emoji_size_body">カスタム絵文字サイズ(本文)</string>
