@@ -626,6 +626,7 @@
     <string name="change_account_color">"Cambiar color de cuenta"</string>
     <string name="default_color">"Color predeterminado"</string>
     <string name="no_color_label">"Sin etiqueta de color"</string>
+    <string name="change_account_alias">Change Account Alias</string>
 
     <string name="select_upload_plugin">"Seleccionar plugin de carga"</string>
     <string name="upload_with_twitpane">"Subir con TwitPane"</string>

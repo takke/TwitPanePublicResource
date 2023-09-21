@@ -624,6 +624,7 @@
     <string name="change_account_color">"계정 색상 변경"</string>
     <string name="default_color">"기본 색상"</string>
     <string name="no_color_label">"색상 레이블이 없습니다"</string>
+    <string name="change_account_alias">Change Account Alias</string>
 
     <string name="select_upload_plugin">"업로드 플러그인 선택"</string>
     <string name="upload_with_twitpane">"TwitPane으로 업로드"</string>

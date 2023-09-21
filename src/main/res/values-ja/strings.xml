@@ -633,6 +633,7 @@
     <string name="change_account_color">アカウントのカラー変更</string>
     <string name="default_color">既定色</string>
     <string name="no_color_label">カラーラベルなし</string>
+    <string name="change_account_alias">アカウントの別名(エイリアス)変更</string>
 
     <string name="select_upload_plugin">アップロードプラグイン選択</string>
     <string name="upload_with_twitpane">TwitPaneでアップロードする</string>

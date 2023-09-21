@@ -627,6 +627,7 @@
     <string name="change_account_color">Change Account Color</string>
     <string name="default_color">Default Color</string>
     <string name="no_color_label">No color label</string>
+    <string name="change_account_alias">Change Account Alias</string>
 
     <string name="select_upload_plugin">Select Upload Plugin</string>
     <string name="upload_with_twitpane">Upload with TwitPane</string>
