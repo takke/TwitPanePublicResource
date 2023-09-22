@@ -118,7 +118,7 @@
     <string name="menu_server_info">Server Info</string>
     <string name="menu_change_account_color">Change Account Color</string>
     <string name="mst_announcements">Announcements</string>
-    <string name="changing_account_to">Cambiar a \@%1$s</string>
+    <string name="changing_account_to">Cambiar a %1$s</string>
     <string name="cannot_auth_account_via_official_twitter_app">Ocurrió un error durante el proceso de inicio de sesión a través de la aplicación oficial de Twitter. \n\n(%1$s)\n\nInicie sesión a través del navegador.</string>
 
     <string name="profile_edit_button">"editar perfil"</string>

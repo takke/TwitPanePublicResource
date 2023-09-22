@@ -118,7 +118,7 @@
     <string name="menu_server_info">サーバー情報</string>
     <string name="menu_change_account_color">アカウントカラーを変更</string>
     <string name="mst_announcements">管理者からのお知らせ</string>
-    <string name="changing_account_to">\@%1$s に変更します</string>
+    <string name="changing_account_to">%1$s に変更します</string>
     <string name="cannot_auth_account_via_official_twitter_app">Twitter公式アプリ経由のログイン処理中にエラーが発生しました。\n\n(%1$s)\n\nブラウザでログインします。</string>
 
     <string name="profile_edit_button">プロフィールを編集</string>
