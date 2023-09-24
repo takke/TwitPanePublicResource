@@ -91,6 +91,8 @@
     <string name="add_search_page_finish">"Añadido"</string>
 
     <string name="reload_button">"Recargar"</string>
+    <string name="force_reload">Forced reload(delete tab data and reload)</string>
+    <string name="select_reload_action">Select Reload Action</string>
     <string name="reloaded">"Recargado"</string>
     <string name="reload_custom_emojis">"Recargar"</string>
 

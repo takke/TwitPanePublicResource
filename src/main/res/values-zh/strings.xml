@@ -91,6 +91,8 @@
     <string name="add_search_page_finish">已添加</string>
 
     <string name="reload_button">重新加载</string>
+    <string name="force_reload">Forced reload(delete tab data and reload)</string>
+    <string name="select_reload_action">Select Reload Action</string>
     <string name="reloaded">已重新加载</string>
     <string name="reload_custom_emojis">重新加载</string>
 

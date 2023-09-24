@@ -91,6 +91,8 @@
     <string name="add_search_page_finish">タブを追加しました</string>
     
     <string name="reload_button">リロード</string>
+    <string name="force_reload">完全リロード(タブデータを削除してリロード)</string>
+    <string name="select_reload_action">リロード方法を選択してください</string>
     <string name="reloaded">リロードしました</string>
     <string name="reload_custom_emojis">リロード(新着絵文字のロード)</string>
 
