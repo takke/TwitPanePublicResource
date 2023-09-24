@@ -91,6 +91,8 @@
     <string name="add_search_page_finish">Added</string>
     
     <string name="reload_button">Reload</string>
+    <string name="load_from_latest">Load from latest</string>
+    <string name="load_from_continued">Load from continued(reload)</string>
     <string name="force_reload">Forced reload(delete tab data and reload)</string>
     <string name="select_reload_action">Select Reload Action</string>
     <string name="reloaded">Reloaded</string>
