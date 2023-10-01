@@ -345,6 +345,7 @@
     <string name="menu_refresh">刷新</string>
     <string name="menu_config">設置</string>
     <string name="menu_event">事件</string>
+    <string name="menu_api_history">API History</string>
     <string name="menu_about">關於</string>
     <string name="menu_about_research">About</string>
     <string name="menu_about_light">About</string>

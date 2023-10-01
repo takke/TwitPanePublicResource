@@ -344,6 +344,7 @@
     <string name="menu_refresh">"새로고침"</string>
     <string name="menu_config">"설정"</string>
     <string name="menu_event">이벤트</string>
+    <string name="menu_api_history">API History</string>
     <string name="menu_about">"약"</string>
     <string name="menu_about_research">About</string>
     <string name="menu_about_light">About</string>

@@ -351,6 +351,7 @@
     <string name="menu_refresh">更新</string>
     <string name="menu_config">設定</string>
     <string name="menu_event">イベント</string>
+    <string name="menu_api_history">API使用状況と統計</string>
     <string name="menu_about">TwitPaneについて</string>
     <string name="menu_about_research">ついぺんリサーチについて</string>
     <string name="menu_about_light">TwitPane Lightについて</string>
