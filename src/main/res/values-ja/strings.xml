@@ -1543,6 +1543,7 @@
 
 
     <!-- 自動更新 -->
+    <string name="periodic_update_worker_preparing">自動更新を準備しています…</string>
     <string name="periodic_update_worker_start">自動更新を開始します</string>
     <string name="periodic_update_worker_complete">自動更新が完了しました</string>
     <string name="periodic_update_worker_message_updating">メッセージを取得しています</string>

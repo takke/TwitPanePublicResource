@@ -1466,6 +1466,7 @@
 
 
     <!-- 自動更新 -->
+    <string name="periodic_update_worker_preparing">Preparing</string>
     <string name="periodic_update_worker_start">Start worker</string>
     <string name="periodic_update_worker_complete">Completed.</string>
     <string name="periodic_update_worker_message_updating">Messages updating...</string>
