@@ -1079,6 +1079,8 @@
 		
 	<string name="config_confirm_settings_category">確認設定</string>
 	<string name="config_show_rt_confirm_dialog_title">リツイート/ブースト/リノート</string>
+	<string name="config_summary_default_on">【初期値：ON】</string>
+	<string name="config_summary_default_off">【初期値：OFF】</string>
     <string name="config_show_image_save_confirm_dialog_title">画像の保存</string>
     <string name="config_confirm_settings_notice_about_another_account">アカウントを選択してリツイートやいいねをする場合は、確認設定がONでもアカウントを選択した後すぐにリツイートやいいねが実行されます</string>
 

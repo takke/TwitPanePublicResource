@@ -1062,6 +1062,8 @@
 
     <string name="config_confirm_settings_category">確認設定</string>
     <string name="config_show_rt_confirm_dialog_title">轉推</string>
+    <string name="config_summary_default_on">[default: ON]</string>
+    <string name="config_summary_default_off">[default: OFF]</string>
     <string name="config_show_image_save_confirm_dialog_title">圖片另存</string>
     <string name="config_confirm_settings_notice_about_another_account">如果你選擇了一個賬戶來轉發或點贊，那麼在你選擇賬戶後，轉發或點贊將立即執行，即使已開啟了確認。</string>
 

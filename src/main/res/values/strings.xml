@@ -1072,6 +1072,8 @@ Do you want to enable it?</string>
 
 	<string name="config_confirm_settings_category">Confirm Settings</string>
 	<string name="config_show_rt_confirm_dialog_title">Retweet</string>
+    <string name="config_summary_default_on">[default: ON]</string>
+    <string name="config_summary_default_off">[default: OFF]</string>
     <string name="config_show_image_save_confirm_dialog_title">Image Save</string>
     <string name="config_confirm_settings_notice_about_another_account">When you select an account and retweet or like it, even if the confirmation setting is ON, retweets and likes are executed immediately after selecting the account.</string>
 

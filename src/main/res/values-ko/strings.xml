@@ -1060,6 +1060,8 @@
 
 	<string name="config_confirm_settings_category">"설정 확인"</string>
 	<string name="config_show_rt_confirm_dialog_title">"리트윗"</string>
+    <string name="config_summary_default_on">[default: ON]</string>
+    <string name="config_summary_default_off">[default: OFF]</string>
     <string name="config_show_image_save_confirm_dialog_title">이미지 저장</string>
     <string name="config_confirm_settings_notice_about_another_account">당신은 계정과 리트 윗하거나 같은를 선택하면, 확인 설정이 ON 인 경우에도 리트 윗하고 좋아하는 계정을 선택한 후 즉시 실행됩니다</string>
 
