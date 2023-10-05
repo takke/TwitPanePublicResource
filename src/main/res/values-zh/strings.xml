@@ -1506,6 +1506,21 @@
     <string name="event_log_message_no_new_tweets">没有新推文。</string>
     <string name="event_log_message_new_tweets_failed">无法获取推文。</string>
 
+
+    <!-- 自動更新 -->
+    <string name="periodic_update_worker_start">Start worker</string>
+    <string name="periodic_update_worker_complete">Completed.</string>
+    <string name="periodic_update_worker_message_updating">Messages updating...</string>
+    <string name="periodic_update_worker_message_updated">Messages updated.</string>
+    <string name="periodic_update_worker_replies_retrieving">Replies updating...</string>
+    <string name="periodic_update_worker_replies_retrieved">Replies updated.</string>
+    <string name="periodic_update_worker_gathering_target_tabs">Gathering target tabs...</string>
+    <string name="periodic_update_worker_updating_tabs">Tabs updating...</string>
+    <string name="periodic_update_worker_saving_event_logs">Saving event logs...</string>
+    <string name="periodic_update_worker_set_notifications">Set notifications</string>
+    <string name="periodic_update_worker_fetching">"Fetching...\n%1$s"</string>
+
+
     <!-- Mastodon -->
     <string name="instance_name_label">Instance Name</string>
     <string name="instance_name_hint">Server Domain</string>

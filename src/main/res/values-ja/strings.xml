@@ -1541,6 +1541,21 @@
     <string name="event_log_delete_confirm_message">このイベントを削除してもよろしいですか？\n※ツイート等の投稿データ自体は消えません</string>
     <string name="event_log_information">"「投稿」や「新着通知」等のバックグラウンドで行われたイベントを確認できます。"</string>
 
+
+    <!-- 自動更新 -->
+    <string name="periodic_update_worker_start">自動更新を開始します</string>
+    <string name="periodic_update_worker_complete">自動更新が完了しました</string>
+    <string name="periodic_update_worker_message_updating">メッセージを取得しています</string>
+    <string name="periodic_update_worker_message_updated">メッセージの取得が完了しました</string>
+    <string name="periodic_update_worker_replies_retrieving">返信を取得しています</string>
+    <string name="periodic_update_worker_replies_retrieved">返信の取得が完了しました</string>
+    <string name="periodic_update_worker_gathering_target_tabs">自動更新対象を確認しています</string>
+    <string name="periodic_update_worker_updating_tabs">自動更新処理を開始します</string>
+    <string name="periodic_update_worker_saving_event_logs">イベントログを保存しています</string>
+    <string name="periodic_update_worker_set_notifications">通知を表示しています</string>
+    <string name="periodic_update_worker_fetching">"自動更新しています…\n%1$s"</string>
+
+
     <!-- Mastodon -->
     <string name="instance_name_label">接続先インスタンス</string>
     <string name="instance_name_hint">ドメイン名(fedibird.comなど)</string>
