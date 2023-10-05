@@ -568,6 +568,7 @@
     <string name="menu_user_send_message">ユーザーにメッセージを送る</string>
     
     <string name="menu_guide">操作ガイド</string>
+    <string name="menu_auto_update_now">自動更新を今すぐ開始する</string>
     <string name="menu_add_list">リストに追加する...</string>
     
     <string name="menu_tweet_config">投稿設定</string>

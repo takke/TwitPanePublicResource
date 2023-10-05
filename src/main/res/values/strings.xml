@@ -562,6 +562,7 @@
     <string name="menu_user_send_message">Send message to</string>
     
     <string name="menu_guide">Show Tutorial</string>
+    <string name="menu_auto_update_now">Start auto-update tabs now</string>
     <string name="menu_add_list">Add to list...</string>
     
     <string name="menu_tweet_config">Config</string>

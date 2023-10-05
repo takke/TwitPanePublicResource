@@ -561,6 +561,7 @@
     <string name="menu_user_send_message">发送消息给</string>
 
     <string name="menu_guide">显示教程</string>
+    <string name="menu_auto_update_now">Start auto-update tabs now</string>
     <string name="menu_add_list">添加到列表...</string>
 
     <string name="menu_tweet_config">设置</string>
