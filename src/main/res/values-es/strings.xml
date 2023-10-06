@@ -1540,5 +1540,8 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="mst_list_replies_policy_none">none</string>
 
     <string name="select_compose_service_type">Choose service to compose</string>
+    <string name="share_pattern_selector_title">Select share-pattern</string>
+    <string name="share_pattern_selector_full">"@username(display name) + body"</string>
+    <string name="share_pattern_selector_body_only">"body only"</string>
 
 </resources>
