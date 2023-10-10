@@ -267,6 +267,7 @@
     <!-- リスト作成・編集畫面 -->
     <string name="list_name_text">列表名稱</string>
     <string name="list_description_text">描述</string>
+    <string name="list_exclusive">Hide these posts from home</string>
     <string name="privacy_text">隱私</string>
     <string name="privacy_public">公開</string>
     <string name="privacy_private">私有</string>

@@ -269,6 +269,7 @@
 	<!-- リスト作成・編集画面 -->
     <string name="list_name_text">リスト名</string>
     <string name="list_description_text">説明</string>
+    <string name="list_exclusive">ホームタイムラインからこれらの投稿を非表示にする</string>
     <string name="privacy_text">プライバシー</string>
     <string name="privacy_public">公開</string>
     <string name="privacy_private">非公開</string>

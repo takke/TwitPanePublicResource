@@ -266,6 +266,7 @@
     <!-- リスト作成・編集画面 -->
     <string name="list_name_text">"Nombre de la lista"</string>
     <string name="list_description_text">"Descripción"</string>
+    <string name="list_exclusive">Hide these posts from home</string>
     <string name="privacy_text">"Privacidad"</string>
     <string name="privacy_public">"Público"</string>
     <string name="privacy_private">"Privado"</string>

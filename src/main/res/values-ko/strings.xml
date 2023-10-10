@@ -266,6 +266,7 @@
     <!-- リスト作成・編集画面 -->
     <string name="list_name_text">"목록 이름"</string>
     <string name="list_description_text">"설명"</string>
+    <string name="list_exclusive">Hide these posts from home</string>
     <string name="privacy_text">"개인정보"</string>
     <string name="privacy_public">"공개"</string>
     <string name="privacy_private">"개인"</string>
