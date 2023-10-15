@@ -548,6 +548,7 @@
     <string name="menu_block_this_tweet">이 트윗 차단</string>
     <string name="show_blocked_tweets">차단된 트윗 표시</string>
     <string name="menu_user_reply_search">"유저에게 보낸 트윗 검색"</string>
+    <string name="menu_user_posts_only">User Posts Only</string>
     <string name="menu_search_with">Search with \"%1$s\"</string>
     <string name="menu_user_conversation_with_me_search">나와 대화 검색</string>
     <string name="menu_show_image_timeline">"이미지 타임라인 보이기"</string>
