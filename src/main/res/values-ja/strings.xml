@@ -216,7 +216,7 @@
     <string name="follow_or_unfollow">フォロー・フォロー解除</string>
     <string name="unfollow_confirm_title">フォローを解除する</string>
     <string name="unfollow_confirm_message">%1$s のフォローを解除してもよろしいですか？</string>
-    <string name="follow_done">フォローしました</string>
+    <string name="follow_done">フォローしました(フォロー完了まで時間がかかる場合があります)</string>
     <string name="unfollow_done">フォローを解除しました</string>
     <string name="cannot_send_dm">フォローされていないのでDMを送信できません</string>
     
