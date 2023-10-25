@@ -706,6 +706,8 @@
     <string name="reload_screen_name_list_confirm_title">リロード確認</string>
     <string name="reload_screen_name_list_confirm_message">フォローとフォロワーの一覧を再取得します。よろしいですか？
 \n\n※取得には数分程度かかる場合があります。フォロー・フォロワーそれぞれ最新の200人ずつを取得します。</string>
+    <string name="reload_fediverse_screen_name_list_confirm_message">フォローとフォロワーの一覧を再取得します。よろしいですか？
+\n\n※取得には数分程度かかる場合があります。フォロー・フォロワーそれぞれ最新の80人を取得します。</string>
     <string name="call_twicca_plugin">プラグイン</string>
     <string name="write_view_finish_confirm_title">確認</string>
     <string name="write_view_finish_confirm_message">この画面を閉じてよろしいですか？</string>

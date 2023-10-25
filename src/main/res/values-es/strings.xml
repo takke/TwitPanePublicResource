@@ -698,6 +698,7 @@
     <string name="screen_name_select">"Seleccionar contestar al usuario"</string>
     <string name="reload_screen_name_list_confirm_title">"Confirmar actualización"</string>
     <string name="reload_screen_name_list_confirm_message">"Actualizar la lista de los usuarios que siguen y seguidores, ¿Aceptar?"</string>
+    <string name="reload_fediverse_screen_name_list_confirm_message">"Actualizar la lista de los usuarios que siguen y seguidores, ¿Aceptar?"</string>
     <string name="call_twicca_plugin">"Plugin"</string>
     <string name="write_view_finish_confirm_title">"Confirmar"</string>
     <string name="write_view_finish_confirm_message">"¿Seguro que deseas cerrar?"</string>
