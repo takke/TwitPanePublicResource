@@ -1276,6 +1276,8 @@
     <string name="use_conversation_id_summary">会話検索時に conversation_id を使います。より多くの会話が取得できるようになります【初期値：ON】</string>
     <string name="use_tweet_complementary_fetcher">引用ツイート数やアンケート等を取得する</string>
     <string name="use_tweet_complementary_fetcher_summary">ツイートの返信数や引用されたツイート数、いいね数、RT数、アンケート、画像と動画の混在したツイート、「リンク先の画像と説明文」等を非同期で取得します。\n※OFFにすると【省パケットモード】になります。災害時や混雑したお祭り会場、花火大会、ライブ会場などではOFFにすると通信が安定する場合がありますが、通常時はONのままでのご利用をおすすめします。【初期値：ON】</string>
+    <string name="show_ad_on_top" translatable="false">広告の上部表示</string>
+    <string name="show_ad_on_top_summary" translatable="false">広告を画面の上部に表示します【初期値：OFF】</string>
     <string name="low_packet_mode_text">省パケットモード</string>
 
     <string name="config_use_gps_to_get_trend_location">GPS有効(トレンド)</string>
