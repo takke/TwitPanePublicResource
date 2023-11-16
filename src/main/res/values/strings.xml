@@ -114,6 +114,7 @@
     <string name="pager_more">Read More Tweets</string>
     
     <string name="account_add">Add account</string>
+    <string name="account_reorder">Reorder</string>
     <string name="account_delete">Delete account</string>
     <string name="account_delete_confirm">Are you sure you want to delete this account?</string>
     <string name="cannot_delete_current_account">Cannot delete current account.</string>

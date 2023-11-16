@@ -114,6 +114,7 @@
     <string name="pager_more">もっと読む</string>
     
     <string name="account_add">アカウントを追加</string>
+    <string name="account_reorder">並べ替え</string>
     <string name="account_delete">アカウントを削除</string>
     <string name="account_delete_confirm">アカウントを削除してもよろしいですか？</string>
     <string name="cannot_delete_current_account">現在のアカウントは削除できません</string>

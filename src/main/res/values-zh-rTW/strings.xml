@@ -114,6 +114,7 @@
     <string name="pager_more">閱讀更多推文</string>
 
     <string name="account_add">新增帳戶</string>
+    <string name="account_reorder">Reorder</string>
     <string name="account_delete">刪除帳戶</string>
     <string name="account_delete_confirm">你確定要刪除這個賬戶嗎？</string>
     <string name="cannot_delete_current_account">不能刪除當前帳戶。</string>

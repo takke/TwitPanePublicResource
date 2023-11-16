@@ -114,6 +114,7 @@
     <string name="pager_more">"Leer más tweets"</string>
 
     <string name="account_add">"Añadir cuenta"</string>
+    <string name="account_reorder">Reorder</string>
     <string name="account_delete">"Borrar cuenta"</string>
     <string name="account_delete_confirm">"¿Seguro que quieres eliminar esta cuenta?"</string>
     <string name="cannot_delete_current_account">"No se puede eliminar la cuenta actual."</string>

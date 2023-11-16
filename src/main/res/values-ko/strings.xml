@@ -114,6 +114,7 @@
     <string name="pager_more">"더 많은 트윗을 읽기"</string>
     
     <string name="account_add">"계정 추가"</string>
+    <string name="account_reorder">Reorder</string>
     <string name="account_delete">"계정 삭제"</string>
     <string name="account_delete_confirm">"정말로 이 계정을 삭제하시겠습니까?"</string>
     <string name="cannot_delete_current_account">"현재의 계정을 삭제할 수 없습니다."</string>
