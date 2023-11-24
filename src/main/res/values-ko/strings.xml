@@ -229,6 +229,8 @@
     <string name="turn_on_retweet_confirm_message">"%1$s로부터 리트윗을 켜시겠습니까?"</string>
     <string name="turn_off_retweet_confirm_title">"리트윗을 끕니다"</string>
     <string name="turn_off_retweet_confirm_message">"%1$s로부터의 리트윗을 끕니까 ?"</string>
+    <string name="show_channel_notes">Show channel notes</string>
+    <string name="exclude_channel_notes">Exclude channel notes</string>
     
     <string name="twitter_error_network_issue">"실패했습니다. 트위터 서버와 통신할 수 없습니다. 몇 분 후에 다시 시도하십시오."</string>
     <string name="twitter_error_resource_not_found">"실패했습니다. 자원이 삭제되었을 수 있습니다(트윗이나 DM 또는 기타 자원)"</string>

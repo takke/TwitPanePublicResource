@@ -229,6 +229,8 @@
     <string name="turn_on_retweet_confirm_message">%1$sさんのリツイートを表示しますか？</string>
     <string name="turn_off_retweet_confirm_title">リツイートを非表示にする</string>
     <string name="turn_off_retweet_confirm_message">%1$sさんのリツイートを非表示にしますか？</string>
+    <string name="show_channel_notes">チャンネルのノートを表示する</string>
+    <string name="exclude_channel_notes">チャンネルのノートを非表示にする</string>
     
     <string name="twitter_error_network_issue">失敗しました・・・。通信できないようです。しばらく待ってからやり直してみてください</string>
     <string name="twitter_error_resource_not_found">失敗しました・・・。ツイートがなくなっているようです。</string>

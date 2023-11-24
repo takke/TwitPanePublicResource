@@ -229,7 +229,9 @@
     <string name="turn_on_retweet_confirm_message">Turn on Retweets from %1$s ?</string>
     <string name="turn_off_retweet_confirm_title">Turn off Retweets</string>
     <string name="turn_off_retweet_confirm_message">Turn off Retweets from %1$s ?</string>
-    
+    <string name="show_channel_notes">Show channel notes</string>
+    <string name="exclude_channel_notes">Exclude channel notes</string>
+
     <string name="twitter_error_network_issue">Failed. It may cannot communicate with twitter server. Please try again after a few minutes.</string>
     <string name="twitter_error_resource_not_found">Failed. It may be deleted the resource(tweet or dm or other resource)</string>
     <string name="twitter_error_api_rate_limitation_with_reset_minutes">Rate limit exceeded(Twitter API Request Limit)\n\nPlease try again after approx %1$dmin.%2$dsec.</string>

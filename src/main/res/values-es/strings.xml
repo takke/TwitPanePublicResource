@@ -229,6 +229,8 @@
     <string name="turn_on_retweet_confirm_message">"¿Activar los retweets de %1$s?"</string>
     <string name="turn_off_retweet_confirm_title">"Desactivar lo retweets"</string>
     <string name="turn_off_retweet_confirm_message">"¿Desactivar los retweets de%1$s?"</string>
+    <string name="show_channel_notes">Show channel notes</string>
+    <string name="exclude_channel_notes">Exclude channel notes</string>
 
     <string name="twitter_error_network_issue">"No ha sido posible. Tal vez no se pueda comunicar con el servidor de Twitter. Por favor, inténtalo de nuevo en unos minutos."</string>
     <string name="twitter_error_resource_not_found">"No se ha podido. Puede haberse suprimido el recurso (tweet, MD u otro recurso)"</string>

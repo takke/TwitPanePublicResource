@@ -229,6 +229,8 @@
     <string name="turn_on_retweet_confirm_message">打開來自%1$s的轉推？</string>
     <string name="turn_off_retweet_confirm_title">關閉轉推</string>
     <string name="turn_off_retweet_confirm_message">關閉來自%1$s的轉推？</string>
+    <string name="show_channel_notes">Show channel notes</string>
+    <string name="exclude_channel_notes">Exclude channel notes</string>
 
     <string name="twitter_error_network_issue">已失敗。可能無法與Twitter服務器進行通信。請在幾分鐘後重試。</string>
     <string name="twitter_error_resource_not_found">已失敗。資源可能已被刪除（推文或私信，或者其他資源）</string>
