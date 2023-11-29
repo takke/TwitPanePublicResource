@@ -1456,7 +1456,7 @@
 次の画面で再認証してください。\n
 ※Twitter というリンクからログアウトして再ログインすることで別アカウントにできるようです。</string>
     <string name="expiration_date_exceeded" translatable="false">使用期限超過</string>
-    <string name="expiration_date_exceeded_message" translatable="false">使用期限が超過しました。\n新しいバージョンが公開されていればアップデートするか、アンインストールしてください。\n詳細は公式アカウント @TwitPane をご確認ください。</string>
+    <string name="expiration_date_exceeded_message" translatable="false">使用期限が超過しました。\n新しいバージョンにアップデートしてください。</string>
 
     <!-- Emoji Picker -->
     <string name="emojipicker_guide_dialog_title">絵文字入力アプリの確認</string>
