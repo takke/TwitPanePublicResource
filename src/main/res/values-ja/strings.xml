@@ -24,7 +24,7 @@
     <string name="pane_name_local_timeline">ローカル</string>
     <string name="pane_name_global_timeline">グローバル</string>
     <string name="pane_name_social_timeline">ソーシャル</string>
-    <string name="pane_name_public_timeline">連合</string>
+    <string name="pane_name_mky_public_timeline">連合</string>
     <string name="pane_name_timeline">タイムライン</string>
     <string name="pane_name_search_edition_home">ホーム</string>
     <string name="pane_name_reply">返信</string>

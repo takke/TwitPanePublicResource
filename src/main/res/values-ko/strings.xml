@@ -24,7 +24,7 @@
     <string name="pane_name_local_timeline">Local</string>
     <string name="pane_name_global_timeline">Global</string>
     <string name="pane_name_social_timeline">Social</string>
-    <string name="pane_name_public_timeline">Public</string>
+    <string name="pane_name_mky_public_timeline">Public</string>
     <string name="pane_name_timeline">"타임라인"</string>
     <string name="pane_name_search_edition_home">Home</string>
     <string name="pane_name_reply">"답장"</string>
