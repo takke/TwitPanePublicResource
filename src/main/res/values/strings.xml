@@ -30,6 +30,7 @@
     <string name="pane_name_search_edition_home">Home</string>
     <string name="pane_name_reply">Reply</string>
     <string name="pane_name_mytweet">MyTweets</string>
+    <string name="pane_name_taiitsu">Taiitsu</string>
     <string name="pane_name_toots">Toots</string>
     <string name="pane_name_notes">Notes</string>
     <string name="pane_name_pinned_toots">Pinned</string>

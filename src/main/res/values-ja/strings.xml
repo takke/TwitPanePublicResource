@@ -30,6 +30,7 @@
     <string name="pane_name_search_edition_home">ホーム</string>
     <string name="pane_name_reply">返信</string>
     <string name="pane_name_mytweet">ツイート</string>
+    <string name="pane_name_taiitsu">タイーツ</string>
     <string name="pane_name_toots">投稿</string>
     <string name="pane_name_notes">ノート</string>
     <string name="pane_name_pinned_toots">固定された投稿</string>
