@@ -355,6 +355,7 @@
     <string name="menu_api_history">API History</string>
     <string name="menu_about">"Acerca"</string>
     <string name="menu_about_research">About</string>
+    <string name="menu_about_taipane">About</string>
     <string name="menu_about_light">About</string>
     <string name="menu_about_zonepane">About</string>
     <string name="menu_debug">"Depurar fallos"</string>
