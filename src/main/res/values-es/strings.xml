@@ -1529,6 +1529,11 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="mastodon_replace_keyword_boost_renote">boost/renote</string>
     <string name="mastodon_replace_keyword_renote">renote</string>
 
+    <string name="mastodon_replace_keyword_retaiitsus">retaiitsus</string>
+    <string name="mastodon_replace_keyword_retaiitsu">retaiitsu</string>
+    <string name="mastodon_replace_keyword_taiitsus">taiitsus</string>
+    <string name="mastodon_replace_keyword_taiitsu">taiitsu</string>
+
     <string name="mastodon_replace_keyword_tweets">tweets</string>
     <string name="mastodon_replace_keyword_toots">toots</string>
     <string name="mastodon_replace_keyword_toots_notes">toots/notes</string>
