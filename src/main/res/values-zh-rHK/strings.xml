@@ -582,6 +582,7 @@
     <string name="menu_show_attached_image_area">顯示附加圖像區域</string>
     <string name="menu_add_app_link">添加TwitPane鏈接</string>
     <string name="menu_add_app_link_zonepane">添加ZonePane鏈接</string>
+    <string name="menu_add_app_link_taipane">添加TaiPane鏈接</string>
 
     <string name="menu_block">屏蔽</string>
     <string name="menu_block_dots">屏蔽...</string>

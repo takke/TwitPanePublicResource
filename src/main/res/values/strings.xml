@@ -583,6 +583,7 @@
     <string name="menu_show_attached_image_area">Show Attached Image Area</string>
     <string name="menu_add_app_link">Add TwitPane Link</string>
     <string name="menu_add_app_link_zonepane">Add ZonePane Link</string>
+    <string name="menu_add_app_link_taipane">Add TaiPane Link</string>
 
     <string name="menu_block">Block</string>
     <string name="menu_block_dots">Block...</string>
