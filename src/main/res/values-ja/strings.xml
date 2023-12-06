@@ -1611,7 +1611,7 @@
 
     <string name="mastodon_replace_keyword_retaiitsus">リタイーツ</string>
     <string name="mastodon_replace_keyword_retaiitsu">リタイーツ</string>
-    <string name="mastodon_replace_keyword_taiitsus">タイーツ</string>
+    <string name="mastodon_replace_keyword_taiitsus">タイーツ投稿</string>
     <string name="mastodon_replace_keyword_taiitsu">タイーツ</string>
 
     <string name="mastodon_replace_keyword_tweets">ツイート投稿</string>
