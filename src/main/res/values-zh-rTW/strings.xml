@@ -1488,6 +1488,7 @@
     <string name="login_to_mastodon_instruction">Mastodon consists of a variety of servers. Please select the server you wish to log in to. If you do not see your server in the list, please enter the URL directly.</string>
     <string name="login_to_misskey">Login to Misskey</string>
     <string name="login_to_misskey_instruction">Misskey consists of a variety of servers. Please select the server you wish to log in to. If you do not see your server in the list, please enter the URL directly.</string>
+    <string name="login_to_bluesky">Login to Bluesky</string>
     <string name="force_relogin">Force re-login</string>
     <string name="login_failed_and_login_with_browser_confirm">登入失敗。你想透過瀏覽器登入嗎？</string>
     <string name="trade_mark_info">Twitter是Twitter, Inc.的商標。</string>
