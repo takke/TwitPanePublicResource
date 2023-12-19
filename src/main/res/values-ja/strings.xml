@@ -33,6 +33,7 @@
     <string name="pane_name_taiitsu">タイーツ</string>
     <string name="pane_name_toots">投稿</string>
     <string name="pane_name_notes">ノート</string>
+    <string name="pane_name_posts">ポスト</string>
     <string name="pane_name_pinned_toots">固定された投稿</string>
     <string name="pane_name_pinned_notes">固定されたノート</string>
     <string name="pane_name_media">メディア</string>
