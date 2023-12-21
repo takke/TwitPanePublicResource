@@ -1617,6 +1617,11 @@
     <string name="mastodon_replace_keyword_taiitsus">タイーツ投稿</string>
     <string name="mastodon_replace_keyword_taiitsu">タイーツ</string>
 
+    <string name="mastodon_replace_keyword_reposts">リポスト</string>
+    <string name="mastodon_replace_keyword_repost">リポスト</string>
+    <string name="mastodon_replace_keyword_posts">ポスト投稿</string>
+    <string name="mastodon_replace_keyword_post">ポスト</string>
+
     <string name="mastodon_replace_keyword_tweets">ツイート投稿</string>
     <string name="mastodon_replace_keyword_toots">投稿</string>
     <string name="mastodon_replace_keyword_toots_notes">投稿</string>
