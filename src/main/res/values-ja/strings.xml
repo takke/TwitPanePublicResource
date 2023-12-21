@@ -143,6 +143,8 @@
     <string name="renote_in_channel_confirm_message">このノートをチャンネル内にリノートしますか？</string>
     <string name="boost_confirm_message">この投稿をフォロワーにブーストしますか？</string>
     <string name="retweeted_message">リツイートしました</string>
+    <string name="reposted_message">リポストしました</string>
+    <string name="removed_repost_message">リポストを解除しました</string>
     <string name="boosted_message">ブーストしました</string>
     <string name="remove_retweet_confirm_message">リツイートを解除しますか？</string>
     <string name="remove_boost_confirm_message">ブーストを解除しますか？</string>

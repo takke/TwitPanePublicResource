@@ -143,6 +143,8 @@
     <string name="renote_in_channel_confirm_message">Renote this note in the channel?</string>
     <string name="boost_confirm_message">Boost this toot?</string>
     <string name="retweeted_message">"리트윗됨"</string>
+    <string name="reposted_message">Reposted</string>
+    <string name="removed_repost_message">Removed</string>
     <string name="boosted_message">Boosted</string>
     <string name="remove_retweet_confirm_message">"리트윗을 삭제하시겠습니까?"</string>
     <string name="remove_boost_confirm_message">Remove boost?</string>
