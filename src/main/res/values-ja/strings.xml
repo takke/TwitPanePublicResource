@@ -988,7 +988,7 @@
     <string name="config_use_official_app_for_tweet_operation_summary">Twitter公式アプリを経由していいねやRT、ツイート投稿を行います。【初期値：ON】</string>
     <string name="config_action">操作</string>
 	<string name="config_tweet_get_limit_title">ツイート取得件数</string>
-	<string name="config_tweet_get_limit_summary">ツイートを1回に取得する件数です。大きくしすぎると通信時間やデータ量が多くなります。\nMastodonは最大40件、Misskeyは最大100件です。</string>
+    <string name="config_tweet_get_limit_summary">ツイートを1回に取得する件数です。大きくしすぎると通信時間やデータ量が多くなります。\nMastodonは最大40件、Misskeyは最大100件、Blueskyは最大100件です。</string>
     <string name="config_use_home_timeline_v2">タイムラインをTwitter API v2で取得</string>
     <string name="config_use_home_timeline_v2_summary">ホームタイムラインの取得に Twitter API v2 を使用します。API制限が15回から180回に緩和されます【初期値：OFF】</string>
     <string name="config_use_home_timeline_v2_confirm_message">・API制限が15分あたり15回から180回に増加します。\n
