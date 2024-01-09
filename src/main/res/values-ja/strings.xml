@@ -1001,14 +1001,14 @@
     <string name="config_misskey_timeline_with_replies">ノートへの返信を表示する</string>
     <string name="config_misskey_timeline_hide_replies">ノートへの返信を表示しない</string>
     <string name="config_auto_pager">オートページャ</string>
-    <string name="config_auto_pager_summary">リストの下までスクロールした際に自動的に次のページを取得します【初期値：ON】</string>
+    <string name="config_auto_pager_summary">リストの下までスクロールした際に自動的に次のページを取得します【初期値：ON】 (Blueskyは未対応)</string>
     <string name="config_scroll_pos_after_acquired_gap">中間ツイート取得後の位置</string>
-    <string name="config_scroll_pos_after_acquired_gap_summary">…をタップして「間のツイート(ギャップ)」を取得した後のスクロール位置を設定します</string>
+    <string name="config_scroll_pos_after_acquired_gap_summary">…をタップして「間のツイート(ギャップ)」を取得した後のスクロール位置を設定します (Blueskyは未対応)</string>
     <string name="config_scroll_pos_after_acquired_gap_top">中間ツイートの上側(移動しない)</string>
     <string name="config_scroll_pos_after_acquired_gap_bottom">中間ツイートの下側</string>
     <string name="config_scroll_pos_after_acquired_gap_confirm_each_time">取得時に毎回確認する</string>
     <string name="config_scroll_pos_after_acquired_new_tweet">新着ツイート取得後の位置</string>
-    <string name="config_scroll_pos_after_acquired_new_tweet_summary">リロードボタン等で新しいツイートを取得した後のスクロール位置を設定します</string>
+    <string name="config_scroll_pos_after_acquired_new_tweet_summary">リロードボタン等で新しいツイートを取得した後のスクロール位置を設定します (Blueskyは未対応)</string>
     <string name="config_scroll_pos_after_acquired_new_tweet_top">新着ツイートの上側</string>
     <string name="config_scroll_pos_after_acquired_new_tweet_bottom">新着ツイートの下側(移動しない)</string>
     <string name="config_volume_key_up_function">ボリュームUpキー</string>
@@ -1032,7 +1032,7 @@
     <string name="config_conversation_search_count">会話検索の件数</string>
     <string name="config_conversation_search_count_summary">ツイートの会話を表示する際はそのツイートへの返信をTwitterの「ツイート検索」機能を利用して取得しています。この設定を大きくすることでより多くの返信を取得できる場合がありますが、通信時間が長くなります。設定値：%s</string>
 
-    <string name="config_tap_ex">タイムラインタップ拡張</string>
+    <string name="config_tap_ex">タイムラインタップ拡張 (Blueskyは未対応)</string>
 	<string name="config_tap_ex_action_left">左側タップ</string>
 	<string name="config_tap_ex_action_left_summary">ツイートの左側(サムネイルのすぐ右側付近)をタップした際に呼び出す機能</string>
 	<string name="config_tap_ex_action_right">右側タップ</string>
@@ -1043,7 +1043,7 @@
     <string name="config_tap_ex_action_right_long_summary">ツイートの右側を長押しした際に呼び出す機能</string>
 
 	<string name="config_set_read_after_shown">表示時に既読にする</string>
-	<string name="config_set_read_after_shown_summary">ツイートを表示した時点ですぐに既読にする【初期値：OFF】</string>
+	<string name="config_set_read_after_shown_summary">ツイートを表示した時点ですぐに既読にする【初期値：OFF】 (Blueskyは未対応)</string>
 
     <string name="config_message_settings_category">メッセージ設定</string>
     <string name="config_show_new_message_from_bottom">新しいメッセージを下に表示</string>
@@ -1192,7 +1192,7 @@
     <string name="config_exclude_battery_optimizations">バッテリーの最適化からの除外</string>
     <string name="config_exclude_battery_optimizations_summary">定期的に通知が来ない場合は本アプリをバッテリーの最適化から除外してください</string>
     <string name="config_exclude_battery_optimizations_exclude">除外する</string>
-    <string name="config_notification_category_auto_updates">自動更新</string>
+    <string name="config_notification_category_auto_updates">自動更新 (Blueskyは未対応)</string>
     <string name="config_notification_category_auto_updates_summary">自動的に新しいツイートを取得します。対象となるタブは「タブの長押し」メニュー、「タブの設定」または下記の「自動更新タブ一覧」から設定します。</string>
     <string name="config_notification_show_auto_update_tabs">自動更新タブ一覧</string>
     <string name="config_notification_show_auto_update_tabs_summary">自動更新に設定されているタブの確認や追加、解除ができます。</string>
