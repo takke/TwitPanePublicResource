@@ -840,9 +840,9 @@
     <string name="config_display_settings_category_summary">タイトルバー、タブ、サイドメニューなど</string>
 
     <string name="config_font_size">フォントサイズ</string>
-    <string name="config_line_spacing">本文の行間</string>
+    <string name="config_line_spacing">本文の行間 (Blueskyは未対応)</string>
     <string name="config_initial_max_lines_of_body_text">長い投稿の折りたたみ表示(最大行数)</string>
-    <string name="config_initial_max_lines_of_body_text_summary">長い投稿を折りたたみ表示します。</string>
+    <string name="config_initial_max_lines_of_body_text_summary">長い投稿を折りたたみ表示します。\n(Blueskyは未対応)</string>
     <string name="not_ellipsis">無効(折りたたまない)</string>
     <string name="config_theme">テーマとデザイン設定</string>
     <string name="config_appearance">外観</string>
@@ -856,7 +856,7 @@
     <string name="config_bold_name_summary">名前を太字にします【初期値：OFF】</string>
     <string name="config_wrap_name_line">名前を折り返す</string>
     <string name="config_wrap_name_line_summary">長い名前を折り返します【初期値：ON】</string>
-    <string name="config_preview_of_attached_photo_category">添付画像プレビュー</string>
+    <string name="config_preview_of_attached_photo_category">添付画像プレビュー (Blueskyは未対応)</string>
     <string name="config_photo_thumbnail_layout">サムネイルレイアウトの変更</string>
     <string name="config_photo_thumbnail_layout_new_official_app">縦長のサムネイル &lt;br>&lt;small>新Twitter公式アプリ方式: 添付画像が1枚の場合、画像のサイズに応じて 横長(2:1)  ～ 縦長(3:4) のサムネイルを表示します。&lt;/small></string>
     <string name="config_photo_thumbnail_layout_old_official_app">横長のサムネイル &lt;br>&lt;small>旧Twitter公式アプリ方式&lt;/small></string>
@@ -919,12 +919,12 @@
     <string name="config_link_area_category">リンク</string>
     <string name="config_show_link_area">リンク先の画像と説明文</string>
     <string name="config_show_link_area_summary">ツイート内のWebサイト(リンク)のヘッダー画像とタイトルを表示します【初期値：ON】</string>
-    <string name="config_tweet_design">ツイートデザイン</string>
+    <string name="config_tweet_design">ツイートデザイン (Blueskyは未対応)</string>
     <string name="config_show_quote_count">引用ツイート数を表示する</string>
     <string name="config_show_quote_count_summary">【初期値：ON】</string>
     <string name="config_change_link_area_thumbnail_size">画像サイズの変更</string>
     <string name="config_link_area_thumbnail_size">リンク先の画像サイズ</string>
-    <string name="config_emoji">絵文字</string>
+    <string name="config_emoji">絵文字 (Blueskyは未対応)</string>
     <string name="config_emoji_size">絵文字表示設定</string>
     <string name="config_enable_animation_emoji">絵文字のアニメーション</string>
     <string name="config_enable_animation_emoji_summary">タイムラインの絵文字をアニメーションさせます。スクロール等が遅くなる場合はオフにすることをおすすめします。バッテリー消費量抑制のためアニメーションは数秒間で自動停止します。【初期値：ON】</string>
