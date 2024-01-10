@@ -1589,6 +1589,7 @@
     <string name="notification_reblogged">%1$sさんがブーストしました</string>
     <string name="notification_renoted">%1$sさんがリノートしました</string>
     <string name="notification_quoted">%1$sさんが引用しました</string>
+    <string name="notification_quoted_your_post">%1$sさんが引用しました</string>
     <string name="notification_followed">%1$sさんにフォローされました</string>
     <string name="notification_follow_requested">%1$sさんがフォローをリクエストしています</string>
     <string name="notification_reactioned">%1$sさんがリアクションしました</string>

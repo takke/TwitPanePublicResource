@@ -1551,6 +1551,7 @@
     <string name="notification_reblogged">%1$s boosted your status</string>
     <string name="notification_renoted">%1$s renoted your note</string>
     <string name="notification_quoted">%1$s quoted your note</string>
+    <string name="notification_quoted_your_post">%1$s quoted your post</string>
     <string name="notification_followed">%1$s followed you</string>
     <string name="notification_follow_requested">%1$s requested to follow you</string>
     <string name="notification_reactioned">%1$s reactioned</string>
