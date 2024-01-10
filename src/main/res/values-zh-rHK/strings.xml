@@ -1545,6 +1545,7 @@
     <string name="instance_name_hint">Server Domain</string>
     <string name="close_oauth_activity">Close</string>
     <string name="notification_favourited">%1$s favorited your status</string>
+    <string name="notification_liked_your_post">%1$s liked your post</string>
     <string name="notification_poll_ended">The polls have been closed.</string>
     <string name="notification_reblogged">%1$s boosted your status</string>
     <string name="notification_renoted">%1$s renoted your note</string>

@@ -1583,6 +1583,7 @@
     <string name="instance_name_hint">ドメイン名(fedibird.comなど)</string>
     <string name="close_oauth_activity">閉じる</string>
     <string name="notification_favourited">%1$sさんがお気に入りに登録しました</string>
+    <string name="notification_liked_your_post">%1$sさんがいいねしました</string>
     <string name="notification_poll_ended">アンケートが終了しました</string>
     <string name="notification_reblogged">%1$sさんがブーストしました</string>
     <string name="notification_renoted">%1$sさんがリノートしました</string>
