@@ -1001,6 +1001,7 @@
     <string name="config_auto_load_at_startup_summary">アプリの起動時にカーソルが一番上にある場合、自動的に新着のタイムラインを取得します【初期値：ON】</string>
     <string name="config_misskey_timeline_with_replies">ノートへの返信を表示する</string>
     <string name="config_misskey_timeline_hide_replies">ノートへの返信を表示しない</string>
+    <string name="config_bluesky_replies_filter">返信フィルター</string>
     <string name="config_auto_pager">オートページャ</string>
     <string name="config_auto_pager_summary">リストの下までスクロールした際に自動的に次のページを取得します【初期値：ON】 (Blueskyは未対応)</string>
     <string name="config_scroll_pos_after_acquired_gap">中間ツイート取得後の位置</string>

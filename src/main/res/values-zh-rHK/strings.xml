@@ -983,6 +983,7 @@
     <string name="config_auto_load_at_startup_summary">在應用程序啓動時，當光標位於時間線的頂部時，新的時間線將自動加載。</string>
     <string name="config_misskey_timeline_with_replies">Show replies</string>
     <string name="config_misskey_timeline_hide_replies">Hide replies</string>
+    <string name="config_bluesky_replies_filter">Replies filter</string>
     <string name="config_auto_pager">自動頁面加載</string>
     <string name="config_auto_pager_summary">當滾動位置在列表的底部時，獲取下一頁</string>
     <string name="config_scroll_pos_after_acquired_gap">設置間隙後的滾動位置</string>

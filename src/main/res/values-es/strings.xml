@@ -982,6 +982,7 @@
     <string name="config_auto_load_at_startup_summary">"Cuando arranque la aplicación, la nueva cronología se cargará automáticamente cuando el cursor esté en la parte superior de la cronología"</string>
     <string name="config_misskey_timeline_with_replies">Show replies</string>
     <string name="config_misskey_timeline_hide_replies">Hide replies</string>
+    <string name="config_bluesky_replies_filter">Replies filter</string>
     <string name="config_auto_pager">"Autopaginación"</string>
     <string name="config_auto_pager_summary">"Pasa a la página siguiente cuando la posición de desplazamiento esté en la parte inferior de la lista"</string>
     <string name="config_scroll_pos_after_acquired_gap">"El desplazamiento se para después de espacios en blanco"</string>
