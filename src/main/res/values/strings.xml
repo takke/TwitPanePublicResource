@@ -64,6 +64,7 @@
     <string name="pane_name_follower">%1$s\'s followers</string>
     <string name="pane_name_blocks">Blocked users</string>
     <string name="pane_name_search_user">Search User</string>
+    <string name="pane_name_feeds">Feeds</string>
     
     <string name="showcase_start_title">Welcome to TwitPane!</string>
     <string name="showcase_start_summary">A little bit, how to use it.\n\nFirst, a list of tweets will appear in the middle, of course you can scroll up and down!</string>

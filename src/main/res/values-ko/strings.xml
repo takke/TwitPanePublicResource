@@ -64,6 +64,7 @@
     <string name="pane_name_follower">"%1$s 의 팔로워"</string>
     <string name="pane_name_blocks">"차단된 유저"</string>
     <string name="pane_name_search_user">"유저 검색"</string>
+    <string name="pane_name_feeds">Feeds</string>
     
     <string name="showcase_start_title">"TwitPane에 오신 것을 환영합니다!"</string>
     <string name="showcase_start_summary">"조금, 사용하는 법. \n \n 우선, 한 목록의 트윗이 중간에 나타날 것입니다. 물론 위아래로 스크롤할 수 있습니다!"</string>

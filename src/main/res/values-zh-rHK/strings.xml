@@ -64,6 +64,7 @@
     <string name="pane_name_follower">%1$s 個關注者</string>
     <string name="pane_name_blocks">被屏蔽的用户</string>
     <string name="pane_name_search_user">搜索用户</string>
+    <string name="pane_name_feeds">Feeds</string>
 
     <string name="showcase_start_title">歡迎使用TwitPane！</string>
     <string name="showcase_start_summary">簡要説明，如何使用它。\n\n首先，推文列表將出現在中間，當然你也可以上下滾動！</string>

@@ -64,6 +64,7 @@
     <string name="pane_name_follower">"Seguidores de %1$s"</string>
     <string name="pane_name_blocks">"Usuarios bloqueados"</string>
     <string name="pane_name_search_user">"Buscar usuario"</string>
+    <string name="pane_name_feeds">Feeds</string>
 
     <string name="showcase_start_title">"¡Bienvenido a TwitPane!"</string>
     <string name="showcase_start_summary">"Un poco de cómo usarlo.\n\nPrimero, aparecerá una lista de tweets en el medio; por supuesto, puedes desplazarte hacia arriba y hacia abajo."</string>
