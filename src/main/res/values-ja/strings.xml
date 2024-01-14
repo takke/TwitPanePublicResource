@@ -1517,7 +1517,7 @@
 
     <!-- サブスクリプションの案内画面 -->
     <string name="subs_guide_cloud_translation_top_message">クラウド翻訳というGoogleのサービスを利用することで翻訳の品質を上げることができます。\n\nこのクラウド翻訳は有料サービスのため、本アプリの継続的な開発・維持のためにサブスクリプションへの加入をお願いしております。</string>
-    <string name="subs_guide_try_7days_for_free">7日間無料でお試しいただけます。</string>
+    <string name="subs_guide_try_7days_for_free">初回登録なら7日間無料でお試しいただけます。</string>
     <string name="subs_guide_other_subscription_privileges">その他のサブスクリプション特典：</string>
     <string name="subs_guide_subscription_privileges">サブスクリプション特典：</string>
     <string name="subs_guide_item_cloud_translation">・クラウド翻訳</string>

@@ -1509,7 +1509,7 @@ Reauthenticate on the next screen.</string>
 
     <!-- サブスクリプションの案内画面 -->
     <string name="subs_guide_cloud_translation_top_message" translatable="false">The quality of the translation can be improved by using Google\'s service called Cloud Translation.\n\nAs this cloud translation is a paid service, we ask you to subscribe to a subscription in order to continue developing and maintaining this application.</string>
-    <string name="subs_guide_try_7days_for_free" translatable="false">Try 7 days for FREE</string>
+    <string name="subs_guide_try_7days_for_free" translatable="false">Try 7 days for FREE (only for first-time registrants)</string>
     <string name="subs_guide_other_subscription_privileges" translatable="false">Other Subscription Privileges:</string>
     <string name="subs_guide_subscription_privileges" translatable="false">Subscription Privileges:</string>
     <string name="subs_guide_item_cloud_translation" translatable="false">✔ Cloud Translation</string>
