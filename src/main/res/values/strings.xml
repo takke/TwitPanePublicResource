@@ -331,7 +331,7 @@
     <string name="no_pinned_notes">There are no pinned notes.</string>
 
     <!-- サブスクリプション画面 -->
-    <string name="continue_to_trial">Continue to trial</string>
+    <string name="continue_to_trial">Continue to trial\n(%1$s/month after the free period.)</string>
     <string name="cloud_translation_subscription_title">Subscription</string>
     <string name="subscription_title">Subscription</string>
 
@@ -1531,7 +1531,7 @@ Reauthenticate on the next screen.</string>
     <string name="subs_guide_item_view_quoted_tweets_message" translatable="false">(You can view quoted tweets of a tweet)</string>
     <string name="liked_order_likes" translatable="false">Liked ordered likes</string>
     <string name="config_use_liked_order_likes_summary" translatable="false">Only available to users with a subscriptions due to Twitter\'s Tweet cap, which is a strict limit on the number of tweets that can be retrieved.</string>
-    <string name="subs_guide_bottom_notice" translatable="false">You will be automatically charged %1$s per month until you cancel in the Google Play Store. Previous charges will not be refunded when you cancel unless it is legally required. </string>
+    <string name="subs_guide_bottom_notice" translatable="false">If you have already tried a subscription, you are not eligible for the 7-day free subscription. \nAfter the cancellation deadline of 6 days after your first free registration, you will be automatically charged %1$s each month until you cancel in the Google Play Store. \nYou can cancel your subscription through your subscription settings in the Google Play Store. \Please note that your previous payment will not be refunded upon cancellation unless required by law.</string>
     <string name="subs_guide_bottom_notice_cloud_translation" translatable="false">There is a limit to the number of times you can use Cloud Translation per day.</string>
 
     <!-- イベントログ -->

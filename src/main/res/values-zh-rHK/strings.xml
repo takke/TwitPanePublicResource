@@ -331,7 +331,7 @@
     <string name="no_pinned_notes">There are no pinned notes.</string>
 
     <!-- サブスクリプション畫面 -->
-    <string name="continue_to_trial">“繼續試用”</string>
+    <string name="continue_to_trial">Continue to trial\n(%1$s/month after the free period.)</string>
     <string name="cloud_translation_subscription_title">“訂閲”</string>
     <string name="subscription_title">“訂閲”</string>
 
