@@ -184,6 +184,7 @@
     <string name="list_member_destroyed">"제거됨"</string>
     <string name="add_list_tab">"목록 탭 추가"</string>
     <string name="no_lists">No lists</string>
+    <string name="no_feeds">No feeds</string>
     <string name="add_channel_tab">Add Channel Tab</string>
     <string name="no_channels">No Channels</string>
     <string name="no_channel_privileges_for_sub_account">It seems that you do not have channel privileges. Please "Reauthorize Account" from the sub-menu of the account list to add channel permissions.</string>

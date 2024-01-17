@@ -184,6 +184,7 @@
     <string name="list_member_destroyed">削除しました</string>
     <string name="add_list_tab">リストタブの追加</string>
     <string name="no_lists">リストがありませんでした。リストを追加してからやり直してください。</string>
+    <string name="no_feeds">フィードがありませんでした。</string>
     <string name="add_channel_tab">チャンネルタブの追加</string>
     <string name="no_channels">チャンネルがありませんでした。チャンネルをフォローしてからやり直してください。</string>
     <string name="no_channel_privileges_for_sub_account">チャンネルの権限がないようです。アカウント一覧のサブメニューから「アカウントの再認証」を行ってチャンネルの権限を追加してください。</string>
