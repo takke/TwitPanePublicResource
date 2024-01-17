@@ -184,6 +184,7 @@
     <string name="list_member_destroyed">"Eliminado"</string>
     <string name="add_list_tab">"Añadir pestaña de lista"</string>
     <string name="no_lists">No lists</string>
+    <string name="add_feed_tab">"Añadir pestaña de feed"</string>
     <string name="no_feeds">No feeds</string>
     <string name="add_channel_tab">Add Channel Tab</string>
     <string name="no_channels">No Channels</string>

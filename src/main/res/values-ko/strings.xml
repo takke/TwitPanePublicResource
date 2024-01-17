@@ -184,6 +184,7 @@
     <string name="list_member_destroyed">"제거됨"</string>
     <string name="add_list_tab">"목록 탭 추가"</string>
     <string name="no_lists">No lists</string>
+    <string name="add_feed_tab">"피드 탭 추가"</string>
     <string name="no_feeds">No feeds</string>
     <string name="add_channel_tab">Add Channel Tab</string>
     <string name="no_channels">No Channels</string>
