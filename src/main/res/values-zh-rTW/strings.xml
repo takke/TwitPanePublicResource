@@ -753,6 +753,8 @@
     <string name="write_view_attached_files">attached files</string>
     <string name="write_view_emoji_warning">Emoji may not appear as shown in this preview in some instances</string>
     <string name="write_view_has_quote">Has quote</string>
+    <string name="write_view_mention">Mention</string>
+    <string name="write_view_mentions">Mentions</string>
     <string name="write_view_sent_tweet">已釋出</string>
     <string name="write_view_edited_toot">Edited</string>
     <string name="write_view_failed_to_send_tweet">傳送推文失敗</string>

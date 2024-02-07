@@ -763,6 +763,8 @@
     <string name="write_view_attached_files">添付ファイル</string>
     <string name="write_view_emoji_warning">絵文字はインスタンスによってはこのプレビュー通りに表示されない場合があります</string>
     <string name="write_view_has_quote">引用あり</string>
+    <string name="write_view_mention">メンション</string>
+    <string name="write_view_mentions">メンション</string>
     <string name="write_view_sent_tweet">投稿しました</string>
     <string name="write_view_edited_toot">編集しました</string>
     <string name="write_view_failed_to_send_tweet">投稿に失敗しました・・・</string>
