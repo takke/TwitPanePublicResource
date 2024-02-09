@@ -1010,12 +1010,12 @@
     <string name="config_auto_pager">オートページャ</string>
     <string name="config_auto_pager_summary">リストの下までスクロールした際に自動的に次のページを取得します【初期値：ON】 (Blueskyは未対応)</string>
     <string name="config_scroll_pos_after_acquired_gap">中間ツイート取得後の位置</string>
-    <string name="config_scroll_pos_after_acquired_gap_summary">…をタップして「間のツイート(ギャップ)」を取得した後のスクロール位置を設定します (Blueskyは未対応)</string>
+    <string name="config_scroll_pos_after_acquired_gap_summary">…をタップして「間のツイート(ギャップ)」を取得した後のスクロール位置を設定します</string>
     <string name="config_scroll_pos_after_acquired_gap_top">中間ツイートの上側(移動しない)</string>
     <string name="config_scroll_pos_after_acquired_gap_bottom">中間ツイートの下側</string>
     <string name="config_scroll_pos_after_acquired_gap_confirm_each_time">取得時に毎回確認する</string>
     <string name="config_scroll_pos_after_acquired_new_tweet">新着ツイート取得後の位置</string>
-    <string name="config_scroll_pos_after_acquired_new_tweet_summary">リロードボタン等で新しいツイートを取得した後のスクロール位置を設定します (Blueskyは未対応)</string>
+    <string name="config_scroll_pos_after_acquired_new_tweet_summary">リロードボタン等で新しいツイートを取得した後のスクロール位置を設定します</string>
     <string name="config_scroll_pos_after_acquired_new_tweet_top">新着ツイートの上側</string>
     <string name="config_scroll_pos_after_acquired_new_tweet_bottom">新着ツイートの下側(移動しない)</string>
     <string name="config_volume_key_up_function">ボリュームUpキー</string>
