@@ -271,7 +271,7 @@
     <string name="source_from">%1$sから</string>
     <string name="reply_to">%1$s宛</string>
     
-    <string name="cannot_launch_official_twitter_app">公式アプリの起動に失敗しました\n最新版のTwitter公式アプリがインストールされていることをご確認ください。</string>
+    <string name="cannot_launch_official_app">公式アプリの起動に失敗しました\n最新版の公式アプリがインストールされていることをご確認ください。</string>
     
     <string name="compass_button">現在地の取得</string>
 

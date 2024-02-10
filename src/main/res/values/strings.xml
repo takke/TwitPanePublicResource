@@ -270,7 +270,7 @@
     <string name="renoted_by_user">Renoted by %1$s</string>
     <string name="source_from">from %1$s</string>
     <string name="reply_to">to %1$s</string>
-    <string name="cannot_launch_official_twitter_app">Cannot launch the official Twitter app.\nPlease make sure that installed the latest official Twitter app.</string>
+    <string name="cannot_launch_official_app">Cannot launch the official app.\nPlease make sure that installed the latest official app.</string>
     
     <string name="compass_button">Get current location</string>
 
