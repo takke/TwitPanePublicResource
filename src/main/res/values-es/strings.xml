@@ -314,7 +314,7 @@
     <string name="review_dialog_review_button">"Aceptar"</string>
 
     <!-- お気に入り表示公式アプリ確認関連 -->
-    <string name="need_twitter_app_title">"Acerca de usuarios marcados como me gusta"</string>
+    <string name="need_official_app_title">Need official app</string>
     <string name="need_twitter_app_message">"Mostrar los usuarios marcados como me gusta está limitado por twitter, así que muestra el tweet por la aplicación oficial de alternativamente.\n\n¿Instalar la aplicación oficial?"</string>
 <!--	<string name="show_favorited_users_by_twitter_app_run_message">"Mostrar los usuarios marcados como me gusta está limitado por twitter,-->
 <!--así que muestra el tweet por la aplicación oficial de -->

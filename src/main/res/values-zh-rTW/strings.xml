@@ -315,7 +315,7 @@
     <string name="review_dialog_review_button">確定</string>
 
     <!-- お気に入り表示公式アプリ確認関連 -->
-    <string name="need_twitter_app_title">關於已收藏的使用者</string>
+    <string name="need_official_app_title">Need official app</string>
     <string name="need_twitter_app_message">顯示已收藏的使用者是受到Twitter限制的，因此請透過Twitter的官方應用來顯示推文。\n\n安裝官方應用嗎？</string>
     <!--	<string name="show_favorited_users_by_twitter_app_run_message">顯示被收藏使用者受到Twitter的限制，因此另請透過Twitter的官方應用顯示顯示的推文。\n\n執行官方應用嗎？</string>-->
 

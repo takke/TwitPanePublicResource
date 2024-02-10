@@ -316,7 +316,7 @@
     <string name="review_dialog_review_button">OK</string>
     
     <!-- お気に入り表示公式アプリ確認関連 -->
-    <string name="need_twitter_app_title">Need twitter app</string>
+    <string name="need_official_app_title">Need twitter app</string>
     <string name="need_twitter_app_message">Voting and some actions are restricted by twitter, so show the tweet by official app of twitter alternatively. \n\nInstall official app?</string>
 
 	<string name="drawer_open">Open</string>
