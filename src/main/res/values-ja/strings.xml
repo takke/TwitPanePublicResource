@@ -318,8 +318,7 @@
     
     <!-- お気に入り表示公式アプリ確認関連 -->
     <string name="need_official_app_title">公式アプリで開く</string>
-    <string name="need_twitter_app_message">アンケート投稿などは Twitter の制約により非公式アプリではできません。\n代わりに公式アプリを呼び出し、表示することができます。\n\n公式アプリをインストールしますか？</string>
-<!--	<string name="show_favorited_users_by_twitter_app_run_message">いいねしたユーザー一覧は Twitter の制約により非公式アプリでは表示できません。\n代わりに公式アプリを呼び出し、このツイートを表示することができます。\n\n公式アプリを起動しますか？</string>-->
+    <string name="need_official_app_message">公式アプリをインストールしますか？</string>
 
 	<string name="drawer_open">Open</string>
 	<string name="drawer_close">Close</string>

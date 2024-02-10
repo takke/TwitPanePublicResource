@@ -315,9 +315,8 @@
     
     <!-- お気に入り表示公式アプリ確認関連 -->
     <string name="need_official_app_title">Need official app</string>
-    <string name="need_twitter_app_message">마음된 사용자를 노출하는 것은 트위터에 의해 제한되어 있습니다. 트위터 공식앱을 통해 노출하세요\n\n 공식앱을 설치하시겠습니까?</string>
-<!--	<string name="show_favorited_users_by_twitter_app_run_message">마음된 사용자를 노출하는 것은 트위터에 의해 제한되어 있습니다. 트위터 공식앱을 통해 트위터를 노출하세요\n\n 공식앱을 실행하시겠습니까?</string>-->
-    
+    <string name="need_official_app_message">Install official app?</string>
+
 	<string name="drawer_open">"열기"</string>
 	<string name="drawer_close">"닫기"</string>
 

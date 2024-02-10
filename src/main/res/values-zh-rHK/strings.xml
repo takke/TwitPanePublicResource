@@ -316,8 +316,7 @@
 
     <!-- お気に入り表示公式アプリ確認関連 -->
     <string name="need_official_app_title">Need official app</string>
-    <string name="need_twitter_app_message">顯示已收藏的用户是受到Twitter限制的，因此請通過Twitter的官方應用來顯示推文。\n\n安裝官方應用嗎？</string>
-    <!--	<string name="show_favorited_users_by_twitter_app_run_message">顯示被收藏用户受到Twitter的限制，因此另請通過Twitter的官方應用顯示顯示的推文。\n\n運行官方應用嗎？</string>-->
+    <string name="need_official_app_message">Install official app?</string>
 
     <string name="drawer_open">打開</string>
     <string name="drawer_close">關閉</string>
