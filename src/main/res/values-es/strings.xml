@@ -845,7 +845,8 @@
     <string name="config_bold_name_summary"></string>
     <string name="config_wrap_name_line">nombre envoltura</string>
     <string name="config_wrap_name_line_summary"></string>
-    <string name="config_preview_of_attached_photo_category">Preview of attached photo</string>
+    <string name="config_preview_of_attached_photo_category1">Preview of attached photo</string>
+    <string name="config_preview_of_attached_photo_category2">Sensitive Media</string>
     <string name="config_photo_thumbnail_layout">Thumbnail Layout</string>
     <string name="config_photo_thumbnail_layout_new_official_app">Portrait style &lt;br>&lt;small>New Twitter Official App style&lt;/small></string>
     <string name="config_photo_thumbnail_layout_old_official_app">Landscape style &lt;br>&lt;small>Old Twitter Official App style&lt;/small></string>
