@@ -1048,6 +1048,7 @@
 	<string name="config_show_tweet_confirm_dialog_summary">"트윗 또는 메시지를 전송하기 전에 확인 대화상자 표시"</string>
     <string name="config_initial_visibility">Initial Visibility</string>
     <string name="config_initial_visibility_per_account">Initial Visibility(Per Account)</string>
+    <string name="config_initial_visibility_per_account_summary"></string>
     <string name="config_tweet_font_size">"폰트 크기"</string>
     <string name="config_refresh_timeline_after_tweet_title">"트윗 후 새로 고침"</string>
     <string name="config_refresh_timeline_after_tweet_summary">"트윗을 보낸 후 타임 라인을 새로고침 [기본값 : OFF]"</string>

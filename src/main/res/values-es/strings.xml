@@ -1047,6 +1047,7 @@
     <string name="config_show_tweet_confirm_dialog_summary">"Mostrar diálogo de confirmación antes de enviar un tweet o mensaje"</string>
     <string name="config_initial_visibility">Initial Visibility</string>
     <string name="config_initial_visibility_per_account">Initial Visibility(Per Account)</string>
+    <string name="config_initial_visibility_per_account_summary"></string>
     <string name="config_tweet_font_size">"Tamaño de la fuente"</string>
     <string name="config_refresh_timeline_after_tweet_title">"Actualizar después de un tweet"</string>
     <string name="config_refresh_timeline_after_tweet_summary">"Actualizar cronología después de enviar un tweet [por defecto: activado]"</string>
