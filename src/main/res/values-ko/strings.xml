@@ -197,6 +197,7 @@
     <string name="add_search_tab">"검색 탭 추가"</string>
     <string name="common_clear">"제거"</string>
     <string name="common_failed_message">"실패 ..., 몇 분 후에 다시 시도하십시오."</string>
+    <string name="common_timeout_message">Timeout..., please try again after a few minutes.</string>
     <string name="common_delete">"삭제"</string>
     <string name="common_remember">Remember</string>
     <string name="already_task_running">"실행 중... 몇 분 후에 다시 시도하십시오"</string>

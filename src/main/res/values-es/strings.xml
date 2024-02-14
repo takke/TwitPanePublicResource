@@ -197,6 +197,7 @@
     <string name="add_search_tab">"Añadir búsqueda a pestañas"</string>
     <string name="common_clear">"Limpiar"</string>
     <string name="common_failed_message">"No ha sido posible, por favor, inténtelo de nuevo en unos minutos."</string>
+    <string name="common_timeout_message">Timeout..., please try again after a few minutes.</string>
     <string name="common_delete">"Eliminar"</string>
     <string name="common_remember">Remember</string>
     <string name="already_task_running">"Ejecutándose, por favor, inténtelo de nuevo en unos minutos."</string>

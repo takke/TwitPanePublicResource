@@ -197,6 +197,7 @@
     <string name="add_search_tab">検索タブの追加</string>
     <string name="common_clear">クリア</string>
     <string name="common_failed_message">失敗しました・・・。しばらく待ってからやり直してみてください</string>
+    <string name="common_timeout_message">サーバーの応答に時間がかかっています。しばらく待ってからやり直してみてください</string>
     <string name="common_delete">削除する</string>
     <string name="common_remember">記憶する</string>
     <string name="already_task_running">通信中です。しばらく待ってからやり直してみてください</string>

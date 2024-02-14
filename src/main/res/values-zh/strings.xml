@@ -197,6 +197,7 @@
     <string name="add_search_tab">添加搜索选项卡</string>
     <string name="common_clear">清除</string>
     <string name="common_failed_message">失败...，请在几分钟后重试。</string>
+    <string name="common_timeout_message">Timeout..., please try again after a few minutes.</string>
     <string name="common_delete">删除</string>
     <string name="common_remember">Remember</string>
     <string name="already_task_running">正在运行，请在几分钟后重试。</string>

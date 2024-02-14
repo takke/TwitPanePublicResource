@@ -197,6 +197,7 @@
     <string name="add_search_tab">Add Search Tab</string>
     <string name="common_clear">Clear</string>
     <string name="common_failed_message">Failed..., please try again after a few minutes.</string>
+    <string name="common_timeout_message">Timeout..., please try again after a few minutes.</string>
     <string name="common_delete">Delete</string>
     <string name="common_remember">Remember</string>
     <string name="already_task_running">Running, please try again after a few minutes.</string>
