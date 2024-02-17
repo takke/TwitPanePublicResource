@@ -542,6 +542,7 @@
     <string name="menu_share_tweet">"Compartir tweet"</string>
     <string name="menu_share_toot">Share Toot</string>
     <string name="menu_share_note">Share Note</string>
+    <string name="menu_share_post">Share Post</string>
     <string name="menu_act_from_main_account">Using with main account</string>
     <string name="cannot_resolve_target_toot">Could not find the toot to be handled from the main account instance</string>
     <string name="menu_remove_tweet">"Eliminar"</string>
