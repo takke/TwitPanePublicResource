@@ -567,6 +567,7 @@
     <string name="menu_block_this_tweet">Block this tweet</string>
     <string name="show_blocked_tweets">Blocked tweets</string>
     <string name="menu_user_reply_search">Search replies</string>
+    <string name="menu_search_from_user_posts">Search from user posts</string>
     <string name="menu_user_posts_only">User Posts Only</string>
     <string name="menu_search_with">Search with \"%1$s\"</string>
     <string name="menu_user_conversation_with_me_search">Search conversation with me</string>
