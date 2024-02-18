@@ -559,7 +559,7 @@
     <string name="unpinned_note">Unpinned Note</string>
     <string name="pinned_toot">Pinned Toot</string>
     <string name="unpinned_toot">Unpinned Toot</string>
-    <string name="menu_open_with_official_app">Open Twitter App</string>
+    <string name="menu_open_with_official_app">Open Official App</string>
     <string name="menu_import_design">Import Design</string>
     
     <string name="menu_user_mute">Mute this user</string>
