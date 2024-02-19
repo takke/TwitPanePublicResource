@@ -352,6 +352,7 @@
     <string name="menu_create_list">Create List</string>
     <string name="menu_list_edit">Edit</string>
     <string name="menu_list_delete">Delete</string>
+    <string name="menu_delete_list_member">Delete Member</string>
     <string name="menu_list_subscribe">Subscribe</string>
     <string name="menu_list_unscribe">Unscribe</string>
     <string name="menu_new">New</string>

@@ -351,6 +351,7 @@
     <string name="menu_create_list">創建列表</string>
     <string name="menu_list_edit">編輯</string>
     <string name="menu_list_delete">刪除</string>
+    <string name="menu_delete_list_member">刪除成員</string>
     <string name="menu_list_subscribe">訂閲</string>
     <string name="menu_list_unscribe">取消訂閲</string>
     <string name="menu_new">新建</string>

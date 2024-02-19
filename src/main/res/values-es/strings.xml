@@ -350,6 +350,7 @@
     <string name="menu_create_list">"Crear lista"</string>
     <string name="menu_list_edit">"Editar"</string>
     <string name="menu_list_delete">"Eliminar"</string>
+    <string name="menu_delete_list_member">"Eliminar miembro de la lista"</string>
     <string name="menu_list_subscribe">"Suscribirse"</string>
     <string name="menu_list_unscribe">"Eliminar la suscripción"</string>
     <string name="menu_new">"Nuevo"</string>
