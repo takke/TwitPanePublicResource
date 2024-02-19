@@ -707,6 +707,7 @@
     <string name="minimize">Minimize</string>
     <string name="maximize">Maximize</string>
     <string name="hashtag">"해시태그"</string>
+    <string name="language">"언어"</string>
     <string name="double_quote">DoubleQuote</string>
     <string name="hashtag_remove_confirm_title">"삭제 확인"</string>
     <string name="hashtag_remove_confirm_message">"이 해시태그를 삭제하시겠습니까?"</string>

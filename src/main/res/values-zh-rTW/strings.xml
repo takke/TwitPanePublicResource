@@ -709,6 +709,7 @@
     <string name="minimize">最小化</string>
     <string name="maximize">最大化</string>
     <string name="hashtag">主題標籤</string>
+    <string name="language">語言</string>
     <string name="double_quote">DoubleQuote</string>
     <string name="hashtag_remove_confirm_title">刪除確認</string>
     <string name="hashtag_remove_confirm_message">刪除此主題標籤嗎？</string>
