@@ -524,6 +524,8 @@
     <string name="menu_show_quoted_tweets">인용된 트윗</string>
     <string name="menu_show_favorite_users_favorite">"좋아하는 사용자"</string>
     <string name="menu_show_favorite_users_like">"마음 한 유저 보기"</string>
+    <string name="no_liked_users">No liked users</string>
+    <string name="no_reposted_users">No reposted users</string>
     <string name="menu_show_profile">"프로필 보기"</string>
     <string name="menu_show_timeline">"타임라인 보이기"</string>
     <string name="show_latest_tweet">타임라인 보이기</string>
