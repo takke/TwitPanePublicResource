@@ -1151,7 +1151,7 @@
     <string name="config_mute_words_hint">word</string>
     <string name="config_mute_no_words">ミュートワードはありません</string>
 
-    <string name="config_mute_target">ミュート対象 (Blueskyは未対応)</string>
+    <string name="config_mute_target">ミュート対象 \n(Blueskyはワードのみ対応)</string>
     <string name="config_mute_to_reply_conversation">返信や会話もミュートする</string>
     <string name="config_mute_to_reply_conversation_summary">【初期値：OFF】</string>
     <string name="config_mute_to_messages">メッセージもミュートする</string>
