@@ -684,6 +684,10 @@
     <string name="custom_emoji_picker_activity_title">CustomEmojiPicker</string>
     <string name="write_view_spoiler_label">Content warning</string>
     <string name="write_view_sensitive">Sensitive</string>
+    <string name="sensitive_label_sexual">Sexual</string>
+    <string name="sensitive_label_nudity">Nudity</string>
+    <string name="sensitive_label_porn">Porn</string>
+    <string name="sensitive_label_nothing">No content warning (for public)</string>
     <string name="visibility">Visibility</string>
     <string name="visibility_public">Public</string>
     <string name="visibility_unlisted">Unlisted</string>
