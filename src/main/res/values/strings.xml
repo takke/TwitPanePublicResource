@@ -688,6 +688,7 @@
     <string name="custom_emoji_picker_activity_title">CustomEmojiPicker</string>
     <string name="write_view_spoiler_label">Content warning</string>
     <string name="write_view_sensitive">Sensitive</string>
+    <string name="sensitive_label">Content Warning</string>
     <string name="sensitive_label_sexual">Sexual</string>
     <string name="sensitive_label_nudity">Nudity</string>
     <string name="sensitive_label_porn">Porn</string>
