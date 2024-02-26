@@ -1523,6 +1523,7 @@
     <string name="trend_tweet_count">%1$s 條推文</string>
     <string name="dm_not_allowed_and_re_authorize_confirm_message">訪問私信的權限已丟失。你確定要重新授權嗎？</string>
     <string name="could_not_authenticate_you_re_authorize_confirm_message">The permission to access was lost. Are you sure you want to re-authorize?\n\n*If this error appears repeatedly, there may be some kind of failure. Please check our official account (@TwitPane) and official website for the latest information.</string>
+    <string name="twitter_error_no_value_for_tweet_results">No value, Please retry later</string>
     <string name="fatal_authenticate_error_message">A fatal authentication error has occurred. If this error is displayed repeatedly, there may be some kind of failure. Please check the official website and official account (@TwitPane) for the latest information.</string>
     <string name="check_official_site">Check official site</string>
 
