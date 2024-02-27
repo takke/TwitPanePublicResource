@@ -573,7 +573,7 @@
     
     <string name="menu_user_mute">このユーザーをミュート...</string>
     <string name="menu_user_block">このユーザーをブロック...</string>
-    <string name="menu_block_this_tweet">このツイートをブロック...</string>
+    <string name="menu_block_this_tweet">この投稿をブロック...</string>
     <string name="show_blocked_tweets">ブロックツイート一覧</string>
     <string name="menu_user_reply_search">ユーザー宛のツイートを検索する</string>
     <string name="menu_search_from_user_posts">ユーザーの投稿から検索する</string>
