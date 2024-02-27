@@ -527,6 +527,7 @@
     <string name="menu_show_favorite_users_like">"Usuarios me gusta"</string>
     <string name="no_liked_users">No liked users</string>
     <string name="no_reposted_users">No reposted users</string>
+    <string name="no_blocking_users">No blocking users</string>
     <string name="menu_show_profile">"Mostrar perfil"</string>
     <string name="menu_show_timeline">"Mostrar cronología"</string>
     <string name="show_latest_tweet">Mostrar cronología</string>

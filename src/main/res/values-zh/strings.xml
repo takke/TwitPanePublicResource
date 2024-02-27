@@ -529,6 +529,7 @@
     <string name="menu_show_favorite_users_like">点赞的用户</string>
     <string name="no_liked_users">No liked users</string>
     <string name="no_reposted_users">No reposted users</string>
+    <string name="no_blocking_users">No blocking users</string>
     <string name="menu_show_profile">显示个人资料</string>
     <string name="menu_show_timeline">显示时间轴</string>
     <string name="show_latest_tweet">显示时间轴</string>
