@@ -1283,7 +1283,7 @@
     <string name="config_use_favorite_summary">「♥ いいね」ではなく「★ お気に入り」にする【初期値：OFF】</string>
 	<string name="config_tab_reload_suppression_interval_title">タブ更新抑制時間</string>
     <string name="config_tab_reload_suppression_interval_summary">「タブ切り替え時に自動的にリロードするまでの時間」(前回のロードからの最低経過時間)を設定します【初期値：30分】</string>
-	<string name="config_change_font">フォント変更 (Blueskyは未対応)</string>
+	<string name="config_change_font">フォント変更</string>
     <string name="config_change_font_summary">アプリ全体で利用するフォントを変更できます。ttfまたはotfファイルが必要です。</string>
 	<string name="config_select_font_file">フォントファイル選択</string>
     <string name="config_select_font_choose_font_file" translatable="false">次の画面で ttf または otf ファイルを選択してください</string>
