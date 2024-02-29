@@ -1089,7 +1089,7 @@
     <string name="config_tweet_font_size">フォントサイズ</string>
     <string name="config_refresh_timeline_after_tweet_title">投稿後の自動更新</string>
     <string name="config_refresh_timeline_after_tweet_summary">ツイート投稿後にタイムラインを再取得します【初期値：OFF】</string>
-    <string name="config_live_tweet_mode_title">実況モード (Blueskyは未対応)</string>
+    <string name="config_live_tweet_mode_title">実況モード</string>
     <string name="config_live_tweet_mode_summary">最後にツイートした際のハッシュタグを記憶します。投稿画面のハッシュタグボタンの長押しでも実況モードを切り替えられます【初期値：OFF】</string>
     <string name="config_v2_tweet_post_title">v2投稿モード</string>
     <string name="config_v2_tweet_post_summary">Twitter API v2 で投稿します。【初期値：OFF】</string>
