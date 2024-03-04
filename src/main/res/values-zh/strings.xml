@@ -572,6 +572,7 @@
     <string name="menu_user_reply_search">搜索回复</string>
     <string name="menu_search_from_user_posts">Search from user posts</string>
     <string name="menu_user_posts_only">User Posts Only</string>
+    <string name="menu_user_posts_only_posts">User Posts Only</string>
     <string name="menu_search_with">Search with \"%1$s\"</string>
     <string name="menu_user_conversation_with_me_search">搜索与我的对话</string>
     <string name="menu_show_image_timeline">显示图像时间轴</string>

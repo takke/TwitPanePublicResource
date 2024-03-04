@@ -570,6 +570,7 @@
     <string name="menu_user_reply_search">"Buscar respuestas"</string>
     <string name="menu_search_from_user_posts">Search from user posts</string>
     <string name="menu_user_posts_only">User Posts Only</string>
+    <string name="menu_user_posts_only_posts">User Posts Only</string>
     <string name="menu_search_with">Search with \"%1$s\"</string>
     <string name="menu_user_conversation_with_me_search">Busca conversación conmigo</string>
     <string name="menu_show_image_timeline">"Mostrar la cronología de la imagen"</string>
