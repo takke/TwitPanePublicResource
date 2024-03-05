@@ -62,6 +62,7 @@
     <string name="pane_name_list_subscribers">Suscriptores de la lista</string>
     <string name="pane_name_follow">"%1$s sigue"</string>
     <string name="pane_name_follower">"Seguidores de %1$s"</string>
+    <string name="pane_name_likes_of">"Me gusta de %1$s"</string>
     <string name="pane_name_blocks">"Usuarios bloqueados"</string>
     <string name="pane_name_search_user">"Buscar usuario"</string>
     <string name="pane_name_feeds">Feeds</string>

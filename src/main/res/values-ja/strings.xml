@@ -62,6 +62,7 @@
     <string name="pane_name_list_subscribers">リストの購読者</string>
     <string name="pane_name_follow">%1$sのフォロー</string>
     <string name="pane_name_follower">%1$sのフォロワー</string>
+    <string name="pane_name_likes_of">%1$sのいいね</string>
     <string name="pane_name_blocks">ブロックユーザー一覧</string>
     <string name="pane_name_search_user">ユーザー検索</string>
     <string name="pane_name_feeds">フィード</string>

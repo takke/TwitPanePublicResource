@@ -62,6 +62,7 @@
     <string name="pane_name_list_subscribers">列表訂閲者</string>
     <string name="pane_name_follow">%1$s 個關注</string>
     <string name="pane_name_follower">%1$s 個關注者</string>
+    <string name="pane_name_likes_of">%1$s 的點贊</string>
     <string name="pane_name_blocks">被屏蔽的用户</string>
     <string name="pane_name_search_user">搜索用户</string>
     <string name="pane_name_feeds">Feeds</string>
