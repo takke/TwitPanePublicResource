@@ -1305,6 +1305,7 @@
     <string name="config_prefs_import_summary">설정을 복원</string>
     <string name="config_prefs_import_confirm_message">"정말로 내보내어진 설정파일로부터 모든 설정을 불러오시겠습니까? (경고!! 모든 계정 설정이 제거됩니다!!)"</string>
     <string name="zonepane_does_not_support_import_from_mastopane">\n\nZonePane does NOT support importing settings from MastoPane.</string>
+    <string name="config_prefs_clear_font">Clear Font Settings</string>
     <string name="config_prefs_clear">설정 지우기</string>
     <string name="config_prefs_clear_confirm_message">모든 설정을 삭제 하시겠습니까? (경고! 모든 계정 설정이 제거됩니다!)</string>
     <string name="config_prefer_protocol">"HTTP/2.0 지원"</string>

@@ -1347,6 +1347,7 @@
     <string name="config_prefs_import_summary">恢復設置</string>
     <string name="config_prefs_import_confirm_message">你確定你要從導出的設置文件中導入所有的設置嗎？(警告！！所有賬户設置將被刪除！！)</string>
     <string name="zonepane_does_not_support_import_from_mastopane">\n\nZonePane does NOT support importing settings from MastoPane.</string>
+    <string name="config_prefs_clear_font">Clear Font Settings</string>
     <string name="config_prefs_clear">清除設置</string>
     <string name="config_prefs_clear_confirm_message">你確定你要清除所有的設置嗎？(警告！！所有賬户設置將被刪除！！)</string>
     <string name="config_prefer_protocol">支持HTTP/2.0</string>
