@@ -141,6 +141,7 @@
     <string name="send_toot_mention_button">"새로운 멘션"</string>
     <string name="send_note_mention_button">"새로운 멘션"</string>
     <string name="send_post_mention_button">"새로운 멘션"</string>
+    <string name="display_name">Display Name</string>
 
     <string name="retweet_confirm_message">"이 트윗을 리트윗할까요?"</string>
     <string name="renote_in_channel_confirm_message">Renote this note in the channel?</string>

@@ -141,6 +141,7 @@
     <string name="send_toot_mention_button">\@トゥートを送信する</string>
     <string name="send_note_mention_button">\@ノートを送信する</string>
     <string name="send_post_mention_button">\@Postを送信する</string>
+    <string name="display_name">表示名</string>
 
     <string name="retweet_confirm_message">このツイートをフォロワーにリツイートしますか？</string>
     <string name="renote_in_channel_confirm_message">このノートをチャンネル内にリノートしますか？</string>
