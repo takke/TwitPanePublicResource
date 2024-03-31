@@ -1640,13 +1640,13 @@
     <!-- Mastodon Replacements for Settings -->
     <string name="mastodon_replace_keyword_retweets">リツイート</string>
     <string name="mastodon_replace_keyword_boosts">ブースト</string>
-    <string name="mastodon_replace_keyword_boosts_renotes">ブースト・リノート</string>
     <string name="mastodon_replace_keyword_renotes">リノート</string>
+    <string name="mastodon_replace_keyword_boosts_renotes_reposts">ブースト・リノート・リポスト</string>
 
     <string name="mastodon_replace_keyword_retweet">リツイート</string>
     <string name="mastodon_replace_keyword_boost">ブースト</string>
-    <string name="mastodon_replace_keyword_boost_renote">ブースト・リノート</string>
     <string name="mastodon_replace_keyword_renote">リノート</string>
+    <string name="mastodon_replace_keyword_boost_renote_repost">ブースト・リノート・リポスト</string>
 
     <string name="mastodon_replace_keyword_retaiitsus">リタイーツ</string>
     <string name="mastodon_replace_keyword_retaiitsu">リタイーツ</string>
