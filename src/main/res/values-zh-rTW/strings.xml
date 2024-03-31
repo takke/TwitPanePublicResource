@@ -1635,6 +1635,7 @@
 
     <string name="mastodon_replace_keyword_like">like</string>
     <string name="mastodon_replace_keyword_favorite">favorite</string>
+    <string name="mastodon_replace_keyword_favorite_like">favorite/like</string>
 
     <string name="mst_list_show_replies">Show replies</string>
     <string name="mst_list_replies_policy_followed">all following users</string>
