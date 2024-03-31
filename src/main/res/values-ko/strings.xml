@@ -1589,6 +1589,7 @@
 
     <string name="mastodon_replace_keyword_likes">likes</string>
     <string name="mastodon_replace_keyword_favorites">favorites</string>
+    <string name="mastodon_replace_keyword_favorites_likes">favorites/likes</string>
 
     <string name="mastodon_replace_keyword_like">like</string>
     <string name="mastodon_replace_keyword_favorite">favorite</string>

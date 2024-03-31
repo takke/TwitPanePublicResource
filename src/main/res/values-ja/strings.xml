@@ -1670,6 +1670,7 @@
 
     <string name="mastodon_replace_keyword_likes">いいね</string>
     <string name="mastodon_replace_keyword_favorites">お気に入り</string>
+    <string name="mastodon_replace_keyword_favorites_likes">お気に入り・いいね</string>
 
     <string name="mastodon_replace_keyword_like">いいね</string>
     <string name="mastodon_replace_keyword_favorite">お気に入り</string>
