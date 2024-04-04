@@ -1174,6 +1174,7 @@ Do you want to enable it?</string>
     <string name="config_notification_category_new_tweet">New tweets</string>
     <string name="config_notification_category_new_toot">New toots</string>
     <string name="config_notification_category_new_note">New notes</string>
+    <string name="config_notification_category_new_post">New posts</string>
     <string name="config_notification_category_reply">Reply</string>
     <string name="config_notification_category_reply_summary">New replies are supported only for "current account".</string>
     <string name="config_notification_category_message">Messages</string>
