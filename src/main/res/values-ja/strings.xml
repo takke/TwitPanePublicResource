@@ -1220,7 +1220,7 @@
     <string name="config_exclude_battery_optimizations">バッテリーの最適化からの除外</string>
     <string name="config_exclude_battery_optimizations_summary">定期的に通知が来ない場合は本アプリをバッテリーの最適化から除外してください</string>
     <string name="config_exclude_battery_optimizations_exclude">除外する</string>
-    <string name="config_notification_category_auto_updates">自動更新 (Blueskyは未対応)</string>
+    <string name="config_notification_category_auto_updates">自動更新</string>
     <string name="config_notification_category_auto_updates_summary">自動的に新しいツイートを取得します。対象となるタブは「タブの長押し」メニュー、「タブの設定」または下記の「自動更新タブ一覧」から設定します。</string>
     <string name="config_notification_show_auto_update_tabs">自動更新タブ一覧</string>
     <string name="config_notification_show_auto_update_tabs_summary">自動更新に設定されているタブの確認や追加、解除ができます。</string>
