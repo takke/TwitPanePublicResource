@@ -1543,6 +1543,8 @@
     <string name="event_log_message_toot_compose_failed">Failed to post toot</string>
     <string name="event_log_message_note_compose_success">Note posted</string>
     <string name="event_log_message_note_compose_failed">Failed to post note</string>
+    <string name="event_log_message_bs_post_compose_success">Posted</string>
+    <string name="event_log_message_bs_post_compose_failed">Failed to post</string>
     <string name="event_log_message_new_reply">收到新回覆。</string>
     <string name="event_log_message_no_new_reply">沒有新的回覆。</string>
     <string name="event_log_message_new_message">收到新訊息。</string>

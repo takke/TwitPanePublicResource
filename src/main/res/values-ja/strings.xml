@@ -1576,6 +1576,8 @@
     <string name="event_log_message_toot_compose_failed">トゥートの投稿に失敗しました</string>
     <string name="event_log_message_note_compose_success">ノートを投稿しました</string>
     <string name="event_log_message_note_compose_failed">ノートの投稿に失敗しました</string>
+    <string name="event_log_message_bs_post_compose_success">ポストを投稿しました</string>
+    <string name="event_log_message_bs_post_compose_failed">ポストの投稿に失敗しました</string>
     <string name="event_log_message_new_reply">新着返信がありました</string>
     <string name="event_log_message_no_new_reply">新着返信はありませんでした</string>
     <string name="event_log_message_new_message">新着メッセージがありました</string>

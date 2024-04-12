@@ -1569,6 +1569,8 @@ Reauthenticate on the next screen.</string>
     <string name="event_log_message_toot_compose_failed">Failed to post toot</string>
     <string name="event_log_message_note_compose_success">Note posted</string>
     <string name="event_log_message_note_compose_failed">Failed to post note</string>
+    <string name="event_log_message_bs_post_compose_success">Posted</string>
+    <string name="event_log_message_bs_post_compose_failed">Failed to post</string>
     <string name="event_log_message_new_reply">New replies received.</string>
     <string name="event_log_message_no_new_reply">No new replies.</string>
     <string name="event_log_message_new_message">New message received.</string>
