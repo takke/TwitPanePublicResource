@@ -739,6 +739,10 @@
     <string name="write_view_finish_save">Save</string>
     <string name="write_view_finish_save_discard">Discard</string>
     <string name="write_view_finish_save_cancel">Cancel</string>
+    <string name="interstitial_ad_notice_message">Advertisements will appear on the next screen.
+- Only once a day, an ad will be displayed after posting.
+- Please note that sound may be emitted while displaying ads, so please pay attention to the volume and surrounding environment.
+- Ads can be removed by subscribing to the Ad-free Pack (Settings -> Subscription).</string>
     <string name="no_drafts">No drafts</string>
     <string name="select_items_to_delete">Select the item you wish to delete</string>
     <string name="drafts">Drafts</string>
