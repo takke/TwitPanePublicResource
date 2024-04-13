@@ -1547,8 +1547,8 @@ Reauthenticate on the next screen.</string>
     <string name="subs_guide_item_cloud_translation" translatable="false">✔ Cloud Translation</string>
     <string name="subs_guide_item_cloud_translation_message" translatable="false">(Translation results will be more natural and high quality.)</string>
     <string name="subs_guide_item_no_ads" translatable="false">✔ No Ads</string>
-    <string name="subs_guide_item_no_top_ads_message" translatable="false">(You can erase the banner ads at the top of the screen)</string>
-    <string name="subs_guide_item_no_bottom_ads_message" translatable="false">(You can erase the banner ads at the bottom of the screen)</string>
+    <string name="subs_guide_item_no_top_ads_message" translatable="false">(You can erase the banner ads at the top of the screen and ads showing after post)</string>
+    <string name="subs_guide_item_no_bottom_ads_message" translatable="false">(You can erase the banner ads at the bottom of the screen and ads showing after post)</string>
     <string name="subs_guide_item_free_more_accounts" translatable="false">✔ +2 Accounts</string>
     <string name="subs_guide_item_free_more_accounts_message" translatable="false">(You can increase the number of accounts you can register by two.)</string>
     <string name="subs_guide_item_premium_more_accounts" translatable="false">✔ +5 Accounts</string>
