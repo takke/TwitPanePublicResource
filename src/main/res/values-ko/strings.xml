@@ -739,6 +739,9 @@
 - Only once a day, an ad will be displayed after posting.\n
 - Please note that sound may be emitted while displaying ads, so please pay attention to the volume and surrounding environment.\n
 - Ads can be removed by subscribing to the Ad-free Pack (Settings -> Subscription).</string>
+    <string name="after_compose_ad_notice_message">Advertisements will appear on the next screen.\n
+- Please note that sound may be emitted while displaying ads, so please pay attention to the volume and surrounding environment.\n
+- Ads can be removed by subscribing to the Ad-free Pack (Settings -> Subscription).</string>
     <string name="no_drafts">"초안이 없음"</string>
     <string name="select_items_to_delete">삭제하려는 항목을 선택하십시오</string>
     <string name="drafts">"임시보관함"</string>
