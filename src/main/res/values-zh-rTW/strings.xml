@@ -741,6 +741,7 @@
 - Only once a day, an ad will be displayed after posting.\n
 - Please note that sound may be emitted while displaying ads, so please pay attention to the volume and surrounding environment.\n
 - Ads can be removed by subscribing to the Ad-free Pack (Settings -> Subscription).</string>
+    <string name="after_compose_ad_dialog_message">Submitting...</string>
     <string name="after_compose_ad_notice_message">Advertisements will appear on the next screen.\n
 - Please note that sound may be emitted while displaying ads, so please pay attention to the volume and surrounding environment.\n
 - Ads can be removed by subscribing to the Ad-free Pack (Settings -> Subscription).</string>
