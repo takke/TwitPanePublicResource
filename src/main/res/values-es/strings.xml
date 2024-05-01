@@ -782,6 +782,7 @@
     <string name="write_view_sent_tweet">"Publicado"</string>
     <string name="write_view_edited_toot">Edited</string>
     <string name="write_view_failed_to_send_tweet">No se ha podido twittear…</string>
+    <string name="write_view_sending">Sending…</string>
     <string name="write_view_restricted_who_can_reply_to_this_tweet">{errorMessage}</string>
     <string name="write_view_convert_to_quote_tweet_config">¿Quieres convertirlo en un tweet citado?</string>
     <string name="write_view_dm_confirm">"Enviar MD a \@%1$s, ¿Aceptar?"</string>

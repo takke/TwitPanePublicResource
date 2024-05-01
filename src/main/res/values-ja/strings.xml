@@ -794,6 +794,7 @@
     <string name="write_view_sent_tweet">投稿しました</string>
     <string name="write_view_edited_toot">編集しました</string>
     <string name="write_view_failed_to_send_tweet">投稿に失敗しました・・・</string>
+    <string name="write_view_sending">投稿しています…</string>
     <string name="write_view_restricted_who_can_reply_to_this_tweet">このツイートは返信対象が制限されているので返信できません。\n({errorMessage})</string>
     <string name="write_view_duplicate_content">ツイートが重複しています。\n({errorMessage})</string>
     <string name="write_view_convert_to_quote_tweet_config">引用ツイートに変更することで投稿できる場合があります。\n引用ツイートに変更しますか？</string>
