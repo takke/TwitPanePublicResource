@@ -1665,4 +1665,12 @@
     <string name="share_pattern_selector_full">"@username(display name) + body"</string>
     <string name="share_pattern_selector_body_only">"body only"</string>
 
+    <!-- Bluesky Threadgate -->
+    <string name="threadgate_nobody">nobody</string>
+    <string name="threadgate_who_can_reply">Who can reply</string>
+    <string name="threadgate_and">and</string>
+    <string name="threadgate_mentioned_users">mentioned users</string>
+    <string name="threadgate_users_followed_by">users followed by %1$s</string>
+    <string name="threadgate_list_members">%1$s members</string>
+
 </resources>

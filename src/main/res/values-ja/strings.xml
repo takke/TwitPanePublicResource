@@ -1704,6 +1704,14 @@
     <string name="share_pattern_selector_full">"@ユーザー名(表示名) + 本文"</string>
     <string name="share_pattern_selector_body_only">"本文のみ"</string>
 
+    <!-- Bluesky Threadgate -->
+    <string name="threadgate_nobody">返信不可</string>
+    <string name="threadgate_who_can_reply">返信できるユーザー</string>
+    <string name="threadgate_and">および</string>
+    <string name="threadgate_mentioned_users">メンションされたユーザー</string>
+    <string name="threadgate_users_followed_by">%1$sにフォローされているユーザー</string>
+    <string name="threadgate_list_members">%1$sのメンバー</string>
+
     <!-- Search Edition -->
     <!-- search_edition_introduction_message は app_search のほうに書く -->
 
