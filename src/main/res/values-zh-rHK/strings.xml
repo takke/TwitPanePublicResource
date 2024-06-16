@@ -96,6 +96,7 @@
     <string name="add_search_page_finish">已添加</string>
 
     <string name="reload_button">重新加載</string>
+    <string name="reload_with_new_emojis">重新加載</string>
     <string name="load_from_latest">Load from latest</string>
     <string name="load_from_continued">Load from continued(reload)</string>
     <string name="force_reload">Forced reload(delete tab data and reload)</string>
