@@ -1715,6 +1715,9 @@
     <string name="threadgate_everybody_can_reply">誰でも返信可能</string>
     <string name="threadgate_nobody_can_reply">誰も返信できない</string>
     <string name="threadgate_some_people_can_reply">一部の人が返信可能</string>
+    <string name="threadgate_everybody">全員</string>
+    <string name="threadgate_following_users">自分がフォローしているユーザー</string>
+    <string name="threadgate_users_in_list_of">%1$sのユーザー</string>
 
     <!-- Search Edition -->
     <!-- search_edition_introduction_message は app_search のほうに書く -->

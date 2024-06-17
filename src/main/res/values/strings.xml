@@ -1707,6 +1707,10 @@ Reauthenticate on the next screen.</string>
     <string name="threadgate_everybody_can_reply">Everybody can reply</string>
     <string name="threadgate_nobody_can_reply">Nobody can reply</string>
     <string name="threadgate_some_people_can_reply">Some people can reply</string>
+    <string name="threadgate_everybody">Everybody</string>
+    <string name="threadgate_following_users">Following users</string>
+    <string name="threadgate_users_in_list_of">Users in %1$s</string>
+
 
     <!-- Search Edition -->
     <string-array name="search_edition_introduction_message" translatable="false">
