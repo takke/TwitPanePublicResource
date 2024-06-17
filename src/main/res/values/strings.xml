@@ -1704,6 +1704,9 @@ Reauthenticate on the next screen.</string>
     <string name="threadgate_users_followed_by">users followed by %1$s</string>
     <string name="threadgate_list_members">%1$s members</string>
     <string name="threadgate_reply_restricted">Replies to this thread are disabled</string>
+    <string name="threadgate_everybody_can_reply">Everybody can reply</string>
+    <string name="threadgate_nobody_can_reply">Nobody can reply</string>
+    <string name="threadgate_some_people_can_reply">Some people can reply</string>
 
     <!-- Search Edition -->
     <string-array name="search_edition_introduction_message" translatable="false">
