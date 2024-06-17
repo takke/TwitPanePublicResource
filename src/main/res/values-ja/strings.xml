@@ -1711,6 +1711,7 @@
     <string name="threadgate_mentioned_users">メンションされたユーザー</string>
     <string name="threadgate_users_followed_by">%1$sにフォローされているユーザー</string>
     <string name="threadgate_list_members">%1$sのメンバー</string>
+    <string name="threadgate_reply_restricted">このスレッドへの返信はできません</string>
 
     <!-- Search Edition -->
     <!-- search_edition_introduction_message は app_search のほうに書く -->

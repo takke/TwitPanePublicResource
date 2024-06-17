@@ -1629,5 +1629,6 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="threadgate_mentioned_users">mentioned users</string>
     <string name="threadgate_users_followed_by">users followed by %1$s</string>
     <string name="threadgate_list_members">%1$s members</string>
+    <string name="threadgate_reply_restricted">Replies to this thread are disabled</string>
 
 </resources>
