@@ -1720,6 +1720,8 @@
     <string name="threadgate_following_users">自分がフォローしているユーザー</string>
     <string name="threadgate_users_in_list_of">%1$sのユーザー</string>
 
+    <string name="new_chat">新しいチャット</string>
+
     <!-- Search Edition -->
     <!-- search_edition_introduction_message は app_search のほうに書く -->
 

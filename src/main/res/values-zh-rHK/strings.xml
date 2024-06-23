@@ -1681,5 +1681,7 @@
     <string name="threadgate_following_users">Following users</string>
     <string name="threadgate_users_in_list_of">Users in %1$s</string>
 
+    <string name="new_chat">New Chat</string>
+
 </resources>
 
