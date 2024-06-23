@@ -189,6 +189,7 @@
     <string name="add_list_tab">"Añadir pestaña de lista"</string>
     <string name="no_lists">No lists</string>
     <string name="no_lists_yet">No lists yet</string>
+    <string name="no_messages_yet">No messages yet</string>
     <string name="add_feed_tab">"Añadir pestaña de feed"</string>
     <string name="no_feeds">No feeds</string>
     <string name="add_channel_tab">Add Channel Tab</string>

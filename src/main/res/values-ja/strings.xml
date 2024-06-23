@@ -189,6 +189,7 @@
     <string name="add_list_tab">リストタブの追加</string>
     <string name="no_lists">リストがありませんでした。リストを追加してからやり直してください。</string>
     <string name="no_lists_yet">リストがまだありません</string>
+    <string name="no_messages_yet">メッセージがまだありません</string>
     <string name="add_feed_tab">フィードタブの追加</string>
     <string name="no_feeds">フィードがありませんでした。</string>
     <string name="add_channel_tab">チャンネルタブの追加</string>
