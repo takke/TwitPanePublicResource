@@ -1640,5 +1640,6 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="threadgate_users_in_list_of">Users in %1$s</string>
 
     <string name="new_chat">New Chat</string>
+    <string name="cannot_send_message_to">cannot send message to %1$s</string>
 
 </resources>

@@ -1722,6 +1722,7 @@
     <string name="threadgate_users_in_list_of">%1$sのユーザー</string>
 
     <string name="new_chat">新しいチャット</string>
+    <string name="cannot_send_message_to">%1$s にメッセージを送れません</string>
 
     <!-- Search Edition -->
     <!-- search_edition_introduction_message は app_search のほうに書く -->
