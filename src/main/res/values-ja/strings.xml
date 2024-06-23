@@ -47,6 +47,7 @@
     <string name="pane_name_tweet">ツイート</string>
     <string name="pane_name_rt_users">RTしたユーザー一覧</string>
     <string name="pane_name_thread_list">メッセージ</string>
+    <string name="pane_name_chat_list">チャット</string>
     <string name="pane_name_dm">受信メッセージ</string>
     <string name="pane_name_sent_dm">送信メッセージ</string>
     <string name="pane_name_channels">チャンネル</string>

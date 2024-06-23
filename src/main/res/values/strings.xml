@@ -47,6 +47,7 @@
     <string name="pane_name_tweet">Tweets</string>
     <string name="pane_name_rt_users">RT users</string>
     <string name="pane_name_thread_list">DM</string>
+    <string name="pane_name_chat_list">Chat</string>
     <string name="pane_name_dm">DM</string>
     <string name="pane_name_sent_dm">Sent DM</string>
     <string name="pane_name_channels">Channels</string>

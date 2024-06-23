@@ -47,6 +47,7 @@
     <string name="pane_name_tweet">推文</string>
     <string name="pane_name_rt_users">轉推使用者</string>
     <string name="pane_name_thread_list">私信</string>
+    <string name="pane_name_chat_list">Chat</string>
     <string name="pane_name_dm">私信</string>
     <string name="pane_name_sent_dm">傳送私信</string>
     <string name="pane_name_channels">Channels</string>
