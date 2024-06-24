@@ -1643,5 +1643,6 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="cannot_send_message_to">cannot send message to %1$s</string>
     <string name="need_authorized_with_dm">DM permissions are required to use the chat (message) function.</string>
     <string name="re_login">Re-login</string>
+    <string name="bluesky_login_description">To sign in to Bluesky, please enter the following</string>
 
 </resources>
