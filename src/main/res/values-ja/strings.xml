@@ -1723,6 +1723,8 @@
 
     <string name="new_chat">新しいチャット</string>
     <string name="cannot_send_message_to">%1$s にメッセージを送れません</string>
+    <string name="need_authorized_with_dm">チャット(メッセージ)機能を利用するにはDMの権限が必要です。\n「ダイレクトメッセージへのアクセスを許可」したアプリパスワードで再ログインしてください。</string>
+    <string name="re_login">再ログイン</string>
 
     <!-- Search Edition -->
     <!-- search_edition_introduction_message は app_search のほうに書く -->
