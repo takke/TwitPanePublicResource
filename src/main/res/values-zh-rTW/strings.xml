@@ -1687,6 +1687,7 @@
     <string name="need_authorized_with_dm">DM permissions are required to use the chat (message) function.</string>
     <string name="re_login">Re-login</string>
     <string name="bluesky_login_description">To sign in to Bluesky, please enter the following</string>
+    <string name="write_message">Write a message</string>
 
 </resources>
 
