@@ -621,6 +621,8 @@
     <string name="menu_move_up">Ascender</string>
     <string name="menu_move_down">Mover hacia abajo</string>
     <string name="menu_mute">"Silenciar ..."</string>
+    <string name="menu_mute_chat">Mute</string>
+    <string name="menu_unmute_chat">Unmute</string>
     <string name="menu_misc_block_mute">"bloqueos, correo no deseado ..."</string>
     <string name="menu_choose_tweets">"Elegir tweets ..."</string>
     <string name="message_for">"Mensaje para %1$s"</string>

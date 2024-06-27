@@ -621,6 +621,8 @@
     <string name="menu_move_up">이동</string>
     <string name="menu_move_down">아래로 이동</string>
     <string name="menu_mute">"음소거 ..."</string>
+    <string name="menu_mute_chat">Mute</string>
+    <string name="menu_unmute_chat">Unmute</string>
     <string name="menu_misc_block_mute">"차단, 스팸 ..."</string>
     <string name="menu_choose_tweets">"트윗 선택 ..."</string>
     <string name="message_for">"%1$s에 대한 메세지"</string>

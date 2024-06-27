@@ -625,6 +625,8 @@
     <string name="menu_move_up">Move up</string>
     <string name="menu_move_down">Move down</string>
     <string name="menu_mute">Mute...</string>
+    <string name="menu_mute_chat">Mute</string>
+    <string name="menu_unmute_chat">Unmute</string>
     <string name="menu_misc_block_mute">Block, Spam...</string>
     <string name="menu_choose_tweets">Choose Tweets...</string>
     <string name="message_for">Message for %1$s</string>
