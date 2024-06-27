@@ -1690,5 +1690,7 @@
     <string name="re_login">Re-login</string>
     <string name="bluesky_login_description">To sign in to Bluesky, please enter the following</string>
     <string name="write_message">Write a message</string>
+    <string name="delete_for_me">Delete for me</string>
+    <string name="delete_chat_message_confirm_message">Are you sure you want to delete this message? The message will be deleted for you, but not for the other participant.</string>
 
 </resources>
