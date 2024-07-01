@@ -664,6 +664,7 @@
     <string name="choose_where_to_vote">投票先を選んでください</string>
 
     <string name="change_account">アカウント変更</string>
+    <string name="change_account_loss_some_info_notice">%1$s のアカウントに変更します。添付ファイルや公開範囲は引き継がれない場合があります。</string>
     <string name="choose_account">アカウント選択</string>
     <string name="other_color_with_color_picker">その他(カラーピッカー)</string>
     <string name="change_color">カラー変更</string>

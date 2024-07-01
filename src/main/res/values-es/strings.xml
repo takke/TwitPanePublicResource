@@ -655,6 +655,7 @@
     <string name="choose_where_to_vote">Please choose where to vote</string>
 
     <string name="change_account">cambie cuenta</string>
+    <string name="change_account_loss_some_info_notice">Change to %1$s account. Attachments and publication settings may not be transferred.</string>
     <string name="choose_account">Elija Cuenta</string>
     <string name="other_color_with_color_picker">"Otros (selector de color)"</string>
     <string name="change_color">"Cambiar color"</string>

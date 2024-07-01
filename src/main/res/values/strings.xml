@@ -659,6 +659,7 @@
     <string name="choose_where_to_vote">Please choose where to vote</string>
 
     <string name="change_account">Change Account</string>
+    <string name="change_account_loss_some_info_notice">Change to %1$s account. Attachments and publication settings may not be transferred.</string>
     <string name="choose_account">Choose Account</string>
     <string name="other_color_with_color_picker">Other(Color Picker)</string>
     <string name="change_color">Change Color</string>
