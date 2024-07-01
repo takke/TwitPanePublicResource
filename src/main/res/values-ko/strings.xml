@@ -1652,5 +1652,6 @@
     <string name="delete_for_me">Delete for me</string>
     <string name="delete_chat_message_confirm_message">Are you sure you want to delete this message? The message will be deleted for you, but not for the other participant.</string>
     <string name="translate">Translate</string>
+    <string name="cant_change_account_when_reply">Can\'t change account when reply</string>
 
 </resources>
