@@ -1052,6 +1052,7 @@
     <string name="config_scroll_pos_after_acquired_new_tweet_summary">リロードボタン等で新しいツイートを取得した後のスクロール位置を設定します</string>
     <string name="config_scroll_pos_after_acquired_new_tweet_top">新着投稿の上側</string>
     <string name="config_scroll_pos_after_acquired_new_tweet_bottom">新着投稿の下側</string>
+    <string name="config_scroll_pos_after_acquired_new_tweet_keep">移動しない</string>
     <string name="config_volume_key_up_function">ボリュームUpキー</string>
 	<string name="config_volume_key_down_function">ボリュームDownキー</string>
 	<string name="config_volume_key_volume">ボリューム(初期値)</string>

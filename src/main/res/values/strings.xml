@@ -1045,6 +1045,7 @@ Do you want to enable it?</string>
     <string name="config_scroll_pos_after_acquired_new_tweet_summary">Set scroll position after acquired the new tweets</string>
     <string name="config_scroll_pos_after_acquired_new_tweet_top">top of new-tweets</string>
     <string name="config_scroll_pos_after_acquired_new_tweet_bottom">bottom of new-tweets</string>
+    <string name="config_scroll_pos_after_acquired_new_tweet_keep">keep original position</string>
     <string name="config_volume_key_up_function">Volume Up Key</string>
 	<string name="config_volume_key_down_function">Volume Down Key</string>
 	<string name="config_volume_key_volume">Volume (default)</string>

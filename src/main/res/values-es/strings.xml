@@ -1031,6 +1031,7 @@
     <string name="config_scroll_pos_after_acquired_new_tweet_summary">"Establecer la posición de desplazamiento después de adquirir los nuevos tweets"</string>
     <string name="config_scroll_pos_after_acquired_new_tweet_top">"parte superior de los nuevos tweets"</string>
     <string name="config_scroll_pos_after_acquired_new_tweet_bottom">"parte inferior de las nuevos tweets"</string>
+    <string name="config_scroll_pos_after_acquired_new_tweet_keep">keep original position</string>
     <string name="config_volume_key_up_function">"Tecla de subir volumen"</string>
     <string name="config_volume_key_down_function">"Tecla de bajar volumen"</string>
     <string name="config_volume_key_volume">"Volumen (predeterminado)"</string>

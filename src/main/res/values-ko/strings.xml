@@ -1032,6 +1032,7 @@
     <string name="config_scroll_pos_after_acquired_new_tweet_summary">"새로운 트윗을 취득한 후 스크롤 위치 설정"</string>
     <string name="config_scroll_pos_after_acquired_new_tweet_top">"새로운 트윗의 상위"</string>
     <string name="config_scroll_pos_after_acquired_new_tweet_bottom">"새로운 트윗의 하단"</string>
+    <string name="config_scroll_pos_after_acquired_new_tweet_keep">keep original position</string>
     <string name="config_volume_key_up_function">"볼륨 업 키"</string>
 	<string name="config_volume_key_down_function">"볼륨 다운 키"</string>
 	<string name="config_volume_key_volume">"볼륨 (기본)"</string>

@@ -1034,6 +1034,7 @@
     <string name="config_scroll_pos_after_acquired_new_tweet_summary">在獲得新推文後設置滾動位置</string>
     <string name="config_scroll_pos_after_acquired_new_tweet_top">新推文頂部</string>
     <string name="config_scroll_pos_after_acquired_new_tweet_bottom">新推文底部</string>
+    <string name="config_scroll_pos_after_acquired_new_tweet_keep">keep original position</string>
     <string name="config_volume_key_up_function">音量上鍵</string>
     <string name="config_volume_key_down_function">音量下鍵</string>
     <string name="config_volume_key_volume">音量（默認）</string>
