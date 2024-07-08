@@ -894,7 +894,7 @@
     <string name="config_bold_name_summary">名前を太字にします【初期値：OFF】</string>
     <string name="config_wrap_name_line">名前を折り返す</string>
     <string name="config_wrap_name_line_summary">長い名前を折り返します【初期値：ON】</string>
-    <string name="config_preview_of_attached_photo_category1">添付画像プレビュー (Blueskyは未対応)</string>
+    <string name="config_preview_of_attached_photo_category1">添付画像プレビュー</string>
     <string name="config_preview_of_attached_photo_category2">センシティブメディア</string>
     <string name="config_photo_thumbnail_layout">サムネイルレイアウトの変更</string>
     <string name="config_photo_thumbnail_layout_new_official_app">縦長のサムネイル &lt;br>&lt;small>新Twitter公式アプリ方式: 添付画像が1枚の場合、画像のサイズに応じて 横長(2:1)  ～ 縦長(3:4) のサムネイルを表示します。&lt;/small></string>
