@@ -1735,6 +1735,7 @@
     <string name="delete_chat_message_confirm_message">このメッセージを本当に削除しますか？このメッセージはあなたからは削除したように見えますが、他の参加者からは削除されません。</string>
     <string name="translate">翻訳</string>
     <string name="cant_change_account_when_reply">返信先があるのでアカウント切替できません</string>
+    <string name="config_design">デザイン調整</string>
 
     <!-- Search Edition -->
     <!-- search_edition_introduction_message は app_search のほうに書く -->
