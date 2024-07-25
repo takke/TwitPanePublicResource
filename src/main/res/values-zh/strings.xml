@@ -1697,5 +1697,7 @@
     <string name="translate">Translate</string>
     <string name="cant_change_account_when_reply">Can\'t change account when reply</string>
     <string name="config_design">Design settings</string>
+    <string name="twitpaneplus_end_of_development_notice">End of development of TwitPane+</string>
+    <string name="twitpaneplus_end_of_development_notice_message">Development of TwitPane+ has been ended. \\Please use ZonePane from now on.</string>
 
 </resources>
