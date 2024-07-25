@@ -1737,7 +1737,7 @@
     <string name="cant_change_account_when_reply">返信先があるのでアカウント切替できません</string>
     <string name="config_design">デザイン調整</string>
     <string name="twitpaneplus_end_of_development_notice">"TwitPane+の開発は終了しました"</string>
-    <string name="twitpaneplus_end_of_development_notice_message">TwitPane+の開発は終了しました。\n\n今後はZonePane(ぞーぺん)をご利用ください。</string>
+    <string name="twitpaneplus_end_of_development_notice_message">TwitPane+の開発は終了しました。\n\n今後はZonePane(ぞーぺん)またはTwitPane無料版をご利用ください。</string>
 
     <!-- Search Edition -->
     <!-- search_edition_introduction_message は app_search のほうに書く -->
