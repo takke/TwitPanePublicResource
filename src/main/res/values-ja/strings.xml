@@ -1738,6 +1738,8 @@
     <string name="config_design">デザイン調整</string>
     <string name="twitpaneplus_end_of_development_notice">"TwitPane+の開発は終了しました"</string>
     <string name="twitpaneplus_end_of_development_notice_message">TwitPane+の開発は終了しました。\n\n今後はZonePane(ぞーぺん)またはTwitPane無料版をご利用ください。</string>
+    <string name="twitpaneresearch_end_of_development_notice">Playストア版は終了しました</string>
+    <string name="twitpaneresearch_end_of_development_message">ついぺんリサーチ Playストア版の開発は終了しました。\nご利用ありがとうございました。</string>
 
     <!-- Search Edition -->
     <!-- search_edition_introduction_message は app_search のほうに書く -->
