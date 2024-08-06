@@ -1701,5 +1701,6 @@
     <string name="twitpaneplus_end_of_development_notice_message">Development of TwitPane+ has been ended. \n\nPlease use ZonePane from now on.</string>
     <string name="twitpaneresearch_end_of_development_notice">End of development of TwitPane Research</string>
     <string name="twitpaneresearch_end_of_development_message">Thank you for using TwitPane Research.\n\nWe have ended the research version of TwitPane.\nPlease use the official version of TwitPane.\n\nFor more information, please check our official account @TwitPane.</string>
+    <string name="hide_ad">Hide ads</string>
 
 </resources>
