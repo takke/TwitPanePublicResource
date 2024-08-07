@@ -1269,6 +1269,9 @@
     <string name="config_image_save_directory">이미지 저장 디렉토리</string>
     <string name="config_reset_image_save_directory">Reset Image Save Directory</string>
     <string name="config_reset_image_save_directory_confirm">Reset OK?</string>
+    <string name="config_download_filename_type">Download Filename</string>
+    <string name="config_download_filename_type_classic">Save time: 20240807-210300.jpeg</string>
+    <string name="config_download_filename_type_with_screen_name">With username: "takke-20240807-151542-1.jpeg"</string>
 
     <string name="config_movie_player_settings_category">동영상 뷰어 설정</string>
     <string name="config_movie_player_repeating">반복</string>

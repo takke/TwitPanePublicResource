@@ -1289,6 +1289,9 @@
     <string name="config_image_save_directory">画像・動画保存先ディレクトリ</string>
     <string name="config_reset_image_save_directory">保存先ディレクトリの再設定</string>
     <string name="config_reset_image_save_directory_confirm">画像・動画保存先ディレクトリを初期値に再設定してもよろしいですか？</string>
+    <string name="config_download_filename_type">ダウンロードファイル名の形式</string>
+    <string name="config_download_filename_type_classic">保存時刻形式(v27.4[2024.7]までの形式)\n例: "20240807-210300.jpeg"</string>
+    <string name="config_download_filename_type_with_screen_name">ユーザー名＋投稿時刻＋連番形式(v27.5以降の形式)\n例: "takke-20240807-151542-1.jpeg"</string>
 
     <string name="config_movie_player_settings_category">動画プレイヤー設定</string>
     <string name="config_movie_player_repeating">繰り返し再生</string>

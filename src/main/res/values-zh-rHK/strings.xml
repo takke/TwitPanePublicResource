@@ -1311,6 +1311,9 @@
     <string name="config_image_save_directory">圖片保存目錄</string>
     <string name="config_reset_image_save_directory">重置圖片保存目錄</string>
     <string name="config_reset_image_save_directory_confirm">要重置嗎？</string>
+    <string name="config_download_filename_type">Download Filename</string>
+    <string name="config_download_filename_type_classic">Save time: 20240807-210300.jpeg</string>
+    <string name="config_download_filename_type_with_screen_name">With username: "takke-20240807-151542-1.jpeg"</string>
 
     <string name="config_movie_player_settings_category">視頻播放器設置</string>
     <string name="config_movie_player_repeating">重複</string>
