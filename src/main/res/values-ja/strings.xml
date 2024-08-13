@@ -1747,6 +1747,7 @@
     <string name="followed_by">%1$sがフォロー中</string>
     <string name="followed_by_and_one_other">%1$sおよび他1人がフォロー中</string>
     <string name="followed_by_and_others">%1$sおよび他%2$s人がフォロー中</string>
+    <string name="known_followers">あなたが知っているフォロワー</string>
 
     <!-- Search Edition -->
     <!-- search_edition_introduction_message は app_search のほうに書く -->
