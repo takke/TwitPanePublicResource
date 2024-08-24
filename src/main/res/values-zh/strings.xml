@@ -41,6 +41,7 @@
     <string name="liked_order">点赞排序</string>
     <string name="pane_name_favorite_favorite">收藏</string>
     <string name="pane_name_quoted_tweets">引用的推文</string>
+    <string name="pane_name_quoted_posts">Quoted Posts</string>
     <string name="pane_name_rt_of_me">我的转推</string>
     <string name="pane_name_bookmark">书签</string>
     <string name="pane_name_conversation">对话</string>

@@ -41,6 +41,7 @@
     <string name="liked_order">liked order</string>
     <string name="pane_name_favorite_favorite">"즐겨찾기"</string>
     <string name="pane_name_quoted_tweets">인용 트윗</string>
+    <string name="pane_name_quoted_posts">Quoted Posts</string>
     <string name="pane_name_rt_of_me">"나에 대한 RT"</string>
     <string name="pane_name_bookmark">책갈피</string>
     <string name="pane_name_conversation">"대화"</string>

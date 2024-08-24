@@ -41,6 +41,7 @@
     <string name="liked_order">liked order</string>
     <string name="pane_name_favorite_favorite">"Favoritos"</string>
     <string name="pane_name_quoted_tweets">"Tweets citados"</string>
+    <string name="pane_name_quoted_posts">Quoted Posts</string>
     <string name="pane_name_rt_of_me">"RT de mis tweets"</string>
     <string name="pane_name_bookmark">marcadores</string>
     <string name="pane_name_conversation">"Conversación"</string>

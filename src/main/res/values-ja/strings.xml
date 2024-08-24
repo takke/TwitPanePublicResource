@@ -41,6 +41,7 @@
     <string name="liked_order">いいねした順</string>
     <string name="pane_name_favorite_favorite">お気に入り</string>
     <string name="pane_name_quoted_tweets">引用されたツイート</string>
+    <string name="pane_name_quoted_posts">引用されたポスト</string>
     <string name="pane_name_rt_of_me">RTされたツイート</string>
     <string name="pane_name_bookmark">ブックマーク</string>
     <string name="pane_name_conversation">会話</string>

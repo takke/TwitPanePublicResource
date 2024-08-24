@@ -41,6 +41,7 @@
     <string name="liked_order">liked order</string>
     <string name="pane_name_favorite_favorite">Favorite</string>
     <string name="pane_name_quoted_tweets">Quoted Tweets</string>
+    <string name="pane_name_quoted_posts">Quoted Posts</string>
     <string name="pane_name_rt_of_me">RT of me</string>
     <string name="pane_name_bookmark">Bookmarks</string>
     <string name="pane_name_conversation">Conversation</string>
