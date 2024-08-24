@@ -1326,6 +1326,7 @@ Do you want to enable it?</string>
 
     <string name="config_misskey_use_since_id_limit_hours" translatable="false">[Misskey]Time to keep "From Continued" when getting new notes</string>
     <string name="config_misskey_use_since_id_limit_hours_summary" translatable="false">In Misskey, new arrivals always start from the next page, so you will not be able to see the latest notes if you have not retrieved them in a while. Therefore, if a certain period of time has elapsed, the newest note will be retrieved instead of the next note.</string>
+    <string name="config_misskey_use_since_id_limit_hours_zero" translatable="false">Always new notes</string>
     <string name="use_conversation_id" translatable="false">Use conversation_id</string>
     <string name="use_conversation_id_summary" translatable="false">Use conversation_id for conversation search</string>
     <string name="use_tweet_complementary_fetcher" translatable="false">Get the number of quoted tweets, polls, etc.</string>

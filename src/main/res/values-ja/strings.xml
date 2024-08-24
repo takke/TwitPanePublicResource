@@ -1333,6 +1333,7 @@
 
     <string name="config_misskey_use_since_id_limit_hours">新着取得を「続きから」にする時間</string>
     <string name="config_misskey_use_since_id_limit_hours_summary">Misskeyでは新着取得(例えば先頭を引っ張ったときの更新)が常に「続きから」になるため久しぶりに取得するとなかなか最新のノートを見られないことになります。そのため一定期間以上空いたら「続きからではなく最新を取得する」ようにします。</string>
+    <string name="config_misskey_use_since_id_limit_hours_zero" translatable="false">常に最新を取得</string>
     <string name="use_conversation_id">会話検索にconversation_idを使う</string>
     <string name="use_conversation_id_summary">会話検索時に conversation_id を使います。より多くの会話が取得できるようになります【初期値：ON】</string>
     <string name="use_tweet_complementary_fetcher">引用ツイート数やアンケート等を取得する</string>
