@@ -527,6 +527,7 @@
     <string name="menu_show_rt_users">"리트윗 한 유저 보기"</string>
     <string name="menu_show_rp_users">Repost Users</string>
     <string name="menu_show_quoted_tweets">인용된 트윗</string>
+    <string name="menu_show_quoted_posts">Quoted posts</string>
     <string name="menu_show_favorite_users_favorite">"좋아하는 사용자"</string>
     <string name="menu_show_favorite_users_like">"마음 한 유저 보기"</string>
     <string name="no_liked_users">No liked users</string>

@@ -528,6 +528,7 @@
     <string name="menu_show_rt_users">"RT usuarios"</string>
     <string name="menu_show_rp_users">Repost Users</string>
     <string name="menu_show_quoted_tweets">tuits citados</string>
+    <string name="menu_show_quoted_posts">Quoted posts</string>
     <string name="menu_show_favorite_users_favorite">"Usuarios favoritos"</string>
     <string name="menu_show_favorite_users_like">"Usuarios me gusta"</string>
     <string name="no_liked_users">No liked users</string>

@@ -530,6 +530,7 @@
     <string name="menu_show_rt_users">转推用户</string>
     <string name="menu_show_rp_users">Repost Users</string>
     <string name="menu_show_quoted_tweets">引用的推文</string>
+    <string name="menu_show_quoted_posts">Quoted posts</string>
     <string name="menu_show_favorite_users_favorite">收藏的用户</string>
     <string name="menu_show_favorite_users_like">点赞的用户</string>
     <string name="no_liked_users">No liked users</string>
