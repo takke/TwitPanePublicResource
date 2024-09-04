@@ -496,6 +496,7 @@
     <string name="menu_boost">Boost</string>
     <string name="menu_quote_tweet">Quote Tweet</string>
     <string name="menu_quote">Quote</string>
+    <string name="menu_quote_disabled">Quote(Disabled)</string>
     <string name="menu_quote_in_channel">Quote in Channel</string>
     <string name="menu_tweet_with_comment">Tweet with Comment(Twitter Style)</string>
     <string name="menu_unofficial_retweet">RT \@TwitPane: …</string>

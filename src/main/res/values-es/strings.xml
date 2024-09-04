@@ -493,6 +493,7 @@
     <string name="menu_boost">Boost</string>
     <string name="menu_quote_tweet">"Citar Tweet"</string>
     <string name="menu_quote">Citar</string>
+    <string name="menu_quote_disabled">"Citar (deshabilitado)"</string>
     <string name="menu_quote_in_channel">Quote in Channel</string>
     <string name="menu_tweet_with_comment">Tweet con Comentario</string>
     <string name="menu_unofficial_retweet">RT \@TwitPane: …</string>

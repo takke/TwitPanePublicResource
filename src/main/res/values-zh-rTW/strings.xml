@@ -495,6 +495,7 @@
     <string name="menu_boost">Boost</string>
     <string name="menu_quote_tweet">引用推文</string>
     <string name="menu_quote">引用</string>
+    <string name="menu_quote_disabled">引用（無法）</string>
     <string name="menu_quote_in_channel">Quote in Channel</string>
     <string name="menu_tweet_with_comment">帶評論的推文（Twitter風格）</string>
     <string name="menu_unofficial_retweet">轉推 \@TwitPane: …</string>
