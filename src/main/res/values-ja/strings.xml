@@ -1732,8 +1732,8 @@
     <string name="threadgate_following_users">自分がフォローしているユーザー</string>
     <string name="threadgate_users_in_list_of">%1$sのユーザー</string>
 
-    <string name="postgate_quote_enabled">返信可</string>
-    <string name="postgate_quote_disabled">返信不可</string>
+    <string name="postgate_quote_enabled">引用可</string>
+    <string name="postgate_quote_disabled">引用不可</string>
 
     <string name="new_chat">新しいチャット</string>
     <string name="cannot_send_message_to">%1$s にメッセージを送れません</string>
