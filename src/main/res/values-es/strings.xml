@@ -1649,6 +1649,9 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="threadgate_following_users">Following users</string>
     <string name="threadgate_users_in_list_of">Users in %1$s</string>
 
+    <string name="postgate_quote_enabled">Quote: enabled</string>
+    <string name="postgate_quote_disabled">Quote: disabled</string>
+
     <string name="new_chat">New Chat</string>
     <string name="cannot_send_message_to">cannot send message to %1$s</string>
     <string name="need_authorized_with_dm">DM permissions are required to use the chat (message) function.</string>
