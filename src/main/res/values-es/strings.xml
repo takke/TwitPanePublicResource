@@ -1674,5 +1674,6 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="known_followers">Known followers</string>
     <string name="video_upload_limit_error">Video upload limit error: %1$s</string>
     <string name="video_upload_limit_error_uploads_disabled">You don\'t have the ability to post videos yet. Please be patient for a while longer as video submission will become available soon.</string>
+    <string name="video_upload_limit_error_duration">The video is too long.</string>
 
 </resources>
