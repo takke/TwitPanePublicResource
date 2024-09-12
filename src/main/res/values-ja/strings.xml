@@ -1758,6 +1758,7 @@
     <string name="video_upload_limit_error">動画アップロードが制限されています: %1$s</string>
     <string name="video_upload_limit_error_uploads_disabled">このアカウントはまだ動画の投稿ができないようです。順次使えるようになるらしいのでもうしばらく待ちましょう。</string>
     <string name="video_upload_limit_error_duration">動画が長すぎます</string>
+    <string name="video_upload_uploading">サーバーが動画を変換中です。しばらくお待ちください。</string>
 
     <!-- Search Edition -->
     <!-- search_edition_introduction_message は app_search のほうに書く -->
