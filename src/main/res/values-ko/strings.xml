@@ -1677,5 +1677,6 @@
     <string name="video_upload_limit_error_uploads_disabled">You don\'t have the ability to post videos yet. Please be patient for a while longer as video submission will become available soon.</string>
     <string name="video_upload_limit_error_duration">The video is too long.</string>
     <string name="video_upload_uploading">Video Converting...</string>
+    <string name="video_upload_limit_error_file_size">File size (%1$s bytes) is larger than the maximum allowd size (%2$s bytes)</string>
 
 </resources>
