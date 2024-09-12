@@ -794,7 +794,7 @@
     <string name="write_view_mentions">Mentions</string>
     <string name="write_view_sent_tweet">Posted</string>
     <string name="write_view_edited_toot">Edited</string>
-    <string name="write_view_failed_to_send_tweet">Failed to send tweet…</string>
+    <string name="write_view_failed_to_send_tweet">Failed to send post…</string>
     <string name="write_view_sending">Sending…</string>
     <string name="write_view_restricted_who_can_reply_to_this_tweet">{errorMessage}</string>
     <string name="write_view_duplicate_content" translatable="false">Tweet is duplicated.\n({errorMessage})</string>
