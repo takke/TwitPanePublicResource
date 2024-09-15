@@ -1761,6 +1761,9 @@
     <string name="video_upload_uploading">サーバーが動画を変換中です。しばらくお待ちください。</string>
     <string name="video_upload_limit_error_file_size">動画ファイルのサイズ(%1$sバイト)が投稿できる最大サイズ(%2$sバイト)を超えています</string>
     <string name="video_quality">画質</string>
+    <string name="movie_player_track_selection_auto">自動</string>
+    <string name="movie_player_track_selection_high_quality">高画質</string>
+    <string name="movie_player_track_selection_data_saver">データセーバー</string>
 
     <!-- Search Edition -->
     <!-- search_edition_introduction_message は app_search のほうに書く -->

@@ -1721,6 +1721,9 @@
     <string name="video_upload_uploading">Video Converting...</string>
     <string name="video_upload_limit_error_file_size">File size (%1$s bytes) is larger than the maximum allowd size (%2$s bytes)</string>
     <string name="video_quality">Quality</string>
+    <string name="movie_player_track_selection_auto">Auto</string>
+    <string name="movie_player_track_selection_high_quality">Quality</string>
+    <string name="movie_player_track_selection_data_saver">DataSaver</string>
 
 </resources>
 
