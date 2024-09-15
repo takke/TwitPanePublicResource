@@ -1756,6 +1756,9 @@ Reauthenticate on the next screen.</string>
     <string name="movie_player_track_selection_auto">Auto</string>
     <string name="movie_player_track_selection_high_quality">Quality</string>
     <string name="movie_player_track_selection_data_saver">DataSaver</string>
+    <string name="movie_player_track_selection_auto_desc">Optimised for the conditions of usage.</string>
+    <string name="movie_player_track_selection_high_quality_desc">Data usage will be high.</string>
+    <string name="movie_player_track_selection_data_saver_desc">Saves traffic, but image quality is lower.</string>
 
 
     <!-- Search Edition -->
