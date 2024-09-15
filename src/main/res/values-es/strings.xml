@@ -1677,5 +1677,6 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="video_upload_limit_error_duration">The video is too long.</string>
     <string name="video_upload_uploading">Video Converting...</string>
     <string name="video_upload_limit_error_file_size">File size (%1$s bytes) is larger than the maximum allowd size (%2$s bytes)</string>
+    <string name="video_quality">Quality</string>
 
 </resources>
