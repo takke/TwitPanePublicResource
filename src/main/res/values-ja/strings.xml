@@ -1377,9 +1377,9 @@
     <string name="config_prefs_clear">設定の初期化</string>
     <string name="config_prefs_clear_confirm_message">本当に設定を初期化しますか？\n\n(！！警告！！全ての設定は消去されます)</string>
     <string name="config_prefer_protocol">HTTP/2.0 support</string>
-    <string name="config_prefer_protocol_summary">Twitterサーバとの通信プロトコルに HTTP/2.0 を利用します。通信に不具合が発生する場合は HTTP/1.1 にしてください。\n【現在の値：%s】</string>
+    <string name="config_prefer_protocol_summary">サーバとの通信プロトコルに HTTP/2.0 を利用します。通信に不具合が発生する場合は HTTP/1.1 にしてください。\n【現在の値：%s】</string>
     <string name="config_prefer_ipv4_address">IPv4優先(画像取得失敗回避)</string>
-    <string name="config_prefer_ipv4_address_summary">Wi-Fiで某ひかり回線等を利用している場合にTwitter画像を取得できない問題を(IPv6を無効化することで)強制的に回避します。通常はOFFでご利用ください【初期値：OFF】</string>
+    <string name="config_prefer_ipv4_address_summary">Wi-Fiで某ひかり回線等を利用している場合に画像を取得できない問題を(IPv6を無効化することで)強制的に回避します。通常はOFFでご利用ください【初期値：OFF】</string>
     <string name="config_disable_hardware_rendering">GPU無効化(画面全体)</string>
     <string name="config_disable_hardware_rendering_summary">ハードウェアによる描画を無効化することで旧型端末で希に発生する不具合を回避します。通常はOFF(GPUレンダリング有効)でご利用ください【初期値：OFF】</string>
     <string name="config_disable_image_hardware_rendering">GPU無効化(画像のみ)</string>
