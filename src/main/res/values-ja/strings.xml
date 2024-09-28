@@ -575,6 +575,10 @@
     <string name="unpinned_toot">投稿の固定を解除しました</string>
     <string name="menu_pin_note">プロフィールに固定表示</string>
     <string name="menu_unpin_note">プロフィールへの固定を解除</string>
+    <string name="menu_pin_post">プロフィールに固定する</string>
+    <string name="menu_unpin_post">プロフィールへの固定を解除</string>
+    <string name="pinned_post">投稿を固定しました</string>
+    <string name="unpinned_post">投稿の固定を解除しました</string>
     <string name="pinned_note">投稿を固定しました</string>
     <string name="unpinned_note">投稿の固定を解除しました</string>
     <string name="menu_open_with_official_app">公式アプリで開く</string>

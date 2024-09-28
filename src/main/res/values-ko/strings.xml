@@ -564,6 +564,10 @@
     <string name="menu_unpin_toot">Unpin Toot</string>
     <string name="menu_pin_note">Pin Note</string>
     <string name="menu_unpin_note">Unpin Note</string>
+    <string name="menu_pin_post">Pin Post</string>
+    <string name="menu_unpin_post">Unpin Post</string>
+    <string name="pinned_post">Pinned Post</string>
+    <string name="unpinned_post">Unpinned Post</string>
     <string name="pinned_note">Pinned Note</string>
     <string name="unpinned_note">Unpinned Note</string>
     <string name="pinned_toot">Pinned Toot</string>
