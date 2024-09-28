@@ -577,7 +577,8 @@
     <string name="menu_unpin_note">プロフィールへの固定を解除</string>
     <string name="menu_pin_post">プロフィールに固定する</string>
     <string name="menu_unpin_post">プロフィールへの固定を解除</string>
-    <string name="pinned_post">投稿を固定しました</string>
+    <string name="pinned_post">固定ポスト</string>
+    <string name="pinned_post_done">投稿を固定しました</string>
     <string name="unpinned_post">投稿の固定を解除しました</string>
     <string name="pinned_note">投稿を固定しました</string>
     <string name="unpinned_note">投稿の固定を解除しました</string>
