@@ -969,6 +969,10 @@
     <string name="config_tweet_design1">ツイートデザイン1 (Blueskyは未対応)</string>
     <string name="config_tweet_design2">ツイートデザイン2</string>
     <string name="config_other_design">その他のデザイン</string>
+    <string name="config_hide_my_numbers">いいね等の非表示(自分の数値)</string>
+    <string name="config_hide_my_numbers_summary">自分の投稿のいいねやRT等の数値を非表示にします</string>
+    <string name="config_hide_other_numbers">いいね等の非表示(他人の数値)</string>
+    <string name="config_hide_other_numbers_summary">他人の投稿のいいねやRT等の数値を非表示にします</string>
     <string name="config_show_quote_count">引用ツイート数を表示する</string>
     <string name="config_show_quote_count_summary">【初期値：ON】</string>
     <string name="config_change_link_area_thumbnail_size">画像サイズの変更</string>

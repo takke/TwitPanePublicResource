@@ -960,6 +960,10 @@
     <string name="config_tweet_design1">Tweet design1</string>
     <string name="config_tweet_design2">Tweet design2</string>
     <string name="config_other_design">Other Design</string>
+    <string name="config_hide_my_numbers">Hide my numbers</string>
+    <string name="config_hide_my_numbers_summary">Hide the number of likes, RTs, etc. of your posts.</string>
+    <string name="config_hide_other_numbers">Hide other numbers</string>
+    <string name="config_hide_other_numbers_summary">"Hide the likes, RTs and other values of other people's posts"</string>
     <string name="config_show_quote_count">Show quote count</string>
     <string name="config_show_quote_count_summary">[default:ON]</string>
     <string name="config_change_link_area_thumbnail_size">Change link photo size</string>
