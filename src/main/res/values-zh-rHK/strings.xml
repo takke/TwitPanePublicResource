@@ -956,7 +956,7 @@
     <string name="config_show_link_area_summary">在推文中顯示鏈接圖片和鏈接網址的標題 [默認：開]</string>
     <string name="config_tweet_design1">推文設計1</string>
     <string name="config_tweet_design2">推文設計2</string>
-    <string name="config_taiitsu_design">Taiitsu design</string>
+    <string name="config_other_design">Other Design</string>
     <string name="config_show_quote_count">顯示引用的推文計數</string>
     <string name="config_show_quote_count_summary">[默認：開]</string>
     <string name="config_change_link_area_thumbnail_size">更改鏈接照片大小</string>

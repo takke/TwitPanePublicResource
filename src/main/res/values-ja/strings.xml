@@ -968,7 +968,7 @@
     <string name="config_show_link_area_summary">ツイート内のWebサイト(リンク)のヘッダー画像とタイトルを表示します【初期値：ON】</string>
     <string name="config_tweet_design1">ツイートデザイン1 (Blueskyは未対応)</string>
     <string name="config_tweet_design2">ツイートデザイン2</string>
-    <string name="config_taiitsu_design">タイーツデザイン</string>
+    <string name="config_other_design">その他のデザイン</string>
     <string name="config_show_quote_count">引用ツイート数を表示する</string>
     <string name="config_show_quote_count_summary">【初期値：ON】</string>
     <string name="config_change_link_area_thumbnail_size">画像サイズの変更</string>
