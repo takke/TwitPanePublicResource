@@ -1737,5 +1737,6 @@
     <string name="movie_player_track_selection_auto_desc">Optimised for the conditions of usage.</string>
     <string name="movie_player_track_selection_high_quality_desc">Data usage will be high.</string>
     <string name="movie_player_track_selection_data_saver_desc">Saves traffic, but image quality is lower.</string>
+    <string name="search_from_only_my_taiitsu">Only my posts</string>
 
 </resources>

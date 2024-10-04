@@ -1777,6 +1777,7 @@
     <string name="movie_player_track_selection_auto_desc">使用状況に応じて最適になるように調整されます</string>
     <string name="movie_player_track_selection_high_quality_desc">データ使用量が多くなります</string>
     <string name="movie_player_track_selection_data_saver_desc">通信量を節約しますが画質は低くなります</string>
+    <string name="search_from_only_my_taiitsu">自分のタイーツだけを検索する</string>
 
     <!-- Search Edition -->
     <!-- search_edition_introduction_message は app_search のほうに書く -->
