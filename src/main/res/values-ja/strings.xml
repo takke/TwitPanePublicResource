@@ -618,7 +618,7 @@
     <string name="menu_show_attached_image_area">添付画像エリアを表示する</string>
     <string name="menu_add_app_link">TwitPaneリンクの追加</string>
     <string name="menu_add_app_link_zonepane">ZonePaneリンクの追加</string>
-    <string name="menu_add_app_link_taipane">TaiPaneリンクの追加</string>
+    <string name="menu_add_app_link_taipane">たいぺんリンクの追加</string>
 
     <string name="menu_block">ブロック</string>
     <string name="menu_block_dots">ブロック...</string>
