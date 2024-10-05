@@ -1130,6 +1130,7 @@
 
     <string name="config_confirm_settings_category">"Confirmación"</string>
     <string name="config_show_rt_confirm_dialog_title">"Retwittear"</string>
+    <string name="config_show_rt_confirm_dialog_title_taittsuu">Retaiitsu</string>
     <string name="config_summary_default_on">[default: ON]</string>
     <string name="config_summary_default_off">[default: OFF]</string>
     <string name="config_show_image_save_confirm_dialog_title">Guardar Imagen</string>
