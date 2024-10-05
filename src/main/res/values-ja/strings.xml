@@ -1150,7 +1150,7 @@
     </string-array>
 		
 	<string name="config_confirm_settings_category">確認設定</string>
-	<string name="config_show_rt_confirm_dialog_title">リツイート/ブースト/リノート</string>
+	<string name="config_show_rt_confirm_dialog_title">RT/ブースト/リノート</string>
 	<string name="config_show_rt_confirm_dialog_title_taittsuu">リタイーツ</string>
 	<string name="config_summary_default_on">【初期値：ON】</string>
 	<string name="config_summary_default_off">【初期値：OFF】</string>
