@@ -27,6 +27,7 @@
     <string name="pane_name_mky_public_timeline">Public</string>
     <string name="pane_name_tai_public_timeline">Public</string>
     <string name="pane_name_timeline">Timeline</string>
+    <string name="pane_name_home">Home</string>
     <string name="pane_name_search_edition_home">Home</string>
     <string name="pane_name_reply">Reply</string>
     <string name="pane_name_mytweet">MyTweets</string>
