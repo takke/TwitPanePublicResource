@@ -18,6 +18,7 @@
     <string name="title_activity_subscription_guide">升级到订阅</string>
 
     <string name="pane_name_trend">趋势</string>
+    <string name="pane_name_news">新闻</string>
     <string name="pane_name_search">搜索</string>
     <string name="pane_name_profile">个人资料</string>
     <string name="pane_name_notifications">Notifications</string>

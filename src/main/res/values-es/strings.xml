@@ -18,6 +18,7 @@
     <string name="title_activity_subscription_guide">Actualizar a suscripción</string>
 
     <string name="pane_name_trend">"Tendencia"</string>
+    <string name="pane_name_news">"Noticias"</string>
     <string name="pane_name_search">"Buscar"</string>
     <string name="pane_name_profile">"Perfil"</string>
     <string name="pane_name_notifications">Notifications</string>
