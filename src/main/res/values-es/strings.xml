@@ -785,6 +785,7 @@
     <string name="write_view_cannot_attach_anymore">No puedo adjuntar más</string>
     <string name="write_view_input_body">"Por favor, introduce el texto"</string>
     <string name="write_view_body_length_error">"Por favor, introduce el texto en %1$d caracteres o menos"</string>
+    <string name="write_view_sensitive_warning_length_error">Please enter in %1$d characters or less text</string>
     <string name="write_view_twitlonger_confirm">"Más de 140 caracteres. ¿Quieres publicar a través de TwitLonger?"</string>
     <string name="write_view_twitter_dm_command_notice">"Es comando DM. ¿De acuerdo?"</string>
     <string name="write_view_tweet_confirm">"Enviar un nuevo tweet.¿Aceptar?"</string>

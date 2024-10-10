@@ -797,6 +797,7 @@
     <string name="write_view_cannot_attach_anymore">これ以上添付できません</string>
     <string name="write_view_input_body">本文を入力してください</string>
     <string name="write_view_body_length_error">本文は%1$d文字以内で入力してください</string>
+    <string name="write_view_sensitive_warning_length_error">ひとこと注意文は%1$d文字以内で入力してください</string>
     <string name="write_view_twitlonger_confirm">本文が140文字を超えています。\nTwitLonger経由で投稿しますか？</string>
     <string name="write_view_twitter_dm_command_notice">DM送信コマンドになりますがよろしいですか？</string>
     <string name="write_view_tweet_confirm">ツイートします。よろしいですか？</string>

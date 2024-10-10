@@ -787,6 +787,7 @@
     <string name="write_view_cannot_attach_anymore">无法附加更多</string>
     <string name="write_view_input_body">请输入正文</string>
     <string name="write_view_body_length_error">请输入%1$d个字符以内的文字</string>
+    <string name="write_view_sensitive_warning_length_error">Please enter in %1$d characters or less text</string>
     <string name="write_view_twitlonger_confirm">超过140个字符。你想通过TwitLonger发布吗？</string>
     <string name="write_view_twitter_dm_command_notice">发送私信吗？</string>
     <string name="write_view_tweet_confirm">发送新推文吗？</string>

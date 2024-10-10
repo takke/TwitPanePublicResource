@@ -789,6 +789,7 @@
     <string name="write_view_cannot_attach_anymore">Can not attach any more</string>
     <string name="write_view_input_body">Please input body text</string>
     <string name="write_view_body_length_error">Please enter in %1$d characters or less text</string>
+    <string name="write_view_sensitive_warning_length_error">Please enter in %1$d characters or less text</string>
     <string name="write_view_twitlonger_confirm">Over 140 characters. Do you want to post via TwitLonger?</string>
     <string name="write_view_twitter_dm_command_notice">"It's DM command. OK?"</string>
     <string name="write_view_tweet_confirm">Send new tweet. ok?</string>
