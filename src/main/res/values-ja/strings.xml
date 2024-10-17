@@ -1764,7 +1764,7 @@
     <string name="twitpaneplus_end_of_development_notice_message">TwitPane+の開発は終了しました。\n\n今後はZonePane(ぞーぺん)またはTwitPane無料版をご利用ください。</string>
     <string name="twitpaneresearch_end_of_development_notice">Playストア版は終了しました</string>
     <string name="twitpaneresearch_end_of_development_message">ついぺんリサーチ Playストア版の開発は終了しました。\nご利用ありがとうございました。</string>
-    <string name="hide_ad">この広告を消す</string>
+    <string name="hide_ad">広告を消す</string>
     <string name="followed_by">%1$sがフォロー中</string>
     <string name="followed_by_and_one_other">%1$sおよび他1人がフォロー中</string>
     <string name="followed_by_and_others">%1$sおよび他%2$s人がフォロー中</string>
