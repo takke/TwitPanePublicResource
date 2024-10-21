@@ -1563,7 +1563,7 @@
     <string name="login_to_bluesky">Login to Bluesky</string>
     <string name="force_relogin">Force re-login</string>
     <string name="login_failed_and_login_with_browser_confirm">登录失败。你想通过浏览器登录吗？</string>
-    <string name="trade_mark_info">Twitter是Twitter, Inc.的商标。</string>
+    <string name="trade_mark_info">Twitter是X Corp.的商标。</string>
     <string name="privacy_policy_agreement">请在同意以下内容后登录 &lt;a href="https://twitpane.com/terms_of_use_en/"&gt;Terms of Use&lt;/a&gt;, &lt;a href="https://twitpane.com/privacy_policy_en/"&gt;隐私政策&lt;/a&gt;.</string>
 
     <string name="trend_tweet_count">%1$s 条推文</string>

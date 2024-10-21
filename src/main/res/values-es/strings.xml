@@ -1520,7 +1520,7 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="login_to_bluesky">Login to Bluesky</string>
     <string name="force_relogin">Force re-login</string>
     <string name="login_failed_and_login_with_browser_confirm">Error al iniciar sesión. ¿Quieres acceder a través del navegador?</string>
-    <string name="trade_mark_info">Twitter is trademark of Twitter, Inc.</string>
+    <string name="trade_mark_info">Twitter is trademark of X Corp.</string>
     <string name="privacy_policy_agreement">Please sign in after agreeing to &lt;a href="https://twitpane.com/terms_of_use_en/"&gt;Terms of Use&lt;/a&gt;, &lt;a href="https://twitpane.com/privacy_policy_en/"&gt;Privacy Policy&lt;/a&gt;.</string>
 
     <string name="trend_tweet_count">"%1$s tweets"</string>
