@@ -1170,6 +1170,7 @@
     <string name="config_mute_no_words">"No hay palabras silenciadas"</string>
 
     <string name="config_mute_target">Mute target</string>
+    <string name="config_mute_target_bluesky">Mute target</string>
     <string name="config_mute_to_reply_conversation">Silenciar respuestas y conversaciones</string>
     <string name="config_mute_to_reply_conversation_summary"></string>
     <string name="config_mute_to_messages">Silenciar mensajes</string>
