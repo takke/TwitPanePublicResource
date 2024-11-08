@@ -440,6 +440,7 @@
 
     <string name="menu_show_user">"Mostrar usuario"</string>
     <string name="menu_search_user">"Buscar usuario"</string>
+    <string name="label_users">"Usuarios"</string>
     <string name="menu_show_block_users">"Mostrar usuarios bloqueados"</string>
     <string name="menu_show_follow_requests">Show Follow Requests</string>
     <string name="menu_authorize_follow_request">Authorize Follower</string>

@@ -448,6 +448,7 @@
 
     <string name="menu_show_user">ユーザーを直接表示</string>
     <string name="menu_search_user">ユーザー検索</string>
+    <string name="label_users">ユーザー</string>
     <string name="menu_show_block_users">ブロックユーザー一覧</string>
     <string name="menu_show_follow_requests">フォローリクエスト</string>
     <string name="menu_authorize_follow_request">フォローを許可する</string>

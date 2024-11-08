@@ -442,6 +442,7 @@
 
     <string name="menu_show_user">顯示用户</string>
     <string name="menu_search_user">搜索用户</string>
+    <string name="label_users">用户</string>
     <string name="menu_show_block_users">顯示已阻止的用户</string>
     <string name="menu_show_follow_requests">Show Follow Requests</string>
     <string name="menu_authorize_follow_request">Authorize Follower</string>

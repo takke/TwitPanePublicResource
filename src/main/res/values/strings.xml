@@ -443,6 +443,7 @@
 
     <string name="menu_show_user">Show User</string>
     <string name="menu_search_user">Search User</string>
+    <string name="label_users">Users</string>
     <string name="menu_show_block_users">Show Blocked Users</string>
     <string name="menu_show_follow_requests">Show Follow Requests</string>
     <string name="menu_authorize_follow_request">Authorize Follower</string>
