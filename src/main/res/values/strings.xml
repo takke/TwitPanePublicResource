@@ -101,7 +101,7 @@
     <string name="label_search_query">Search Query</string>
     <string name="label_search_query_guide_to">to:takke.jp Show posts that mention the user</string>
     <string name="label_search_query_guide_from">from:takke.jp Show posts from the user</string>
-    <string name="label_search_query_guide_mentions_me">mentions:me Show posts that mention your username</string>
+    <string name="label_search_query_guide_to_me">to:me Show posts that mention your username</string>
     <string name="label_search_query_guide_from_me">from:me Show your own posts</string>
     <string name="label_search_query_guide_domain">domain:example.com Show posts with links from a specific domain</string>
     <string name="label_search_query_guide_lang">lang:ja Show posts in s specific language</string>

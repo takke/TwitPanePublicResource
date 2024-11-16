@@ -101,7 +101,7 @@
     <string name="label_search_query">検索クエリー</string>
     <string name="label_search_query_guide_to">to:takke.jp 指定ユーザーへのメンションに絞る</string>
     <string name="label_search_query_guide_from">from:takke.jp 指定ユーザーからのポストに絞る</string>
-    <string name="label_search_query_guide_mentions_me">mentions:me 自分へのメンションに絞る</string>
+    <string name="label_search_query_guide_to_me">to:me 自分へのメンションに絞る</string>
     <string name="label_search_query_guide_from_me">from:me 自分からのポストに絞る</string>
     <string name="label_search_query_guide_domain">domain:example.com 指定したドメインを含むリンクを持つポストに絞る</string>
     <string name="label_search_query_guide_lang">lang:ja 指定した言語のポストに絞る</string>
