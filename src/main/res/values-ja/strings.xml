@@ -98,6 +98,15 @@
     <string name="deleted_saved_search_message">削除しました</string>
     <string name="add_search_page_confirm_message">この検索キーワードのタブを追加しますか？</string>
     <string name="add_search_page_finish">タブを追加しました</string>
+    <string name="label_search_query">検索クエリー</string>
+    <string name="label_search_query_guide_to">to:takke.jp 指定ユーザーへのメンションに絞る</string>
+    <string name="label_search_query_guide_from">from:takke.jp 指定ユーザーからのポストに絞る</string>
+    <string name="label_search_query_guide_mentions_me">mentions:me 自分へのメンションに絞る</string>
+    <string name="label_search_query_guide_from_me">from:me 自分からのポストに絞る</string>
+    <string name="label_search_query_guide_domain">domain:example.com 指定したドメインを含むリンクを持つポストに絞る</string>
+    <string name="label_search_query_guide_lang">lang:ja 指定した言語のポストに絞る</string>
+    <string name="label_search_query_guide_since">since:2023-12-17 指定年月日からのポストに絞る</string>
+    <string name="label_search_query_guide_until">until:2024-11-01 指定年月日までのポストに絞る</string>
     
     <string name="reload_button">リロード</string>
     <string name="reload_with_new_emojis">リロード＆新着絵文字の取得</string>
