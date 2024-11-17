@@ -1740,7 +1740,7 @@
     <string name="hide_ad">Hide ads</string>
     <string name="followed_by">Followed by %1$s</string>
     <string name="followed_by_and_one_other">Followed by %1$s and one other</string>
-    <string name="followed_by_and_others">Followed by %1$s and $2$s others</string>
+    <string name="followed_by_and_others">Followed by %1$s and %2$s others</string>
     <string name="known_followers">Known followers</string>
     <string name="video_upload_limit_error">Video upload limit error: %1$s</string>
     <string name="video_upload_limit_error_uploads_disabled">You don\'t have the ability to post videos yet. Please be patient for a while longer as video submission will become available soon.</string>
