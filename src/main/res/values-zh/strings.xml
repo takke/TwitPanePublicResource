@@ -239,6 +239,8 @@
     <string name="following">正在关注</string>
     <string name="follow">关注</string>
     <string name="you_are_followed">[关注你]</string>
+    <string name="followed">已关注</string>
+    <string name="blocking">正在屏蔽</string>
     <string name="follow_management">Follow Management</string>
     <string name="follow_confirm_title">关注</string>
     <string name="follow_confirm_message">关注\@%1$s？</string>

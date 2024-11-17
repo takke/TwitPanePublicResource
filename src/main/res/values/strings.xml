@@ -239,6 +239,8 @@
     <string name="following">Following</string>
     <string name="follow">Follow</string>
     <string name="you_are_followed">[Follows you]</string>
+    <string name="followed">Followed</string>
+    <string name="blocking">Blocking</string>
     <string name="follow_management">Follow Management</string>
     <string name="follow_confirm_title">Follow</string>
     <string name="follow_confirm_message">Follow \@%1$s ?</string>

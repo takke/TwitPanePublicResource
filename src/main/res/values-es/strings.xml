@@ -239,6 +239,8 @@
     <string name="following">"Siguiendo"</string>
     <string name="follow">"Seguir"</string>
     <string name="you_are_followed">"[Te sigue]"</string>
+    <string name="followed">"Seguido"</string>
+    <string name="blocking">"Bloqueando"</string>
     <string name="follow_management">Follow Management</string>
     <string name="follow_confirm_title">"Seguir"</string>
     <string name="follow_confirm_message">"¿Seguir a \@%1$s ?"</string>

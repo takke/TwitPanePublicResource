@@ -239,6 +239,8 @@
     <string name="following">"팔로잉"</string>
     <string name="follow">"팔로우"</string>
     <string name="you_are_followed">"[당신을 팔로우합니다]"</string>
+    <string name="followed">"팔로우됨"</string>
+    <string name="blocking">"차단중"</string>
     <string name="follow_management">Follow Management</string>
     <string name="follow_confirm_title">"팔로우"</string>
     <string name="follow_confirm_message">"\@%1$s을 팔로우?"</string>
