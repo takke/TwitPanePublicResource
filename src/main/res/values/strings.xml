@@ -1196,7 +1196,6 @@ Do you want to enable it?</string>
     <string name="config_mute_no_words">No mute words</string>
 
     <string name="config_mute_target">Mute target</string>
-    <string name="config_mute_target_bluesky">Mute target</string>
     <string name="config_mute_to_reply_conversation">Mute replies and conversations</string>
     <string name="config_mute_to_reply_conversation_summary"></string>
     <string name="config_mute_to_messages">Mute messages</string>

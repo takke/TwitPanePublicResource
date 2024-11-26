@@ -1185,7 +1185,6 @@
     <string name="config_mute_no_words">没有静音词</string>
 
     <string name="config_mute_target">静音对象</string>
-    <string name="config_mute_target_bluesky">静音对象</string>
     <string name="config_mute_to_reply_conversation">静音回复和对话</string>
     <string name="config_mute_to_reply_conversation_summary"></string>
     <string name="config_mute_to_messages">将消息静音</string>

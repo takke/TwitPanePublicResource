@@ -1183,7 +1183,6 @@
     <string name="config_mute_no_words">"음소거 단어가 없습니다"</string>
 
     <string name="config_mute_target">Mute target</string>
-    <string name="config_mute_target_bluesky">Mute target</string>
     <string name="config_mute_to_reply_conversation">답장 및 대화 음소거</string>
     <string name="config_mute_to_reply_conversation_summary"></string>
     <string name="config_mute_to_messages">메시지 음소거</string>
