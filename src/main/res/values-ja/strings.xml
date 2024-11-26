@@ -1186,7 +1186,7 @@
     <string name="return_mute_to_active">ミュートを有効に戻す</string>
 
     <string name="config_mute_users">ユーザー</string>
-    <string name="config_mute_users_message">ミュートしたいユーザーを記述してください(Mastodonの場合は@user@domain形式で入力してください)</string>
+    <string name="config_mute_users_message">ミュートしたいユーザーを記述してください(Mastodon,Misskeyの場合は@user@domain形式で入力してください)</string>
     <string name="config_mute_users_hint">\@username</string>
     <string name="config_mute_no_users">ミュートユーザーはありません</string>
     <string name="this_user_is_muted">このユーザーはミュートしています</string>
