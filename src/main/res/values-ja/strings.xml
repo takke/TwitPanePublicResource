@@ -1335,7 +1335,7 @@
 	<string name="config_back_to_timeline_title">戻るキー拡張</string>
 	<string name="config_back_to_timeline_summary">戻るキーでタイムラインに戻ります【初期値：ON】</string>
 	<string name="config_enable_pinch_zoom">ピンチイン・アウト</string>
-	<string name="config_enable_pinch_zoom_summary">TLを2本指で広げたり縮めたりすると文字サイズを変更できます【初期値：ON】</string>
+	<string name="config_enable_pinch_zoom_summary">TLを2本指で広げたり縮めたりすると文字サイズを変更できます(Blueskyは非対応)【初期値：ON】</string>
     <string name="config_use_favorite">「★ お気に入り」に変更</string>
     <string name="config_use_favorite_summary">「♥ いいね」ではなく「★ お気に入り」にする【初期値：OFF】</string>
 	<string name="config_tab_reload_suppression_interval_title">タブ更新抑制時間</string>
