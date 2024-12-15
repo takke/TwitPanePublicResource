@@ -1797,6 +1797,9 @@
     <string name="movie_player_track_selection_high_quality_desc">データ使用量が多くなります</string>
     <string name="movie_player_track_selection_data_saver_desc">通信量を節約しますが画質は低くなります</string>
     <string name="search_from_only_my_taiitsu">自分のタイーツだけを検索する</string>
+    <string name="archived_post_message_cannot_confirm_claimed_date">Blueskyでは、この投稿日時の信憑性を確認できません。</string>
+    <string name="archived_post_message_created_on_but_first_seen_at">%1$s に投稿されたと表示されていますが、Blueskyに初めて登場したのは %2$s です。</string>
+    <string name="archived_post">アーカイブ投稿</string>
 
     <!-- Search Edition -->
     <!-- search_edition_introduction_message は app_search のほうに書く -->
