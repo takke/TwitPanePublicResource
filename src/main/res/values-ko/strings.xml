@@ -1092,6 +1092,7 @@
     <string name="config_tap_ex_action_left_long_summary">"타임라인의 왼쪽영역을 긴탭할 때 펑션을 직접 호출"</string>
     <string name="config_tap_ex_action_right_long">"TL Ex를 긴탭(오른쪽)"</string>
     <string name="config_tap_ex_action_right_long_summary">"타임라인의 오른쪽 영역을 탭할 때 직접 펑션을 호출"</string>
+    <string name="config_tap_ex_preview_post">This is the post for setting up and previewing the tap extension.\nYou can actually tap and hold and assign functions that are called up by tapping and holding the area on the left or right side of the post.</string>
 
 	<string name="config_set_read_after_shown">"노출된 후 트윗 읽기를 설정"</string>
 	<string name="config_set_read_after_shown_summary">""</string>

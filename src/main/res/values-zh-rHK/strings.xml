@@ -1094,6 +1094,7 @@
     <string name="config_tap_ex_action_left_long_summary">當按住推文的左側時，要調用的功能。</string>
     <string name="config_tap_ex_action_right_long">右側長按</string>
     <string name="config_tap_ex_action_right_long_summary">當按住推文的右側時，要調用的功能。</string>
+    <string name="config_tap_ex_preview_post">This is the post for setting up and previewing the tap extension.\nYou can actually tap and hold and assign functions that are called up by tapping and holding the area on the left or right side of the post.</string>
 
     <string name="config_set_read_after_shown">設置顯示後閲讀推文</string>
     <string name="config_set_read_after_shown_summary">在顯示推文時立即閲讀[默認:關]。</string>

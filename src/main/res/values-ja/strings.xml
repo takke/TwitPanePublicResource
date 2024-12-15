@@ -1105,13 +1105,14 @@
 
     <string name="config_tap_ex">タイムラインタップ拡張</string>
 	<string name="config_tap_ex_action_left">左側タップ</string>
-	<string name="config_tap_ex_action_left_summary">ツイートの左側(サムネイルのすぐ右側付近)をタップした際に呼び出す機能</string>
+	<string name="config_tap_ex_action_left_summary">ツイートの左側をタップした際に呼び出す機能</string>
 	<string name="config_tap_ex_action_right">右側タップ</string>
 	<string name="config_tap_ex_action_right_summary">ツイートの右側をタップした際に呼び出す機能</string>
     <string name="config_tap_ex_action_left_long">左側の長押し</string>
     <string name="config_tap_ex_action_left_long_summary">ツイートの左側を長押しした際に呼び出す機能</string>
     <string name="config_tap_ex_action_right_long">右側の長押し</string>
     <string name="config_tap_ex_action_right_long_summary">ツイートの右側を長押しした際に呼び出す機能</string>
+    <string name="config_tap_ex_preview_post">これはタップ拡張の設定とプレビュー用のポストです。\n左側や右側のエリアをタップ・長押しすることで呼び出す機能を、実際にタップ・長押しして割り当てることができます。</string>
 
 	<string name="config_set_read_after_shown">表示時に既読にする</string>
 	<string name="config_set_read_after_shown_summary">ツイートを表示した時点ですぐに既読にする【初期値：OFF】 (Blueskyは未対応)</string>

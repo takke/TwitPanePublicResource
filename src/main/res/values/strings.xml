@@ -1105,6 +1105,7 @@ Do you want to enable it?</string>
     <string name="config_tap_ex_action_left_long_summary">Call function directly when long-tap left area of timeline</string>
     <string name="config_tap_ex_action_right_long">TL Long Tap Ex(Right)</string>
     <string name="config_tap_ex_action_right_long_summary">Call function directly when long-tap right area of timeline</string>
+    <string name="config_tap_ex_preview_post">This is the post for setting up and previewing the tap extension.\nYou can actually tap and hold and assign functions that are called up by tapping and holding the area on the left or right side of the post.</string>
 
 	<string name="config_set_read_after_shown">Set read tweet after shown</string>
 	<string name="config_set_read_after_shown_summary"></string>
