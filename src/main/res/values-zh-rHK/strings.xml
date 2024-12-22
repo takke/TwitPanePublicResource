@@ -1053,6 +1053,7 @@
     <string name="config_misskey_timeline_hide_replies">Hide replies</string>
     <string name="config_bluesky_replies_filter">Replies filter</string>
     <string name="hide_replies_by_unfollowed">hide replies by unfollowed</string>
+    <string name="hide_read_reposts">Hide read reposts</string>
     <string name="hide_reposts_hide">hide</string>
     <string name="hide_reposts_fold">fold</string>
     <string name="hide_reposts_show">show</string>

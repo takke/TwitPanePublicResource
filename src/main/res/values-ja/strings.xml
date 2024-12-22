@@ -1071,6 +1071,7 @@
     <string name="config_misskey_timeline_hide_replies">ノートへの返信を表示しない</string>
     <string name="config_bluesky_replies_filter">返信フィルター</string>
     <string name="hide_replies_by_unfollowed">フォローしていないユーザーのみ</string>
+    <string name="hide_read_reposts">一度見たリポスト</string>
     <string name="hide_reposts_hide">非表示(ミュート)</string>
     <string name="hide_reposts_fold">畳む</string>
     <string name="hide_reposts_show">表示</string>
