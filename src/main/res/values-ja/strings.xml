@@ -1073,6 +1073,7 @@
     <string name="hide_replies_by_unfollowed">フォローしていないユーザーのみ</string>
     <string name="hide_read_reposts">一度見たリポスト</string>
     <string name="hide_read_reposts_desc">・一度見たリポストを折りたたんで省略表示することができます。</string>
+    <string name="already_read_repost">既読のリポスト</string>
     <string name="hide_reposts_hide">非表示(ミュート)</string>
     <string name="hide_reposts_fold">折りたたむ</string>
     <string name="hide_reposts_show">表示</string>

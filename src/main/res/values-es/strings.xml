@@ -1052,6 +1052,7 @@
     <string name="hide_replies_by_unfollowed">hide replies by unfollowed</string>
     <string name="hide_read_reposts">Hide read reposts</string>
     <string name="hide_read_reposts_desc">Reposts seen once can be collapsed and displayed in abbreviated form</string>
+    <string name="already_read_repost">Already read RP</string>
     <string name="hide_reposts_hide">hide</string>
     <string name="hide_reposts_fold">fold</string>
     <string name="hide_reposts_show">show</string>
