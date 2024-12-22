@@ -1050,6 +1050,7 @@
     <string name="config_misskey_timeline_with_replies">Show replies</string>
     <string name="config_misskey_timeline_hide_replies">Hide replies</string>
     <string name="config_bluesky_replies_filter">Replies filter</string>
+    <string name="hide_replies_by_unfollowed">hide replies by unfollowed</string>
     <string name="config_auto_pager">"자동 호출기"</string>
     <string name="config_auto_pager_summary">"스크롤 위치가 목록의 하단에 있을 때 다음페이지로 가세요"</string>
     <string name="config_scroll_pos_after_acquired_gap">"간격 이후에 스크롤 위치"</string>

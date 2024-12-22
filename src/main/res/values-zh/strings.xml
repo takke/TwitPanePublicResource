@@ -1052,6 +1052,7 @@
     <string name="config_misskey_timeline_with_replies">Show replies</string>
     <string name="config_misskey_timeline_hide_replies">Hide replies</string>
     <string name="config_bluesky_replies_filter">Replies filter</string>
+    <string name="hide_replies_by_unfollowed">hide replies by unfollowed</string>
     <string name="config_auto_pager">自动页面加载</string>
     <string name="config_auto_pager_summary">当滚动位置在列表的底部时，获取下一页</string>
     <string name="config_scroll_pos_after_acquired_gap">设置间隙后的滚动位置</string>

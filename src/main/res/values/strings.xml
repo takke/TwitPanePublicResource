@@ -1063,6 +1063,7 @@ Do you want to enable it?</string>
     <string name="config_misskey_timeline_with_replies">Show replies</string>
     <string name="config_misskey_timeline_hide_replies">Hide replies</string>
     <string name="config_bluesky_replies_filter">Replies filter</string>
+    <string name="hide_replies_by_unfollowed">hide replies by unfollowed</string>
     <string name="config_auto_pager">Auto pager</string>
     <string name="config_auto_pager_summary">Get next page when the scrolling position is bottom of the list</string>
     <string name="config_scroll_pos_after_acquired_gap">Scroll pos after gap</string>
