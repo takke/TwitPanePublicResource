@@ -1053,6 +1053,9 @@
     <string name="config_misskey_timeline_hide_replies">Hide replies</string>
     <string name="config_bluesky_replies_filter">Replies filter</string>
     <string name="hide_replies_by_unfollowed">hide replies by unfollowed</string>
+    <string name="hide_reposts_hide">hide</string>
+    <string name="hide_reposts_fold">fold</string>
+    <string name="hide_reposts_show">show</string>
     <string name="config_auto_pager">自動頁面載入</string>
     <string name="config_auto_pager_summary">當滾動位置在列表的底部時，獲取下一頁</string>
     <string name="config_scroll_pos_after_acquired_gap">設定間隙後的滾動位置</string>

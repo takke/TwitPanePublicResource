@@ -1050,6 +1050,9 @@
     <string name="config_misskey_timeline_hide_replies">Hide replies</string>
     <string name="config_bluesky_replies_filter">Replies filter</string>
     <string name="hide_replies_by_unfollowed">hide replies by unfollowed</string>
+    <string name="hide_reposts_hide">hide</string>
+    <string name="hide_reposts_fold">fold</string>
+    <string name="hide_reposts_show">show</string>
     <string name="config_auto_pager">"Autopaginación"</string>
     <string name="config_auto_pager_summary">"Pasa a la página siguiente cuando la posición de desplazamiento esté en la parte inferior de la lista"</string>
     <string name="config_scroll_pos_after_acquired_gap">"El desplazamiento se para después de espacios en blanco"</string>
