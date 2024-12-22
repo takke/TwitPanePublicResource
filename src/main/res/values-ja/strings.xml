@@ -1072,8 +1072,9 @@
     <string name="config_bluesky_replies_filter">返信フィルター</string>
     <string name="hide_replies_by_unfollowed">フォローしていないユーザーのみ</string>
     <string name="hide_read_reposts">一度見たリポスト</string>
+    <string name="hide_read_reposts_desc">・一度見たリポストを折りたたんで省略表示することができます。</string>
     <string name="hide_reposts_hide">非表示(ミュート)</string>
-    <string name="hide_reposts_fold">畳む</string>
+    <string name="hide_reposts_fold">折りたたむ</string>
     <string name="hide_reposts_show">表示</string>
     <string name="config_auto_pager">オートページャ</string>
     <string name="config_auto_pager_summary">リストの下までスクロールした際に自動的に次のページを取得します【初期値：ON】 (Blueskyは未対応)</string>
