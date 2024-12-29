@@ -805,7 +805,7 @@
     <string name="write_view_twitlonger_confirm">Over 140 characters. Do you want to post via TwitLonger?</string>
     <string name="write_view_twitter_dm_command_notice">"It's DM command. OK?"</string>
     <string name="write_view_tweet_confirm">Send new tweet. ok?</string>
-    <string name="write_view_toot_confirm">Send new toot. ok?</string>
+    <string name="write_view_post_confirm">Send new post. ok?</string>
     <string name="write_view_toot_edit_confirm">Edit toot. ok?</string>
     <string name="write_view_attached_files">attached files</string>
     <string name="write_view_emoji_warning">Emoji may not appear as shown in this preview in some instances</string>
