@@ -1812,6 +1812,7 @@
     <string name="account">アカウント</string>
     <string name="user_name_or_mail_address">ユーザー名またはメールアドレス</string>
     <string name="password">パスワード</string>
+    <string name="log_in">ログイン</string>
 
     <!-- Search Edition -->
     <!-- search_edition_introduction_message は app_search のほうに書く -->
