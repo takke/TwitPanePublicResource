@@ -1734,7 +1734,7 @@
     <string name="cannot_send_message_to">cannot send message to %1$s</string>
     <string name="need_authorized_with_dm">DM permissions are required to use the chat (message) function.</string>
     <string name="re_login">Re-login</string>
-    <string name="bluesky_login_description">To sign in to Bluesky, please enter the following fields.</string>
+    <string name="bluesky_login_description">To sign in to Bluesky, please enter the following fields. Issue an app password from https://bsky.app/settings/app-passwords and log in. </string>
     <string name="write_message">Write a message</string>
     <string name="delete_for_me">Delete for me</string>
     <string name="delete_chat_message_confirm_message">Are you sure you want to delete this message? The message will be deleted for you, but not for the other participant.</string>
@@ -1774,6 +1774,7 @@
     <string name="enter_username_or_mail_address">Please enter your username or email address.</string>
     <string name="enter_password">Enter password</string>
     <string name="logged_in_as">Logged in as @%1$s</string>
+    <string name="error_occurred">Error occurred: %1$s</string>
 
 </resources>
 
