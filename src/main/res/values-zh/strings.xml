@@ -1768,5 +1768,7 @@
     <string name="archived_post">Archived post</string>
     <string name="sign_in">sign in</string>
     <string name="account">account</string>
+    <string name="user_name_or_mail_address">User name or mail address</string>
+    <string name="password">Password</string>
 
 </resources>
