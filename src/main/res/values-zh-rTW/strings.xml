@@ -1754,7 +1754,7 @@
     <string name="video_upload_limit_error_uploads_disabled">You don\'t have the ability to post videos yet. Please be patient for a while longer as video submission will become available soon.</string>
     <string name="video_upload_limit_error_duration">The video is too long.</string>
     <string name="video_upload_uploading">Video Converting...</string>
-    <string name="video_upload_limit_error_file_size">File size (%1$s bytes) is larger than the maximum allowd size (%2$s bytes)</string>
+    <string name="video_upload_limit_error_file_size">File size (%1$s bytes) is larger than the maximum allowed size (%2$s bytes)</string>
     <string name="video_quality">Quality</string>
     <string name="movie_player_track_selection_auto">Auto</string>
     <string name="movie_player_track_selection_high_quality">Quality</string>
@@ -1771,6 +1771,9 @@
     <string name="user_name_or_mail_address">User name or mail address</string>
     <string name="password">Password</string>
     <string name="log_in">Log in</string>
+    <string name="enter_username_or_mail_address">Please enter your username or email address.</string>
+    <string name="enter_password">Enter password</string>
+    <string name="logged_in_as">Logged in as @%1$s</string>
 
 </resources>
 
