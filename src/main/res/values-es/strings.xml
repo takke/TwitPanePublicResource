@@ -1723,5 +1723,7 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="archived_post_message_cannot_confirm_claimed_date">Bluesky cannot confirm the authenticity of the claimed date.</string>
     <string name="archived_post_message_created_on_but_first_seen_at">This post claims to have been created on %1$s, but was first seen by Bluesky on %2$s.</string>
     <string name="archived_post">Archived post</string>
+    <string name="sign_in">sign in</string>
+    <string name="account">account</string>
 
 </resources>
