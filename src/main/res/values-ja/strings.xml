@@ -1790,6 +1790,7 @@
     <string name="twitpaneplus_end_of_development_notice_message">TwitPane+の開発は終了しました。\n\n今後はZonePane(ぞーぺん)またはTwitPane無料版をご利用ください。</string>
     <string name="twitpaneresearch_end_of_development_notice">Playストア版は終了しました</string>
     <string name="twitpaneresearch_end_of_development_message">ついぺんリサーチ Playストア版の開発は終了しました。\nご利用ありがとうございました。</string>
+    <string name="twitpane_research_guide">"TwitPane の X(旧Twitter) 機能は利用できなくなりました。\n\nX (旧Twitter) の閲覧機能に特化した&lt;a href=\"https://play.google.com/store/apps/details?id=com.twitpane.search&amp;hl=ja/\">ついぺんリサーチR&lt;/a>をご利用ください。"</string>
     <string name="hide_ad">広告を消す</string>
     <string name="followed_by">%1$sがフォロー中</string>
     <string name="followed_by_and_one_other">%1$sおよび他1人がフォロー中</string>
