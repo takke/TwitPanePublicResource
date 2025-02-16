@@ -1820,6 +1820,7 @@
     <string name="enter_password">パスワードを入力してください</string>
     <string name="logged_in_as">"@%1$s でログインしました"</string>
     <string name="error_occurred">エラーが発生しました(%1$s)</string>
+    <string name="review_confirm_message">レビューを書いて、%s を応援していただけますか？</string>
 
     <!-- Search Edition -->
     <!-- search_edition_introduction_message は app_search のほうに書く -->

@@ -1735,5 +1735,6 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="enter_password">Enter password</string>
     <string name="logged_in_as">Logged in as @%1$s</string>
     <string name="error_occurred">Error occurred: %1$s</string>
+    <string name="review_confirm_message">Are you sure you want to review this %s app?</string>
 
 </resources>
