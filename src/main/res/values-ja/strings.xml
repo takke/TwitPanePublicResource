@@ -1395,7 +1395,6 @@
     <string name="config_clear_cache_summary">強制的にキャッシュの削除を行います。通常はバックグラウンドで定期的に自動実行されますのであえて手動で実行する必要はありません</string>
     <string name="config_reset_tab_data">タブデータの削除</string>
     <string name="config_reset_tab_data_confirm_message">全てのタブデータを削除してよろしいですか？\n\n- タブの未読・既読位置とタブ内のツイートデータが削除されます。\n- タブのカスタマイズ設定は失われません。</string>
-    <string name="config_use_raw_data_store_realm">タブデータ保存形式(DEBUG)</string>
     <string name="conversion_succeeded">内部DBの変換が完了しました</string>
     <string name="conversion_failed">内部DBの変換に失敗しました</string>
     <string name="before_conversion">変換前</string>
