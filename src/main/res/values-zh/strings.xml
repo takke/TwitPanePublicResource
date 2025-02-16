@@ -1405,7 +1405,6 @@
     <string name="config_clear_cache_summary"></string>
     <string name="config_reset_tab_data">清除标签数据</string>
     <string name="config_reset_tab_data_confirm_message">你确定要删除所有标签的数据吗？</string>
-    <string name="config_use_raw_data_store_realm">标签数据存储类型</string>
     <string name="config_prefs_export">导出设置</string>
     <string name="config_prefs_export_summary">保存当前设置</string>
     <string name="exported">Exported</string>
