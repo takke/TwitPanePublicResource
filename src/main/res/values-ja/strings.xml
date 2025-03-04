@@ -1056,6 +1056,7 @@
     <string name="config_timeline_settings_category">タイムライン設定</string>
     <string name="config_timeline_settings_category_summary">投稿取得件数、投稿取得後の位置など</string>
     <string name="config_timeline_action_settings_category">タイムラインアクション設定</string>
+    <string name="config_timeline_action_settings_category_summary">タイムラインタップ拡張、引っ張って更新の感度など</string>
     <string name="config_tweet_load">ツイート取得</string>
     <string name="config_official_app_cooperation">公式アプリ連携</string>
     <string name="config_use_official_app_for_tweet_operation">公式アプリ経由でツイート操作を行う</string>

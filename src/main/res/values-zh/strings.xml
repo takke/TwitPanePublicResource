@@ -1043,6 +1043,7 @@
     <string name="config_timeline_settings_category">时间轴设置</string>
     <string name="config_timeline_settings_category_summary"></string>
     <string name="config_timeline_action_settings_category">Timeline Action Settings</string>
+    <string name="config_timeline_action_settings_category_summary">Timeline tap-ex, actions</string>
     <string name="config_tweet_load">推文加载</string>
     <string name="config_official_app_cooperation">Official App Cooperation</string>
     <string name="config_use_official_app_for_tweet_operation">Perform tweets, etc. via official apps</string>
