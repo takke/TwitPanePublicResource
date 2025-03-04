@@ -1297,7 +1297,9 @@
     <string name="config_new_tweet_notification_icon_type">新着ツイート通知のアイコン</string>
 
     <string name="config_color_label">カラーラベル設定</string>
-   
+    <string name="config_color_label_summary">ユーザーのカラーラベルの色や名前の設定</string>
+    <string name="config_color_label_description">"ユーザーにカラーラベルを付けることで投稿を判別しやすくできます。例えば「ニュース」や「芸能人」、「友達」のように分類すると便利です。"</string>
+
     <string name="config_search_category">検索設定</string>
 	<string name="config_search_lang">検索の言語</string>
 	<string-array name="config_search_lang_entries">

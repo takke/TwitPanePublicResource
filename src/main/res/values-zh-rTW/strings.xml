@@ -1279,6 +1279,8 @@
     <string name="config_new_tweet_notification_icon_type">新推文通知圖示</string>
 
     <string name="config_color_label">彩色標籤設定</string>
+    <string name="config_color_label_summary">Set the colors of the user labels</string>
+    <string name="config_color_label_description">"Color labels can be assigned to users to make it easier to identify posts.For example, it is useful to categorize them as "News," "Celebrities," or "Friends"."</string>
 
     <string name="config_search_category">搜尋設定</string>
     <string name="config_search_lang">搜尋語言</string>

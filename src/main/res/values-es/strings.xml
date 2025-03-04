@@ -1276,6 +1276,8 @@
     <string name="config_new_tweet_notification_icon_type">Icono de notificación de nuevo tweet</string>
 
     <string name="config_color_label">"Color de la etiqueta"</string>
+    <string name="config_color_label_summary">"Establecer el color de la etiqueta"</string>
+    <string name="config_color_label_description">"Color labels can be assigned to users to make it easier to identify posts.For example, it is useful to categorize them as "News," "Celebrities," or "Friends"."</string>
 
     <string name="config_search_category">"Búsqueda"</string>
     <string name="config_search_lang">"Idioma de búsqueda"</string>
