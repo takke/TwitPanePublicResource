@@ -416,6 +416,8 @@
     <string name="menu_open_tab_list">打开标签列表</string>
     <string name="menu_close_tab_list">关闭标签列表</string>
     <string name="menu_page_config">自定义标签</string>
+    <string name="menu_page_config_category">自定义标签</string>
+    <string name="menu_page_config_category_summary"></string>
     <string name="add_tab">添加标签</string>
 
     <string name="menu_ok">确定</string>

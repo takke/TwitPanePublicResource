@@ -417,6 +417,8 @@
     <string name="menu_open_tab_list">Open Tab List</string>
     <string name="menu_close_tab_list">Close Tab List</string>
     <string name="menu_page_config">Tab Customize</string>
+    <string name="menu_page_config_category">Tab Customize</string>
+    <string name="menu_page_config_category_summary"></string>
     <string name="add_tab">Add Tab</string>
     
     <string name="menu_ok">OK</string>

@@ -413,6 +413,8 @@
     <string name="menu_open_tab_list">"탭 목록 열기"</string>
     <string name="menu_close_tab_list">"탭 목록 닫기"</string>
     <string name="menu_page_config">"탭 사용자조정"</string>
+    <string name="menu_page_config_category">"탭 사용자조정"</string>
+    <string name="menu_page_config_category_summary"></string>
     <string name="add_tab">"탭 추가"</string>
     
     <string name="menu_ok">"확인"</string>

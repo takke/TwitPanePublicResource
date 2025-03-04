@@ -414,6 +414,8 @@
     <string name="menu_open_tab_list">"Lista de pestañas"</string>
     <string name="menu_close_tab_list">"Cerrar lista de pestañas"</string>
     <string name="menu_page_config">"Personalizar pestañas"</string>
+    <string name="menu_page_config_category">"Personalizar pestañas"</string>
+    <string name="menu_page_config_category_summary"></string>
     <string name="add_tab">"Agregar pestaña"</string>
 
     <string name="menu_ok">"Aceptar"</string>
