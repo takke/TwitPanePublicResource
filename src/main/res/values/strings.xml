@@ -1826,6 +1826,7 @@ Reauthenticate on the next screen.</string>
     <!-- Search Edition -->
     <string-array name="search_edition_introduction_message" translatable="false">
         <item>This application is for Twitter search.</item>
+        <item>You can change the tab that appears first from the long press menu of the tab!</item>
         <item>I am good at list tracking and searching.</item>
         <item>Posting tweets, replying, messages... I don\'t know what you\'re talking about!</item>
         <item>You\'ll be seeing bookmarks before you know it!</item>
