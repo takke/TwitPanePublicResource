@@ -1041,6 +1041,7 @@
     <string name="config_use_mlkit_translation_after_cloud_translation_summary">在雲翻譯後顯示本地翻譯結果</string>
 
     <string name="config_timeline_settings_category">時間軸設置</string>
+    <string name="config_timeline_settings_category_summary"></string>
     <string name="config_timeline_action_settings_category">Timeline Action Settings</string>
     <string name="config_tweet_load">推文加載</string>
     <string name="config_official_app_cooperation">Official App Cooperation</string>
