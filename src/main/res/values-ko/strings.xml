@@ -1014,6 +1014,7 @@
     </string-array>
 
 	<string name="config_toolbar">"툴바 설정"</string>
+    <string name="config_toolbar_summary"></string>
 	<string name="config_toolbar_height">"툴바 높이"</string>
     <string name="config_toolbar_height_change">"변경"</string>
 	<string name="transparent_toolbar">"투명 툴바"</string>

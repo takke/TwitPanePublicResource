@@ -1016,6 +1016,7 @@
     </string-array>
 
     <string name="config_toolbar">工具欄設定</string>
+    <string name="config_toolbar_summary"></string>
     <string name="config_toolbar_height">工具欄高度</string>
     <string name="config_toolbar_height_change">更改</string>
     <string name="transparent_toolbar">透明工具欄</string>

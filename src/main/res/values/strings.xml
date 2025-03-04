@@ -1021,6 +1021,7 @@
     </string-array>
 
 	<string name="config_toolbar">Toolbar Settings</string>
+	<string name="config_toolbar_summary"></string>
 	<string name="config_toolbar_height">Toolbar Height</string>
     <string name="config_toolbar_height_change">Change</string>
 	<string name="transparent_toolbar">Transparent Toolbar</string>

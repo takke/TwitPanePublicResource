@@ -1013,6 +1013,7 @@
     </string-array>
 
     <string name="config_toolbar">"Barra de herramientas"</string>
+    <string name="config_toolbar_summary"></string>
     <string name="config_toolbar_height">"Altura de la barra de herramientas"</string>
     <string name="config_toolbar_height_change">"Cambiar"</string>
     <string name="transparent_toolbar">"Barra de herramientas transparente"</string>

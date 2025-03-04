@@ -1030,6 +1030,7 @@
     </string-array>
 
     <string name="config_toolbar">ツールバー設定</string>
+    <string name="config_toolbar_summary">下部のツールバーの高さ、ボタンの機能変更など</string>
     <string name="config_toolbar_height">ツールバーの高さ</string>
     <string name="config_toolbar_height_change">変更</string>
     <string name="transparent_toolbar">透過ツールバー</string>
