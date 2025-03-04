@@ -1221,6 +1221,7 @@
     <string name="config_userstream_keep_screen_on_summary">"자동 수면을 비활성화"</string>
     
     <string name="config_notification_category">자동 업데이트 및 알림</string>
+    <string name="config_notification_category_summary"></string>
     <string name="config_notification_category_basic">Basic Settings</string>
     <string name="config_notification_category_new_tweet">New tweets</string>
     <string name="config_notification_category_new_toot">New toots</string>

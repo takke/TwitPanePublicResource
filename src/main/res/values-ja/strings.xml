@@ -1241,6 +1241,7 @@
     <string name="config_userstream_keep_screen_on_summary">UserStream中は画面を自動消灯しません</string>
     
     <string name="config_notification_category">自動更新と通知</string>
+    <string name="config_notification_category_summary">タブを定期的に自動更新する設定を行います。更新間隔や通知の設定など</string>
     <string name="config_notification_category_basic">基本設定</string>
     <string name="config_notification_category_new_tweet">新着ツイート</string>
     <string name="config_notification_category_new_toot">新着投稿</string>

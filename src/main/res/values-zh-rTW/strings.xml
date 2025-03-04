@@ -1223,6 +1223,7 @@
     <string name="config_userstream_keep_screen_on_summary">禁用自動休眠</string>
 
     <string name="config_notification_category">自動更新和通知</string>
+    <string name="config_notification_category_summary"></string>
     <string name="config_notification_category_basic">基本設定</string>
     <string name="config_notification_category_new_tweet">新的推文</string>
     <string name="config_notification_category_new_toot">New toots</string>
