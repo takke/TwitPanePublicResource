@@ -1591,6 +1591,7 @@
 ※有料のクラウドサービスを利用しているため回数制限を設けております。ご了承ください。</string>
 
     <string name="login_with_browser">ブラウザでログイン</string>
+    <string name="next">次へ</string>
     <string name="login">ログイン</string>
     <string name="login_with_another_account">ログインと再認証(別アカウントでログイン)</string>
     <string name="login_to_taittsuu">タイッツーにログイン</string>
