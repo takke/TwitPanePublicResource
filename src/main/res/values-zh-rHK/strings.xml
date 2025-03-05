@@ -1586,6 +1586,7 @@
     <string name="login_with_browser">用瀏覽器登錄</string>
     <string name="next">下一步</string>
     <string name="skip">跳過</string>
+    <string name="jump_to_first_page">跳到第一頁</string>
     <string name="login">Login</string>
     <string name="login_with_another_account">Login with another account</string>
     <string name="login_to_taittsuu">Login to Taittsuu</string>

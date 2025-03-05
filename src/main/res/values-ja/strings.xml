@@ -1593,6 +1593,7 @@
     <string name="login_with_browser">ブラウザでログイン</string>
     <string name="next">次へ</string>
     <string name="skip">スキップ</string>
+    <string name="jump_to_first_page">"&lt;&lt; 最初に戻る"</string>
     <string name="login">ログイン</string>
     <string name="login_with_another_account">ログインと再認証(別アカウントでログイン)</string>
     <string name="login_to_taittsuu">タイッツーにログイン</string>
