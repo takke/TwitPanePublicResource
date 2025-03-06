@@ -607,6 +607,7 @@
     <string name="menu_search_with">Search with \"%1$s\"</string>
     <string name="menu_user_conversation_with_me_search">Search conversation with me</string>
     <string name="menu_show_image_timeline">Show image timeline</string>
+    <string name="menu_show_media_timeline">Show media timeline</string>
     <string name="menu_user_show_list">Show lists</string>
     <string name="menu_user_show_favorite_favorite">Show favorites</string>
     <string name="menu_user_show_favorite_like">Show likes</string>

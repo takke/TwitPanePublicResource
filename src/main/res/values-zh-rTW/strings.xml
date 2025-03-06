@@ -605,6 +605,7 @@
     <string name="menu_search_with">Search with \"%1$s\"</string>
     <string name="menu_user_conversation_with_me_search">搜尋與我的對話</string>
     <string name="menu_show_image_timeline">顯示影象時間軸</string>
+    <string name="menu_show_media_timeline">顯示媒體時間軸</string>
     <string name="menu_user_show_list">顯示列表</string>
     <string name="menu_user_show_favorite_favorite">顯示收藏</string>
     <string name="menu_user_show_favorite_like">顯示點贊</string>

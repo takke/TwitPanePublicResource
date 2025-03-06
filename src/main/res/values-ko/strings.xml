@@ -603,6 +603,7 @@
     <string name="menu_search_with">Search with \"%1$s\"</string>
     <string name="menu_user_conversation_with_me_search">나와 대화 검색</string>
     <string name="menu_show_image_timeline">"이미지 타임라인 보이기"</string>
+    <string name="menu_show_media_timeline">"미디어 타임라인 보이기"</string>
     <string name="menu_user_show_list">"리스트 보기"</string>
     <string name="menu_user_show_favorite_favorite">"즐겨찾기 보이기"</string>
     <string name="menu_user_show_favorite_like">마음 보이기</string>
