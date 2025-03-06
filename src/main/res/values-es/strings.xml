@@ -39,6 +39,7 @@
     <string name="pane_name_pinned_toots">Pinned</string>
     <string name="pane_name_pinned_notes">Pinned</string>
     <string name="pane_name_media">Medios de comunicación</string>
+    <string name="pane_name_video">Vídeo</string>
     <string name="pane_name_favorite_like">Me gusta</string>
     <string name="liked_order">liked order</string>
     <string name="pane_name_favorite_favorite">"Favoritos"</string>
