@@ -606,6 +606,7 @@
     <string name="menu_user_conversation_with_me_search">搜索与我的对话</string>
     <string name="menu_show_image_timeline">显示图像时间轴</string>
     <string name="menu_show_media_timeline">显示媒体时间轴</string>
+    <string name="menu_show_video_timeline">显示视频时间轴</string>
     <string name="menu_user_show_list">显示列表</string>
     <string name="menu_user_show_favorite_favorite">显示收藏</string>
     <string name="menu_user_show_favorite_like">显示点赞</string>
