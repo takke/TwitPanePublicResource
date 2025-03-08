@@ -1835,6 +1835,7 @@
     <string name="password">パスワード</string>
     <string name="log_in">ログイン</string>
     <string name="enter_username_or_mail_address">ユーザー名またはメールアドレスを入力してください</string>
+    <string name="enter_username">ユーザー名を入力してください</string>
     <string name="enter_password">パスワードを入力してください</string>
     <string name="logged_in_as">"@%1$s でログインしました"</string>
     <string name="error_occurred">エラーが発生しました(%1$s)</string>
