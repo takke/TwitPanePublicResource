@@ -1743,6 +1743,7 @@
     <string name="archived_post">Archived post</string>
     <string name="sign_in">Sign in</string>
     <string name="account">Account</string>
+    <string name="auth_type">Auth Type</string>
     <string name="user_name_or_mail_address">User name or mail address</string>
     <string name="password">Password</string>
     <string name="log_in">Log in</string>

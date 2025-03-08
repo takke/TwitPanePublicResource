@@ -1827,6 +1827,7 @@
     <string name="archived_post">アーカイブ投稿</string>
     <string name="sign_in">サインイン</string>
     <string name="account">アカウント</string>
+    <string name="auth_type">認証方式</string>
     <string name="user_name_or_mail_address">ユーザー名またはメールアドレス</string>
     <string name="password">パスワード</string>
     <string name="log_in">ログイン</string>
