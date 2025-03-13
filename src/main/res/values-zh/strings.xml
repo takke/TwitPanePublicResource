@@ -1819,4 +1819,23 @@
     <string name="zonepane_onboarding_page4_item2">自动更新，立即查看最新帖子！</string>
     <string name="zonepane_onboarding_page4_item3">轻松下载图片和视频！</string>
 
+    <!-- TwitPane Onboarding -->
+    <string name="twitpane_onboarding_page1_title">欢迎使用 TwitPane!</string>
+    <string name="twitpane_onboarding_page1_item1">一款让信息收集变得舒适的应用！</string>
+    <string name="twitpane_onboarding_page1_item2">流畅浏览时间线、列表和搜索结果！</string>
+
+    <string name="twitpane_onboarding_page2_title">从上次离开的地方继续！</string>
+    <string name="twitpane_onboarding_page2_item1">不再需要寻找之前的位置！</string>
+    <string name="twitpane_onboarding_page2_item2">阅读位置保存功能让您可以从上次离开的地方继续！</string>
+
+    <string name="twitpane_onboarding_page3_title">自由定制</string>
+    <string name="twitpane_onboarding_page3_item1">更改字体、文字大小和颜色</string>
+    <string name="twitpane_onboarding_page3_item2">自由调整布局</string>
+    <string name="twitpane_onboarding_page3_item3">完全支持自定义表情符号！</string>
+
+    <string name="twitpane_onboarding_page4_title">更多便捷功能！</string>
+    <string name="twitpane_onboarding_page4_item1">保存阅读位置 → 从上次离开的地方继续阅读！</string>
+    <string name="twitpane_onboarding_page4_item2">自动更新，立即查看最新帖子！</string>
+    <string name="twitpane_onboarding_page4_item3">轻松下载图片和视频！</string>
+
 </resources>

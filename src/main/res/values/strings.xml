@@ -1866,4 +1866,23 @@ Reauthenticate on the next screen.</string>
     <string name="zonepane_onboarding_page4_item2">Auto-update to check the latest posts immediately!</string>
     <string name="zonepane_onboarding_page4_item3">Easily download images &amp; videos!</string>
 
+    <!-- TwitPane Onboarding -->
+    <string name="twitpane_onboarding_page1_title">Welcome to TwitPane!</string>
+    <string name="twitpane_onboarding_page1_item1">An app that makes information gathering comfortable!</string>
+    <string name="twitpane_onboarding_page1_item2">Smoothly browse timelines, lists, and search results!</string>
+
+    <string name="twitpane_onboarding_page2_title">Check from where you left off!</string>
+    <string name="twitpane_onboarding_page2_item1">No more searching for where you were before!</string>
+    <string name="twitpane_onboarding_page2_item2">Read position saving feature lets you continue from where you left off!</string>
+
+    <string name="twitpane_onboarding_page3_title">Customize Freely</string>
+    <string name="twitpane_onboarding_page3_item1">Change fonts, text size, and colors</string>
+    <string name="twitpane_onboarding_page3_item2">Adjust layouts freely</string>
+    <string name="twitpane_onboarding_page3_item3">Full support for custom emojis!</string>
+
+    <string name="twitpane_onboarding_page4_title">More Convenient Features!</string>
+    <string name="twitpane_onboarding_page4_item1">Save read position → Continue reading from where you left off!</string>
+    <string name="twitpane_onboarding_page4_item2">Auto-update to check the latest posts immediately!</string>
+    <string name="twitpane_onboarding_page4_item3">Easily download images &amp; videos!</string>
+
 </resources>

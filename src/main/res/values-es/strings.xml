@@ -1776,4 +1776,23 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="zonepane_onboarding_page4_item2">¡Actualización automática para ver las últimas publicaciones inmediatamente!</string>
     <string name="zonepane_onboarding_page4_item3">¡Descarga fácilmente imágenes y videos!</string>
 
+    <!-- TwitPane Onboarding -->
+    <string name="twitpane_onboarding_page1_title">¡Bienvenido a TwitPane!</string>
+    <string name="twitpane_onboarding_page1_item1">¡Una aplicación que hace cómoda la recopilación de información!</string>
+    <string name="twitpane_onboarding_page1_item2">¡Navega sin problemas por cronologías, listas y resultados de búsqueda!</string>
+
+    <string name="twitpane_onboarding_page2_title">¡Continúa desde donde lo dejaste!</string>
+    <string name="twitpane_onboarding_page2_item1">¡No más búsquedas de dónde estabas antes!</string>
+    <string name="twitpane_onboarding_page2_item2">¡La función de guardar posición de lectura te permite continuar desde donde lo dejaste!</string>
+
+    <string name="twitpane_onboarding_page3_title">Personaliza Libremente</string>
+    <string name="twitpane_onboarding_page3_item1">Cambia fuentes, tamaño de texto y colores</string>
+    <string name="twitpane_onboarding_page3_item2">Ajusta los diseños libremente</string>
+    <string name="twitpane_onboarding_page3_item3">¡Soporte completo para emojis personalizados!</string>
+
+    <string name="twitpane_onboarding_page4_title">¡Más funciones convenientes!</string>
+    <string name="twitpane_onboarding_page4_item1">Guarda la posición de lectura → ¡Continúa leyendo desde donde lo dejaste!</string>
+    <string name="twitpane_onboarding_page4_item2">¡Actualización automática para ver las últimas publicaciones inmediatamente!</string>
+    <string name="twitpane_onboarding_page4_item3">¡Descarga fácilmente imágenes y videos!</string>
+
 </resources>

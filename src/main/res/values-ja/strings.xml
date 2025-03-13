@@ -1864,4 +1864,23 @@
     <string name="zonepane_onboarding_page4_item2">自動更新で最新の投稿をすぐにチェック！</string>
     <string name="zonepane_onboarding_page4_item3">画像＆動画も簡単にダウンロード！</string>
 
+    <!-- TwitPane Onboarding -->
+    <string name="twitpane_onboarding_page1_title">ようこそ、TwitPaneへ！</string>
+    <string name="twitpane_onboarding_page1_item1">情報収集を快適にできるアプリです！</string>
+    <string name="twitpane_onboarding_page1_item2">タイムライン、リスト、検索結果をスムーズに閲覧できます！</string>
+
+    <string name="twitpane_onboarding_page2_title">前回の続きからチェック！</string>
+    <string name="twitpane_onboarding_page2_item1">もう、一つ前の投稿を探さなくてもOK！</string>
+    <string name="twitpane_onboarding_page2_item2">既読位置の保存機能で、前回の続きから閲覧できます✨</string>
+
+    <string name="twitpane_onboarding_page3_title">カスタマイズ自由自在</string>
+    <string name="twitpane_onboarding_page3_item1">フォント・文字サイズ・配色を変更</string>
+    <string name="twitpane_onboarding_page3_item2">レイアウトの調整も自由自在</string>
+    <string name="twitpane_onboarding_page3_item3">カスタム絵文字もバッチリ対応！</string>
+
+    <string name="twitpane_onboarding_page4_title">もっと便利機能で快適に！</string>
+    <string name="twitpane_onboarding_page4_item1">既読位置を保存 → 途中から続きが読める！</string>
+    <string name="twitpane_onboarding_page4_item2">自動更新で最新の投稿をすぐにチェック！</string>
+    <string name="twitpane_onboarding_page4_item3">画像＆動画も簡単にダウンロード！</string>
+
 </resources>
