@@ -1866,12 +1866,12 @@
 
     <!-- TwitPane Onboarding -->
     <string name="twitpane_onboarding_page1_title">ようこそ、TwitPaneへ！</string>
-    <string name="twitpane_onboarding_page1_item1">情報収集を快適にできるアプリです！</string>
-    <string name="twitpane_onboarding_page1_item2">タイムライン、リスト、検索結果をスムーズに閲覧できます！</string>
+    <string name="twitpane_onboarding_page1_item1">TwitPaneは、複数のSNSを1つのアプリで管理できるクライアントアプリです！</string>
+    <string name="twitpane_onboarding_page1_item2">快適にSNSを楽しむための機能が満載です！</string>
 
-    <string name="twitpane_onboarding_page2_title">前回の続きからチェック！</string>
-    <string name="twitpane_onboarding_page2_item1">もう、一つ前の投稿を探さなくてもOK！</string>
-    <string name="twitpane_onboarding_page2_item2">既読位置の保存機能で、前回の続きから閲覧できます✨</string>
+    <string name="twitpane_onboarding_page2_title">複数アカウントをまとめて管理</string>
+    <string name="twitpane_onboarding_page2_item1">各アカウントのタイムラインやリストを並べて表示</string>
+    <string name="twitpane_onboarding_page2_item2">スワイプで素早く切り替え</string>
 
     <string name="twitpane_onboarding_page3_title">カスタマイズ自由自在</string>
     <string name="twitpane_onboarding_page3_item1">フォント・文字サイズ・配色を変更</string>

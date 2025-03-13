@@ -1868,12 +1868,12 @@ Reauthenticate on the next screen.</string>
 
     <!-- TwitPane Onboarding -->
     <string name="twitpane_onboarding_page1_title">Welcome to TwitPane!</string>
-    <string name="twitpane_onboarding_page1_item1">An app that makes information gathering comfortable!</string>
-    <string name="twitpane_onboarding_page1_item2">Smoothly browse timelines, lists, and search results!</string>
+    <string name="twitpane_onboarding_page1_item1">TwitPane is a client app that lets you manage multiple social networks in one app!</string>
+    <string name="twitpane_onboarding_page1_item2">Packed with features to enjoy social media comfortably!</string>
 
-    <string name="twitpane_onboarding_page2_title">Check from where you left off!</string>
-    <string name="twitpane_onboarding_page2_item1">No more searching for where you were before!</string>
-    <string name="twitpane_onboarding_page2_item2">Read position saving feature lets you continue from where you left off!</string>
+    <string name="twitpane_onboarding_page2_title">Manage Multiple Accounts Together</string>
+    <string name="twitpane_onboarding_page2_item1">Display timelines and lists from each account side by side</string>
+    <string name="twitpane_onboarding_page2_item2">Switch quickly with swipe gestures</string>
 
     <string name="twitpane_onboarding_page3_title">Customize Freely</string>
     <string name="twitpane_onboarding_page3_item1">Change fonts, text size, and colors</string>
