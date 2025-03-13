@@ -1,4 +1,4 @@
-<resources xmlns:tools="http://schemas.android.com/tools">">"
+<resources xmlns:tools="http://schemas.android.com/tools">
 
     <string name="title_activity_config">TwitPane设置</string>
     <string name="title_activity_page_config">页面设置</string>
@@ -269,7 +269,7 @@
     <string name="twitter_error_api_restricted_by_remote_control_of_twitpane">We are temporarily restricting the use of the API to avoid application outages from Twitter.</string>
     <string name="twitter_error_api_restricted_by_remote_control_of_twitpane_full">We are temporarily restricting the use of the API to avoid application outages from Twitter. \nWe apologize for the inconvenience, but please wait for a while until the restriction is lifted.</string>
 
-    <string name="rate_limit_list_does_not_include_api_v2" translatable="false">“此列表不包括Twitter API v2的速率限制。”</string>
+    <string name="rate_limit_list_does_not_include_api_v2" translatable="false">"此列表不包括Twitter API v2的速率限制。"</string>
     <string name="account_list">帐户列表</string>
     <string name="over_account_count_in_subscription">超过帐户数限制</string>
     <string name="over_account_count_not_subscription">超过帐户数限制：如果你订阅了，可以将限制提高到5个</string>
@@ -350,14 +350,14 @@
     <!-- 固定ツイート -->
     <string name="pinned_tweet">置顶推文</string>
     <string name="config_show_pinned_tweet">显示置顶推文</string>
-    <string name="config_show_pinned_tweet_summary">“[默认:开]”</string>
+    <string name="config_show_pinned_tweet_summary">"[默认:开]"</string>
     <string name="no_pinned_toots">There are no pinned toots.</string>
     <string name="no_pinned_notes">There are no pinned notes.</string>
 
     <!-- サブスクリプション画面 -->
     <string name="continue_to_trial">Continue to trial\n(%1$s/month after the free period.)</string>
-    <string name="cloud_translation_subscription_title">“订阅”</string>
-    <string name="subscription_title">“订阅”</string>
+    <string name="cloud_translation_subscription_title">"订阅"</string>
+    <string name="subscription_title">"订阅"</string>
 
 
     <!-- ================================================================================ -->
@@ -405,7 +405,7 @@
 \n
 \n另外，也可以通过向作者发送调试日志以在未来的版本中加以解决。
 \n但是请注意，日志中可能包含个人信息。
-\n如果你希望发送调试日志，请在下一屏上选择 \“Gmail\"。</string>
+\n如果你希望发送调试日志，请在下一屏上选择 \"Gmail\"。</string>
     <string name="debug_mode_check_update">检查更新</string>
     <string name="show_internal_cache">显示内部缓存</string>
     <string name="show_debug_log">显示调试日志</string>
@@ -488,7 +488,7 @@
     <string name="campaign_info_message">感谢使用本应用！\n\n如果你希望隐藏广告，你可以发本应用的广告推文。 (大约 %1$d 天)</string>
     <string name="campaign_info_tweet">输入推文</string>
     <string name="campaign_input_title">请输入推文</string>
-    <string name="campaign_input_alert">输入包含“TwitPane”的推文</string>
+    <string name="campaign_input_alert">输入包含"TwitPane"的推文</string>
     <string name="campaign_already_ad_hiding">广告已经隐藏.. \n你确认要恢复广告吗？</string>
     <string name="campaign_tweet_done_title">推广推文已完成</string>
     <string name="campaign_tweet_done_message">发送推广推文。这样的广告会隐藏大约%1$d天！</string>
@@ -564,7 +564,7 @@
     <string name="menu_set_all_color_label">设置所有颜色标签</string>
     <string name="menu_cancel_color_label_short">取消颜色标签</string>
     <string name="cancel_all_color_labels_in_list">取消包含在此列表中的用户的所有标签（%1$s 个用户），确定吗？</string>
-    <string name="set_all_color_labels_in_list">将此列表中所包括用户的所有标签（%1$s用户）设为“%2$s “，确定吗？ \n \n注意：保持已设置标签的用户的标签</string>
+    <string name="set_all_color_labels_in_list">将此列表中所包括用户的所有标签（%1$s用户）设为"%2$s "，确定吗？ \n \n注意：保持已设置标签的用户的标签</string>
     <string name="set_color_labels_done">设置所有彩色标签已完成（用户数：%1$s）</string>
     <string name="jump_to_other_tab1">跳转到其他标签1</string>
     <string name="jump_to_other_tab2">跳转到其他标签2</string>
@@ -603,7 +603,7 @@
     <string name="menu_search_from_user_posts">Search from user posts</string>
     <string name="menu_user_posts_only">User Posts Only</string>
     <string name="menu_user_posts_only_posts">User Posts Only</string>
-    <string name="menu_search_with">Search with \"%1$s\"</string>
+    <string name="menu_search_with">Search with "%1$s"</string>
     <string name="menu_user_conversation_with_me_search">搜索与我的对话</string>
     <string name="menu_show_image_timeline">显示图像时间轴</string>
     <string name="menu_show_media_timeline">显示媒体时间轴</string>
@@ -866,7 +866,7 @@
 
     <!-- URL確認 -->
     <string name="browser_url_confirm_title">网址确认</string>
-    <string name="browser_url_confirm_message">%1$s\n\n“分享”或“复制到剪贴板”</string>
+    <string name="browser_url_confirm_message">%1$s\n\n"分享"或"复制到剪贴板"</string>
     <string name="browser_url_confirm_copy">复制</string>
     <string name="browser_url_confirm_copied">复制到剪贴板</string>
     <string name="browser_url_confirm_cancel">取消</string>
@@ -1032,7 +1032,7 @@
     <string name="toolbar_button_move_to_left_or_right" translatable="false">◀▶</string>
 
     <string name="config_translation_settings_category">翻译设置</string>
-    <string name="config_show_translation_link">显示“翻译”链接</string>
+    <string name="config_show_translation_link">显示"翻译"链接</string>
     <string name="config_show_translation_link_summary"></string>
     <string name="config_use_cloud_translation">高质量的翻译</string>
     <string name="config_use_cloud_translation_summary">通过使用云翻译，包括DeepL 和谷歌翻译服务，翻译结果的质量会更高，更准确。使用付费的外部服务。</string>
@@ -1799,5 +1799,24 @@
     <string name="logged_in_as">Logged in as @%1$s</string>
     <string name="error_occurred">Error occurred: %1$s</string>
     <string name="review_confirm_message">Are you sure you want to review this %s app?</string>
+
+    <!-- ZonePane Onboarding -->
+    <string name="zonepane_onboarding_page1_title">欢迎使用 ZonePane!</string>
+    <string name="zonepane_onboarding_page1_item1">ZonePane 是一款客户端应用，让您可以在一个应用中管理多个社交网络！</string>
+    <string name="zonepane_onboarding_page1_item2">功能丰富，让您舒适地享受社交媒体！</string>
+
+    <string name="zonepane_onboarding_page2_title">一起管理多个账户</string>
+    <string name="zonepane_onboarding_page2_item1">并排显示每个账户的时间线和列表</string>
+    <string name="zonepane_onboarding_page2_item2">通过滑动手势快速切换</string>
+
+    <string name="zonepane_onboarding_page3_title">自由定制</string>
+    <string name="zonepane_onboarding_page3_item1">更改字体、文字大小和颜色</string>
+    <string name="zonepane_onboarding_page3_item2">自由调整布局</string>
+    <string name="zonepane_onboarding_page3_item3">完全支持自定义表情符号！</string>
+
+    <string name="zonepane_onboarding_page4_title">更多便捷功能！</string>
+    <string name="zonepane_onboarding_page4_item1">保存阅读位置 → 从上次离开的地方继续阅读！</string>
+    <string name="zonepane_onboarding_page4_item2">自动更新，立即查看最新帖子！</string>
+    <string name="zonepane_onboarding_page4_item3">轻松下载图片和视频！</string>
 
 </resources>

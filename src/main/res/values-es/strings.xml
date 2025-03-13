@@ -1757,4 +1757,23 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="error_occurred">Error occurred: %1$s</string>
     <string name="review_confirm_message">Are you sure you want to review this %s app?</string>
 
+    <!-- ZonePane Onboarding -->
+    <string name="zonepane_onboarding_page1_title">¡Bienvenido a ZonePane!</string>
+    <string name="zonepane_onboarding_page1_item1">ZonePane es una aplicación cliente que te permite gestionar múltiples redes sociales en una sola app!</string>
+    <string name="zonepane_onboarding_page1_item2">¡Llena de funciones para disfrutar cómodamente de las redes sociales!</string>
+
+    <string name="zonepane_onboarding_page2_title">Gestiona múltiples cuentas juntas</string>
+    <string name="zonepane_onboarding_page2_item1">Muestra cronologías y listas de cada cuenta una al lado de la otra</string>
+    <string name="zonepane_onboarding_page2_item2">Cambia rápidamente con gestos de deslizamiento</string>
+
+    <string name="zonepane_onboarding_page3_title">Personaliza libremente</string>
+    <string name="zonepane_onboarding_page3_item1">Cambia fuentes, tamaño de texto y colores</string>
+    <string name="zonepane_onboarding_page3_item2">Ajusta los diseños libremente</string>
+    <string name="zonepane_onboarding_page3_item3">¡Soporte completo para emojis personalizados!</string>
+
+    <string name="zonepane_onboarding_page4_title">¡Más funciones convenientes!</string>
+    <string name="zonepane_onboarding_page4_item1">Guarda la posición de lectura → ¡Continúa leyendo desde donde lo dejaste!</string>
+    <string name="zonepane_onboarding_page4_item2">¡Actualización automática para ver las últimas publicaciones inmediatamente!</string>
+    <string name="zonepane_onboarding_page4_item3">¡Descarga fácilmente imágenes y videos!</string>
+
 </resources>

@@ -395,14 +395,14 @@
     <string name="debug_mode_send_debug_log">"디버그 로그 보내기"</string>
     <string name="debug_mode_send_debug_log_short">"보내기"</string>
     <string name="debug_mode_send_debug_log_confirm_title">"디버그 로그 보내기"</string>
-    <string name="debug_mode_send_debug_log_confirm_message">"불편을 끼쳐 드려 죄송합니다. 
+    <string name="debug_mode_send_debug_log_confirm_message">"불편을 끼쳐 드려 죄송합니다.
 \n
 \n 트위터의 구체적 사항의 변경으로 인해 당신은 더 이상 이용이 불가능할 수 있습니다. 
 \n 수정된 버전이 이미 발행되었을 수 있기 때문에 구글플레이 스토에서 업데이트를 확인해주세요.
 \n (대중에 발행되지 않은 경우 조금 기다려 주세요.)
 \n
-\n 추가적으로 저작자에게 디버그 로그를 보내는 것으로 미래의 버전을 개선하는 데 협력하실 수 있습니다. 
-\n 하지만 로그에 개인정보를 포함할 수 있다는 것을 명심하십시오. 
+\n 추가적으로 저작자에게 디버그 로그를 보내는 것으로 미래의 버전을 개선하는 데 협력하실 수 있습니다.
+\n 하지만 로그에 개인정보를 포함할 수 있다는 것을 명심하십시오.
 \n 디버그 로그를 보내고 싶으시다면 다음 화면에서 \"Gmail\"을 선택해주세요."</string>
     <string name="debug_mode_check_update">"업데이트 확인"</string>
     <string name="show_internal_cache">"내부캐시 보기"</string>
@@ -1757,5 +1757,24 @@
     <string name="logged_in_as">Logged in as @%1$s</string>
     <string name="error_occurred">Error occurred: %1$s</string>
     <string name="review_confirm_message">Are you sure you want to review this %s app?</string>
+
+    <!-- ZonePane Onboarding -->
+    <string name="zonepane_onboarding_page1_title">ZonePane에 오신 것을 환영합니다!</string>
+    <string name="zonepane_onboarding_page1_item1">ZonePane은 여러 소셜 네트워크를 하나의 앱에서 관리할 수 있는 클라이언트 앱입니다!</string>
+    <string name="zonepane_onboarding_page1_item2">소셜 미디어를 편안하게 즐길 수 있는 기능이 가득합니다!</string>
+
+    <string name="zonepane_onboarding_page2_title">여러 계정을 함께 관리</string>
+    <string name="zonepane_onboarding_page2_item1">각 계정의 타임라인과 리스트를 나란히 표시</string>
+    <string name="zonepane_onboarding_page2_item2">스와이프 제스처로 빠르게 전환</string>
+
+    <string name="zonepane_onboarding_page3_title">자유롭게 커스터마이징</string>
+    <string name="zonepane_onboarding_page3_item1">글꼴, 텍스트 크기 및 색상 변경</string>
+    <string name="zonepane_onboarding_page3_item2">레이아웃을 자유롭게 조정</string>
+    <string name="zonepane_onboarding_page3_item3">커스텀 이모지 완벽 지원!</string>
+
+    <string name="zonepane_onboarding_page4_title">더 많은 편리한 기능!</string>
+    <string name="zonepane_onboarding_page4_item1">읽은 위치 저장 → 마지막으로 읽은 곳부터 계속 읽기!</string>
+    <string name="zonepane_onboarding_page4_item2">자동 업데이트로 최신 게시물을 즉시 확인!</string>
+    <string name="zonepane_onboarding_page4_item3">이미지 및 동영상을 쉽게 다운로드!</string>
 
 </resources>
