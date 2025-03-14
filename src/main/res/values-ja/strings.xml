@@ -1767,7 +1767,7 @@
     <string name="mst_list_replies_policy_list">リストのメンバー</string>
     <string name="mst_list_replies_policy_none">表示しない</string>
 
-    <string name="select_compose_service_type">投稿するSNSを選択してください</string>
+    <string name="select_publish_service_type">投稿するSNSを選択してください</string>
     <string name="share_pattern_selector_title">共有形式を選択してください</string>
     <string name="share_pattern_selector_full">"@ユーザー名(表示名) + 本文"</string>
     <string name="share_pattern_selector_body_only">"本文のみ"</string>
