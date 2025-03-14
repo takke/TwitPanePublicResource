@@ -715,7 +715,7 @@
     <!-- WriteView -->
     <!-- ================================================================================ -->
     <string name="write_view_activity_title">"트윗"</string>
-    <string name="mst_compose_activity_title">Toot</string>
+    <string name="mst_publish_activity_title">Post</string>
     <string name="mst_compose_activity_title_edit">Edit</string>
     <string name="mky_compose_activity_title">Note</string>
     <string name="custom_emoji_picker_activity_title">CustomEmojiPicker</string>
