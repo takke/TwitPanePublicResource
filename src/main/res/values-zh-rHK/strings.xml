@@ -717,8 +717,8 @@
     <!-- WriteView -->
     <!-- ================================================================================ -->
     <string name="write_view_activity_title">推文</string>
-    <string name="mst_publish_activity_title">Post</string>
-    <string name="mst_publish_activity_title_edit">Edit</string>
+    <string name="mastodon_publish_activity_title">Post</string>
+    <string name="mastodon_publish_activity_title_edit">Edit</string>
     <string name="misskey_publish_activity_title">Note</string>
     <string name="custom_emoji_picker_activity_title">CustomEmojiPicker</string>
     <string name="write_view_spoiler_label">Content warning</string>
