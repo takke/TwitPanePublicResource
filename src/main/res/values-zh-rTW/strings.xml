@@ -900,7 +900,7 @@
     <string name="not_ellipsis">Not ellipsis</string>
     <string name="config_theme">主題</string>
     <string name="config_appearance">外觀</string>
-    <string name="config_timeline_compose_category">時間軸和推文編寫</string>
+    <string name="config_timeline_publish_category">時間軸和推文編寫</string>
     <string name="config_media_viewer_category">媒體檢視器</string>
     <string name="config_thumb_size">縮圖大小</string>
     <string name="config_thumb_size_summary"></string>

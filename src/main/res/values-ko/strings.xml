@@ -898,7 +898,7 @@
     <string name="not_ellipsis">Not ellipsis</string>
     <string name="config_theme">"테마"</string>
     <string name="config_appearance">외모</string>
-    <string name="config_timeline_compose_category">타임라인 및 작성</string>
+    <string name="config_timeline_publish_category">타임라인 및 작성</string>
     <string name="config_media_viewer_category">미디어 뷰어</string>
 	<string name="config_thumb_size">"썸네일 크기"</string>
     <string name="config_thumb_size_summary">""</string>

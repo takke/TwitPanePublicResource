@@ -912,7 +912,7 @@
     <string name="not_ellipsis">無効(折りたたまない)</string>
     <string name="config_theme">テーマとデザイン設定</string>
     <string name="config_appearance">外観</string>
-    <string name="config_timeline_compose_category">タイムラインと投稿</string>
+    <string name="config_timeline_publish_category">タイムラインと投稿</string>
     <string name="config_media_viewer_category">メディアビューア</string>
     <string name="config_thumb_size">ユーザーアイコンサイズ</string>
     <string name="config_thumb_size_summary">左側のユーザーアイコンのサイズを設定します</string>
