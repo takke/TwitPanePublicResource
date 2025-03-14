@@ -1148,10 +1148,10 @@
     <string name="config_show_actionbar_tweet_button_summary">메뉴에서 트윗 버튼을 표시</string>
 <!--	<string name="config_show_emoji_ime_title">"이모티콘 입력 지원"</string>-->
 <!--	<string name="config_show_emoji_ime_summary">"지원하는 경우 IME의 이모티콘 입력 기능을 활성화"</string>-->
-    <string name="config_hide_compose_reply_area_by_default_title">숨기기 응답 영역</string>
-    <string name="config_hide_compose_reply_area_by_default_summary"></string>
-    <string name="config_show_after_composed_banner_ad_title">Always display ads after posting</string>
-    <string name="config_show_after_composed_banner_ad_title_summary"></string>
+    <string name="config_hide_publish_reply_area_by_default_title">숨기기 응답 영역</string>
+    <string name="config_hide_publish_reply_area_by_default_summary"></string>
+    <string name="config_show_after_published_banner_ad_title">Always display ads after posting</string>
+    <string name="config_show_after_published_banner_ad_title_summary"></string>
 	<string name="config_show_remain_tweet_length">"남은 트윗 길이 표시"</string>
 	<string name="config_show_remain_tweet_length_summary">"제목에 트윗의 잔여길이 표시"</string>
     <string name="config_count_tweet_length_as_280">최대 280 개 문자로 간주</string>
