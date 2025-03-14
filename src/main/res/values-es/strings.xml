@@ -1573,14 +1573,14 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="some_settings_applied_after_restarted">Algunas configuraciones se aplicarán después de reiniciar la aplicación.</string>
 
     <!-- イベントログ -->
-    <string name="event_log_message_tweet_compose_success">Tweets publicados.</string>
-    <string name="event_log_message_tweet_compose_failed">No se pudo publicar el tuit.</string>
-    <string name="event_log_message_toot_compose_success">Toot posted</string>
-    <string name="event_log_message_toot_compose_failed">Failed to post toot</string>
-    <string name="event_log_message_note_compose_success">Note posted</string>
-    <string name="event_log_message_note_compose_failed">Failed to post note</string>
-    <string name="event_log_message_bs_post_compose_success">Posted</string>
-    <string name="event_log_message_bs_post_compose_failed">Failed to post</string>
+    <string name="event_log_message_tweet_publish_success">Tweets publicados.</string>
+    <string name="event_log_message_tweet_publish_failed">No se pudo publicar el tuit.</string>
+    <string name="event_log_message_toot_publish_success">Toot posted</string>
+    <string name="event_log_message_toot_publish_failed">Failed to post toot</string>
+    <string name="event_log_message_note_publish_success">Note posted</string>
+    <string name="event_log_message_note_publish_failed">Failed to post note</string>
+    <string name="event_log_message_bs_post_publish_success">Posted</string>
+    <string name="event_log_message_bs_post_publish_failed">Failed to post</string>
     <string name="event_log_message_new_reply">Nuevas respuestas recibidas.</string>
     <string name="event_log_message_no_new_reply">No hay nuevas respuestas.</string>
     <string name="event_log_message_new_message">Nuevo mensaje recibido.</string>

@@ -1616,14 +1616,14 @@
     <string name="some_settings_applied_after_restarted">部分設置將在應用程序重新啓動後生效。</string>
 
     <!-- イベントログ -->
-    <string name="event_log_message_tweet_compose_success">推文發佈成功</string>
-    <string name="event_log_message_tweet_compose_failed">無法發佈推文</string>
-    <string name="event_log_message_toot_compose_success">Toot posted</string>
-    <string name="event_log_message_toot_compose_failed">Failed to post toot</string>
-    <string name="event_log_message_note_compose_success">Note posted</string>
-    <string name="event_log_message_note_compose_failed">Failed to post note</string>
-    <string name="event_log_message_bs_post_compose_success">Posted</string>
-    <string name="event_log_message_bs_post_compose_failed">Failed to post</string>
+    <string name="event_log_message_tweet_publish_success">推文發佈成功</string>
+    <string name="event_log_message_tweet_publish_failed">無法發佈推文</string>
+    <string name="event_log_message_toot_publish_success">Toot posted</string>
+    <string name="event_log_message_toot_publish_failed">Failed to post toot</string>
+    <string name="event_log_message_note_publish_success">Note posted</string>
+    <string name="event_log_message_note_publish_failed">Failed to post note</string>
+    <string name="event_log_message_bs_post_publish_success">Posted</string>
+    <string name="event_log_message_bs_post_publish_failed">Failed to post</string>
     <string name="event_log_message_new_reply">收到新回覆。</string>
     <string name="event_log_message_no_new_reply">沒有新的回覆。</string>
     <string name="event_log_message_new_message">收到新消息。</string>

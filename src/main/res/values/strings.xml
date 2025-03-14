@@ -1645,14 +1645,14 @@ Reauthenticate on the next screen.</string>
     <string name="subs_guide_bottom_notice_cloud_translation" translatable="false">There is a limit to the number of times you can use Cloud Translation per day.</string>
 
     <!-- イベントログ -->
-    <string name="event_log_message_tweet_compose_success">Tweets posted</string>
-    <string name="event_log_message_tweet_compose_failed">Failed to post tweet</string>
-    <string name="event_log_message_toot_compose_success">Toot posted</string>
-    <string name="event_log_message_toot_compose_failed">Failed to post toot</string>
-    <string name="event_log_message_note_compose_success">Note posted</string>
-    <string name="event_log_message_note_compose_failed">Failed to post note</string>
-    <string name="event_log_message_bs_post_compose_success">Posted</string>
-    <string name="event_log_message_bs_post_compose_failed">Failed to post</string>
+    <string name="event_log_message_tweet_publish_success">Tweets posted</string>
+    <string name="event_log_message_tweet_publish_failed">Failed to post tweet</string>
+    <string name="event_log_message_toot_publish_success">Toot posted</string>
+    <string name="event_log_message_toot_publish_failed">Failed to post toot</string>
+    <string name="event_log_message_note_publish_success">Note posted</string>
+    <string name="event_log_message_note_publish_failed">Failed to post note</string>
+    <string name="event_log_message_bs_post_publish_success">Posted</string>
+    <string name="event_log_message_bs_post_publish_failed">Failed to post</string>
     <string name="event_log_message_new_reply">New replies received.</string>
     <string name="event_log_message_no_new_reply">No new replies.</string>
     <string name="event_log_message_new_message">New message received.</string>
