@@ -1884,4 +1884,10 @@
     <string name="twitpane_onboarding_page4_item2">自動更新で最新の投稿をすぐにチェック！</string>
     <string name="twitpane_onboarding_page4_item3">画像＆動画も簡単にダウンロード！</string>
 
+    <!-- Bluesky Quote Area Strings -->
+    <string name="bsky_quote_muted">ミュートされています</string>
+    <string name="bsky_quote_post_deleted">引用元の投稿は削除されました</string>
+    <string name="bsky_quote_blocked">ブロックされています</string>
+    <string name="bsky_quote_detached">リンクが切れています</string>
+
 </resources>

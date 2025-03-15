@@ -1839,4 +1839,10 @@
     <string name="twitpane_onboarding_page4_item2">自动更新，立即查看最新帖子！</string>
     <string name="twitpane_onboarding_page4_item3">轻松下载图片和视频！</string>
 
+    <!-- Bluesky Quote Area Strings -->
+    <string name="bsky_quote_muted">已静音</string>
+    <string name="bsky_quote_post_deleted">引用的帖子已被删除</string>
+    <string name="bsky_quote_blocked">已屏蔽</string>
+    <string name="bsky_quote_detached">已断开连接</string>
+
 </resources>

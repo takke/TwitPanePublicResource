@@ -1796,4 +1796,10 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="twitpane_onboarding_page4_item2">¡Actualización automática para ver las últimas publicaciones inmediatamente!</string>
     <string name="twitpane_onboarding_page4_item3">¡Descarga fácilmente imágenes y videos!</string>
 
+    <!-- Bluesky Quote Area Strings -->
+    <string name="bsky_quote_muted">Silenciado</string>
+    <string name="bsky_quote_post_deleted">La publicación referenciada ha sido eliminada</string>
+    <string name="bsky_quote_blocked">Bloqueado</string>
+    <string name="bsky_quote_detached">Desvinculado</string>
+
 </resources>

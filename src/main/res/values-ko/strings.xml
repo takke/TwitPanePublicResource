@@ -70,7 +70,7 @@
     <string name="pane_name_likes_of">"%1$s 의 마음"</string>
     <string name="pane_name_blocks">"차단된 유저"</string>
     <string name="pane_name_search_user">"유저 검색"</string>
-    <string name="pane_name_feeds">Feeds</string>
+    <string name="pane_name_feeds">피드</string>
     
     <string name="showcase_start_title">"TwitPane에 오신 것을 환영합니다!"</string>
     <string name="showcase_start_summary">"조금, 사용하는 법. \n \n 우선, 한 목록의 트윗이 중간에 나타날 것입니다. 물론 위아래로 스크롤할 수 있습니다!"</string>
@@ -1796,5 +1796,11 @@
     <string name="twitpane_onboarding_page4_item1">읽은 위치 저장 → 마지막으로 읽은 곳부터 계속 읽기!</string>
     <string name="twitpane_onboarding_page4_item2">자동 업데이트로 최신 게시물을 즉시 확인!</string>
     <string name="twitpane_onboarding_page4_item3">이미지 및 동영상을 쉽게 다운로드!</string>
+
+    <!-- Bluesky Quote Area Strings -->
+    <string name="bsky_quote_muted">뮤트됨</string>
+    <string name="bsky_quote_post_deleted">참조된 게시물이 삭제되었습니다</string>
+    <string name="bsky_quote_blocked">차단됨</string>
+    <string name="bsky_quote_detached">연결 해제됨</string>
 
 </resources>
