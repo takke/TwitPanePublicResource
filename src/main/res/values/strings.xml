@@ -1297,6 +1297,8 @@ Do you want to enable it?</string>
     <string name="config_show_new_tweet_notification">Show new tweet notification</string>
     <string name="config_show_new_tweet_notification_summary"></string>
     <string name="config_new_tweet_notification_icon_type">Icon of new tweet notification</string>
+    <string name="notification_channel_bluesky_auth_error">Bluesky Authentication Error</string>
+    <string name="bluesky_auth_error_notification_message">Authentication token has expired and re-authentication is required(%1$s)</string>
 
     <string name="config_color_label">Color Label Settings</string>
     <string name="config_color_label_summary">Set the colors of the user labels</string>

@@ -1845,4 +1845,7 @@
     <string name="bsky_quote_blocked">已屏蔽</string>
     <string name="bsky_quote_detached">已断开连接</string>
 
+    <string name="notification_channel_bluesky_auth_error">Bluesky 认证错误</string>
+    <string name="bluesky_auth_error_notification_message">认证令牌已过期，需要重新认证 (%1$s)</string>
+
 </resources>

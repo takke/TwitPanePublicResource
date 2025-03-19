@@ -1803,4 +1803,7 @@
     <string name="bsky_quote_blocked">차단됨</string>
     <string name="bsky_quote_detached">연결 해제됨</string>
 
+    <string name="notification_channel_bluesky_auth_error">Bluesky 인증 오류</string>
+    <string name="bluesky_auth_error_notification_message">인증 토큰이 만료되어 재인증이 필요합니다(%1$s)</string>
+
 </resources>

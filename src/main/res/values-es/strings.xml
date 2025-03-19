@@ -1802,4 +1802,7 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="bsky_quote_blocked">Bloqueado</string>
     <string name="bsky_quote_detached">Desvinculado</string>
 
+    <string name="notification_channel_bluesky_auth_error">Error de autenticación de Bluesky</string>
+    <string name="bluesky_auth_error_notification_message">El token de autenticación ha caducado y se requiere una reautenticación (%1$s)</string>
+
 </resources>
