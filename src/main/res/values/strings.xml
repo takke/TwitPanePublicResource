@@ -1894,4 +1894,7 @@ Reauthenticate on the next screen.</string>
     <string name="bsky_quote_blocked">Blocked</string>
     <string name="bsky_quote_detached">Detached</string>
 
+    <string name="config_timeline_action_bluesky">Timeline Action Buttons (Bluesky)</string>
+    <string name="config_bluesky_action_button_size">Action button size</string>
+
 </resources>

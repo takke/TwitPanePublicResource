@@ -1893,4 +1893,7 @@
     <string name="notification_channel_bluesky_auth_error">Bluesky 認証エラー</string>
     <string name="bluesky_auth_error_notification_message">認証トークンの有効期限が切れたため、再認証が必要です(%1$s)</string>
 
+    <string name="config_timeline_action_bluesky">タイムラインアクションボタン(Bluesky)</string>
+    <string name="config_bluesky_action_button_size">アクションボタンのサイズ</string>
+
 </resources>
