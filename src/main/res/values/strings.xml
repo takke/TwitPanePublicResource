@@ -1055,6 +1055,8 @@
     <string name="config_timeline_settings_category_summary"></string>
     <string name="config_timeline_action_settings_category">Timeline Action Settings</string>
     <string name="config_timeline_action_settings_category_summary">Timeline tap-ex, actions</string>
+    <string name="config_timeline_action_bluesky">Timeline Action Buttons (Bluesky)</string>
+    <string name="config_bluesky_action_button_size">Action button size</string>
     <string name="config_tweet_load">Tweet loading</string>
     <string name="config_official_app_cooperation">Official App Cooperation</string>
     <string name="config_use_official_app_for_tweet_operation">Perform tweets, etc. via official apps</string>
@@ -1893,8 +1895,5 @@ Reauthenticate on the next screen.</string>
     <string name="bsky_quote_post_deleted">The referenced post has been deleted</string>
     <string name="bsky_quote_blocked">Blocked</string>
     <string name="bsky_quote_detached">Detached</string>
-
-    <string name="config_timeline_action_bluesky">Timeline Action Buttons (Bluesky)</string>
-    <string name="config_bluesky_action_button_size">Action button size</string>
 
 </resources>
