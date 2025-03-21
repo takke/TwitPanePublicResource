@@ -119,6 +119,7 @@
     <string name="label_mastodon_search_query_guide_after">"after:2025-03-21 指定日以降の投稿に絞る"</string>
     <string name="label_mastodon_search_query_guide_before">"before:2025-03-21 指定日以前の投稿に絞る"</string>
     <string name="label_mastodon_search_query_guide_during">"during:2025-03-21 指定日の投稿のみ"</string>
+    <string name="label_mastodon_search_query_guide_notice">"サーバーによってはこれらの検索機能が利用できないがあります"</string>
 
     <string name="reload_button">リロード</string>
     <string name="reload_with_new_emojis">リロード＆新着絵文字の取得</string>

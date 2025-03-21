@@ -119,6 +119,7 @@
     <string name="label_mastodon_search_query_guide_after">"after:2025-03-21 Mostrar publicaciones después de una fecha específica"</string>
     <string name="label_mastodon_search_query_guide_before">"before:2025-03-21 Mostrar publicaciones antes de una fecha específica"</string>
     <string name="label_mastodon_search_query_guide_during">"during:2025-03-21 Mostrar publicaciones de un día específico"</string>
+    <string name="label_mastodon_search_query_guide_notice">Algunas de estas funciones de búsqueda pueden no estar disponibles según el servidor</string>
 
     <string name="reload_button">"Recargar"</string>
     <string name="reload_with_new_emojis">"Recargar con nuevos emojis"</string>

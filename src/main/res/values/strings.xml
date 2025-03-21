@@ -119,6 +119,7 @@
     <string name="label_mastodon_search_query_guide_after">"after:2025-03-21 Show posts after a specific date"</string>
     <string name="label_mastodon_search_query_guide_before">"before:2025-03-21 Show posts before a specific date"</string>
     <string name="label_mastodon_search_query_guide_during">"during:2025-03-21 Show posts from a specific day"</string>
+    <string name="label_mastodon_search_query_guide_notice">"Some of these search features may not be available depending on the server"</string>
 
     <string name="reload_button">Reload</string>
     <string name="reload_with_new_emojis">Reload with new emojis</string>
