@@ -109,6 +109,17 @@
     <string name="label_search_query_guide_since">since:2023-12-17 Show posts since a specific date</string>
     <string name="label_search_query_guide_until">until:2024-11-01 Show posts until a specific date</string>
 
+    <string name="label_mastodon_search_query_guide_account">"@takke@fedibird.com Búsqueda de cuenta"</string>
+    <string name="label_mastodon_search_query_guide_account_url">"https://fedibird.com/@takke Búsqueda de cuenta"</string>
+    <string name="label_mastodon_search_query_guide_status_url">"https://fedibird.com/@takke/110886555530031419 Búsqueda de publicación"</string>
+    <string name="label_mastodon_search_query_guide_from">"from:takke@fedibird.com Mostrar publicaciones de un usuario específico"</string>
+    <string name="label_mastodon_search_query_guide_to">"to:takke@fedibird.com Mostrar publicaciones que mencionan a un usuario específico"</string>
+    <string name="label_mastodon_search_query_guide_domain">"domain:mastodon.social Búsqueda de dominio (solo Fedibird)"</string>
+    <string name="label_mastodon_search_query_guide_has_image">"has:image Mostrar solo publicaciones con imágenes"</string>
+    <string name="label_mastodon_search_query_guide_after">"after:2025-03-21 Mostrar publicaciones después de una fecha específica"</string>
+    <string name="label_mastodon_search_query_guide_before">"before:2025-03-21 Mostrar publicaciones antes de una fecha específica"</string>
+    <string name="label_mastodon_search_query_guide_during">"during:2025-03-21 Mostrar publicaciones de un día específico"</string>
+
     <string name="reload_button">"Recargar"</string>
     <string name="reload_with_new_emojis">"Recargar con nuevos emojis"</string>
     <string name="load_from_latest">Load from latest</string>

@@ -109,6 +109,17 @@
     <string name="label_search_query_guide_since">since:2023-12-17 Show posts since a specific date</string>
     <string name="label_search_query_guide_until">until:2024-11-01 Show posts until a specific date</string>
 
+    <string name="label_mastodon_search_query_guide_account">"@takke@fedibird.com 账号搜索"</string>
+    <string name="label_mastodon_search_query_guide_account_url">"https://fedibird.com/@takke 账号搜索"</string>
+    <string name="label_mastodon_search_query_guide_status_url">"https://fedibird.com/@takke/110886555530031419 帖子搜索"</string>
+    <string name="label_mastodon_search_query_guide_from">"from:takke@fedibird.com 显示特定用户的帖子"</string>
+    <string name="label_mastodon_search_query_guide_to">"to:takke@fedibird.com 显示提及特定用户的帖子"</string>
+    <string name="label_mastodon_search_query_guide_domain">"domain:mastodon.social 域名搜索（仅限Fedibird）"</string>
+    <string name="label_mastodon_search_query_guide_has_image">"has:image 仅显示带图片的帖子"</string>
+    <string name="label_mastodon_search_query_guide_after">"after:2025-03-21 显示特定日期之后的帖子"</string>
+    <string name="label_mastodon_search_query_guide_before">"before:2025-03-21 显示特定日期之前的帖子"</string>
+    <string name="label_mastodon_search_query_guide_during">"during:2025-03-21 显示特定日期的帖子"</string>
+
     <string name="reload_button">重新加载</string>
     <string name="reload_with_new_emojis">重新加载</string>
     <string name="load_from_latest">Load from latest</string>

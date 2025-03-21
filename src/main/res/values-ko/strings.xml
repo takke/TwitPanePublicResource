@@ -108,7 +108,18 @@
     <string name="label_search_query_guide_lang">lang:ja Show posts in s specific language</string>
     <string name="label_search_query_guide_since">since:2023-12-17 Show posts since a specific date</string>
     <string name="label_search_query_guide_until">until:2024-11-01 Show posts until a specific date</string>
-    
+
+    <string name="label_mastodon_search_query_guide_account">"@takke@fedibird.com 계정 검색"</string>
+    <string name="label_mastodon_search_query_guide_account_url">"https://fedibird.com/@takke 계정 검색"</string>
+    <string name="label_mastodon_search_query_guide_status_url">"https://fedibird.com/@takke/110886555530031419 게시물 검색"</string>
+    <string name="label_mastodon_search_query_guide_from">"from:takke@fedibird.com 특정 사용자의 게시물 표시"</string>
+    <string name="label_mastodon_search_query_guide_to">"to:takke@fedibird.com 특정 사용자를 언급한 게시물 표시"</string>
+    <string name="label_mastodon_search_query_guide_domain">"domain:mastodon.social 도메인 검색 (Fedibird만 해당)"</string>
+    <string name="label_mastodon_search_query_guide_has_image">"has:image 이미지가 있는 게시물만 표시"</string>
+    <string name="label_mastodon_search_query_guide_after">"after:2025-03-21 특정 날짜 이후의 게시물 표시"</string>
+    <string name="label_mastodon_search_query_guide_before">"before:2025-03-21 특정 날짜 이전의 게시물 표시"</string>
+    <string name="label_mastodon_search_query_guide_during">"during:2025-03-21 특정 날짜의 게시물 표시"</string>
+
     <string name="reload_button">"리로드"</string>
     <string name="reload_with_new_emojis">"새로운 이모지로 리로드"</string>
     <string name="load_from_latest">Load from latest</string>
