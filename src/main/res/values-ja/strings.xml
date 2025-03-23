@@ -1908,6 +1908,6 @@
     <string name="bsky_quote_detached">リンクが切れています</string>
 
     <string name="notification_channel_bluesky_auth_error">Bluesky 認証エラー</string>
-    <string name="bluesky_auth_error_notification_message">認証トークンの有効期限が切れたため、再認証が必要です(%1$s)</string>
+    <string name="bluesky_auth_error_notification_message">セッションの有効期限が切れました。再ログインをお願いします(%1$s)</string>
 
 </resources>
