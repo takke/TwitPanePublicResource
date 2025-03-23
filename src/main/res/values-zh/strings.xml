@@ -1798,7 +1798,7 @@
     <string name="movie_player_track_selection_high_quality_desc">将会使用较多的数据流量</string>
     <string name="movie_player_track_selection_data_saver_desc">节约流量，但图像质量较低</string>
     <string name="movie_player_playback_speed_selection">播放速度选择</string>
-    <string name="movie_player_playback_speed">Playback Speed</string>
+    <string name="movie_player_playback_speed">播放速度</string>
     <string name="search_from_only_my_taiitsu">Only my posts</string>
     <string name="archived_post_message_cannot_confirm_claimed_date">Bluesky cannot confirm the authenticity of the claimed date.</string>
     <string name="archived_post_message_created_on_but_first_seen_at">This post claims to have been created on %1$s, but was first seen by Bluesky on %2$s.</string>
