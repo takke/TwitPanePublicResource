@@ -1841,6 +1841,7 @@
     <string name="movie_player_track_selection_data_saver_desc">通信量を節約しますが画質は低くなります</string>
     <string name="movie_player_playback_speed_selection">再生速度の選択</string>
     <string name="movie_player_playback_speed">再生速度</string>
+    <string name="movie_player_double_speed">2倍速</string>
     <string name="search_from_only_my_taiitsu">自分のタイーツだけを検索する</string>
     <string name="archived_post_message_cannot_confirm_claimed_date">Blueskyでは、この投稿日時の信憑性を確認できません。</string>
     <string name="archived_post_message_created_on_but_first_seen_at">%1$s に投稿されたと表示されていますが、Blueskyに初めて登場したのは %2$s です。</string>
