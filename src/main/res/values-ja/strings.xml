@@ -1692,6 +1692,11 @@
     <string name="event_log_message_no_new_tweets_mastodon">新しい投稿はありませんでした</string>
     <string name="event_log_message_1_tweet_mastodon">1件の投稿</string>
     <string name="event_log_message_n_tweets_mastodon">%1$d件の投稿</string>
+    <string name="event_log_message_new_tweets_failed_misskey">新しいノートの読み込みに失敗しました</string>
+    <string name="event_log_message_new_tweets_misskey">新しいノートを読み込みました</string>
+    <string name="event_log_message_no_new_tweets_misskey">新しいノートはありませんでした</string>
+    <string name="event_log_message_1_tweet_misskey">1件のノート</string>
+    <string name="event_log_message_n_tweets_misskey">%1$d件のノート</string>
 
     <string name="event_log_delete_confirm_title">イベントログの削除</string>
     <string name="event_log_delete_confirm_message">このイベントを削除してもよろしいですか？\n※ツイート等の投稿データ自体は消えません</string>
