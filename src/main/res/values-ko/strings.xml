@@ -573,7 +573,6 @@
     <string name="menu_remove_rt_mastodon">부스트 취소</string>
     <string name="menu_remove_rt_misskey">리노트 취소</string>
     <string name="menu_remove_rt_bluesky">리포스트 취소</string>
-    <string name="menu_remove_boost">Remove Boost</string>
     <string name="menu_create_favorite_favorite_tw">"즐겨찾기"</string>
     <string name="menu_create_favorite_favorite_mastodon">즐겨찾기</string>
     <string name="menu_create_favorite_favorite_misskey">마음에 들어요</string>

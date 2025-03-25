@@ -577,7 +577,6 @@
     <string name="menu_remove_rt_mastodon">Remove boost</string>
     <string name="menu_remove_rt_misskey">Remove renote</string>
     <string name="menu_remove_rt_bluesky">Remove repost</string>
-    <string name="menu_remove_boost">Remove Boost</string>
     <string name="menu_create_favorite_favorite_tw">Like</string>
     <string name="menu_create_favorite_favorite_mastodon">Favorite</string>
     <string name="menu_create_favorite_favorite_misskey">Like</string>

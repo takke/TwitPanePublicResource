@@ -576,7 +576,6 @@
     <string name="menu_remove_rt_mastodon">取消轉嘟</string>
     <string name="menu_remove_rt_misskey">取消轉發</string>
     <string name="menu_remove_rt_bluesky">取消轉帖</string>
-    <string name="menu_remove_boost">Remove Boost</string>
     <string name="menu_create_favorite_favorite_tw">收藏</string>
     <string name="menu_create_favorite_favorite_mastodon">收藏</string>
     <string name="menu_create_favorite_favorite_misskey">讚好</string>

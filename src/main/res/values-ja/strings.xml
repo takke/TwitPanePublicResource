@@ -582,7 +582,6 @@
     <string name="menu_remove_rt_mastodon">ブーストを解除</string>
     <string name="menu_remove_rt_misskey">リノートを解除</string>
     <string name="menu_remove_rt_bluesky">リポストを解除</string>
-    <string name="menu_remove_boost">ブーストを解除</string>
     <string name="menu_create_favorite_favorite_tw">お気に入りに追加する</string>
     <string name="menu_create_favorite_favorite_mastodon">お気に入り</string>
     <string name="menu_create_favorite_favorite_misskey">いいね</string>
