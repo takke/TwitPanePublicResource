@@ -191,6 +191,12 @@
     <string name="destroyed_favorite_message_like">已取消收藏</string>
     <string name="cannot_favorite_duplicate_status_favorite">可能已添加到您的收藏夾</string>
     <string name="cannot_favorite_duplicate_status_like">可能已收藏</string>
+    <string name="favorite_confirm_message_favorite_mst">加入收藏？</string>
+    <string name="remove_favorite_confirm_message_favorite_mst">從收藏中移除？</string>
+    <string name="cannot_favorite_duplicate_status_favorite_mst">此帖文已加入收藏</string>
+    <string name="menu_remove_favorite_favorite_mst">從收藏中移除</string>
+    <string name="created_favorite_message_favorite_mst">已加入收藏</string>
+    <string name="destroyed_favorite_message_favorite_mst">已從收藏中移除</string>
     <string name="bookmarked_message">已收藏</string>
     <string name="unbookmarked_message">書籤已刪除</string>
     <string name="added_note_to_clip_message">Added note to clip</string>

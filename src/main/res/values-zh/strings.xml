@@ -191,6 +191,12 @@
     <string name="destroyed_favorite_message_like">已取消收藏</string>
     <string name="cannot_favorite_duplicate_status_favorite">可能已添加到您的收藏夹</string>
     <string name="cannot_favorite_duplicate_status_like">可能已收藏</string>
+    <string name="favorite_confirm_message_favorite_mst">添加到收藏？</string>
+    <string name="remove_favorite_confirm_message_favorite_mst">从收藏中移除？</string>
+    <string name="cannot_favorite_duplicate_status_favorite_mst">此帖子已加入收藏</string>
+    <string name="menu_remove_favorite_favorite_mst">从收藏中移除</string>
+    <string name="created_favorite_message_favorite_mst">已添加到收藏</string>
+    <string name="destroyed_favorite_message_favorite_mst">已从收藏中移除</string>
     <string name="bookmarked_message">已收藏</string>
     <string name="unbookmarked_message">书签已删除</string>
     <string name="added_note_to_clip_message">Added note to clip</string>
@@ -1882,5 +1888,6 @@
 
     <string name="notification_channel_bluesky_auth_error">Bluesky 认证错误</string>
     <string name="bluesky_auth_error_notification_message">认证令牌已过期，需要重新认证 (%1$s)</string>
+
 
 </resources>

@@ -191,6 +191,12 @@
     <string name="destroyed_favorite_message_like">마음 취소</string>
     <string name="cannot_favorite_duplicate_status_favorite">그것은 이미 즐겨 찾기에 추가 할 수 있습니다</string>
     <string name="cannot_favorite_duplicate_status_like">그것은 이미 좋아 수 있습니다</string>
+    <string name="favorite_confirm_message_favorite_mst">즐겨찾기에 추가하시겠습니까?</string>
+    <string name="remove_favorite_confirm_message_favorite_mst">즐겨찾기에서 제거하시겠습니까?</string>
+    <string name="cannot_favorite_duplicate_status_favorite_mst">이 게시물은 이미 즐겨찾기에 추가되어 있습니다</string>
+    <string name="menu_remove_favorite_favorite_mst">즐겨찾기에서 제거</string>
+    <string name="created_favorite_message_favorite_mst">즐겨찾기에 추가되었습니다</string>
+    <string name="destroyed_favorite_message_favorite_mst">즐겨찾기에서 제거되었습니다</string>
     <string name="bookmarked_message">북마크했습니다</string>
     <string name="unbookmarked_message">북마크가 제거되었습니다.</string>
     <string name="added_note_to_clip_message">Added note to clip</string>
@@ -1840,5 +1846,6 @@
 
     <string name="notification_channel_bluesky_auth_error">Bluesky 인증 오류</string>
     <string name="bluesky_auth_error_notification_message">인증 토큰이 만료되어 재인증이 필요합니다(%1$s)</string>
+
 
 </resources>

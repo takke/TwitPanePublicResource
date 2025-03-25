@@ -191,6 +191,12 @@
     <string name="destroyed_favorite_message_like">Undone liked</string>
     <string name="cannot_favorite_duplicate_status_favorite">It may already favorited.</string>
     <string name="cannot_favorite_duplicate_status_like">It may already liked.</string>
+    <string name="favorite_confirm_message_favorite_mst">Add to favorites?</string>
+    <string name="remove_favorite_confirm_message_favorite_mst">Remove from favorites?</string>
+    <string name="cannot_favorite_duplicate_status_favorite_mst">This post is already favorited</string>
+    <string name="menu_remove_favorite_favorite_mst">Remove from favorites</string>
+    <string name="created_favorite_message_favorite_mst">Added to favorites</string>
+    <string name="destroyed_favorite_message_favorite_mst">Removed from favorites</string>
     <string name="bookmarked_message">Bookmarked</string>
     <string name="unbookmarked_message">Bookmark removed</string>
     <string name="added_note_to_clip_message">Added note to clip</string>

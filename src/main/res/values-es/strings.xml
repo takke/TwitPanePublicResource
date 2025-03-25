@@ -191,6 +191,12 @@
     <string name="destroyed_favorite_message_like">"Eliminado como me gusta"</string>
     <string name="cannot_favorite_duplicate_status_favorite">Puede que ya agregado a favoritos.</string>
     <string name="cannot_favorite_duplicate_status_like">Puede que ya gustado.</string>
+    <string name="favorite_confirm_message_favorite_mst">¿Añadir a favoritos?</string>
+    <string name="remove_favorite_confirm_message_favorite_mst">¿Eliminar de favoritos?</string>
+    <string name="cannot_favorite_duplicate_status_favorite_mst">Esta publicación ya está en favoritos</string>
+    <string name="menu_remove_favorite_favorite_mst">Eliminar de favoritos</string>
+    <string name="created_favorite_message_favorite_mst">Añadido a favoritos</string>
+    <string name="destroyed_favorite_message_favorite_mst">Eliminado de favoritos</string>
     <string name="bookmarked_message">Marcado</string>
     <string name="unbookmarked_message">marcador eliminado.</string>
     <string name="added_note_to_clip_message">Added note to clip</string>
@@ -1839,5 +1845,6 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
 
     <string name="notification_channel_bluesky_auth_error">Error de autenticación de Bluesky</string>
     <string name="bluesky_auth_error_notification_message">El token de autenticación ha caducado y se requiere una reautenticación (%1$s)</string>
+
 
 </resources>
