@@ -275,13 +275,13 @@
 
     <!-- Retweet/Boost Menu -->
     <string name="show_retweet_tw">リツイートを表示</string>
-    <string name="show_retweet_mst">ブーストを表示</string>
-    <string name="show_retweet_mky">Renoteを表示</string>
-    <string name="show_retweet_bsk">リポストを表示</string>
+    <string name="show_retweet_mastodon">ブーストを表示</string>
+    <string name="show_retweet_misskey">リノートを表示</string>
+    <string name="show_retweet_bluesky">リポストを表示</string>
     <string name="hide_retweet_tw">リツイートを非表示</string>
-    <string name="hide_retweet_mst">ブーストを非表示</string>
-    <string name="hide_retweet_mky">Renoteを非表示</string>
-    <string name="hide_retweet_bsk">リポストを非表示</string>
+    <string name="hide_retweet_mastodon">ブーストを非表示</string>
+    <string name="hide_retweet_misskey">リノートを非表示</string>
+    <string name="hide_retweet_bluesky">リポストを非表示</string>
 
     <string name="hide_retweet_done">\@%1$sさんのリツイートは今後タイムラインに表示されません</string>
     <string name="show_retweet_done">\@%1$sさんのリツイートが今後タイムラインに表示されます</string>
@@ -747,7 +747,7 @@
     <string name="delete_emoji_reaction">解除</string>
     <string name="put_emoji_reaction_confirm">絵文字リアクションしますか？</string>
     <string name="put_emoji_reaction">追加</string>
-    <string name="menu_translate">ツイートを翻訳</string>
+    <string name="menu_translate">翻訳</string>
     <string name="set_startup_pane">起動タブに設定する</string>
 
     <string name="show_polls_result">アンケートの途中経過を表示する</string>

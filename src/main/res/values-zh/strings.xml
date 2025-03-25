@@ -275,13 +275,13 @@
 
     <!-- Retweet/Boost Menu -->
     <string name="show_retweet_tw">显示转推</string>
-    <string name="show_retweet_mst">显示转发</string>
-    <string name="show_retweet_mky">显示转发</string>
-    <string name="show_retweet_bsk">显示转发</string>
+    <string name="show_retweet_mastodon">显示转嘟</string>
+    <string name="show_retweet_misskey">显示转发</string>
+    <string name="show_retweet_bluesky">显示转帖</string>
     <string name="hide_retweet_tw">隐藏转推</string>
-    <string name="hide_retweet_mst">隐藏转发</string>
-    <string name="hide_retweet_mky">隐藏转发</string>
-    <string name="hide_retweet_bsk">隐藏转发</string>
+    <string name="hide_retweet_mastodon">隐藏转嘟</string>
+    <string name="hide_retweet_misskey">隐藏转发</string>
+    <string name="hide_retweet_bluesky">隐藏转帖</string>
 
     <string name="hide_retweet_done">自\@%1$s的转推将不再出现在你的时间轴上</string>
     <string name="show_retweet_done">自\@%1$s的转推将出现在你的时间轴上</string>

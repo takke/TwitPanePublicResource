@@ -275,13 +275,13 @@
 
     <!-- Retweet/Boost Menu -->
     <string name="show_retweet_tw">리트윗 표시</string>
-    <string name="show_retweet_mst">부스트 표시</string>
-    <string name="show_retweet_mky">리노트 표시</string>
-    <string name="show_retweet_bsk">리포스트 표시</string>
+    <string name="show_retweet_mastodon">부스트 표시</string>
+    <string name="show_retweet_misskey">리노트 표시</string>
+    <string name="show_retweet_bluesky">리포스트 표시</string>
     <string name="hide_retweet_tw">리트윗 숨기기</string>
-    <string name="hide_retweet_mst">부스트 숨기기</string>
-    <string name="hide_retweet_mky">리노트 숨기기</string>
-    <string name="hide_retweet_bsk">리포스트 숨기기</string>
+    <string name="hide_retweet_mastodon">부스트 숨기기</string>
+    <string name="hide_retweet_misskey">리노트 숨기기</string>
+    <string name="hide_retweet_bluesky">리포스트 숨기기</string>
 
     <string name="hide_retweet_done">"\@%1$s로부터의 리트윗이 더 이상 당신의 타임라인에 표시되지 않습니다"</string>
     <string name="show_retweet_done">"\@%1$s로부터의 리트윗이 당신의 타임라인에 나타납니다"</string>
@@ -594,7 +594,7 @@
     <string name="toot_not_found_on_instance">Toot not found on %1$s</string>
     <string name="menu_search_conversation">대화 보기</string>
     <string name="menu_search_around_posts_tw">전후 트윗 검색</string>
-    <string name="menu_search_around_posts_mastodon">전후 툿 검색</string>
+    <string name="menu_search_around_posts_mastodon">전후 투트 검색</string>
     <string name="menu_search_around_posts_misskey">전후 노트 검색</string>
     <string name="menu_search_around_posts_bluesky">전후 포스트 검색</string>
     <string name="found_new_reply_tweets">발견 새 트윗(%1$s)</string>

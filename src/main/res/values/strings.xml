@@ -275,13 +275,13 @@
 
     <!-- Retweet/Boost Menu -->
     <string name="show_retweet_tw">Show retweets</string>
-    <string name="show_retweet_mst">Show boosts</string>
-    <string name="show_retweet_mky">Show renotes</string>
-    <string name="show_retweet_bsk">Show reposts</string>
+    <string name="show_retweet_mastodon">Show boosts</string>
+    <string name="show_retweet_misskey">Show renotes</string>
+    <string name="show_retweet_bluesky">Show reposts</string>
     <string name="hide_retweet_tw">Hide retweets</string>
-    <string name="hide_retweet_mst">Hide boosts</string>
-    <string name="hide_retweet_mky">Hide renotes</string>
-    <string name="hide_retweet_bsk">Hide reposts</string>
+    <string name="hide_retweet_mastodon">Hide boosts</string>
+    <string name="hide_retweet_misskey">Hide renotes</string>
+    <string name="hide_retweet_bluesky">Hide reposts</string>
 
     <string name="hide_retweet_done">Retweets from \@%1$s will no longer appear in your timeline</string>
     <string name="show_retweet_done">Retweets from \@%1$s will appear in your timeline</string>

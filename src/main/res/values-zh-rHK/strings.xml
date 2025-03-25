@@ -275,13 +275,13 @@
 
     <!-- Retweet/Boost Menu -->
     <string name="show_retweet_tw">顯示轉推</string>
-    <string name="show_retweet_mst">顯示轉發</string>
-    <string name="show_retweet_mky">顯示轉發</string>
-    <string name="show_retweet_bsk">顯示轉發</string>
+    <string name="show_retweet_mastodon">顯示轉嘟</string>
+    <string name="show_retweet_misskey">顯示轉發</string>
+    <string name="show_retweet_bluesky">顯示轉帖</string>
     <string name="hide_retweet_tw">隱藏轉推</string>
-    <string name="hide_retweet_mst">隱藏轉發</string>
-    <string name="hide_retweet_mky">隱藏轉發</string>
-    <string name="hide_retweet_bsk">隱藏轉發</string>
+    <string name="hide_retweet_mastodon">隱藏轉嘟</string>
+    <string name="hide_retweet_misskey">隱藏轉發</string>
+    <string name="hide_retweet_bluesky">隱藏轉帖</string>
 
     <string name="hide_retweet_done">自\@%1$s的轉推將不再出現在你的時間軸上</string>
     <string name="show_retweet_done">自\@%1$s的轉推將出現在你的時間軸上</string>
@@ -596,9 +596,9 @@
     <string name="toot_not_found_on_instance">Toot not found on %1$s</string>
     <string name="menu_search_conversation">搜索會話</string>
     <string name="menu_search_around_posts_tw">搜索相關的推文</string>
-    <string name="menu_search_around_posts_mastodon">搜尋帖文</string>
-    <string name="menu_search_around_posts_misskey">搜尋筆記</string>
-    <string name="menu_search_around_posts_bluesky">搜尋帖文</string>
+    <string name="menu_search_around_posts_mastodon">搜索相關的嘟文</string>
+    <string name="menu_search_around_posts_misskey">搜索相關的筆記</string>
+    <string name="menu_search_around_posts_bluesky">搜索相關的帖子</string>
     <string name="found_new_reply_tweets">發現新的推文(%1$s)</string>
     <string name="menu_show_rt_users">轉推用户</string>
     <string name="menu_show_rt_users_mastodon">顯示轉嘟的用戶</string>

@@ -275,13 +275,13 @@
 
     <!-- Retweet/Boost Menu -->
     <string name="show_retweet_tw">Mostrar retweets</string>
-    <string name="show_retweet_mst">Mostrar boosts</string>
-    <string name="show_retweet_mky">Mostrar renotes</string>
-    <string name="show_retweet_bsk">Mostrar reposts</string>
+    <string name="show_retweet_mastodon">Mostrar boots</string>
+    <string name="show_retweet_misskey">Mostrar renotes</string>
+    <string name="show_retweet_bluesky">Mostrar reposts</string>
     <string name="hide_retweet_tw">Ocultar retweets</string>
-    <string name="hide_retweet_mst">Ocultar boosts</string>
-    <string name="hide_retweet_mky">Ocultar renotes</string>
-    <string name="hide_retweet_bsk">Ocultar reposts</string>
+    <string name="hide_retweet_mastodon">Ocultar boots</string>
+    <string name="hide_retweet_misskey">Ocultar renotes</string>
+    <string name="hide_retweet_bluesky">Ocultar reposts</string>
 
     <string name="hide_retweet_done">"Los retweets de \@%1$s ya no aparecerán en tu cronología"</string>
     <string name="show_retweet_done">"Los retweets de \@%1$s aparecerán en tu cronología"</string>
