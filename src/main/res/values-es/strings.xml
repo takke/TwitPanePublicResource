@@ -657,9 +657,12 @@
     <string name="menu_user_posts_only">User Posts Only</string>
     <string name="menu_user_posts_only_posts">User Posts Only</string>
     <string name="menu_search_with">Search with \"%1$s\"</string>
-    <string name="menu_user_conversation_with_me_search">Busca conversación conmigo</string>
-    <string name="menu_show_image_timeline">"Mostrar la cronología de la imagen"</string>
-    <string name="menu_show_media_timeline">"Mostrar la cronología de los medios de comunicación"</string>
+    <string name="menu_user_conversation_with_me_search">"Buscar conversación conmigo"</string>
+    <string name="menu_show_image_timeline">"Mostrar la cronología de las imágenes"</string>
+    <string name="menu_show_media_timeline_tw">"Mostrar la cronología de los medios de comunicación"</string>
+    <string name="menu_show_media_timeline_mastodon">"Mostrar la cronología de los medios de comunicación"</string>
+    <string name="menu_show_media_timeline_misskey">"Mostrar la cronología de los medios de comunicación"</string>
+    <string name="menu_show_media_timeline_bluesky">"Mostrar la cronología de los medios de comunicación"</string>
     <string name="menu_show_video_timeline">"Mostrar la cronología de los vídeos"</string>
     <string name="menu_user_show_list">"Mostrar listas"</string>
     <string name="menu_user_show_favorite_favorite">"Mostrar los favoritos"</string>
