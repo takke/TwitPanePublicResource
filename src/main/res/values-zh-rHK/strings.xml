@@ -181,9 +181,9 @@
     <string name="remove_boost_confirm_message">Remove boost?</string>
     <string name="remove_retweeted_message">已移除</string>
     <string name="removed_boost_message">Removed</string>
-    <string name="favorite_confirm_message_favorite">收藏此推文？</string>
+    <string name="favorite_confirm_message_favorite_tw">收藏此推文？</string>
     <string name="created_favorite_message_favorite">已收藏</string>
-    <string name="remove_favorite_confirm_message_favorite">刪除收藏？</string>
+    <string name="remove_favorite_confirm_message_favorite_tw">刪除收藏？</string>
     <string name="remove_favorite_confirm_message_like">取消收藏？</string>
     <string name="destroyed_favorite_message_favorite">已取消收藏</string>
     <string name="favorite_confirm_message_like">收藏此推文？</string>

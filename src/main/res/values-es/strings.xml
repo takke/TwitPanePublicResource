@@ -181,9 +181,9 @@
     <string name="remove_boost_confirm_message">Remove boost?</string>
     <string name="remove_retweeted_message">"Eliminado"</string>
     <string name="removed_boost_message">Removed</string>
-    <string name="favorite_confirm_message_favorite">"¿Marcar como favorito este tweet?"</string>
+    <string name="favorite_confirm_message_favorite_tw">"¿Marcar como favorito este tweet?"</string>
     <string name="created_favorite_message_favorite">"Marcado como favorito"</string>
-    <string name="remove_favorite_confirm_message_favorite">"¿Eliminar favorito?"</string>
+    <string name="remove_favorite_confirm_message_favorite_tw">"¿Eliminar favorito?"</string>
     <string name="remove_favorite_confirm_message_like">"Deshecho como?"</string>
     <string name="destroyed_favorite_message_favorite">"Eliminado como favorito"</string>
     <string name="favorite_confirm_message_like">¿Quieres recibir este tweet?</string>

@@ -182,8 +182,10 @@
     <string name="remove_retweeted_message">リツイートを解除しました</string>
     <string name="removed_boost_message">ブーストを解除しました</string>
     <string name="favorite_confirm_message_favorite">このツイートをお気に入りに追加しますか？</string>
+    <string name="favorite_confirm_message_favorite_tw">このツイートをお気に入りに追加しますか？</string>
     <string name="created_favorite_message_favorite">お気に入りに追加しました</string>
     <string name="remove_favorite_confirm_message_favorite">お気に入りから削除しますか？</string>
+    <string name="remove_favorite_confirm_message_favorite_tw">お気に入りから削除しますか？</string>
     <string name="remove_favorite_confirm_message_like">いいねを取り消しますか？</string>
     <string name="destroyed_favorite_message_favorite">お気に入りから削除しました</string>
     <string name="favorite_confirm_message_like">このツイートをいいねしますか？</string>

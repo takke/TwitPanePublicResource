@@ -182,8 +182,10 @@
     <string name="remove_retweeted_message">Removed</string>
     <string name="removed_boost_message">Removed</string>
     <string name="favorite_confirm_message_favorite">Favorite this tweet?</string>
+    <string name="favorite_confirm_message_favorite_tw">Favorite this tweet?</string>
     <string name="created_favorite_message_favorite">Favorited</string>
     <string name="remove_favorite_confirm_message_favorite">Remove favorite?</string>
+    <string name="remove_favorite_confirm_message_favorite_tw">Remove favorite?</string>
     <string name="remove_favorite_confirm_message_like">Undone like?</string>
     <string name="destroyed_favorite_message_favorite">Unfavorited</string>
     <string name="favorite_confirm_message_like">Like this tweet?</string>
