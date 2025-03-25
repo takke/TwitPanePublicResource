@@ -277,6 +277,9 @@
     <string name="hide_retweet">リツイートを非表示にする</string>
     <string name="hide_retweet_done">\@%1$sさんのリツイートは今後タイムラインに表示されません</string>
     <string name="show_retweet_done">\@%1$sさんのリツイートが今後タイムラインに表示されます</string>
+    <string name="show_retweet_done_mastodon">%1$sのブーストを表示</string>
+    <string name="hide_retweet_done_mastodon">%1$sのブーストを非表示</string>
+
     <string name="turn_on_retweet_confirm_title">リツイートを表示する</string>
     <string name="turn_on_retweet_confirm_message">%1$sさんのリツイートを表示しますか？</string>
     <string name="turn_off_retweet_confirm_title">リツイートを非表示にする</string>
@@ -1707,6 +1710,11 @@
     <string name="new_toots">新着投稿</string>
     <string name="new_notes">新着ノート</string>
     <string name="new_posts">新着ポスト</string>
+    <!-- Notification -->
+    <string name="new_tweets_notification_title_tw">新着ツイート</string>
+    <string name="new_tweets_notification_title_mst">新着投稿</string>
+    <string name="new_tweets_notification_title_mky">新着ノート</string>
+    <string name="new_tweets_notification_title_bsk">新着投稿</string>
 
     <string name="event_log_message_1_post_bluesky">1件の投稿</string>
     <string name="event_log_message_1_post_mastodon">1件の投稿</string>

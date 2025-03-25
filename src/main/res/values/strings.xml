@@ -277,6 +277,9 @@
     <string name="hide_retweet">Turn off Retweets</string>
     <string name="hide_retweet_done">Retweets from \@%1$s will no longer appear in your timeline</string>
     <string name="show_retweet_done">Retweets from \@%1$s will appear in your timeline</string>
+    <string name="show_retweet_done_mastodon">Show boosts from %1$s</string>
+    <string name="hide_retweet_done_mastodon">Hide boosts from %1$s</string>
+
     <string name="turn_on_retweet_confirm_title">Turn on Retweets</string>
     <string name="turn_on_retweet_confirm_message">Turn on Retweets from %1$s ?</string>
     <string name="turn_off_retweet_confirm_title">Turn off Retweets</string>
@@ -1703,6 +1706,11 @@ Reauthenticate on the next screen.</string>
     <string name="new_toots">New toots</string>
     <string name="new_notes">New notes</string>
     <string name="new_posts">New posts</string>
+    <!-- Notification -->
+    <string name="new_tweets_notification_title_tw">New tweets</string>
+    <string name="new_tweets_notification_title_mst">New posts</string>
+    <string name="new_tweets_notification_title_mky">New notes</string>
+    <string name="new_tweets_notification_title_bsk">New posts</string>
 
     <string name="event_log_message_1_post_bluesky" translatable="false">1 post</string>
     <string name="event_log_message_1_post_mastodon" translatable="false">1 post</string>

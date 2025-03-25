@@ -277,6 +277,9 @@
     <string name="hide_retweet">关闭转推</string>
     <string name="hide_retweet_done">自\@%1$s的转推将不再出现在你的时间轴上</string>
     <string name="show_retweet_done">自\@%1$s的转推将出现在你的时间轴上</string>
+    <string name="show_retweet_done_mastodon">显示%1$s的转发</string>
+    <string name="hide_retweet_done_mastodon">隐藏%1$s的转发</string>
+
     <string name="turn_on_retweet_confirm_title">打开转推</string>
     <string name="turn_on_retweet_confirm_message">打开来自%1$s的转推？</string>
     <string name="turn_off_retweet_confirm_title">关闭转推</string>
@@ -1671,6 +1674,12 @@
     <string name="new_toots">New toots</string>
     <string name="new_notes">New notes</string>
     <string name="new_posts">New posts</string>
+    <!-- Notification -->
+    <string name="new_tweets_notification_title_tw">新推文</string>
+    <string name="new_tweets_notification_title_mst">新帖子</string>
+    <string name="new_tweets_notification_title_mky">新笔记</string>
+    <string name="new_tweets_notification_title_bsk">新帖子</string>
+
     <string name="event_log_message_no_new_posts_tw">没有新推文。</string>
     <string name="event_log_message_new_posts_failed_tw">无法获取推文。</string>
 
