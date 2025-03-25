@@ -362,10 +362,10 @@
     <string name="search_around_toots_not_found_message">"Not found in @%1$s's timeline."</string>
 
     <!-- 固定ツイート -->
-    <string name="pinned_tweet">메인 트윗</string>
-    <string name="pinned_tweet_mastodon">고정된 게시물</string>
-    <string name="pinned_tweet_misskey">고정된 노트</string>
-    <string name="pinned_tweet_bluesky">고정된 게시물</string>
+    <string name="pinned_post_tw">메인 트윗</string>
+    <string name="pinned_post_mastodon">고정된 게시물</string>
+    <string name="pinned_post_misskey">고정된 노트</string>
+    <string name="pinned_post_bluesky">고정된 게시물</string>
     <string name="config_show_pinned_tweet">고정된 트윗 표시</string>
     <string name="config_show_pinned_tweet_summary"></string>
     <string name="no_pinned_toots">There are no pinned toots.</string>

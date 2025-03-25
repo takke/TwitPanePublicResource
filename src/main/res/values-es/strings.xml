@@ -362,10 +362,10 @@
     <string name="search_around_toots_not_found_message">"Not found in @%1$s's timeline."</string>
 
     <!-- 固定ツイート -->
-    <string name="pinned_tweet">Tweet fijado</string>
-    <string name="pinned_tweet_mastodon">Publicación fijada</string>
-    <string name="pinned_tweet_misskey">Nota fijada</string>
-    <string name="pinned_tweet_bluesky">Publicación fijada</string>
+    <string name="pinned_post_tw">Tweet fijado</string>
+    <string name="pinned_post_mastodon">Publicación fijada</string>
+    <string name="pinned_post_misskey">Nota fijada</string>
+    <string name="pinned_post_bluesky">Publicación fijada</string>
     <string name="config_show_pinned_tweet">Mostrar tweet anclado</string>
     <string name="config_show_pinned_tweet_summary"></string>
     <string name="no_pinned_toots">There are no pinned toots.</string>

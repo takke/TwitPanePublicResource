@@ -363,10 +363,10 @@
     <string name="search_around_toots_not_found_message">"Not found in @%1$s's timeline."</string>
 
     <!-- 固定ツイート -->
-    <string name="pinned_tweet">置頂推文</string>
-    <string name="pinned_tweet_mastodon">置頂貼文</string>
-    <string name="pinned_tweet_misskey">置頂筆記</string>
-    <string name="pinned_tweet_bluesky">置頂貼文</string>
+    <string name="pinned_post_tw">置頂推文</string>
+    <string name="pinned_post_mastodon">置頂貼文</string>
+    <string name="pinned_post_misskey">置頂筆記</string>
+    <string name="pinned_post_bluesky">置頂貼文</string>
     <string name="config_show_pinned_tweet">顯示置頂推文</string>
     <string name="config_show_pinned_tweet_summary">"[預設:開]"</string>
     <string name="no_pinned_toots">There are no pinned toots.</string>
