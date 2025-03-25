@@ -662,7 +662,10 @@
     <string name="menu_user_posts_only_posts">User Posts Only</string>
     <string name="menu_search_with">Search with \"%1$s\"</string>
     <string name="menu_user_conversation_with_me_search">Search conversation with me</string>
-    <string name="menu_show_image_timeline">Show image timeline</string>
+    <string name="menu_show_image_timeline_tw">Show image timeline</string>
+    <string name="menu_show_image_timeline_mastodon">Show image timeline</string>
+    <string name="menu_show_image_timeline_misskey">Show image timeline</string>
+    <string name="menu_show_image_timeline_bluesky">Show image timeline</string>
     <string name="menu_show_media_timeline_tw">Show media timeline</string>
     <string name="menu_show_media_timeline_mastodon">Show media timeline</string>
     <string name="menu_show_media_timeline_misskey">Show media timeline</string>

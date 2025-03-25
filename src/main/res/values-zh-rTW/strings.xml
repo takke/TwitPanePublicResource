@@ -660,6 +660,10 @@
     <string name="menu_user_posts_only_posts">User Posts Only</string>
     <string name="menu_search_with">Search with \"%1$s\"</string>
     <string name="menu_user_conversation_with_me_search">搜尋與我的對話</string>
+    <string name="menu_show_image_timeline_tw">顯示圖像時間軸</string>
+    <string name="menu_show_image_timeline_mastodon">顯示圖像時間軸</string>
+    <string name="menu_show_image_timeline_misskey">顯示圖像時間軸</string>
+    <string name="menu_show_image_timeline_bluesky">顯示圖像時間軸</string>
     <string name="menu_show_image_timeline">顯示圖像時間軸</string>
     <string name="menu_show_media_timeline_tw">顯示媒體時間軸</string>
     <string name="menu_show_media_timeline_mastodon">顯示媒體時間軸</string>
@@ -1922,5 +1926,6 @@
 
     <string name="notification_channel_bluesky_auth_error">Bluesky 認證錯誤</string>
     <string name="bluesky_auth_error_notification_message">認證權杖已過期，需要重新認證 (%1$s)</string>
+
 
 </resources>

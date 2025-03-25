@@ -667,7 +667,10 @@
     <string name="menu_user_posts_only_posts">ポストのみ</string>
     <string name="menu_search_with">\"%1$s\" で検索する</string>
     <string name="menu_user_conversation_with_me_search">自分とのやり取りを検索する</string>
-    <string name="menu_show_image_timeline">画像付きのツイートを表示</string>
+    <string name="menu_show_image_timeline_tw">画像付きのツイートを表示</string>
+    <string name="menu_show_image_timeline_mastodon">画像付きの投稿を表示</string>
+    <string name="menu_show_image_timeline_misskey">画像付きのノートを表示</string>
+    <string name="menu_show_image_timeline_bluesky">画像付きの投稿を表示</string>
     <string name="menu_show_media_timeline_tw">メディア付きのツイートを表示</string>
     <string name="menu_show_media_timeline_mastodon">メディア付きの投稿を表示</string>
     <string name="menu_show_media_timeline_misskey">メディア付きのノートを表示</string>

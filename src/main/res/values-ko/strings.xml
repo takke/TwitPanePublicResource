@@ -658,7 +658,10 @@
     <string name="menu_user_posts_only_posts">User Posts Only</string>
     <string name="menu_search_with">Search with \"%1$s\"</string>
     <string name="menu_user_conversation_with_me_search">나와의 대화 검색</string>
-    <string name="menu_show_image_timeline">"이미지 타임라인 보이기"</string>
+    <string name="menu_show_image_timeline_tw">"이미지 타임라인 보이기"</string>
+    <string name="menu_show_image_timeline_mastodon">"이미지 타임라인 보이기"</string>
+    <string name="menu_show_image_timeline_misskey">"이미지 타임라인 보이기"</string>
+    <string name="menu_show_image_timeline_bluesky">"이미지 타임라인 보이기"</string>
     <string name="menu_show_media_timeline_tw">미디어 타임라인 보이기</string>
     <string name="menu_show_media_timeline_mastodon">미디어 타임라인 보이기</string>
     <string name="menu_show_media_timeline_misskey">미디어 타임라인 보이기</string>
