@@ -195,7 +195,10 @@
     <string name="unbookmarked_message">marcador eliminado.</string>
     <string name="added_note_to_clip_message">Added note to clip</string>
     <string name="removed_note_from_clip_message">Removed note from clip</string>
-    <string name="delete_confirm_message">"¿Eliminar este tweet?"</string>
+    <string name="delete_confirm_message_tw">¿Está seguro que desea eliminar este tweet?</string>
+    <string name="delete_confirm_message_bluesky">¿Está seguro que desea eliminar esta publicación?</string>
+    <string name="delete_confirm_message_mastodon">¿Está seguro que desea eliminar esta publicación?</string>
+    <string name="delete_confirm_message_misskey">¿Está seguro que desea eliminar esta nota?</string>
     <string name="delete_dm_confirm_message">"¿Eliminar este mensaje?"</string>
     <string name="deleted_message">"Eliminado"</string>
     <string name="already_deleted_message">ya eliminado</string>
@@ -637,9 +640,15 @@
     <string name="menu_add_list">"Añadir a la lista ..."</string>
 
     <string name="menu_tweet_config">"Ajustes"</string>
-    <string name="menu_reply_to_other_tweet">Enlace a otros Tweet</string>
-    <string name="menu_cancel_reply_to_other_tweet">Cancelar enlace a otro tuit</string>
-    <string name="select_tweet_to_link_to">Elija tweet para enlazar a</string>
+    <string name="menu_reply_to_other_post_tw">Enlace a otros Tweet</string>
+    <string name="menu_reply_to_other_post_misskey">Enlazar a otra nota</string>
+    <string name="menu_reply_to_other_post_bluesky">Enlazar a otra publicación</string>
+    <string name="menu_reply_to_other_post_mastodon">Enlazar a otra publicación</string>
+    <string name="menu_cancel_reply_to_other_post_tw">Cancelar enlace a otro tweet</string>
+    <string name="menu_cancel_reply_to_other_post_misskey">Cancelar enlace a otra nota</string>
+    <string name="menu_cancel_reply_to_other_post_bluesky">Cancelar enlace a otra publicación</string>
+    <string name="menu_cancel_reply_to_other_post_mastodon">Cancelar enlace a otra publicación</string>
+    <string name="select_tweet_to_link_to">Seleccionar tweet para enlazar</string>
     <string name="menu_hide_reply_area">Ocultar Área Responder</string>
     <string name="menu_show_reply_area">Mostrar zona Responder</string>
     <string name="menu_hide_attached_image_area">"Ocultar Imagen adjunta"</string>

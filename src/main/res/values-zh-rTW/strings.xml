@@ -195,7 +195,10 @@
     <string name="unbookmarked_message">書籤已刪除</string>
     <string name="added_note_to_clip_message">Added note to clip</string>
     <string name="removed_note_from_clip_message">Removed note from clip</string>
-    <string name="delete_confirm_message">刪除此推文？</string>
+    <string name="delete_confirm_message_tw">確定要刪除這個推文嗎？</string>
+    <string name="delete_confirm_message_bluesky">確定要刪除這個貼文嗎？</string>
+    <string name="delete_confirm_message_mastodon">確定要刪除這個貼文嗎？</string>
+    <string name="delete_confirm_message_misskey">確定要刪除這個筆記嗎？</string>
     <string name="delete_dm_confirm_message">刪除此訊息？</string>
     <string name="deleted_message">已刪除</string>
     <string name="already_deleted_message">已被刪除</string>
@@ -639,8 +642,14 @@
     <string name="menu_add_list">新增到列表...</string>
 
     <string name="menu_tweet_config">設定</string>
-    <string name="menu_reply_to_other_tweet">連結到其他推文</string>
-    <string name="menu_cancel_reply_to_other_tweet">取消與其他推文的連結</string>
+    <string name="menu_reply_to_other_post_tw">連結到其他推文</string>
+    <string name="menu_reply_to_other_post_misskey">連結到其他筆記</string>
+    <string name="menu_reply_to_other_post_bluesky">連結到其他貼文</string>
+    <string name="menu_reply_to_other_post_mastodon">連結到其他貼文</string>
+    <string name="menu_cancel_reply_to_other_post_tw">取消與其他推文的連結</string>
+    <string name="menu_cancel_reply_to_other_post_misskey">取消連結到其他筆記</string>
+    <string name="menu_cancel_reply_to_other_post_bluesky">取消連結到其他貼文</string>
+    <string name="menu_cancel_reply_to_other_post_mastodon">取消連結到其他貼文</string>
     <string name="select_tweet_to_link_to">選擇要連結的推文</string>
     <string name="menu_hide_reply_area">隱藏回覆區</string>
     <string name="menu_show_reply_area">顯示回覆區</string>
@@ -1869,6 +1878,6 @@
     <string name="bsky_quote_detached">已斷開連接</string>
 
     <string name="notification_channel_bluesky_auth_error">Bluesky 認證錯誤</string>
-    <string name="bluesky_auth_error_notification_message">認證令牌已過期，需要重新認證 (%1$s)</string>
+    <string name="bluesky_auth_error_notification_message">認證權杖已過期，需要重新認證 (%1$s)</string>
 
 </resources>

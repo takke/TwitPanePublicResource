@@ -195,7 +195,10 @@
     <string name="unbookmarked_message">书签已删除</string>
     <string name="added_note_to_clip_message">Added note to clip</string>
     <string name="removed_note_from_clip_message">Removed note from clip</string>
-    <string name="delete_confirm_message">删除此推文？</string>
+    <string name="delete_confirm_message_tw">确定要删除这个推文吗？</string>
+    <string name="delete_confirm_message_bluesky">确定要删除这个帖子吗？</string>
+    <string name="delete_confirm_message_mastodon">确定要删除这个帖子吗？</string>
+    <string name="delete_confirm_message_misskey">确定要删除这个笔记吗？</string>
     <string name="delete_dm_confirm_message">删除此消息？</string>
     <string name="deleted_message">已删除</string>
     <string name="already_deleted_message">已被删除</string>
@@ -639,8 +642,14 @@
     <string name="menu_add_list">添加到列表...</string>
 
     <string name="menu_tweet_config">设置</string>
-    <string name="menu_reply_to_other_tweet">链接到其他推文</string>
-    <string name="menu_cancel_reply_to_other_tweet">取消与其他推文的链接</string>
+    <string name="menu_reply_to_other_post_tw">链接到其他推文</string>
+    <string name="menu_reply_to_other_post_misskey">链接到其他笔记</string>
+    <string name="menu_reply_to_other_post_bluesky">链接到其他帖子</string>
+    <string name="menu_reply_to_other_post_mastodon">链接到其他帖子</string>
+    <string name="menu_cancel_reply_to_other_post_tw">取消与其他推文的链接</string>
+    <string name="menu_cancel_reply_to_other_post_misskey">取消链接到其他笔记</string>
+    <string name="menu_cancel_reply_to_other_post_bluesky">取消链接到其他帖子</string>
+    <string name="menu_cancel_reply_to_other_post_mastodon">取消链接到其他帖子</string>
     <string name="select_tweet_to_link_to">选择要链接的推文</string>
     <string name="menu_hide_reply_area">隐藏回复区</string>
     <string name="menu_show_reply_area">显示回复区</string>
