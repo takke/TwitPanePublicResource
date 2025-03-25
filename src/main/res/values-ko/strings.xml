@@ -638,12 +638,9 @@
     <string name="select_jump_destination_tab">점프 대상 탭 설정</string>
     <string name="tab_jump_introduction">-메인 화면에서이 버튼을 눌러 점프 대상 탭을 설정하십시오. \n- 버튼을 누르고 있으면 점프 목적지를 변경합니다.</string>
 
-    <string name="menu_share_tweet">"트윗 공유"</string>
-    <string name="menu_share_toot">Share Toot</string>
-    <string name="menu_share_note">Share Note</string>
-    <string name="menu_share_post">Share Post</string>
+    <string name="menu_share_post_tw">"트윗 공유"</string>
     <string name="menu_share_post_mastodon">게시물 공유</string>
-    <string name="menu_share_note_misskey">노트 공유</string>
+    <string name="menu_share_post_misskey">노트 공유</string>
     <string name="menu_share_post_bluesky">게시물 공유</string>
     <string name="menu_act_from_main_account">Using with main account</string>
     <string name="cannot_resolve_target_toot">Could not find the toot to be handled from the main account instance</string>

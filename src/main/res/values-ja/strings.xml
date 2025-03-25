@@ -645,12 +645,9 @@
     <string name="select_jump_destination_tab">ジャンプ先タブの設定</string>
     <string name="tab_jump_introduction">・ジャンプ先のタブはメイン画面でこのボタンをタップして設定してください。\n・ボタンを長押しするとジャンプ先を変更できます。</string>
 
-    <string name="menu_share_tweet">ツイートを共有する</string>
-    <string name="menu_share_toot">投稿を共有する</string>
-    <string name="menu_share_note">ノートを共有する</string>
-    <string name="menu_share_post">投稿を共有する</string>
+    <string name="menu_share_post_tw">ツイートを共有する</string>
     <string name="menu_share_post_mastodon">投稿を共有</string>
-    <string name="menu_share_note_misskey">ノートを共有</string>
+    <string name="menu_share_post_misskey">ノートを共有</string>
     <string name="menu_share_post_bluesky">投稿を共有</string>
     <string name="menu_act_from_main_account">メインアカウントで操作する</string>
     <string name="cannot_resolve_target_toot">メインアカウントのインスタンスから操作対象の投稿を見つけられませんでした</string>

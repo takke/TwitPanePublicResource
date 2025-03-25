@@ -640,12 +640,9 @@
     <string name="select_jump_destination_tab">跳轉到目標標籤設定</string>
     <string name="tab_jump_introduction">-在主螢幕上點這個按鈕來設定要跳躍到的標籤。 \n-按住按鈕可更改跳轉目的地。</string>
 
-    <string name="menu_share_tweet">分享推文</string>
-    <string name="menu_share_toot">Share Toot</string>
-    <string name="menu_share_note">Share Note</string>
-    <string name="menu_share_post">Share Post</string>
+    <string name="menu_share_post_tw">分享推文</string>
     <string name="menu_share_post_mastodon">分享嘟文</string>
-    <string name="menu_share_note_misskey">分享筆記</string>
+    <string name="menu_share_post_misskey">分享筆記</string>
     <string name="menu_share_post_bluesky">分享帖子</string>
     <string name="menu_act_from_main_account">Using with main account</string>
     <string name="cannot_resolve_target_toot">Could not find the toot to be handled from the main account instance</string>

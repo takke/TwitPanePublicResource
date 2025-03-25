@@ -642,12 +642,9 @@
     <string name="select_jump_destination_tab">Jump destination tab settings</string>
     <string name="tab_jump_introduction">- Tap this button on the main screen to set the jump destination tab. \n- Press and hold the button to change the jump destination.</string>
 
-    <string name="menu_share_tweet">Share tweet</string>
-    <string name="menu_share_toot">Share Toot</string>
-    <string name="menu_share_note">Share Note</string>
-    <string name="menu_share_post">Share Post</string>
+    <string name="menu_share_post_tw">Share tweet</string>
     <string name="menu_share_post_mastodon">Share post</string>
-    <string name="menu_share_note_misskey">Share note</string>
+    <string name="menu_share_post_misskey">Share note</string>
     <string name="menu_share_post_bluesky">Share post</string>
     <string name="menu_act_from_main_account">Using with main account</string>
     <string name="cannot_resolve_target_toot">Could not find the toot to be handled from the main account instance</string>
