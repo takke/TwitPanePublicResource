@@ -1687,6 +1687,12 @@
     <string name="event_log_message_new_tweets_failed">新着ツイートの取得に失敗しました。</string>
     <string name="event_log_message_1_tweet" translatable="false">1件</string>
     <string name="event_log_message_n_tweets" translatable="false">%1$d件</string>
+    <string name="event_log_message_new_tweets_failed_mastodon">新しい投稿の読み込みに失敗しました</string>
+    <string name="event_log_message_new_tweets_mastodon">新しい投稿を読み込みました</string>
+    <string name="event_log_message_no_new_tweets_mastodon">新しい投稿はありませんでした</string>
+    <string name="event_log_message_1_tweet_mastodon">1件の投稿</string>
+    <string name="event_log_message_n_tweets_mastodon">%1$d件の投稿</string>
+
     <string name="event_log_delete_confirm_title">イベントログの削除</string>
     <string name="event_log_delete_confirm_message">このイベントを削除してもよろしいですか？\n※ツイート等の投稿データ自体は消えません</string>
     <string name="event_log_information">"「投稿」や「新着通知」等のバックグラウンドで行われたイベントを確認できます。"</string>
@@ -1909,11 +1915,5 @@
 
     <string name="notification_channel_bluesky_auth_error">Bluesky 認証エラー</string>
     <string name="bluesky_auth_error_notification_message">セッションの有効期限が切れました。再ログインをお願いします(%1$s)</string>
-
-    <string name="event_log_message_new_tweets_failed_mastodon">新しい投稿の読み込みに失敗しました</string>
-    <string name="event_log_message_new_tweets_mastodon">新しい投稿を読み込みました</string>
-    <string name="event_log_message_no_new_tweets_mastodon">新しい投稿はありませんでした</string>
-    <string name="event_log_message_1_tweet_mastodon">1件の投稿</string>
-    <string name="event_log_message_n_tweets_mastodon">%1$d件の投稿</string>
 
 </resources>
