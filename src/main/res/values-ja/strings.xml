@@ -1714,7 +1714,7 @@
     <string name="new_tweets_notification_title_tw">新着ツイート</string>
     <string name="new_tweets_notification_title_mst">新着投稿</string>
     <string name="new_tweets_notification_title_mky">新着ノート</string>
-    <string name="new_tweets_notification_title_bsk">新着投稿</string>
+    <string name="new_tweets_notification_title_bs">新着投稿</string>
 
     <string name="event_log_message_1_post_bluesky">1件の投稿</string>
     <string name="event_log_message_1_post_mastodon">1件の投稿</string>

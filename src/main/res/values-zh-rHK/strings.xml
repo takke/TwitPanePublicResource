@@ -1678,7 +1678,7 @@
     <string name="new_tweets_notification_title_tw">新推文</string>
     <string name="new_tweets_notification_title_mst">新帖文</string>
     <string name="new_tweets_notification_title_mky">新筆記</string>
-    <string name="new_tweets_notification_title_bsk">新帖文</string>
+    <string name="new_tweets_notification_title_bs">新帖文</string>
 
     <string name="event_log_message_no_new_posts_tw">沒有新推文。</string>
     <string name="event_log_message_new_posts_failed_tw">無法獲取推文。</string>
