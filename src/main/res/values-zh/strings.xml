@@ -577,10 +577,10 @@
     <string name="menu_tweet_with_comment">带评论的推文（Twitter风格）</string>
     <string name="menu_unofficial_retweet">转推 \@TwitPane: …</string>
     <string name="cannot_retweet_protected_user_tweet">不能转推受保护的用户的推文</string>
-    <string name="menu_remove_rt_tw">取消转推</string>
-    <string name="menu_remove_rt_mastodon">取消转嘟</string>
-    <string name="menu_remove_rt_misskey">取消转发</string>
-    <string name="menu_remove_rt_bluesky">取消转帖</string>
+    <string name="menu_remove_retweet">取消转推</string>
+    <string name="menu_remove_boost">取消转嘟</string>
+    <string name="menu_remove_renote">取消转发</string>
+    <string name="menu_remove_repost">取消转帖</string>
     <string name="menu_create_favorite_favorite_tw">收藏</string>
     <string name="menu_create_favorite_favorite_mastodon">收藏</string>
     <string name="menu_create_favorite_favorite_misskey">点赞</string>

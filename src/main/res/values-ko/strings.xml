@@ -574,10 +574,10 @@
     <string name="menu_tweet_with_comment">코멘트 트윗</string>
     <string name="menu_unofficial_retweet">RT \@TwitPane: …</string>
     <string name="cannot_retweet_protected_user_tweet">"보호된 사용자의 트윗을 리트윗할 수 없습니다"</string>
-    <string name="menu_remove_rt_tw">"리트윗 제거"</string>
-    <string name="menu_remove_rt_mastodon">부스트 취소</string>
-    <string name="menu_remove_rt_misskey">리노트 취소</string>
-    <string name="menu_remove_rt_bluesky">리포스트 취소</string>
+    <string name="menu_remove_retweet">"리트윗 제거"</string>
+    <string name="menu_remove_boost">부스트 취소</string>
+    <string name="menu_remove_renote">리노트 취소</string>
+    <string name="menu_remove_repost">리포스트 취소</string>
     <string name="menu_create_favorite_favorite_tw">"즐겨찾기"</string>
     <string name="menu_create_favorite_favorite_mastodon">즐겨찾기</string>
     <string name="menu_create_favorite_favorite_misskey">마음에 들어요</string>

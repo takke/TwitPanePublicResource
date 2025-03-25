@@ -575,10 +575,10 @@
     <string name="menu_tweet_with_comment">Tweet con Comentario</string>
     <string name="menu_unofficial_retweet">RT \@TwitPane: …</string>
     <string name="cannot_retweet_protected_user_tweet">"No se puede retwittear el tweet de un usuario protegido"</string>
-    <string name="menu_remove_rt_tw">Quitar retweet</string>
-    <string name="menu_remove_rt_mastodon">Quitar boost</string>
-    <string name="menu_remove_rt_misskey">Quitar renote</string>
-    <string name="menu_remove_rt_bluesky">Quitar repost</string>
+    <string name="menu_remove_retweet">Quitar retweet</string>
+    <string name="menu_remove_boost">Quitar boost</string>
+    <string name="menu_remove_renote">Quitar renote</string>
+    <string name="menu_remove_repost">Quitar repost</string>
     <string name="menu_create_favorite_favorite_tw">"Favorito"</string>
     <string name="menu_create_favorite_favorite_mastodon">Favorito</string>
     <string name="menu_create_favorite_favorite_misskey">Me gusta</string>
