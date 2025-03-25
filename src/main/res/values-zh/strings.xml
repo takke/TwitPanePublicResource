@@ -1642,13 +1642,13 @@
     <string name="event_log_message_no_new_reply">没有新的回复。</string>
     <string name="event_log_message_new_message">收到新消息。</string>
     <string name="event_log_message_no_new_message">没有新消息。</string>
-    <string name="event_log_message_new_tweets">检索到新推文。</string>
+    <string name="event_log_message_new_posts_loaded_tw">检索到新推文。</string>
     <string name="new_tweets">新推文</string>
     <string name="new_toots">New toots</string>
     <string name="new_notes">New notes</string>
     <string name="new_posts">New posts</string>
-    <string name="event_log_message_no_new_tweets">没有新推文。</string>
-    <string name="event_log_message_new_tweets_failed">无法获取推文。</string>
+    <string name="event_log_message_no_new_posts_tw">没有新推文。</string>
+    <string name="event_log_message_new_posts_failed_tw">无法获取推文。</string>
 
 
     <!-- 自動更新 -->

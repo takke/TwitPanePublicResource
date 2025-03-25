@@ -1678,31 +1678,31 @@
     <string name="event_log_message_no_new_reply">新着返信はありませんでした</string>
     <string name="event_log_message_new_message">新着メッセージがありました</string>
     <string name="event_log_message_no_new_message">新着メッセージはありませんでした</string>
-    <string name="event_log_message_new_tweets">新着ツイートを取得しました</string>
+    <string name="event_log_message_new_posts_loaded_tw">新着ツイートを取得しました</string>
     <string name="new_tweets">新着ツイート</string>
     <string name="new_toots">新着投稿</string>
     <string name="new_notes">新着ノート</string>
     <string name="new_posts">新着ポスト</string>
 
+    <string name="event_log_message_1_post_bluesky">1件の投稿</string>
+    <string name="event_log_message_1_post_mastodon">1件の投稿</string>
+    <string name="event_log_message_1_post_misskey">1件のノート</string>
     <string name="event_log_message_1_post_tw" translatable="false">1件</string>
-    <string name="event_log_message_1_tweet_bluesky">1件の投稿</string>
-    <string name="event_log_message_1_tweet_mastodon">1件の投稿</string>
-    <string name="event_log_message_1_tweet_misskey">1件のノート</string>
-    <string name="event_log_message_n_tweets" translatable="false">%1$d件</string>
-    <string name="event_log_message_n_tweets_bluesky">%1$d件の投稿</string>
-    <string name="event_log_message_n_tweets_mastodon">%1$d件の投稿</string>
-    <string name="event_log_message_n_tweets_misskey">%1$d件のノート</string>
-    <string name="event_log_message_new_tweets_bluesky">新しい投稿を読み込みました</string>
-    <string name="event_log_message_new_tweets_failed">新着ツイートの取得に失敗しました。</string>
-    <string name="event_log_message_new_tweets_failed_bluesky">新しい投稿の読み込みに失敗しました</string>
-    <string name="event_log_message_new_tweets_failed_mastodon">新しい投稿の読み込みに失敗しました</string>
-    <string name="event_log_message_new_tweets_failed_misskey">新しいノートの読み込みに失敗しました</string>
-    <string name="event_log_message_new_tweets_mastodon">新しい投稿を読み込みました</string>
-    <string name="event_log_message_new_tweets_misskey">新しいノートを読み込みました</string>
-    <string name="event_log_message_no_new_tweets">新着ツイートはありませんでした</string>
-    <string name="event_log_message_no_new_tweets_bluesky">新しい投稿はありませんでした</string>
-    <string name="event_log_message_no_new_tweets_mastodon">新しい投稿はありませんでした</string>
-    <string name="event_log_message_no_new_tweets_misskey">新しいノートはありませんでした</string>
+    <string name="event_log_message_n_posts_bluesky">%1$d件の投稿</string>
+    <string name="event_log_message_n_posts_mastodon">%1$d件の投稿</string>
+    <string name="event_log_message_n_posts_misskey">%1$d件のノート</string>
+    <string name="event_log_message_n_posts_tw" translatable="false">%1$d件</string>
+    <string name="event_log_message_new_posts_failed_bluesky">新しい投稿の読み込みに失敗しました</string>
+    <string name="event_log_message_new_posts_failed_mastodon">新しい投稿の読み込みに失敗しました</string>
+    <string name="event_log_message_new_posts_failed_misskey">新しいノートの読み込みに失敗しました</string>
+    <string name="event_log_message_new_posts_failed_tw">新着ツイートの取得に失敗しました。</string>
+    <string name="event_log_message_new_posts_loaded_bluesky">新しい投稿を読み込みました</string>
+    <string name="event_log_message_new_posts_loaded_mastodon">新しい投稿を読み込みました</string>
+    <string name="event_log_message_new_posts_loaded_misskey">新しいノートを読み込みました</string>
+    <string name="event_log_message_no_new_posts_bluesky">新しい投稿はありませんでした</string>
+    <string name="event_log_message_no_new_posts_mastodon">新しい投稿はありませんでした</string>
+    <string name="event_log_message_no_new_posts_misskey">新しいノートはありませんでした</string>
+    <string name="event_log_message_no_new_posts_tw">新着ツイートはありませんでした</string>
 
     <string name="event_log_delete_confirm_title">イベントログの削除</string>
     <string name="event_log_delete_confirm_message">このイベントを削除してもよろしいですか？\n※ツイート等の投稿データ自体は消えません</string>

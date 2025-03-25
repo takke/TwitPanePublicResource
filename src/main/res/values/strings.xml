@@ -1673,31 +1673,31 @@ Reauthenticate on the next screen.</string>
     <string name="event_log_message_no_new_reply">No new replies.</string>
     <string name="event_log_message_new_message">New message received.</string>
     <string name="event_log_message_no_new_message">No new message.</string>
-    <string name="event_log_message_new_tweets">New tweets retrieved.</string>
+    <string name="event_log_message_new_posts_loaded_tw">New tweets retrieved.</string>
     <string name="new_tweets">New tweets</string>
     <string name="new_toots">New toots</string>
     <string name="new_notes">New notes</string>
     <string name="new_posts">New posts</string>
 
+    <string name="event_log_message_1_post_bluesky" translatable="false">1 post</string>
+    <string name="event_log_message_1_post_mastodon" translatable="false">1 post</string>
+    <string name="event_log_message_1_post_misskey" translatable="false">1 note</string>
     <string name="event_log_message_1_post_tw" translatable="false">1 tweet</string>
-    <string name="event_log_message_1_tweet_bluesky" translatable="false">1 post</string>
-    <string name="event_log_message_1_tweet_mastodon" translatable="false">1 post</string>
-    <string name="event_log_message_1_tweet_misskey" translatable="false">1 note</string>
-    <string name="event_log_message_n_tweets" translatable="false">%1$d tweets</string>
-    <string name="event_log_message_n_tweets_bluesky" translatable="false">%1$d posts</string>
-    <string name="event_log_message_n_tweets_mastodon" translatable="false">%1$d posts</string>
-    <string name="event_log_message_n_tweets_misskey" translatable="false">%1$d notes</string>
-    <string name="event_log_message_new_tweets_bluesky" translatable="false">Loaded new posts</string>
-    <string name="event_log_message_new_tweets_failed">Failed to get tweets.</string>
-    <string name="event_log_message_new_tweets_failed_bluesky" translatable="false">Failed to load new posts</string>
-    <string name="event_log_message_new_tweets_failed_mastodon" translatable="false">Failed to load new posts</string>
-    <string name="event_log_message_new_tweets_failed_misskey" translatable="false">Failed to load new notes</string>
-    <string name="event_log_message_new_tweets_mastodon" translatable="false">Loaded new posts</string>
-    <string name="event_log_message_new_tweets_misskey" translatable="false">Loaded new notes</string>
-    <string name="event_log_message_no_new_tweets">No new tweets.</string>
-    <string name="event_log_message_no_new_tweets_bluesky" translatable="false">No new posts</string>
-    <string name="event_log_message_no_new_tweets_mastodon" translatable="false">No new posts</string>
-    <string name="event_log_message_no_new_tweets_misskey" translatable="false">No new notes</string>
+    <string name="event_log_message_n_posts_bluesky" translatable="false">%1$d posts</string>
+    <string name="event_log_message_n_posts_mastodon" translatable="false">%1$d posts</string>
+    <string name="event_log_message_n_posts_misskey" translatable="false">%1$d notes</string>
+    <string name="event_log_message_n_posts_tw" translatable="false">%1$d tweets</string>
+    <string name="event_log_message_new_posts_failed_bluesky" translatable="false">Failed to load new posts</string>
+    <string name="event_log_message_new_posts_failed_mastodon" translatable="false">Failed to load new posts</string>
+    <string name="event_log_message_new_posts_failed_misskey" translatable="false">Failed to load new notes</string>
+    <string name="event_log_message_new_posts_failed_tw">Failed to get tweets.</string>
+    <string name="event_log_message_new_posts_loaded_bluesky" translatable="false">Loaded new posts</string>
+    <string name="event_log_message_new_posts_loaded_mastodon" translatable="false">Loaded new posts</string>
+    <string name="event_log_message_new_posts_loaded_misskey" translatable="false">Loaded new notes</string>
+    <string name="event_log_message_no_new_posts_bluesky" translatable="false">No new posts</string>
+    <string name="event_log_message_no_new_posts_mastodon" translatable="false">No new posts</string>
+    <string name="event_log_message_no_new_posts_misskey" translatable="false">No new notes</string>
+    <string name="event_log_message_no_new_posts_tw">No new tweets.</string>
 
     <string name="event_log_delete_confirm_title" translatable="false">Delete log</string>
     <string name="event_log_delete_confirm_message" translatable="false">Delete this event, OK?</string>
