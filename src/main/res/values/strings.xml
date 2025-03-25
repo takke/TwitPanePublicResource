@@ -1911,4 +1911,10 @@ Reauthenticate on the next screen.</string>
     <string name="bsky_quote_blocked">Blocked</string>
     <string name="bsky_quote_detached">Detached</string>
 
+    <string name="event_log_message_new_tweets_failed_mastodon">Failed to load new posts</string>
+    <string name="event_log_message_new_tweets_mastodon">Loaded new posts</string>
+    <string name="event_log_message_no_new_tweets_mastodon">No new posts</string>
+    <string name="event_log_message_1_tweet_mastodon">1 post</string>
+    <string name="event_log_message_n_tweets_mastodon">%1$d posts</string>
+
 </resources>
