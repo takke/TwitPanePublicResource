@@ -601,7 +601,9 @@
     <string name="menu_search_around_posts_bluesky">搜尋帖文</string>
     <string name="found_new_reply_tweets">發現新的推文(%1$s)</string>
     <string name="menu_show_rt_users">轉推用户</string>
-    <string name="menu_show_rp_users">Repost Users</string>
+    <string name="menu_show_rt_users_mastodon">顯示轉嘟的用戶</string>
+    <string name="menu_show_rt_users_misskey">顯示轉筆記的用戶</string>
+    <string name="menu_show_rt_users_bluesky">顯示轉帖的用戶</string>
     <string name="menu_show_quoted_tweets">引用的推文</string>
     <string name="menu_show_quoted_posts">Quoted posts</string>
     <string name="menu_show_favorite_users_favorite">收藏的用户</string>

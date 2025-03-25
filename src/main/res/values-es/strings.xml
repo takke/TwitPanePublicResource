@@ -600,7 +600,9 @@
     <string name="menu_search_around_posts_bluesky">Buscar alrededor de los posts</string>
     <string name="found_new_reply_tweets">Encuentran nuevos tweets(%1$s)</string>
     <string name="menu_show_rt_users">"RT usuarios"</string>
-    <string name="menu_show_rp_users">Repost Users</string>
+    <string name="menu_show_rt_users_mastodon">Mostrar usuarios que han boosteado</string>
+    <string name="menu_show_rt_users_misskey">Mostrar usuarios que han renoteado</string>
+    <string name="menu_show_rt_users_bluesky">Mostrar usuarios que han reposteado</string>
     <string name="menu_show_quoted_tweets">tuits citados</string>
     <string name="menu_show_quoted_posts">Quoted posts</string>
     <string name="menu_show_favorite_users_favorite">"Usuarios favoritos"</string>

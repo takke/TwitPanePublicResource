@@ -603,7 +603,9 @@
     <string name="menu_search_around_posts_bluesky">Search around posts</string>
     <string name="found_new_reply_tweets">Found new tweets(%1$s)</string>
     <string name="menu_show_rt_users">RT Users</string>
-    <string name="menu_show_rp_users">Repost Users</string>
+    <string name="menu_show_rt_users_mastodon">Show boosted users</string>
+    <string name="menu_show_rt_users_misskey">Show renoted users</string>
+    <string name="menu_show_rt_users_bluesky">Show reposted users</string>
     <string name="menu_show_quoted_tweets">Quoted tweets</string>
     <string name="menu_show_quoted_posts">Quoted posts</string>
     <string name="menu_show_favorite_users_favorite">Favorite Users</string>
