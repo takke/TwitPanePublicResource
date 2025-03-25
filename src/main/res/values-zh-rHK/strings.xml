@@ -294,6 +294,9 @@
 
     <string name="notification_new_reply_ticker">有一些更新</string>
     <string name="notification_new_reply_text">有一些為你準備的推文</string>
+    <string name="notification_new_reply_text_mastodon">有一些為你準備的帖文</string>
+    <string name="notification_new_reply_text_misskey">有一些為你準備的筆記</string>
+    <string name="notification_new_reply_text_bluesky">有一些為你準備的帖文</string>
 
     <string name="notification_new_dm_ticker">你收到了一條新消息</string>
     <string name="notification_new_dm_text">新的私信</string>

@@ -295,6 +295,9 @@
 
     <string name="notification_new_reply_ticker">There\'s some updates</string>
     <string name="notification_new_reply_text">There\'s some tweets for you</string>
+    <string name="notification_new_reply_text_mastodon" translatable="false">There\'s some posts for you</string>
+    <string name="notification_new_reply_text_misskey" translatable="false">There\'s some notes for you</string>
+    <string name="notification_new_reply_text_bluesky" translatable="false">There\'s some posts for you</string>
     
     <string name="notification_new_dm_ticker">You got a new message</string>
     <string name="notification_new_dm_text">New direct messages</string>

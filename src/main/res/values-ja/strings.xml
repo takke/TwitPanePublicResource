@@ -295,6 +295,9 @@
 
     <string name="notification_new_reply_ticker">タイムラインが更新されました</string>
     <string name="notification_new_reply_text">あなた宛のツイートがあります。</string>
+    <string name="notification_new_reply_text_mastodon">あなた宛の投稿があります。</string>
+    <string name="notification_new_reply_text_misskey">あなた宛のノートがあります。</string>
+    <string name="notification_new_reply_text_bluesky">あなた宛の投稿があります。</string>
     
     <string name="notification_new_dm_ticker">新しいメッセージがあります</string>
     <string name="notification_new_dm_text">あなた宛のメッセージがあります。</string>

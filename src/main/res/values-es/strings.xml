@@ -293,6 +293,9 @@
 
     <string name="notification_new_reply_ticker">"Hay algunas actualizaciones"</string>
     <string name="notification_new_reply_text">"Hay algunos tweets para ti"</string>
+    <string name="notification_new_reply_text_mastodon">"Hay algunas publicaciones para ti"</string>
+    <string name="notification_new_reply_text_misskey">"Hay algunas notas para ti"</string>
+    <string name="notification_new_reply_text_bluesky">"Hay algunas publicaciones para ti"</string>
 
     <string name="notification_new_dm_ticker">"Tienes un nuevo mensaje"</string>
     <string name="notification_new_dm_text">"Mensajes directos nuevos"</string>

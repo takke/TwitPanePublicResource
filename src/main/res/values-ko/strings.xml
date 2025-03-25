@@ -293,6 +293,9 @@
 
     <string name="notification_new_reply_ticker">"일부 업데이트가 있습니다"</string>
     <string name="notification_new_reply_text">"당신을 위한 몇 가지 트윗이 있습니다."</string>
+    <string name="notification_new_reply_text_mastodon">"당신을 위한 몇 가지 게시물이 있습니다."</string>
+    <string name="notification_new_reply_text_misskey">"당신을 위한 몇 가지 노트가 있습니다."</string>
+    <string name="notification_new_reply_text_bluesky">"당신을 위한 몇 가지 게시물이 있습니다."</string>
     
     <string name="notification_new_dm_ticker">"새 메시지를 받았습니다"</string>
     <string name="notification_new_dm_text">"새로운 직접 메시지"</string>
