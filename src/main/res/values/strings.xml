@@ -775,7 +775,10 @@
 
     <string name="hashtag_menu_search">Search</string>
     <string name="url_search">Search URL</string>
-    <string name="hashtag_menu_tweet">Tweet</string>
+    <string name="hashtag_menu_tweet_tw">Tweet</string>
+    <string name="hashtag_menu_tweet_mastodon">Toot</string>
+    <string name="hashtag_menu_tweet_misskey">Note</string>
+    <string name="hashtag_menu_tweet_bluesky">Post</string>
     <string name="hashtag_menu_remember">Remember</string>
     <string name="hashtag_menu_mute">Mute</string>
     <string name="hashtag_remembered">Remembered(You can call it in new tweet window)</string>

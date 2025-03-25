@@ -770,11 +770,14 @@
     <string name="image_menu_save">保存</string>
 
     <string name="hashtag_menu_search">搜索</string>
-    <string name="url_search">Search URL</string>
-    <string name="hashtag_menu_tweet">推文</string>
+    <string name="url_search">搜索URL</string>
+    <string name="hashtag_menu_tweet_tw">推文</string>
+    <string name="hashtag_menu_tweet_mastodon">嘟文</string>
+    <string name="hashtag_menu_tweet_misskey">筆記</string>
+    <string name="hashtag_menu_tweet_bluesky">帖子</string>
     <string name="hashtag_menu_remember">記住</string>
     <string name="hashtag_menu_mute">靜音</string>
-    <string name="hashtag_remembered">已記住（你可以在新推文窗口調用）</string>
+    <string name="hashtag_remembered">已記住（您可以在新推文窗口中調用它）</string>
 
     <string name="menu_change_name">更改標籤名稱</string>
     <string name="menu_change_keyword">更改關鍵詞</string>

@@ -779,7 +779,10 @@
     
     <string name="hashtag_menu_search">検索する</string>
     <string name="url_search">URLを検索する</string>
-    <string name="hashtag_menu_tweet">ツイートする</string>
+    <string name="hashtag_menu_tweet_tw">ツイートする</string>
+    <string name="hashtag_menu_tweet_mastodon">投稿する</string>
+    <string name="hashtag_menu_tweet_misskey">ノートする</string>
+    <string name="hashtag_menu_tweet_bluesky">投稿する</string>
     <string name="hashtag_menu_remember">記憶する</string>
     <string name="hashtag_menu_mute">ミュートする...</string>
     <string name="hashtag_remembered">記憶しました(投稿画面で呼び出せます)</string>

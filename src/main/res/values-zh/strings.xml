@@ -597,9 +597,9 @@
     <string name="toot_not_found_on_instance">Toot not found on %1$s</string>
     <string name="menu_search_conversation">搜索会话</string>
     <string name="menu_search_around_posts_tw">搜索相关的推文</string>
-    <string name="menu_search_around_posts_mastodon">搜索帖子</string>
-    <string name="menu_search_around_posts_misskey">搜索笔记</string>
-    <string name="menu_search_around_posts_bluesky">搜索帖子</string>
+    <string name="menu_search_around_posts_mastodon">搜索相关的嘟文</string>
+    <string name="menu_search_around_posts_misskey">搜索相关的笔记</string>
+    <string name="menu_search_around_posts_bluesky">搜索相关的帖子</string>
     <string name="found_new_reply_tweets">发现新的推文(%1$s)</string>
     <string name="menu_show_rt_users">转推用户</string>
     <string name="menu_show_rp_users">Repost Users</string>
@@ -771,11 +771,14 @@
     <string name="image_menu_save">保存</string>
 
     <string name="hashtag_menu_search">搜索</string>
-    <string name="url_search">Search URL</string>
-    <string name="hashtag_menu_tweet">推文</string>
+    <string name="url_search">搜索URL</string>
+    <string name="hashtag_menu_tweet_tw">推文</string>
+    <string name="hashtag_menu_tweet_mastodon">嘟文</string>
+    <string name="hashtag_menu_tweet_misskey">笔记</string>
+    <string name="hashtag_menu_tweet_bluesky">帖子</string>
     <string name="hashtag_menu_remember">记住</string>
     <string name="hashtag_menu_mute">静音</string>
-    <string name="hashtag_remembered">已记住（你可以在新推文窗口调用）</string>
+    <string name="hashtag_remembered">已记住（您可以在新推文窗口中调用它）</string>
 
     <string name="menu_change_name">更改标签名称</string>
     <string name="menu_change_keyword">更改关键词</string>
