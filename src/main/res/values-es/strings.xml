@@ -563,7 +563,10 @@
     <string name="note_not_found_on_server">Note not found on %1$s</string>
     <string name="toot_not_found_on_instance">Toot not found on %1$s</string>
     <string name="menu_search_conversation">Buscar Conversación</string>
-    <string name="menu_search_around_tweets">Buscar alrededor de los tweets</string>
+    <string name="menu_search_around_posts_tw">Buscar alrededor de los tweets</string>
+    <string name="menu_search_around_posts_mastodon">Buscar publicaciones</string>
+    <string name="menu_search_around_posts_misskey">Buscar notas</string>
+    <string name="menu_search_around_posts_bluesky">Buscar publicaciones</string>
     <string name="found_new_reply_tweets">Encuentran nuevos tweets(%1$s)</string>
     <string name="menu_show_rt_users">"RT usuarios"</string>
     <string name="menu_show_rp_users">Repost Users</string>

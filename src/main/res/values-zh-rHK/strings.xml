@@ -565,7 +565,10 @@
     <string name="note_not_found_on_server">Note not found on %1$s</string>
     <string name="toot_not_found_on_instance">Toot not found on %1$s</string>
     <string name="menu_search_conversation">搜索會話</string>
-    <string name="menu_search_around_tweets">搜索相關的推文</string>
+    <string name="menu_search_around_posts_tw">搜索相關的推文</string>
+    <string name="menu_search_around_posts_mastodon">搜尋帖文</string>
+    <string name="menu_search_around_posts_misskey">搜尋筆記</string>
+    <string name="menu_search_around_posts_bluesky">搜尋帖文</string>
     <string name="found_new_reply_tweets">發現新的推文(%1$s)</string>
     <string name="menu_show_rt_users">轉推用户</string>
     <string name="menu_show_rp_users">Repost Users</string>
