@@ -363,6 +363,9 @@
 
     <!-- 固定ツイート -->
     <string name="pinned_tweet">Tweet fijado</string>
+    <string name="pinned_tweet_mastodon">Publicación fijada</string>
+    <string name="pinned_tweet_misskey">Nota fijada</string>
+    <string name="pinned_tweet_bluesky">Publicación fijada</string>
     <string name="config_show_pinned_tweet">Mostrar tweet anclado</string>
     <string name="config_show_pinned_tweet_summary"></string>
     <string name="no_pinned_toots">There are no pinned toots.</string>

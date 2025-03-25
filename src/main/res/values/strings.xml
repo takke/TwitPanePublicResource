@@ -365,6 +365,9 @@
 
     <!-- 固定ツイート -->
     <string name="pinned_tweet">Pinned Tweet</string>
+    <string name="pinned_tweet_mastodon">Pinned Post</string>
+    <string name="pinned_tweet_misskey">Pinned Note</string>
+    <string name="pinned_tweet_bluesky">Pinned Post</string>
     <string name="config_show_pinned_tweet">Show pinned tweets</string>
     <string name="config_show_pinned_tweet_summary">[default:ON]</string>
     <string name="no_pinned_toots">There are no pinned toots.</string>

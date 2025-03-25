@@ -370,6 +370,9 @@
 
     <!-- 固定ツイート -->
     <string name="pinned_tweet">固定されたツイート</string>
+    <string name="pinned_tweet_mastodon">固定された投稿</string>
+    <string name="pinned_tweet_misskey">固定されたノート</string>
+    <string name="pinned_tweet_bluesky">固定された投稿</string>
     <string name="config_show_pinned_tweet">固定ツイートを表示する</string>
     <string name="config_show_pinned_tweet_summary">ユーザータイムラインの先頭に固定ツイートを表示します【初期値：ON】</string>
     <string name="no_pinned_toots">固定された投稿はありません。</string>
