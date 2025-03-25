@@ -273,17 +273,39 @@
     <string name="unfollow_done">Unfollow done</string>
     <string name="cannot_send_dm">You cannot dm, cause not followed from the user</string>
 
-    <string name="show_retweet">Turn on Retweets</string>
-    <string name="hide_retweet">Turn off Retweets</string>
+    <!-- Retweet/Boost Menu -->
+    <string name="show_retweet_tw">Show retweets</string>
+    <string name="show_retweet_mst">Show boosts</string>
+    <string name="show_retweet_mky">Show renotes</string>
+    <string name="show_retweet_bsk">Show reposts</string>
+    <string name="hide_retweet_tw">Hide retweets</string>
+    <string name="hide_retweet_mst">Hide boosts</string>
+    <string name="hide_retweet_mky">Hide renotes</string>
+    <string name="hide_retweet_bsk">Hide reposts</string>
+
     <string name="hide_retweet_done">Retweets from \@%1$s will no longer appear in your timeline</string>
     <string name="show_retweet_done">Retweets from \@%1$s will appear in your timeline</string>
     <string name="show_retweet_done_mastodon">Show boosts from %1$s</string>
     <string name="hide_retweet_done_mastodon">Hide boosts from %1$s</string>
 
-    <string name="turn_on_retweet_confirm_title">Turn on Retweets</string>
-    <string name="turn_on_retweet_confirm_message">Turn on Retweets from %1$s ?</string>
-    <string name="turn_off_retweet_confirm_title">Turn off Retweets</string>
-    <string name="turn_off_retweet_confirm_message">Turn off Retweets from %1$s ?</string>
+    <!-- Retweet/Boost Confirm Dialog -->
+    <string name="turn_on_retweet_confirm_title_tw">Show retweets</string>
+    <string name="turn_on_retweet_confirm_title_mst">Show boosts</string>
+    <string name="turn_on_retweet_confirm_title_mky">Show renotes</string>
+    <string name="turn_on_retweet_confirm_title_bsk">Show reposts</string>
+    <string name="turn_on_retweet_confirm_message_tw">Do you want to show retweets from %1$s?</string>
+    <string name="turn_on_retweet_confirm_message_mst">Do you want to show boosts from %1$s?</string>
+    <string name="turn_on_retweet_confirm_message_mky">Do you want to show renotes from %1$s?</string>
+    <string name="turn_on_retweet_confirm_message_bsk">Do you want to show reposts from %1$s?</string>
+    <string name="turn_off_retweet_confirm_title_tw">Hide retweets</string>
+    <string name="turn_off_retweet_confirm_title_mst">Hide boosts</string>
+    <string name="turn_off_retweet_confirm_title_mky">Hide renotes</string>
+    <string name="turn_off_retweet_confirm_title_bsk">Hide reposts</string>
+    <string name="turn_off_retweet_confirm_message_tw">Do you want to hide retweets from %1$s?</string>
+    <string name="turn_off_retweet_confirm_message_mst">Do you want to hide boosts from %1$s?</string>
+    <string name="turn_off_retweet_confirm_message_mky">Do you want to hide renotes from %1$s?</string>
+    <string name="turn_off_retweet_confirm_message_bsk">Do you want to hide reposts from %1$s?</string>
+
     <string name="show_channel_notes">Show channel notes</string>
     <string name="exclude_channel_notes">Exclude channel notes</string>
 
@@ -1349,18 +1371,58 @@ Do you want to enable it?</string>
     <string name="config_search_category">Search Settings</string>
     <string name="config_search_lang">Search Language</string>
     <string-array name="config_search_lang_entries">
-	    <item>All</item><item>English</item><item>Japanese</item><item>Korean</item>
-	    <item>Amhara</item><item>Arabic</item><item>Bulgarian</item><item>Bengali</item>
-		<item>Tibetan</item><item>Cherokee</item><item>Danish</item><item>German</item><item>Dhivehi</item>
-		<item>Greek</item><item>Spanish</item><item>Persian</item><item>Finnish</item>
-		<item>French</item><item>Gujarati</item><item>Hebrew</item><item>Hindi</item><item>Hungarian</item>
-		<item>Armenian</item><item>Indonesian</item><item>Icelandic</item><item>Italian</item><item>Inuktitut</item>
-		<item>Georgian</item><item>Khmer</item><item>Kannada</item>
-		<item>Lao language</item><item>Lithuanian</item><item>Malayalam</item><item>Myanmar</item><item>Nepali</item>
-		<item>Dutch</item><item>Norwegian</item><item>Oriya</item><item>Punjabi</item><item>Polish</item>
-		<item>Portuguese</item><item>Russian</item><item>Sinhala</item><item>Swedish</item><item>Tamil language</item>
-		<item>Telugu</item><item>Thai</item><item>Tagalog</item><item>Turkish</item><item>Urdu</item>
-		<item>Vietnamese</item><item>Chinese</item>
+        <item>All</item>
+        <item>English</item>
+        <item>Japanese</item>
+        <item>Korean</item>
+        <item>Amhara</item>
+        <item>Arabic</item>
+        <item>Bulgarian</item>
+        <item>Bengali</item>
+        <item>Tibetan</item>
+        <item>Cherokee</item>
+        <item>Danish</item>
+        <item>German</item>
+        <item>Dhivehi</item>
+        <item>Greek</item>
+        <item>Spanish</item>
+        <item>Persian</item>
+        <item>Finnish</item>
+        <item>French</item>
+        <item>Gujarati</item>
+        <item>Hebrew</item>
+        <item>Hindi</item>
+        <item>Hungarian</item>
+        <item>Armenian</item>
+        <item>Indonesian</item>
+        <item>Icelandic</item>
+        <item>Italian</item>
+        <item>Inuktitut</item>
+        <item>Georgian</item>
+        <item>Khmer</item>
+        <item>Kannada</item>
+        <item>Lao language</item>
+        <item>Lithuanian</item>
+        <item>Malayalam</item>
+        <item>Myanmar</item>
+        <item>Nepali</item>
+        <item>Dutch</item>
+        <item>Norwegian</item>
+        <item>Oriya</item>
+        <item>Punjabi</item>
+        <item>Polish</item>
+        <item>Portuguese</item>
+        <item>Russian</item>
+        <item>Sinhala</item>
+        <item>Swedish</item>
+        <item>Tamil language</item>
+        <item>Telugu</item>
+        <item>Thai</item>
+        <item>Tagalog</item>
+        <item>Turkish</item>
+        <item>Urdu</item>
+        <item>Vietnamese</item>
+        <item>Chinese</item>
     </string-array>
     <string name="config_exclude_rt">Exclude RT</string>
     <string name="config_exclude_rt_summary">Exclude retweets from search result</string>

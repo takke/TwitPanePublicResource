@@ -272,18 +272,40 @@
     <string name="follow_done">"팔로우 완료"</string>
     <string name="unfollow_done">"언팔로우 완료"</string>
     <string name="cannot_send_dm">"유저로부터 팔로우되지 않아 dm할 수 없습니다"</string>
-    
-    <string name="show_retweet">"리트윗을 켭니다"</string>
-    <string name="hide_retweet">"리트윗을 끕니다"</string>
+
+    <!-- Retweet/Boost Menu -->
+    <string name="show_retweet_tw">리트윗 표시</string>
+    <string name="show_retweet_mst">부스트 표시</string>
+    <string name="show_retweet_mky">리노트 표시</string>
+    <string name="show_retweet_bsk">리포스트 표시</string>
+    <string name="hide_retweet_tw">리트윗 숨기기</string>
+    <string name="hide_retweet_mst">부스트 숨기기</string>
+    <string name="hide_retweet_mky">리노트 숨기기</string>
+    <string name="hide_retweet_bsk">리포스트 숨기기</string>
+
     <string name="hide_retweet_done">"\@%1$s로부터의 리트윗이 더 이상 당신의 타임라인에 표시되지 않습니다"</string>
     <string name="show_retweet_done">"\@%1$s로부터의 리트윗이 당신의 타임라인에 나타납니다"</string>
     <string name="show_retweet_done_mastodon">%1$s의 부스트 표시</string>
     <string name="hide_retweet_done_mastodon">%1$s의 부스트 숨기기</string>
 
-    <string name="turn_on_retweet_confirm_title">"리트윗을 켭니다"</string>
-    <string name="turn_on_retweet_confirm_message">"%1$s로부터 리트윗을 켜시겠습니까?"</string>
-    <string name="turn_off_retweet_confirm_title">"리트윗을 끕니다"</string>
-    <string name="turn_off_retweet_confirm_message">"%1$s로부터의 리트윗을 끕니까 ?"</string>
+    <!-- Retweet/Boost Confirm Dialog -->
+    <string name="turn_on_retweet_confirm_title_tw">리트윗 표시</string>
+    <string name="turn_on_retweet_confirm_title_mst">부스트 표시</string>
+    <string name="turn_on_retweet_confirm_title_mky">리노트 표시</string>
+    <string name="turn_on_retweet_confirm_title_bsk">리포스트 표시</string>
+    <string name="turn_on_retweet_confirm_message_tw">%1$s의 리트윗을 표시하시겠습니까?</string>
+    <string name="turn_on_retweet_confirm_message_mst">%1$s의 부스트를 표시하시겠습니까?</string>
+    <string name="turn_on_retweet_confirm_message_mky">%1$s의 리노트를 표시하시겠습니까?</string>
+    <string name="turn_on_retweet_confirm_message_bsk">%1$s의 리포스트를 표시하시겠습니까?</string>
+    <string name="turn_off_retweet_confirm_title_tw">리트윗 숨기기</string>
+    <string name="turn_off_retweet_confirm_title_mst">부스트 숨기기</string>
+    <string name="turn_off_retweet_confirm_title_mky">리노트 숨기기</string>
+    <string name="turn_off_retweet_confirm_title_bsk">리포스트 숨기기</string>
+    <string name="turn_off_retweet_confirm_message_tw">%1$s의 리트윗을 숨기시겠습니까?</string>
+    <string name="turn_off_retweet_confirm_message_mst">%1$s의 부스트를 숨기시겠습니까?</string>
+    <string name="turn_off_retweet_confirm_message_mky">%1$s의 리노트를 숨기시겠습니까?</string>
+    <string name="turn_off_retweet_confirm_message_bsk">%1$s의 리포스트를 숨기시겠습니까?</string>
+
     <string name="show_channel_notes">Show channel notes</string>
     <string name="exclude_channel_notes">Exclude channel notes</string>
     
@@ -1855,6 +1877,5 @@
 
     <string name="notification_channel_bluesky_auth_error">Bluesky 인증 오류</string>
     <string name="bluesky_auth_error_notification_message">인증 토큰이 만료되어 재인증이 필요합니다(%1$s)</string>
-
 
 </resources>

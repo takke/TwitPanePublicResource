@@ -272,18 +272,40 @@
     <string name="follow_done">フォローしました(フォロー完了まで時間がかかる場合があります)</string>
     <string name="unfollow_done">フォローを解除しました</string>
     <string name="cannot_send_dm">フォローされていないのでDMを送信できません</string>
-    
-    <string name="show_retweet">リツイートを表示する</string>
-    <string name="hide_retweet">リツイートを非表示にする</string>
+
+    <!-- Retweet/Boost Menu -->
+    <string name="show_retweet_tw">リツイートを表示</string>
+    <string name="show_retweet_mst">ブーストを表示</string>
+    <string name="show_retweet_mky">Renoteを表示</string>
+    <string name="show_retweet_bsk">リポストを表示</string>
+    <string name="hide_retweet_tw">リツイートを非表示</string>
+    <string name="hide_retweet_mst">ブーストを非表示</string>
+    <string name="hide_retweet_mky">Renoteを非表示</string>
+    <string name="hide_retweet_bsk">リポストを非表示</string>
+
     <string name="hide_retweet_done">\@%1$sさんのリツイートは今後タイムラインに表示されません</string>
     <string name="show_retweet_done">\@%1$sさんのリツイートが今後タイムラインに表示されます</string>
     <string name="show_retweet_done_mastodon">%1$sのブーストを表示</string>
     <string name="hide_retweet_done_mastodon">%1$sのブーストを非表示</string>
 
-    <string name="turn_on_retweet_confirm_title">リツイートを表示する</string>
-    <string name="turn_on_retweet_confirm_message">%1$sさんのリツイートを表示しますか？</string>
-    <string name="turn_off_retweet_confirm_title">リツイートを非表示にする</string>
-    <string name="turn_off_retweet_confirm_message">%1$sさんのリツイートを非表示にしますか？</string>
+    <!-- Retweet/Boost Confirm Dialog -->
+    <string name="turn_on_retweet_confirm_title_tw">リツイートを表示</string>
+    <string name="turn_on_retweet_confirm_title_mst">ブーストを表示</string>
+    <string name="turn_on_retweet_confirm_title_mky">Renoteを表示</string>
+    <string name="turn_on_retweet_confirm_title_bsk">リポストを表示</string>
+    <string name="turn_on_retweet_confirm_message_tw">%1$sのリツイートを表示しますか？</string>
+    <string name="turn_on_retweet_confirm_message_mst">%1$sのブーストを表示しますか？</string>
+    <string name="turn_on_retweet_confirm_message_mky">%1$sのRenoteを表示しますか？</string>
+    <string name="turn_on_retweet_confirm_message_bsk">%1$sのリポストを表示しますか？</string>
+    <string name="turn_off_retweet_confirm_title_tw">リツイートを非表示</string>
+    <string name="turn_off_retweet_confirm_title_mst">ブーストを非表示</string>
+    <string name="turn_off_retweet_confirm_title_mky">Renoteを非表示</string>
+    <string name="turn_off_retweet_confirm_title_bsk">リポストを非表示</string>
+    <string name="turn_off_retweet_confirm_message_tw">%1$sのリツイートを非表示にしますか？</string>
+    <string name="turn_off_retweet_confirm_message_mst">%1$sのブーストを非表示にしますか？</string>
+    <string name="turn_off_retweet_confirm_message_mky">%1$sのRenoteを非表示にしますか？</string>
+    <string name="turn_off_retweet_confirm_message_bsk">%1$sのリポストを非表示にしますか？</string>
+
     <string name="show_channel_notes">チャンネルのノートを表示する</string>
     <string name="exclude_channel_notes">チャンネルのノートを非表示にする</string>
     
@@ -1958,6 +1980,5 @@
 
     <string name="notification_channel_bluesky_auth_error">Bluesky 認証エラー</string>
     <string name="bluesky_auth_error_notification_message">セッションの有効期限が切れました。再ログインをお願いします(%1$s)</string>
-
 
 </resources>

@@ -273,17 +273,38 @@
     <string name="unfollow_done">已取消關注</string>
     <string name="cannot_send_dm">你不能發送私信，因為該用户沒有關注你</string>
 
-    <string name="show_retweet">打開轉推</string>
-    <string name="hide_retweet">關閉轉推</string>
+    <!-- Retweet/Boost Menu -->
+    <string name="show_retweet_tw">顯示轉推</string>
+    <string name="show_retweet_mst">顯示轉發</string>
+    <string name="show_retweet_mky">顯示轉發</string>
+    <string name="show_retweet_bsk">顯示轉發</string>
+    <string name="hide_retweet_tw">隱藏轉推</string>
+    <string name="hide_retweet_mst">隱藏轉發</string>
+    <string name="hide_retweet_mky">隱藏轉發</string>
+    <string name="hide_retweet_bsk">隱藏轉發</string>
+
     <string name="hide_retweet_done">自\@%1$s的轉推將不再出現在你的時間軸上</string>
     <string name="show_retweet_done">自\@%1$s的轉推將出現在你的時間軸上</string>
     <string name="show_retweet_done_mastodon">顯示%1$s的轉發</string>
     <string name="hide_retweet_done_mastodon">隱藏%1$s的轉發</string>
 
-    <string name="turn_on_retweet_confirm_title">打開轉推</string>
-    <string name="turn_on_retweet_confirm_message">打開來自%1$s的轉推？</string>
-    <string name="turn_off_retweet_confirm_title">關閉轉推</string>
-    <string name="turn_off_retweet_confirm_message">關閉來自%1$s的轉推？</string>
+    <!-- Retweet/Boost Confirm Dialog -->
+    <string name="turn_on_retweet_confirm_title_tw">顯示轉推</string>
+    <string name="turn_on_retweet_confirm_title_mst">顯示轉發</string>
+    <string name="turn_on_retweet_confirm_title_mky">顯示轉發</string>
+    <string name="turn_on_retweet_confirm_title_bsk">顯示轉發</string>
+    <string name="turn_on_retweet_confirm_message_tw">是否顯示%1$s的轉推？</string>
+    <string name="turn_on_retweet_confirm_message_mst">是否顯示%1$s的轉發？</string>
+    <string name="turn_on_retweet_confirm_message_mky">是否顯示%1$s的轉發？</string>
+    <string name="turn_on_retweet_confirm_message_bsk">是否顯示%1$s的轉發？</string>
+    <string name="turn_off_retweet_confirm_title_tw">隱藏轉推</string>
+    <string name="turn_off_retweet_confirm_title_mst">隱藏轉發</string>
+    <string name="turn_off_retweet_confirm_title_mky">隱藏轉發</string>
+    <string name="turn_off_retweet_confirm_title_bsk">隱藏轉發</string>
+    <string name="turn_off_retweet_confirm_message_tw">是否隱藏%1$s的轉推？</string>
+    <string name="turn_off_retweet_confirm_message_mst">是否隱藏%1$s的轉發？</string>
+    <string name="turn_off_retweet_confirm_message_mky">是否隱藏%1$s的轉發？</string>
+
     <string name="show_channel_notes">Show channel notes</string>
     <string name="exclude_channel_notes">Exclude channel notes</string>
 
