@@ -1452,6 +1452,8 @@
     <string name="config_exclude_battery_optimizations_exclude">除外する</string>
     <string name="config_notification_category_auto_updates">自動更新</string>
     <string name="config_notification_category_auto_updates_summary_ついぺん">自動的に新しいツイートを取得します。対象となるタブは「タブの長押し」メニュー、「タブの設定」または下記の「自動更新タブ一覧」から設定します。</string>
+    <string name="config_notification_category_auto_updates_summary_ぞーぺん">自動的に新しい投稿を取得します。対象となるタブは「タブの長押し」メニュー、「タブの設定」または下記の「自動更新タブ一覧」から設定します。</string>
+    <string name="config_notification_category_auto_updates_summary_たいぺん">自動的に新しいタイーツを取得します。対象となるタブは「タブの長押し」メニュー、「タブの設定」または下記の「自動更新タブ一覧」から設定します。</string>
     <string name="config_notification_show_auto_update_tabs">自動更新タブ一覧</string>
     <string name="config_notification_show_auto_update_tabs_summary">自動更新に設定されているタブの確認や追加、解除ができます。</string>
     <string name="config_notification_add_auto_update_tabs">自動更新タブの追加</string>

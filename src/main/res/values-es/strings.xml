@@ -1430,7 +1430,9 @@
     <string name="config_exclude_battery_optimizations_summary">If you do not receive periodic notifications, please exclude this app from battery optimization.</string>
     <string name="config_exclude_battery_optimizations_exclude">Exclude</string>
     <string name="config_notification_category_auto_updates">Actualizaciones automáticas</string>
-    <string name="config_notification_category_auto_updates_summary_ついぺん">Each tab will automatically get new tweets at the above notification interval. Change it by long-pressing the tab or from "Tab Settings".</string>
+    <string name="config_notification_category_auto_updates_summary_ついぺん">Cada pestaña obtendrá automáticamente nuevos tweets en el intervalo de notificación anterior. Cámbielo manteniendo presionada la pestaña o desde "Configuración de pestañas".</string>
+    <string name="config_notification_category_auto_updates_summary_ぞーぺん">Cada pestaña obtendrá automáticamente nuevas publicaciones en el intervalo de notificación anterior. Cámbielo manteniendo presionada la pestaña o desde "Configuración de pestañas".</string>
+    <string name="config_notification_category_auto_updates_summary_たいぺん">Cada pestaña obtendrá automáticamente nuevos taiitsu en el intervalo de notificación anterior. Cámbielo manteniendo presionada la pestaña o desde "Configuración de pestañas".</string>
     <string name="config_notification_show_auto_update_tabs">Auto Update Tabs</string>
     <string name="config_notification_show_auto_update_tabs_summary">Show tabs that are automatically updated.</string>
     <string name="config_notification_add_auto_update_tabs">Add Auto Update Tab</string>

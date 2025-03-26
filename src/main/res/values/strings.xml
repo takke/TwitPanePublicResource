@@ -1446,6 +1446,8 @@ Do you want to enable it?</string>
     <string name="config_exclude_battery_optimizations_exclude">Exclude</string>
     <string name="config_notification_category_auto_updates">Auto updates</string>
     <string name="config_notification_category_auto_updates_summary_ついぺん">Each tab will automatically get new tweets at the above notification interval. Change it by long-pressing the tab or from "Tab Settings".</string>
+    <string name="config_notification_category_auto_updates_summary_ぞーぺん">Each tab will automatically get new posts at the above notification interval. Change it by long-pressing the tab or from "Tab Settings".</string>
+    <string name="config_notification_category_auto_updates_summary_たいぺん">Each tab will automatically get new taiitsu at the above notification interval. Change it by long-pressing the tab or from "Tab Settings".</string>
     <string name="config_notification_show_auto_update_tabs">Auto Update Tabs</string>
     <string name="config_notification_show_auto_update_tabs_summary">Show tabs that are automatically updated.</string>
     <string name="config_notification_add_auto_update_tabs">Add Auto Update Tab</string>

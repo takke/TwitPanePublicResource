@@ -1431,6 +1431,8 @@
     <string name="config_exclude_battery_optimizations_exclude">排除</string>
     <string name="config_notification_category_auto_updates">自动更新</string>
     <string name="config_notification_category_auto_updates_summary_ついぺん">每个标签都将在上述通知间隔内自动获得新推文。通过长按标签或从 "标签设置 "来修改设置。</string>
+    <string name="config_notification_category_auto_updates_summary_ぞーぺん">每个标签页将按照上述通知间隔自动获取新帖子。可以通过长按标签页或从"标签页设置"中更改。</string>
+    <string name="config_notification_category_auto_updates_summary_たいぺん">每个标签页将按照上述通知间隔自动获取新Taiitsu。可以通过长按标签页或从"标签页设置"中更改。</string>
     <string name="config_notification_show_auto_update_tabs">Auto Update Tabs</string>
     <string name="config_notification_show_auto_update_tabs_summary">Show tabs that are automatically updated.</string>
     <string name="config_notification_add_auto_update_tabs">Add Auto Update Tab</string>

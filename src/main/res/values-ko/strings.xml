@@ -1431,7 +1431,9 @@
     <string name="config_exclude_battery_optimizations_summary">If you do not receive periodic notifications, please exclude this app from battery optimization.</string>
     <string name="config_exclude_battery_optimizations_exclude">Exclude</string>
     <string name="config_notification_category_auto_updates">자동 업데이트</string>
-    <string name="config_notification_category_auto_updates_summary_ついぺん">Each tab will automatically get new tweets at the above notification interval. Change it by long-pressing the tab or from "Tab Settings".</string>
+    <string name="config_notification_category_auto_updates_summary_ついぺん">각 탭은 위의 알림 간격으로 새 트윗을 자동으로 가져옵니다. 탭을 길게 누르거나 "탭 설정"에서 변경하세요.</string>
+    <string name="config_notification_category_auto_updates_summary_ぞーぺん">각 탭은 위의 알림 간격으로 새 게시물을 자동으로 가져옵니다. 탭을 길게 누르거나 "탭 설정"에서 변경하세요.</string>
+    <string name="config_notification_category_auto_updates_summary_たいぺん">각 탭은 위의 알림 간격으로 새 타이츠를 자동으로 가져옵니다. 탭을 길게 누르거나 "탭 설정"에서 변경하세요.</string>
     <string name="config_notification_show_auto_update_tabs">Auto Update Tabs</string>
     <string name="config_notification_show_auto_update_tabs_summary">Show tabs that are automatically updated.</string>
     <string name="config_notification_add_auto_update_tabs">Add Auto Update Tab</string>

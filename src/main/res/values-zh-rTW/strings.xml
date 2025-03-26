@@ -1429,6 +1429,8 @@
     <string name="config_exclude_battery_optimizations_exclude">排除</string>
     <string name="config_notification_category_auto_updates">自動更新</string>
     <string name="config_notification_category_auto_updates_summary_ついぺん">每個標籤都將在上述通知間隔內自動獲得新推文。透過長按標籤或從 "標籤設定 "來修改設定。</string>
+    <string name="config_notification_category_auto_updates_summary_ぞーぺん">每個標籤都將在上述通知間隔內自動獲得新貼文。通過長按標籤或從"標籤設定"來修改設定。</string>
+    <string name="config_notification_category_auto_updates_summary_たいぺん">每個標籤都將在上述通知間隔內自動獲得新Taiitsu。通過長按標籤或從"標籤設定"來修改設定。</string>
     <string name="config_notification_show_auto_update_tabs">Auto Update Tabs</string>
     <string name="config_notification_show_auto_update_tabs_summary">Show tabs that are automatically updated.</string>
     <string name="config_notification_add_auto_update_tabs">Add Auto Update Tab</string>
