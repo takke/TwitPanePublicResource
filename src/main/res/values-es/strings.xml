@@ -1022,7 +1022,9 @@
     <string name="config_photo_thumbnail_layout_old_twitpane">Square style &lt;br>&lt;small>Old TwitPane style&lt;/small></string>
     <string name="config_one_photo_size">Tamaño de la miniatura (simple)</string>
     <string name="config_change_one_photo_size">Cambiar el tamaño de una sola miniatura</string>
-    <string name="config_one_photo_size_summary_ついぺん">Tamaño de la miniatura cuando se adjunta una sola foto</string>
+    <string name="config_one_photo_size_summary_ついぺん">Tamaño de la foto única en el tweet [predeterminado:MEDIO]</string>
+    <string name="config_one_photo_size_summary_ぞーぺん">Tamaño de la foto única en la publicación [predeterminado:MEDIO]</string>
+    <string name="config_one_photo_size_summary_たいぺん">Tamaño de la foto única en el taiitsu [predeterminado:MEDIO]</string>
     <string name="config_multi_photo_size">Tamaño de la miniatura (múltiple)</string>
     <string name="config_change_multi_photo_size">Cambiar el tamaño de varias miniaturas</string>
     <string name="config_multi_photo_size_summary_ついぺん">Tamaño de la miniatura cuando se adjuntan varias fotos</string>
@@ -1978,5 +1980,6 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
 
     <string name="notification_channel_bluesky_auth_error">Error de autenticación de Bluesky</string>
     <string name="bluesky_auth_error_notification_message">El token de autenticación ha caducado y se requiere una reautenticación (%1$s)</string>
+
 
 </resources>

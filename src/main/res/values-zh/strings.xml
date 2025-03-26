@@ -1022,7 +1022,9 @@
     <string name="config_photo_thumbnail_layout_old_twitpane">方形风格 &lt;br>&lt;small>旧的 TwitPane 风格&lt;/small></string>
     <string name="config_one_photo_size">缩略图大小（单个）</string>
     <string name="config_change_one_photo_size">更改单缩略图大小</string>
-    <string name="config_one_photo_size_summary_ついぺん">附加单张照片时的缩略图大小</string>
+    <string name="config_one_photo_size_summary_ついぺん">推文中单张照片的大小 [默认：中等]</string>
+    <string name="config_one_photo_size_summary_ぞーぺん">帖子中单张照片的大小 [默认：中等]</string>
+    <string name="config_one_photo_size_summary_たいぺん">Taiitsu中单张照片的大小 [默认：中等]</string>
     <string name="config_multi_photo_size">缩略图大小（多）</string>
     <string name="config_change_multi_photo_size">更改多缩略图大小</string>
     <string name="config_multi_photo_size_summary_ついぺん">附加多张照片时的缩略图大小</string>

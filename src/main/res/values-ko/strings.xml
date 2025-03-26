@@ -1023,7 +1023,9 @@
     <string name="config_photo_thumbnail_layout_old_twitpane">Square style &lt;br>&lt;small>Old TwitPane style&lt;/small></string>
     <string name="config_one_photo_size">축소판 크기 (단일)</string>
     <string name="config_change_one_photo_size">단일 축소판 크기 변경</string>
-    <string name="config_one_photo_size_summary_ついぺん">단일 사진 첨부시 축소판 크기</string>
+    <string name="config_one_photo_size_summary_ついぺん">트윗의 단일 사진 크기 [기본값:중간]</string>
+    <string name="config_one_photo_size_summary_ぞーぺん">게시물의 단일 사진 크기 [기본값:중간]</string>
+    <string name="config_one_photo_size_summary_たいぺん">타이츠의 단일 사진 크기 [기본값:중간]</string>
     <string name="config_multi_photo_size">축소판 크기 (다중)</string>
     <string name="config_change_multi_photo_size">다중 축소판 크기 변경</string>
     <string name="config_multi_photo_size_summary_ついぺん">여러 장의 사진이 첨부 된 경우 축소판 크기</string>

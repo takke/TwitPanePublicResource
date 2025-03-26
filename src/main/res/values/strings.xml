@@ -1026,10 +1026,11 @@
     <string name="config_photo_thumbnail_layout_new_official_app">Portrait style &lt;br>&lt;small>New Twitter Official App style&lt;/small></string>
     <string name="config_photo_thumbnail_layout_old_official_app">Landscape style &lt;br>&lt;small>Old Twitter Official App style&lt;/small></string>
     <string name="config_photo_thumbnail_layout_old_twitpane">Square style &lt;br>&lt;small>Old TwitPane style&lt;/small></string>
-    <string name="config_one_photo_size">Thumbnail size (single)</string>
-    <string name="config_change_one_photo_size">Change single-thumbnail size</string>
-    <string name="config_one_photo_size_summary_ついぺん">Thumbnail size when single photo attached</string>
-    <string name="config_multi_photo_size">Thumbnail size (multi)</string>
+    <string name="config_one_photo_size">Single photo size</string>
+    <string name="config_one_photo_size_summary_ついぺん">Size of single photo in tweet [default:MEDIUM]</string>
+    <string name="config_one_photo_size_summary_ぞーぺん">Size of single photo in post [default:MEDIUM]</string>
+    <string name="config_one_photo_size_summary_たいぺん">Size of single photo in taiitsu [default:MEDIUM]</string>
+    <string name="config_multi_photo_size">Multiple photos size</string>
     <string name="config_change_multi_photo_size">Change multi-thumbnail size</string>
     <string name="config_multi_photo_size_summary_ついぺん">Thumbnail size when multi photos attached</string>
     <string name="config_photo_size_hide">Hide</string>
