@@ -1510,7 +1510,9 @@
         <item>中文 (繁体)</item>
     </string-array>
 
-    <string name="config_save_record_count_for_timeline">推文保存数量（时间轴）</string>
+    <string name="config_save_record_count_for_timeline_twitpane">推文保存数量（时间轴）</string>
+    <string name="config_save_record_count_for_timeline_zonepane">帖子保存数量（时间轴）</string>
+    <string name="config_save_record_count_for_timeline_taipane">泰推保存数量（时间轴）</string>
     <string name="config_save_record_count_for_timeline_summary">时间轴标签推文保存数量 [默认：1000]</string>
     <string name="config_save_record_count_without_timeline">推文保存数量（其他）</string>
     <string name="config_save_record_count_without_timeline_summary">无时间轴标签的推文保存数量 [默认：1000]</string>
