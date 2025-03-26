@@ -172,6 +172,7 @@
 
     <string name="retweet_confirm_message">このツイートをフォロワーにリツイートしますか？</string>
     <string name="retweet_confirm_message_misskey">このノートをフォロワーにリノートしますか？</string>
+    <string name="repost_confirm_message">この投稿をフォロワーにリポストしますか？</string>
     <string name="renote_in_channel_confirm_message">このノートをチャンネル内にリノートしますか？</string>
     <string name="boost_confirm_message">この投稿をフォロワーにブーストしますか？</string>
     <string name="retweeted_message">リツイートしました</string>
@@ -180,6 +181,7 @@
     <string name="removed_repost_message">リポストを解除しました</string>
     <string name="boosted_message">ブーストしました</string>
     <string name="remove_retweet_confirm_message">リツイートを解除しますか？</string>
+    <string name="remove_repost_confirm_message">リポストを解除しますか？</string>
     <string name="remove_renote_confirm_message">リノートを解除しますか？</string>
     <string name="remove_boost_confirm_message">ブーストを解除しますか？</string>
     <string name="remove_retweeted_message">リツイートを解除しました</string>
@@ -191,8 +193,10 @@
     <string name="remove_favorite_confirm_message_favorite_tw">お気に入りから削除しますか？</string>
     <string name="remove_favorite_confirm_message_favorite_misskey">お気に入りを解除しますか？</string>
     <string name="remove_favorite_confirm_message_like">いいねを取り消しますか？</string>
+    <string name="remove_favorite_confirm_message_like_bluesky">いいねを取り消しますか？</string>
     <string name="destroyed_favorite_message_favorite">お気に入りから削除しました</string>
     <string name="favorite_confirm_message_like">このツイートをいいねしますか？</string>
+    <string name="favorite_confirm_message_like_bluesky">この投稿をいいねしますか？</string>
     <string name="created_favorite_message_like">いいねしました</string>
     <string name="destroyed_favorite_message_like">いいねを取り消しました</string>
     <string name="cannot_favorite_duplicate_status_favorite">このツイートは既にお気に入り済みのようです</string>

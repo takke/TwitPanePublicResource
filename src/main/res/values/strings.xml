@@ -172,6 +172,7 @@
 
     <string name="retweet_confirm_message">Retweet this tweet?</string>
     <string name="retweet_confirm_message_misskey">Renote this note?</string>
+    <string name="repost_confirm_message">Repost this post?</string>
     <string name="renote_in_channel_confirm_message">Renote this note in the channel?</string>
     <string name="boost_confirm_message">Boost this toot?</string>
     <string name="retweeted_message">Retweeted</string>
@@ -180,6 +181,7 @@
     <string name="removed_repost_message">Removed</string>
     <string name="boosted_message">Boosted</string>
     <string name="remove_retweet_confirm_message">Remove retweet?</string>
+    <string name="remove_repost_confirm_message">Remove repost?</string>
     <string name="remove_renote_confirm_message">Remove renote?</string>
     <string name="remove_boost_confirm_message">Remove boost?</string>
     <string name="remove_retweeted_message">Removed</string>
@@ -191,8 +193,10 @@
     <string name="remove_favorite_confirm_message_favorite_tw">Remove favorite?</string>
     <string name="remove_favorite_confirm_message_favorite_misskey">Remove favorite?</string>
     <string name="remove_favorite_confirm_message_like">Undone like?</string>
+    <string name="remove_favorite_confirm_message_like_bluesky">Remove like?</string>
     <string name="destroyed_favorite_message_favorite">Unfavorited</string>
     <string name="favorite_confirm_message_like">Like this tweet?</string>
+    <string name="favorite_confirm_message_like_bluesky">Like this post?</string>
     <string name="created_favorite_message_like">Liked</string>
     <string name="destroyed_favorite_message_like">Undone liked</string>
     <string name="cannot_favorite_duplicate_status_favorite">It may already favorited.</string>

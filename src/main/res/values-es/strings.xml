@@ -172,6 +172,7 @@
 
     <string name="retweet_confirm_message">"¿Retwittear este tweet?"</string>
     <string name="retweet_confirm_message_misskey">¿Renotar esta nota?</string>
+    <string name="repost_confirm_message">¿Republicar esta publicación?</string>
     <string name="renote_in_channel_confirm_message">Renote this note in the channel?</string>
     <string name="boost_confirm_message">Boost this toot?</string>
     <string name="retweeted_message">"Retwitteado"</string>
@@ -180,6 +181,7 @@
     <string name="removed_repost_message">Removed</string>
     <string name="boosted_message">Boosted</string>
     <string name="remove_retweet_confirm_message">"¿Eliminar retweet?"</string>
+    <string name="remove_repost_confirm_message">¿Eliminar republicación?</string>
     <string name="remove_renote_confirm_message">¿Eliminar renote?</string>
     <string name="remove_boost_confirm_message">Remove boost?</string>
     <string name="remove_retweeted_message">"Eliminado"</string>
@@ -191,8 +193,10 @@
     <string name="remove_favorite_confirm_message_favorite_tw">"¿Eliminar favorito?"</string>
     <string name="remove_favorite_confirm_message_favorite_misskey">¿Eliminar de favoritos?</string>
     <string name="remove_favorite_confirm_message_like">"Deshecho como?"</string>
+    <string name="remove_favorite_confirm_message_like_bluesky">¿Quitar me gusta?</string>
     <string name="destroyed_favorite_message_favorite">"Eliminado como favorito"</string>
     <string name="favorite_confirm_message_like">¿Quieres recibir este tweet?</string>
+    <string name="favorite_confirm_message_like_bluesky">¿Quieres dar me gusta a esta publicación?</string>
     <string name="created_favorite_message_like">"Marcado como me gusta"</string>
     <string name="destroyed_favorite_message_like">"Eliminado como me gusta"</string>
     <string name="cannot_favorite_duplicate_status_favorite">Puede que ya agregado a favoritos.</string>

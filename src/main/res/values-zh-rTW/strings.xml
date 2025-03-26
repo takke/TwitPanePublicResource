@@ -193,6 +193,7 @@
     <string name="remove_favorite_confirm_message_like">取消收藏？</string>
     <string name="destroyed_favorite_message_favorite">已取消收藏</string>
     <string name="favorite_confirm_message_like">收藏此推文？</string>
+    <string name="favorite_confirm_message_like_bluesky">喜歡這個帖文？</string>
     <string name="created_favorite_message_like">已收藏</string>
     <string name="destroyed_favorite_message_like">已取消收藏</string>
     <string name="cannot_favorite_duplicate_status_favorite">可能已新增到您的收藏夾</string>
