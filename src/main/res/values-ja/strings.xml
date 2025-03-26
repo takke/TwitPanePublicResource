@@ -1420,7 +1420,9 @@
     <string name="config_show_new_tweet_notification_summary_ついぺん">新しいツイートの取得後に通知を表示します。</string>
     <string name="config_show_new_tweet_notification_summary_ぞーぺん">新しい投稿の取得後に通知を表示します。</string>
     <string name="config_show_new_tweet_notification_summary_たいぺん">新しいタイーツの取得後に通知を表示します。</string>
-    <string name="config_new_tweet_notification_icon_type">新着ツイート通知のアイコン</string>
+    <string name="config_new_tweet_notification_icon_type_ついぺん">新着ツイート通知のアイコン</string>
+    <string name="config_new_tweet_notification_icon_type_ぞーぺん">新着投稿通知のアイコン</string>
+    <string name="config_new_tweet_notification_icon_type_たいぺん">新着タイーツ通知のアイコン</string>
 
     <string name="config_color_label">カラーラベル設定</string>
     <string name="config_color_label_summary">ユーザーのカラーラベルの色や名前の設定</string>

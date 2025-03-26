@@ -1413,7 +1413,9 @@ Do you want to enable it?</string>
     <string name="config_show_new_tweet_notification_summary_ついぺん">Show new tweet notification on the timeline</string>
     <string name="config_show_new_tweet_notification_summary_ぞーぺん">Show new post notification on the timeline</string>
     <string name="config_show_new_tweet_notification_summary_たいぺん">Show new taiitsu notification on the timeline</string>
-    <string name="config_new_tweet_notification_icon_type">Icon of new tweet notification</string>
+    <string name="config_new_tweet_notification_icon_type_ついぺん">Icon of new tweet notification</string>
+    <string name="config_new_tweet_notification_icon_type_ぞーぺん">Icon of new post notification</string>
+    <string name="config_new_tweet_notification_icon_type_たいぺん">Icon of new taiitsu notification</string>
     <string name="notification_channel_bluesky_auth_error">Bluesky Authentication Error</string>
     <string name="bluesky_auth_error_notification_message">Authentication token has expired and re-authentication is required(%1$s)</string>
 

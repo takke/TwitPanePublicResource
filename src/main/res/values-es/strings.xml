@@ -1399,7 +1399,7 @@
     <string name="config_show_new_tweet_notification_summary_ついぺん"></string>
     <string name="config_show_new_tweet_notification_summary_ぞーぺん">Mostrar notificación de nueva publicación en la línea de tiempo</string>
     <string name="config_show_new_tweet_notification_summary_たいぺん">Mostrar notificación de nuevo taiitsu en la línea de tiempo</string>
-    <string name="config_new_tweet_notification_icon_type">Icono de notificación de nuevo tweet</string>
+    <string name="config_new_tweet_notification_icon_type_ついぺん">Icono de notificación de nuevo tweet</string>
 
     <string name="config_color_label">"Color de la etiqueta"</string>
     <string name="config_color_label_summary">"Establecer el color de la etiqueta"</string>
