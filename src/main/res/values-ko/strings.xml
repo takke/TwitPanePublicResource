@@ -1394,6 +1394,8 @@
     <string name="config_notification_category_new_post">New posts</string>
     <string name="config_notification_category_reply">Reply</string>
     <string name="config_notification_category_reply_summary_ついぺん">New replies are supported only for "current account".</string>
+    <string name="config_notification_category_reply_summary_ぞーぺん">New replies are supported only for "current account".</string>
+    <string name="config_notification_category_reply_summary_たいぺん">New replies are supported only for "current account".</string>
     <string name="config_notification_category_message">Messages</string>
     <string name="config_notification_category_message_summary_ついぺん">New messages are supported only for "current account" of Mastodon.</string>
     <string name="config_notification_category_details">Details</string>

@@ -1414,6 +1414,8 @@
     <string name="config_notification_category_new_post">新着ポスト</string>
     <string name="config_notification_category_reply">新着返信</string>
     <string name="config_notification_category_reply_summary_ついぺん">新しい返信を通知します。「現在のアカウント」のみ対応しています。</string>
+    <string name="config_notification_category_reply_summary_ぞーぺん">新しい返信を通知します。「現在のアカウント」のみ対応しています。</string>
+    <string name="config_notification_category_reply_summary_たいぺん">新しい返信を通知します。「現在のアカウント」のみ対応しています。</string>
     <string name="config_notification_category_message">新着メッセージ</string>
     <string name="config_notification_category_message_summary_ついぺん">新しいメッセージを通知します。Mastodonの「現在のアカウント」のみ対応しています。</string>
     <string name="config_notification_category_details">通知のカスタマイズ</string>
