@@ -5,7 +5,7 @@
     <string name="title_activity_theme_config">主题设置</string>
     <string name="title_activity_about">关于TwitPane</string>
     <string name="title_activity_location">位置</string>
-    <string name="title_activity_write_view_for_message">消息</string>
+    <string name="title_activity_publish_for_message">消息</string>
     <string name="title_activity_create_shortcut_for_tweet">推文</string>
     <string name="title_activity_profile_edit">个人资料编辑</string>
     <string name="title_activity_list_edit">列表编辑</string>
@@ -803,13 +803,13 @@
     <!-- ================================================================================ -->
     <!-- WriteView -->
     <!-- ================================================================================ -->
-    <string name="write_view_activity_title">推文</string>
+    <string name="publish_activity_title">推文</string>
     <string name="mastodon_publish_activity_title">Post</string>
     <string name="mastodon_publish_activity_title_edit">Edit</string>
     <string name="misskey_publish_activity_title">Note</string>
     <string name="custom_emoji_picker_activity_title">CustomEmojiPicker</string>
-    <string name="write_view_spoiler_label">Content warning</string>
-    <string name="write_view_sensitive">Sensitive</string>
+    <string name="publish_spoiler_label">Content warning</string>
+    <string name="publish_sensitive">Sensitive</string>
     <string name="sensitive_label">Content Warning</string>
     <string name="sensitive_label_sexual">Sexual</string>
     <string name="sensitive_label_nudity">Nudity</string>
@@ -832,10 +832,10 @@
     <string name="cant_change_visibility_when_edit">Can\'t change visibility when editing.</string>
     <string name="edit_file_attached_toot_warning">Editing posts with attachments may possibly degrade attachments.</string>
     <string name="cant_edit_toot_with_polls">Not supported to edit posts with polls.</string>
-    <string name="write_view_body_label">你在想什么？</string>
-    <string name="write_view_submit_button">推文</string>
+    <string name="publish_body_label">你在想什么？</string>
+    <string name="publish_submit_button">推文</string>
     <string name="toot_button">Toot</string>
-    <string name="write_view_send_button">发送</string>
+    <string name="publish_send_button">发送</string>
     <string name="picture1_select_button">照片</string>
     <string name="mush_button_text">蘑菇</string>
     <string name="minimize">最小化</string>
@@ -851,12 +851,12 @@
     <string name="reload_screen_name_list_confirm_message">要重新加载关注用户和关注者的名单吗？</string>
     <string name="reload_fediverse_screen_name_list_confirm_message">要重新加载关注用户和关注者的名单吗？</string>
     <string name="call_twicca_plugin">插件</string>
-    <string name="write_view_finish_confirm_title">确认</string>
-    <string name="write_view_finish_confirm_message">你确定要关闭吗？</string>
-    <string name="write_view_finish_save_confirm_message">保存到草稿？</string>
-    <string name="write_view_finish_save">保存</string>
-    <string name="write_view_finish_save_discard">丢弃</string>
-    <string name="write_view_finish_save_cancel">取消</string>
+    <string name="publish_finish_confirm_title">确认</string>
+    <string name="publish_finish_confirm_message">你确定要关闭吗？</string>
+    <string name="publish_finish_save_confirm_message">保存到草稿？</string>
+    <string name="publish_finish_save">保存</string>
+    <string name="publish_finish_save_discard">丢弃</string>
+    <string name="publish_finish_save_cancel">取消</string>
     <string name="interstitial_ad_notice_message">Advertisements will appear on the next screen.\n
 - Only once a day, an ad will be displayed after posting.\n
 - Please note that sound may be emitted while displaying ads, so please pay attention to the volume and surrounding environment.\n
@@ -876,48 +876,48 @@
     <string name="draft_remove_confirm_message">删除此草稿吗？</string>
     <string name="draft_remove">删除</string>
     <string name="delete_hashtag_confirm">您确定要删除以下主题标签吗？</string>
-    <string name="write_view_picture_preview">预览</string>
-    <string name="write_view_picture_edit">编辑</string>
-    <string name="write_view_movie_cut_edit">剪切编辑</string>
+    <string name="publish_picture_preview">预览</string>
+    <string name="publish_picture_edit">编辑</string>
+    <string name="publish_movie_cut_edit">剪切编辑</string>
     <string name="alt_text">Description</string>
-    <string name="write_view_movie_install_lvc">请在Play Store上安装无损视频剪辑器</string>
-    <string name="write_view_picture_cancel">取消</string>
-    <string name="write_view_picture_select">选择照片(画廊)</string>
-    <string name="write_view_movie_select">选择电影</string>
-    <string name="write_view_picture_multi_select">选择多张照片</string>
-    <string name="write_view_picture_multi_select_alt">选择照片(内部画廊)</string>
-    <string name="write_view_picture_shot">拍照</string>
-    <string name="write_view_movie_shot">拍视频</string>
-    <string name="write_view_cannot_attach_anymore">无法附加更多</string>
-    <string name="write_view_input_body">请输入正文</string>
-    <string name="write_view_body_length_error">请输入%1$d个字符以内的文字</string>
-    <string name="write_view_sensitive_warning_length_error">Please enter in %1$d characters or less text</string>
-    <string name="write_view_twitlonger_confirm">超过140个字符。你想通过TwitLonger发布吗？</string>
-    <string name="write_view_twitter_dm_command_notice">发送私信吗？</string>
-    <string name="write_view_tweet_confirm">发送新推文吗？</string>
-    <string name="write_view_post_confirm">Send new post. ok?</string>
-    <string name="write_view_toot_edit_confirm">Edit toot. ok?</string>
-    <string name="write_view_attached_files">attached files</string>
-    <string name="write_view_emoji_warning">Emoji may not appear as shown in this preview in some instances</string>
-    <string name="write_view_has_quote">Has quote</string>
-    <string name="write_view_mention">Mention</string>
-    <string name="write_view_mentions">Mentions</string>
-    <string name="write_view_sent_tweet">已发布</string>
-    <string name="write_view_edited_toot">Edited</string>
-    <string name="write_view_failed_to_send_tweet">发送推文失败</string>
-    <string name="write_view_sending">Sending…</string>
-    <string name="write_view_restricted_who_can_reply_to_this_tweet">{errorMessage}</string>
-    <string name="write_view_convert_to_quote_tweet_config">你想把它转化为引用的推文吗？</string>
-    <string name="write_view_dm_confirm">确定要向\@%1$s发送私信吗？</string>
-    <string name="write_view_sent_dm">已发送</string>
-    <string name="write_view_chars">字符</string>
-    <string name="write_view_cannot_get_photo_error">不能获取照片。请再次选择。</string>
-    <string name="write_view_photo_size_error_title">照片大小错误</string>
-    <string name="write_view_photo_size_error_message">附件太大</string>
-    <string name="write_view_no_mushroom_app">没有蘑菇应用。
+    <string name="publish_movie_install_lvc">请在Play Store上安装无损视频剪辑器</string>
+    <string name="publish_picture_cancel">取消</string>
+    <string name="publish_picture_select">选择照片(画廊)</string>
+    <string name="publish_movie_select">选择电影</string>
+    <string name="publish_picture_multi_select">选择多张照片</string>
+    <string name="publish_picture_multi_select_alt">选择照片(内部画廊)</string>
+    <string name="publish_picture_shot">拍照</string>
+    <string name="publish_movie_shot">拍视频</string>
+    <string name="publish_cannot_attach_anymore">无法附加更多</string>
+    <string name="publish_input_body">请输入正文</string>
+    <string name="publish_body_length_error">请输入%1$d个字符以内的文字</string>
+    <string name="publish_sensitive_warning_length_error">Please enter in %1$d characters or less text</string>
+    <string name="publish_twitlonger_confirm">超过140个字符。你想通过TwitLonger发布吗？</string>
+    <string name="publish_twitter_dm_command_notice">发送私信吗？</string>
+    <string name="publish_tweet_confirm">发送新推文吗？</string>
+    <string name="publish_post_confirm">Send new post. ok?</string>
+    <string name="publish_toot_edit_confirm">Edit toot. ok?</string>
+    <string name="publish_attached_files">attached files</string>
+    <string name="publish_emoji_warning">Emoji may not appear as shown in this preview in some instances</string>
+    <string name="publish_has_quote">Has quote</string>
+    <string name="publish_mention">Mention</string>
+    <string name="publish_mentions">Mentions</string>
+    <string name="publish_sent_tweet">已发布</string>
+    <string name="publish_edited_toot">Edited</string>
+    <string name="publish_failed_to_send_tweet">发送推文失败</string>
+    <string name="publish_sending">Sending…</string>
+    <string name="publish_restricted_who_can_reply_to_this_tweet">{errorMessage}</string>
+    <string name="publish_convert_to_quote_tweet_config">你想把它转化为引用的推文吗？</string>
+    <string name="publish_dm_confirm">确定要向\@%1$s发送私信吗？</string>
+    <string name="publish_sent_dm">已发送</string>
+    <string name="publish_chars">字符</string>
+    <string name="publish_cannot_get_photo_error">不能获取照片。请再次选择。</string>
+    <string name="publish_photo_size_error_title">照片大小错误</string>
+    <string name="publish_photo_size_error_message">附件太大</string>
+    <string name="publish_no_mushroom_app">没有蘑菇应用。
 \n\n请从Google Play商店下载蘑菇应用。</string>
-    <string name="write_view_move_to_left">移动到左边</string>
-    <string name="write_view_move_to_right">移动到右边</string>
+    <string name="publish_move_to_left">移动到左边</string>
+    <string name="publish_move_to_right">移动到右边</string>
 
     <!-- ================================================================================ -->
     <!-- 内蔵ブラウザ -->

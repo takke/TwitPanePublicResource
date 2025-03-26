@@ -5,7 +5,7 @@
     <string name="title_activity_theme_config">テーマとデザイン設定</string>
     <string name="title_activity_about">TwitPaneについて</string>
     <string name="title_activity_location">Location</string>
-    <string name="title_activity_write_view_for_message">メッセージ</string>
+    <string name="title_activity_publish_for_message">メッセージ</string>
     <string name="title_activity_create_shortcut_for_tweet">ツイート</string>
     <string name="title_activity_profile_edit">プロフィールを編集</string>
     <string name="title_activity_list_edit">リストを編集</string>
@@ -809,13 +809,13 @@
 	<!-- ================================================================================ -->
     <!-- WriteView -->
     <!-- ================================================================================ -->
-    <string name="write_view_activity_title">ツイート</string>
+    <string name="publish_activity_title">ツイート</string>
     <string name="mastodon_publish_activity_title">投稿</string>
     <string name="mastodon_publish_activity_title_edit">編集</string>
     <string name="misskey_publish_activity_title">ノート</string>
     <string name="custom_emoji_picker_activity_title">カスタム絵文字ピッカー</string>
-    <string name="write_view_spoiler_label">内容注意メッセージ</string>
-    <string name="write_view_sensitive">Sensitive</string>
+    <string name="publish_spoiler_label">内容注意メッセージ</string>
+    <string name="publish_sensitive">Sensitive</string>
     <string name="sensitive_label">コンテンツの警告</string>
     <string name="sensitive_label_sexual">きわどい</string>
     <string name="sensitive_label_nudity">ヌード</string>
@@ -838,10 +838,10 @@
     <string name="cant_change_visibility_when_edit">編集時は公開範囲を変更できません</string>
     <string name="edit_file_attached_toot_warning">添付ファイル付きの投稿を編集すると、添付ファイルが劣化する可能性があります。</string>
     <string name="cant_edit_toot_with_polls">アンケートがある投稿の編集は未対応です</string>
-    <string name="write_view_body_label">いまどうしてる？</string>
-    <string name="write_view_submit_button">ツイート</string>
+    <string name="publish_body_label">いまどうしてる？</string>
+    <string name="publish_submit_button">ツイート</string>
     <string name="toot_button">投稿</string>
-    <string name="write_view_send_button">送信</string>
+    <string name="publish_send_button">送信</string>
     <string name="picture1_select_button">写真</string>
     <string name="mush_button_text">絵文字ピッカー</string>
     <string name="minimize">閉じる</string>
@@ -859,12 +859,12 @@
     <string name="reload_fediverse_screen_name_list_confirm_message">フォローとフォロワーの一覧を再取得します。よろしいですか？
 \n\n※取得には数分程度かかる場合があります。フォロー・フォロワーそれぞれ最新の80人を取得します。</string>
     <string name="call_twicca_plugin">プラグイン</string>
-    <string name="write_view_finish_confirm_title">確認</string>
-    <string name="write_view_finish_confirm_message">この画面を閉じてよろしいですか？</string>
-    <string name="write_view_finish_save_confirm_message">下書きに保存しますか？</string>
-    <string name="write_view_finish_save">保存</string>
-    <string name="write_view_finish_save_discard">破棄</string>
-    <string name="write_view_finish_save_cancel">キャンセル</string>
+    <string name="publish_finish_confirm_title">確認</string>
+    <string name="publish_finish_confirm_message">この画面を閉じてよろしいですか？</string>
+    <string name="publish_finish_save_confirm_message">下書きに保存しますか？</string>
+    <string name="publish_finish_save">保存</string>
+    <string name="publish_finish_save_discard">破棄</string>
+    <string name="publish_finish_save_cancel">キャンセル</string>
     <string name="interstitial_ad_notice_message">次の画面で広告が表示されます。\n
 ・1日に1回だけ、投稿後に広告が表示されます。\n
 ・広告表示中に音が出ることがあるので、音量や周りの環境にご注意ください。\n
@@ -884,51 +884,51 @@
     <string name="draft_remove_confirm_message">下書きを削除しますか？</string>
     <string name="draft_remove">削除</string>
     <string name="delete_hashtag_confirm">下記のハッシュタグを削除してもよろしいですか？</string>
-    <string name="write_view_picture_preview">プレビュー</string>
-    <string name="write_view_picture_edit">編集</string>
-    <string name="write_view_movie_cut_edit">カット編集</string>
+    <string name="publish_picture_preview">プレビュー</string>
+    <string name="publish_picture_edit">編集</string>
+    <string name="publish_movie_cut_edit">カット編集</string>
     <string name="alt_text">代替テキスト</string>
-    <string name="write_view_movie_install_lvc">ストアで Lossless Video Cutter をインストールしてください。\n
+    <string name="publish_movie_install_lvc">ストアで Lossless Video Cutter をインストールしてください。\n
 (インストール後に本アプリに戻るとカット編集画面が開きます)</string>
-    <string name="write_view_picture_cancel">添付解除</string>
-    <string name="write_view_picture_select">写真を選択する(ギャラリー)</string>
-    <string name="write_view_movie_select">動画を選択する</string>
-    <string name="write_view_picture_multi_select">写真を選択する(複数選択)</string>
-    <string name="write_view_picture_multi_select_alt">写真を選択する(内蔵ギャラリー)</string>
-    <string name="write_view_picture_shot">写真を撮影する</string>
-    <string name="write_view_movie_shot">動画を撮影する</string>
-    <string name="write_view_cannot_attach_anymore">これ以上添付できません</string>
-    <string name="write_view_input_body">本文を入力してください</string>
-    <string name="write_view_body_length_error">本文は%1$d文字以内で入力してください</string>
-    <string name="write_view_sensitive_warning_length_error">ひとこと注意文は%1$d文字以内で入力してください</string>
-    <string name="write_view_twitlonger_confirm">本文が140文字を超えています。\nTwitLonger経由で投稿しますか？</string>
-    <string name="write_view_twitter_dm_command_notice">DM送信コマンドになりますがよろしいですか？</string>
-    <string name="write_view_tweet_confirm">ツイートします。よろしいですか？</string>
-    <string name="write_view_post_confirm">投稿します。よろしいですか？</string>
-    <string name="write_view_toot_edit_confirm">編集します。よろしいですか？</string>
-    <string name="write_view_attached_files">添付ファイル</string>
-    <string name="write_view_emoji_warning">絵文字はインスタンスによってはこのプレビュー通りに表示されない場合があります</string>
-    <string name="write_view_has_quote">引用あり</string>
-    <string name="write_view_mention">メンション</string>
-    <string name="write_view_mentions">メンション</string>
-    <string name="write_view_sent_tweet">投稿しました</string>
-    <string name="write_view_edited_toot">編集しました</string>
-    <string name="write_view_failed_to_send_tweet">投稿に失敗しました・・・</string>
-    <string name="write_view_sending">投稿しています…</string>
-    <string name="write_view_restricted_who_can_reply_to_this_tweet">このツイートは返信対象が制限されているので返信できません。\n({errorMessage})</string>
-    <string name="write_view_duplicate_content">ツイートが重複しています。\n({errorMessage})</string>
-    <string name="write_view_convert_to_quote_tweet_config">引用ツイートに変更することで投稿できる場合があります。\n引用ツイートに変更しますか？</string>
-    <string name="write_view_dm_confirm">\@%1$sにDMを送信します。よろしいですか？</string>
-    <string name="write_view_sent_dm">送信しました</string>
-    <string name="write_view_chars">文字</string>
-    <string name="write_view_cannot_get_photo_error">写真を取得できませんでした。再度選択してください。</string>
-    <string name="write_view_photo_size_error_title">画像サイズエラー</string>
-    <string name="write_view_photo_size_error_message">画像サイズが大きいため添付できません。</string>
-    <string name="write_view_no_mushroom_app">マッシュルームが見つかりませんでした。
+    <string name="publish_picture_cancel">添付解除</string>
+    <string name="publish_picture_select">写真を選択する(ギャラリー)</string>
+    <string name="publish_movie_select">動画を選択する</string>
+    <string name="publish_picture_multi_select">写真を選択する(複数選択)</string>
+    <string name="publish_picture_multi_select_alt">写真を選択する(内蔵ギャラリー)</string>
+    <string name="publish_picture_shot">写真を撮影する</string>
+    <string name="publish_movie_shot">動画を撮影する</string>
+    <string name="publish_cannot_attach_anymore">これ以上添付できません</string>
+    <string name="publish_input_body">本文を入力してください</string>
+    <string name="publish_body_length_error">本文は%1$d文字以内で入力してください</string>
+    <string name="publish_sensitive_warning_length_error">ひとこと注意文は%1$d文字以内で入力してください</string>
+    <string name="publish_twitlonger_confirm">本文が140文字を超えています。\nTwitLonger経由で投稿しますか？</string>
+    <string name="publish_twitter_dm_command_notice">DM送信コマンドになりますがよろしいですか？</string>
+    <string name="publish_tweet_confirm">ツイートします。よろしいですか？</string>
+    <string name="publish_post_confirm">投稿します。よろしいですか？</string>
+    <string name="publish_toot_edit_confirm">編集します。よろしいですか？</string>
+    <string name="publish_attached_files">添付ファイル</string>
+    <string name="publish_emoji_warning">絵文字はインスタンスによってはこのプレビュー通りに表示されない場合があります</string>
+    <string name="publish_has_quote">引用あり</string>
+    <string name="publish_mention">メンション</string>
+    <string name="publish_mentions">メンション</string>
+    <string name="publish_sent_tweet">投稿しました</string>
+    <string name="publish_edited_toot">編集しました</string>
+    <string name="publish_failed_to_send_tweet">投稿に失敗しました・・・</string>
+    <string name="publish_sending">投稿しています…</string>
+    <string name="publish_restricted_who_can_reply_to_this_tweet">このツイートは返信対象が制限されているので返信できません。\n({errorMessage})</string>
+    <string name="publish_duplicate_content">ツイートが重複しています。\n({errorMessage})</string>
+    <string name="publish_convert_to_quote_tweet_config">引用ツイートに変更することで投稿できる場合があります。\n引用ツイートに変更しますか？</string>
+    <string name="publish_dm_confirm">\@%1$sにDMを送信します。よろしいですか？</string>
+    <string name="publish_sent_dm">送信しました</string>
+    <string name="publish_chars">文字</string>
+    <string name="publish_cannot_get_photo_error">写真を取得できませんでした。再度選択してください。</string>
+    <string name="publish_photo_size_error_title">画像サイズエラー</string>
+    <string name="publish_photo_size_error_message">画像サイズが大きいため添付できません。</string>
+    <string name="publish_no_mushroom_app">マッシュルームが見つかりませんでした。
 \n\nマッシュルームを利用することで絵文字が入力できます。
 \nGoogle Play ストアからダウンロードしてください。</string>
-    <string name="write_view_move_to_left">左に移動</string>
-    <string name="write_view_move_to_right">右に移動</string>
+    <string name="publish_move_to_left">左に移動</string>
+    <string name="publish_move_to_right">右に移動</string>
 
     <!-- ================================================================================ -->
     <!-- 内蔵ブラウザ -->

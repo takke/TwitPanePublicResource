@@ -5,7 +5,7 @@
     <string name="title_activity_theme_config">Theme Config</string>
     <string name="title_activity_about">About TwitPane</string>
     <string name="title_activity_location">Location</string>
-    <string name="title_activity_write_view_for_message">Message</string>
+    <string name="title_activity_publish_for_message">Message</string>
     <string name="title_activity_create_shortcut_for_tweet">Tweet</string>
     <string name="title_activity_profile_edit">Profile Edit</string>
     <string name="title_activity_list_edit">List Edit</string>
@@ -807,13 +807,13 @@
     <!-- ================================================================================ -->
     <!-- WriteView -->
     <!-- ================================================================================ -->
-    <string name="write_view_activity_title">Tweet</string>
+    <string name="publish_activity_title">Tweet</string>
     <string name="mastodon_publish_activity_title">Post</string>
     <string name="mastodon_publish_activity_title_edit">Edit</string>
     <string name="misskey_publish_activity_title">Note</string>
     <string name="custom_emoji_picker_activity_title">CustomEmojiPicker</string>
-    <string name="write_view_spoiler_label">Content warning</string>
-    <string name="write_view_sensitive">Sensitive</string>
+    <string name="publish_spoiler_label">Content warning</string>
+    <string name="publish_sensitive">Sensitive</string>
     <string name="sensitive_label">Content Warning</string>
     <string name="sensitive_label_sexual">Sexual</string>
     <string name="sensitive_label_nudity">Nudity</string>
@@ -836,10 +836,10 @@
     <string name="cant_change_visibility_when_edit">Can\'t change visibility when editing.</string>
     <string name="edit_file_attached_toot_warning">Editing posts with attachments may possibly degrade attachments.</string>
     <string name="cant_edit_toot_with_polls">Not supported to edit posts with polls.</string>
-    <string name="write_view_body_label">What\'s your mind?</string>
-    <string name="write_view_submit_button">Tweet</string>
+    <string name="publish_body_label">What\'s your mind?</string>
+    <string name="publish_submit_button">Tweet</string>
     <string name="toot_button">Toot</string>
-    <string name="write_view_send_button">Send</string>
+    <string name="publish_send_button">Send</string>
     <string name="picture1_select_button">Photo</string>
     <string name="mush_button_text">Mushroom</string>
     <string name="minimize">Minimize</string>
@@ -855,12 +855,12 @@
     <string name="reload_screen_name_list_confirm_message">Reload list of following users and followers, OK?</string>
     <string name="reload_fediverse_screen_name_list_confirm_message">Reload list of following users and followers, OK?</string>
     <string name="call_twicca_plugin">Plugin</string>
-    <string name="write_view_finish_confirm_title">Confirm</string>
-    <string name="write_view_finish_confirm_message">Are you sure you want to close?</string>
-    <string name="write_view_finish_save_confirm_message">Save to drafts?</string>
-    <string name="write_view_finish_save">Save</string>
-    <string name="write_view_finish_save_discard">Discard</string>
-    <string name="write_view_finish_save_cancel">Cancel</string>
+    <string name="publish_finish_confirm_title">Confirm</string>
+    <string name="publish_finish_confirm_message">Are you sure you want to close?</string>
+    <string name="publish_finish_save_confirm_message">Save to drafts?</string>
+    <string name="publish_finish_save">Save</string>
+    <string name="publish_finish_save_discard">Discard</string>
+    <string name="publish_finish_save_cancel">Cancel</string>
     <string name="interstitial_ad_notice_message">Advertisements will appear on the next screen.\n
 - Only once a day, an ad will be displayed after posting.\n
 - Please note that sound may be emitted while displaying ads, so please pay attention to the volume and surrounding environment.\n
@@ -880,49 +880,49 @@
     <string name="draft_remove_confirm_message">Delete this draft?</string>
     <string name="draft_remove">Delete</string>
     <string name="delete_hashtag_confirm">Are you sure you want to remove the following hashtag?</string>
-    <string name="write_view_picture_preview">Preview</string>
-    <string name="write_view_picture_edit">Edit</string>
-    <string name="write_view_movie_cut_edit">Cut Edit</string>
+    <string name="publish_picture_preview">Preview</string>
+    <string name="publish_picture_edit">Edit</string>
+    <string name="publish_movie_cut_edit">Cut Edit</string>
     <string name="alt_text">Description</string>
-    <string name="write_view_movie_install_lvc">Please install Lossless Video Cutter on Store</string>
-    <string name="write_view_picture_cancel">Cancel</string>
-    <string name="write_view_picture_select">Select Photo(Gallery)</string>
-    <string name="write_view_movie_select">Select Movie</string>
-    <string name="write_view_picture_multi_select">Select Multiple Photos</string>
-    <string name="write_view_picture_multi_select_alt">Select Photo(In-app Gallery)</string>
-    <string name="write_view_picture_shot">Take a Photo</string>
-    <string name="write_view_movie_shot">Take a Video</string>
-    <string name="write_view_cannot_attach_anymore">Can not attach any more</string>
-    <string name="write_view_input_body">Please input body text</string>
-    <string name="write_view_body_length_error">Please enter in %1$d characters or less text</string>
-    <string name="write_view_sensitive_warning_length_error">Please enter in %1$d characters or less text</string>
-    <string name="write_view_twitlonger_confirm">Over 140 characters. Do you want to post via TwitLonger?</string>
-    <string name="write_view_twitter_dm_command_notice">"It's DM command. OK?"</string>
-    <string name="write_view_tweet_confirm">Send new tweet. ok?</string>
-    <string name="write_view_post_confirm">Send new post. ok?</string>
-    <string name="write_view_toot_edit_confirm">Edit toot. ok?</string>
-    <string name="write_view_attached_files">attached files</string>
-    <string name="write_view_emoji_warning">Emoji may not appear as shown in this preview in some instances</string>
-    <string name="write_view_has_quote">Has quote</string>
-    <string name="write_view_mention">Mention</string>
-    <string name="write_view_mentions">Mentions</string>
-    <string name="write_view_sent_tweet">Posted</string>
-    <string name="write_view_edited_toot">Edited</string>
-    <string name="write_view_failed_to_send_tweet">Failed to send post…</string>
-    <string name="write_view_sending">Sending…</string>
-    <string name="write_view_restricted_who_can_reply_to_this_tweet">{errorMessage}</string>
-    <string name="write_view_duplicate_content" translatable="false">Tweet is duplicated.\n({errorMessage})</string>
-    <string name="write_view_convert_to_quote_tweet_config">Do you want to convert it into a quoted tweet ?</string>
-    <string name="write_view_dm_confirm">Send DM to \@%1$s, OK?</string>
-    <string name="write_view_sent_dm">Sent</string>
-    <string name="write_view_chars">chars</string>
-    <string name="write_view_cannot_get_photo_error">Cannot get photo. Please choose it again.</string>
-    <string name="write_view_photo_size_error_title">Photo size error</string>
-    <string name="write_view_photo_size_error_message">Too big to attach to</string>
-    <string name="write_view_no_mushroom_app">No mushroom app.
+    <string name="publish_movie_install_lvc">Please install Lossless Video Cutter on Store</string>
+    <string name="publish_picture_cancel">Cancel</string>
+    <string name="publish_picture_select">Select Photo(Gallery)</string>
+    <string name="publish_movie_select">Select Movie</string>
+    <string name="publish_picture_multi_select">Select Multiple Photos</string>
+    <string name="publish_picture_multi_select_alt">Select Photo(In-app Gallery)</string>
+    <string name="publish_picture_shot">Take a Photo</string>
+    <string name="publish_movie_shot">Take a Video</string>
+    <string name="publish_cannot_attach_anymore">Can not attach any more</string>
+    <string name="publish_input_body">Please input body text</string>
+    <string name="publish_body_length_error">Please enter in %1$d characters or less text</string>
+    <string name="publish_sensitive_warning_length_error">Please enter in %1$d characters or less text</string>
+    <string name="publish_twitlonger_confirm">Over 140 characters. Do you want to post via TwitLonger?</string>
+    <string name="publish_twitter_dm_command_notice">"It's DM command. OK?"</string>
+    <string name="publish_tweet_confirm">Send new tweet. ok?</string>
+    <string name="publish_post_confirm">Send new post. ok?</string>
+    <string name="publish_toot_edit_confirm">Edit toot. ok?</string>
+    <string name="publish_attached_files">attached files</string>
+    <string name="publish_emoji_warning">Emoji may not appear as shown in this preview in some instances</string>
+    <string name="publish_has_quote">Has quote</string>
+    <string name="publish_mention">Mention</string>
+    <string name="publish_mentions">Mentions</string>
+    <string name="publish_sent_tweet">Posted</string>
+    <string name="publish_edited_toot">Edited</string>
+    <string name="publish_failed_to_send_tweet">Failed to send post…</string>
+    <string name="publish_sending">Sending…</string>
+    <string name="publish_restricted_who_can_reply_to_this_tweet">{errorMessage}</string>
+    <string name="publish_duplicate_content" translatable="false">Tweet is duplicated.\n({errorMessage})</string>
+    <string name="publish_convert_to_quote_tweet_config">Do you want to convert it into a quoted tweet ?</string>
+    <string name="publish_dm_confirm">Send DM to \@%1$s, OK?</string>
+    <string name="publish_sent_dm">Sent</string>
+    <string name="publish_chars">chars</string>
+    <string name="publish_cannot_get_photo_error">Cannot get photo. Please choose it again.</string>
+    <string name="publish_photo_size_error_title">Photo size error</string>
+    <string name="publish_photo_size_error_message">Too big to attach to</string>
+    <string name="publish_no_mushroom_app">No mushroom app.
 \n\nPlease download mushroom app from Google Play Store.</string>
-    <string name="write_view_move_to_left">Move to Left</string>
-    <string name="write_view_move_to_right">Move to Right</string>
+    <string name="publish_move_to_left">Move to Left</string>
+    <string name="publish_move_to_right">Move to Right</string>
 
     <!-- ================================================================================ -->
     <!-- 内蔵ブラウザ -->
