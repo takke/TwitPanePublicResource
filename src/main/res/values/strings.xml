@@ -1275,7 +1275,9 @@ Do you want to enable it?</string>
     <string name="config_show_tweet_confirm_dialog_title_ついぺん">Tweet confirm</string>
     <string name="config_show_tweet_confirm_dialog_title_ぞーぺん">Post confirm</string>
     <string name="config_show_tweet_confirm_dialog_title_たいぺん">Taiitsu confirm</string>
-    <string name="config_show_tweet_confirm_dialog_summary_ついぺん">Show confirm dialog before sending tweet or message</string>
+    <string name="config_show_tweet_confirm_dialog_summary_ついぺん">Show confirmation dialog before posting a tweet</string>
+    <string name="config_show_tweet_confirm_dialog_summary_ぞーぺん">Show confirmation dialog before posting a post</string>
+    <string name="config_show_tweet_confirm_dialog_summary_たいぺん">Show confirmation dialog before posting a taiitsu</string>
     <string name="config_initial_visibility">Initial Visibility</string>
     <string name="config_initial_visibility_per_account">Initial Visibility(Per Account)</string>
     <string name="config_initial_visibility_per_account_summary"></string>
