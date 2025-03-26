@@ -1492,9 +1492,9 @@
         <item>中国語(繁体字)</item>
     </string-array>
 
-    <string name="config_save_record_count_for_timeline_twitpane">ツイート保存件数(TL)</string>
-    <string name="config_save_record_count_for_timeline_zonepane">投稿保存件数(TL)</string>
-    <string name="config_save_record_count_for_timeline_taipane">タイーツ保存件数(TL)</string>
+    <string name="config_save_record_count_for_timeline_ついぺん">ツイート保存件数(TL)</string>
+    <string name="config_save_record_count_for_timeline_ぞーぺん">投稿保存件数(TL)</string>
+    <string name="config_save_record_count_for_timeline_たいぺん">タイーツ保存件数(TL)</string>
     <string name="config_save_record_count_for_timeline_summary_ついぺん">タイムラインタブのツイート保存件数【初期値：1000】\n※件数が多すぎると性能が低下する可能性がありますのでご注意ください。</string>
     <string name="config_save_record_count_for_timeline_summary_ぞーぺん">タイムラインタブの投稿保存件数【初期値：1000】\n※件数が多すぎると性能が低下する可能性がありますのでご注意ください。</string>
     <string name="config_save_record_count_for_timeline_summary_たいぺん">タイムラインタブのタイーツ保存件数【初期値：1000】\n※件数が多すぎると性能が低下する可能性がありますのでご注意ください。</string>

@@ -1471,9 +1471,9 @@
         <item>Chinese (Traditional)</item>
     </string-array>
 
-	<string name="config_save_record_count_for_timeline_twitpane">"트윗 저장 개수 (TL)"</string>
-	<string name="config_save_record_count_for_timeline_zonepane">"게시물 저장 개수 (TL)"</string>
-	<string name="config_save_record_count_for_timeline_taipane">"타이츠 저장 개수 (TL)"</string>
+	<string name="config_save_record_count_for_timeline_ついぺん">"트윗 저장 개수 (TL)"</string>
+	<string name="config_save_record_count_for_timeline_ぞーぺん">"게시물 저장 개수 (TL)"</string>
+	<string name="config_save_record_count_for_timeline_たいぺん">"타이츠 저장 개수 (TL)"</string>
 	<string name="config_save_record_count_for_timeline_summary_ついぺん">"타임라인 탭을 위한 트윗 저장 수 [기본 : 1000]"</string>
     <string name="config_save_record_count_for_timeline_summary_ぞーぺん">"타임라인 탭을 위한 게시물 저장 수 [기본 : 1000]"</string>
     <string name="config_save_record_count_for_timeline_summary_たいぺん">"타임라인 탭을 위한 타이츠 저장 수 [기본 : 1000]"</string>

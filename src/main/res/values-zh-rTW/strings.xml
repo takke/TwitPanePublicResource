@@ -1513,9 +1513,9 @@
         <item>中文 (繁體)</item>
     </string-array>
 
-    <string name="config_save_record_count_for_timeline_twitpane">推文儲存數量（時間軸）</string>
-    <string name="config_save_record_count_for_timeline_zonepane">貼文儲存數量（時間軸）</string>
-    <string name="config_save_record_count_for_timeline_taipane">泰推儲存數量（時間軸）</string>
+    <string name="config_save_record_count_for_timeline_ついぺん">推文儲存數量（時間軸）</string>
+    <string name="config_save_record_count_for_timeline_ぞーぺん">貼文儲存數量（時間軸）</string>
+    <string name="config_save_record_count_for_timeline_たいぺん">泰推儲存數量（時間軸）</string>
     <string name="config_save_record_count_for_timeline_summary_ついぺん">時間軸標籤推文儲存數量 [預設：1000]</string>
     <string name="config_save_record_count_for_timeline_summary_ぞーぺん">時間軸標籤貼文儲存數量 [預設：1000]</string>
     <string name="config_save_record_count_for_timeline_summary_たいぺん">時間軸標籤泰推儲存數量 [預設：1000]</string>

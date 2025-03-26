@@ -1527,9 +1527,9 @@ Do you want to enable it?</string>
         <item>Chinese (Traditional)</item>
     </string-array>
 
-    <string name="config_save_record_count_for_timeline_twitpane">Tweet Save Count(TL)</string>
-    <string name="config_save_record_count_for_timeline_zonepane">Post Save Count(TL)</string>
-    <string name="config_save_record_count_for_timeline_taipane">Taiitsu Save Count(TL)</string>
+    <string name="config_save_record_count_for_timeline_ついぺん">Tweet Save Count(TL)</string>
+    <string name="config_save_record_count_for_timeline_ぞーぺん">Post Save Count(TL)</string>
+    <string name="config_save_record_count_for_timeline_たいぺん">Taiitsu Save Count(TL)</string>
     <string name="config_save_record_count_for_timeline_summary_ついぺん">Tweet save count for timeline tab [default:1000]</string>
     <string name="config_save_record_count_for_timeline_summary_ぞーぺん">Post save count for timeline tab [default:1000]</string>
     <string name="config_save_record_count_for_timeline_summary_たいぺん">Taiitsu save count for timeline tab [default:1000]</string>

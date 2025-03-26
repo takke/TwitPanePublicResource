@@ -1470,9 +1470,9 @@
         <item>Chinese (Traditional)</item>
     </string-array>
 
-    <string name="config_save_record_count_for_timeline_twitpane">"Cantidad Tweets guardados (TL)"</string>
-    <string name="config_save_record_count_for_timeline_zonepane">"Cantidad Posts guardados (TL)"</string>
-    <string name="config_save_record_count_for_timeline_taipane">"Cantidad Taiitsu guardados (TL)"</string>
+    <string name="config_save_record_count_for_timeline_ついぺん">"Cantidad Tweets guardados (TL)"</string>
+    <string name="config_save_record_count_for_timeline_ぞーぺん">"Cantidad Posts guardados (TL)"</string>
+    <string name="config_save_record_count_for_timeline_たいぺん">"Cantidad Taiitsu guardados (TL)"</string>
     <string name="config_save_record_count_for_timeline_summary_ついぺん">"Cantidad de tweets guardados para la pestaña de la cronología [por defecto: 1000]"</string>
     <string name="config_save_record_count_for_timeline_summary_ぞーぺん">"Cantidad de posts guardados para la pestaña de la cronología [por defecto: 1000]"</string>
     <string name="config_save_record_count_for_timeline_summary_たいぺん">"Cantidad de taiitsu guardados para la pestaña de la cronología [por defecto: 1000]"</string>
