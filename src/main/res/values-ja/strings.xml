@@ -1248,7 +1248,7 @@
     <string name="config_show_new_message_from_bottom">新しいメッセージを下に表示</string>
     <string name="config_show_new_message_from_bottom_summary">公式アプリや一般的なメッセージ系アプリと同様に下側に新しいメッセージを表示します【初期値：ON】</string>
 
-    <string name="config_post_category">ツイート投稿設定</string>
+    <string name="config_post_category">投稿設定</string>
     <string name="config_image_uploading_category">画像のアップロード</string>
 	<string name="config_upload_image_size_title">アップロード画像のサイズ</string>
     <string name="config_upload_image_size_summary">このサイズよりも縦横が小さくなるように画像を縮小します。大きくすると高品質になりますがアップロード時間が長くなったり、アップロードに失敗する場合があります。</string>
