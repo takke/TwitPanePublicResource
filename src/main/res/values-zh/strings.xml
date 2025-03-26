@@ -171,6 +171,7 @@
     <string name="display_name">Display Name</string>
 
     <string name="retweet_confirm_message">转推此推文？</string>
+    <string name="retweet_confirm_message_taittsuu">转发这条Taiitsu？</string>
     <string name="renote_confirm_message">转发此笔记？</string>
     <string name="repost_confirm_message">转发此帖子？</string>
     <string name="renote_in_channel_confirm_message">Renote this note in the channel?</string>
@@ -181,6 +182,7 @@
     <string name="removed_repost_message">Removed</string>
     <string name="boosted_message">Boosted</string>
     <string name="remove_retweet_confirm_message">移除转推？</string>
+    <string name="remove_retweet_confirm_message_taittsuu">取消转发？</string>
     <string name="remove_repost_confirm_message">移除转发？</string>
     <string name="remove_renote_confirm_message">移除转发？</string>
     <string name="remove_boost_confirm_message">Remove boost?</string>
@@ -193,9 +195,11 @@
     <string name="remove_favorite_confirm_message_favorite_tw">删除收藏？</string>
     <string name="remove_favorite_confirm_message_favorite_misskey">删除收藏？</string>
     <string name="remove_favorite_confirm_message_like">取消收藏？</string>
+    <string name="remove_favorite_confirm_message_like_taittsuu">取消喜欢？</string>
     <string name="remove_favorite_confirm_message_like_bluesky">取消喜欢？</string>
     <string name="destroyed_favorite_message_favorite">已取消收藏</string>
     <string name="favorite_confirm_message_like">收藏此推文？</string>
+    <string name="favorite_confirm_message_like_taittsuu">喜欢这条Taiitsu？</string>
     <string name="favorite_confirm_message_like_bluesky">喜欢这个帖子？</string>
     <string name="created_favorite_message_like">已收藏</string>
     <string name="destroyed_favorite_message_like">已取消收藏</string>
@@ -571,6 +575,7 @@
     <string name="delete_and_edit_warning">Are you sure you want to delete this post and edit it? Reactions, Renotes and Replies will be missing.</string>
     <string name="menu_hidden_button">无功能（隐藏）</string>
     <string name="menu_retweet">转推</string>
+    <string name="menu_retweet_taittsuu">转发Taiitsu</string>
     <string name="menu_renote">转发</string>
     <string name="menu_repost">转帖</string>
     <string name="menu_renote_in_channel">Renote in Channel</string>
@@ -583,6 +588,7 @@
     <string name="menu_unofficial_retweet">转推 \@TwitPane: …</string>
     <string name="cannot_retweet_protected_user_tweet">不能转推受保护的用户的推文</string>
     <string name="menu_remove_retweet">取消转推</string>
+    <string name="menu_remove_retweet_taittsuu">取消转发Taiitsu</string>
     <string name="menu_remove_boost">取消转嘟</string>
     <string name="menu_remove_renote">取消转发</string>
     <string name="menu_remove_repost">取消转帖</string>
