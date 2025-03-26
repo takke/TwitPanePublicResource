@@ -884,7 +884,7 @@
     <string name="no_drafts">"초안이 없음"</string>
     <string name="select_items_to_delete">삭제하려는 항목을 선택하십시오</string>
     <string name="drafts">"임시보관함"</string>
-    <string name="drafts_and_tweet_history">초안 및 트윗 기록</string>
+    <string name="drafts_and_post_history">임시보관함 및 게시물 기록</string>
     <string name="drafts_only">초안만</string>
     <string name="tweet_history_only">트윗 기록만</string>
     <string name="filter">필터</string>

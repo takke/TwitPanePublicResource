@@ -888,7 +888,7 @@
     <string name="no_drafts">No drafts</string>
     <string name="select_items_to_delete">Select the item you wish to delete</string>
     <string name="drafts">Drafts</string>
-    <string name="drafts_and_tweet_history">Drafts and tweet history</string>
+    <string name="drafts_and_post_history">Drafts and Post history</string>
     <string name="drafts_only">Drafts only</string>
     <string name="tweet_history_only">Tweet history only</string>
     <string name="filter">Filter</string>

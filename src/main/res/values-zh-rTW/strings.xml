@@ -886,7 +886,7 @@
     <string name="no_drafts">沒有草稿</string>
     <string name="select_items_to_delete">選擇您要刪除的專案</string>
     <string name="drafts">草稿</string>
-    <string name="drafts_and_tweet_history">草稿和推文歷史</string>
+    <string name="drafts_and_post_history">草稿和發佈歷史</string>
     <string name="drafts_only">僅草稿</string>
     <string name="tweet_history_only">僅推文歷史</string>
     <string name="filter">篩選</string>
