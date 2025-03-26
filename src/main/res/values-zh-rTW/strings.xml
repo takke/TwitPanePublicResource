@@ -682,7 +682,6 @@
     <string name="menu_show_image_timeline_mastodon">顯示圖像時間軸</string>
     <string name="menu_show_image_timeline_misskey">顯示圖像時間軸</string>
     <string name="menu_show_image_timeline_bluesky">顯示圖像時間軸</string>
-    <string name="menu_show_image_timeline">顯示圖像時間軸</string>
     <string name="menu_show_media_timeline_tw">顯示媒體時間軸</string>
     <string name="menu_show_media_timeline_mastodon">顯示媒體時間軸</string>
     <string name="menu_show_media_timeline_misskey">顯示媒體時間軸</string>
