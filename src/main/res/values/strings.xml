@@ -1533,8 +1533,12 @@ Do you want to enable it?</string>
     <string name="config_save_record_count_for_timeline_summary_ついぺん">Tweet save count for timeline tab [default:1000]</string>
     <string name="config_save_record_count_for_timeline_summary_ぞーぺん">Post save count for timeline tab [default:1000]</string>
     <string name="config_save_record_count_for_timeline_summary_たいぺん">Taiitsu save count for timeline tab [default:1000]</string>
-    <string name="config_save_record_count_without_timeline">Tweet Save Count(Others)</string>
-    <string name="config_save_record_count_without_timeline_summary">Tweet save count without timeline tab [default:1000]</string>
+    <string name="config_save_record_count_without_timeline_ついぺん">Tweet Save Count(Others)</string>
+    <string name="config_save_record_count_without_timeline_ぞーぺん">Post Save Count(Others)</string>
+    <string name="config_save_record_count_without_timeline_たいぺん">Taiitsu Save Count(Others)</string>
+    <string name="config_save_record_count_without_timeline_summary_ついぺん">Tweet save count without timeline tab [default:1000]</string>
+    <string name="config_save_record_count_without_timeline_summary_ぞーぺん">Post save count without timeline tab [default:1000]</string>
+    <string name="config_save_record_count_without_timeline_summary_たいぺん">Taiitsu save count without timeline tab [default:1000]</string>
 
     <string name="config_misskey_use_since_id_limit_hours" translatable="false">[Misskey]Time to keep "From Continued" when getting new notes</string>
     <string name="config_misskey_use_since_id_limit_hours_summary" translatable="false">In Misskey, new arrivals always start from the next page, so you will not be able to see the latest notes if you have not retrieved them in a while. Therefore, if a certain period of time has elapsed, the newest note will be retrieved instead of the next note.</string>

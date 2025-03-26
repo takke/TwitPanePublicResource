@@ -1516,8 +1516,12 @@
     <string name="config_save_record_count_for_timeline_summary_ついぺん">时间轴标签推文保存数量 [默认：1000]</string>
     <string name="config_save_record_count_for_timeline_summary_ぞーぺん">时间轴标签帖子保存数量 [默认：1000]</string>
     <string name="config_save_record_count_for_timeline_summary_たいぺん">时间轴标签泰推保存数量 [默认：1000]</string>
-    <string name="config_save_record_count_without_timeline">推文保存数量（其他）</string>
-    <string name="config_save_record_count_without_timeline_summary">无时间轴标签的推文保存数量 [默认：1000]</string>
+    <string name="config_save_record_count_without_timeline_ついぺん">推文保存数量（其他）</string>
+    <string name="config_save_record_count_without_timeline_ぞーぺん">帖子保存数量（其他）</string>
+    <string name="config_save_record_count_without_timeline_たいぺん">泰推保存数量（其他）</string>
+    <string name="config_save_record_count_without_timeline_summary_ついぺん">无时间轴标签的推文保存数量 [默认：1000]</string>
+    <string name="config_save_record_count_without_timeline_summary_ぞーぺん">无时间轴标签的帖子保存数量 [默认：1000]</string>
+    <string name="config_save_record_count_without_timeline_summary_たいぺん">无时间轴标签的泰推保存数量 [默认：1000]</string>
 
     <string name="config_use_gps_to_get_trend_location">地理位置（趋势）</string>
     <string name="config_screen_orientation">屏幕方向</string>
