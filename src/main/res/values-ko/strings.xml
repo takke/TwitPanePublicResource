@@ -1079,7 +1079,7 @@
     <string name="config_display_sensitive_iamges_as_blur">민감한 이미지를 흐리게 표시</string>
     <string name="config_display_sensitive_iamges_as_blur_summary_ついぺん"></string>
     <string name="config_display_all_iamges_as_blur">Display all images as blur</string>
-    <string name="config_display_all_iamges_as_blur_summary_ついぺん">[default:OFF]</string>
+    <string name="config_display_all_iamges_as_blur_summary">[default:OFF]</string>
     <string name="config_user_icon_thumbnail_category">User icon</string>
     <string name="config_use_rounded_thumbnail">Rounded Thumbnail</string>
     <string name="config_use_rounded_thumbnail_summary">Use rounded profile icon [default:ON]</string>

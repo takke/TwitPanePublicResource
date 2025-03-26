@@ -1078,7 +1078,7 @@
     <string name="config_display_sensitive_iamges_as_blur">对敏感图像进行模糊处理</string>
     <string name="config_display_sensitive_iamges_as_blur_summary_ついぺん"></string>
     <string name="config_display_all_iamges_as_blur">Display all images as blur</string>
-    <string name="config_display_all_iamges_as_blur_summary_ついぺん">[default:OFF]</string>
+    <string name="config_display_all_iamges_as_blur_summary">[default:OFF]</string>
     <string name="config_user_icon_thumbnail_category">用户图标</string>
     <string name="config_use_rounded_thumbnail">圆形的缩略图</string>
     <string name="config_use_rounded_thumbnail_summary">使用圆形的个人资料图标 [默认:开]</string>
