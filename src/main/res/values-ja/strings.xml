@@ -1176,12 +1176,18 @@
     <string name="config_timeline_action_bluesky">タイムラインアクションボタン(Bluesky)</string>
     <string name="config_bluesky_action_button_size">アクションボタンのサイズ</string>
     <string name="config_tweet_load_ついぺん">ツイート取得</string>
+    <string name="config_tweet_load_ぞーぺん">投稿取得</string>
+    <string name="config_tweet_load_たいぺん">投稿取得</string>
     <string name="config_official_app_cooperation_ついぺん">公式アプリ連携</string>
     <string name="config_use_official_app_for_tweet_operation">公式アプリ経由でツイート操作を行う</string>
     <string name="config_use_official_app_for_tweet_operation_summary">Twitter公式アプリを経由していいねやRT、ツイート投稿を行います。【初期値：ON】</string>
     <string name="config_action">操作</string>
 	<string name="config_tweet_get_limit_title_ついぺん">ツイート取得件数</string>
+	<string name="config_tweet_get_limit_title_ぞーぺん">投稿取得件数</string>
+	<string name="config_tweet_get_limit_title_たいぺん">投稿取得件数</string>
     <string name="config_tweet_get_limit_summary_ついぺん">ツイートを1回に取得する件数です。大きくしすぎると通信時間やデータ量が多くなります。\nMastodonは最大40件、Misskeyは最大100件、Blueskyは最大100件です。</string>
+    <string name="config_tweet_get_limit_summary_ぞーぺん">投稿を1回に取得する件数です。大きくしすぎると通信時間やデータ量が多くなります。\nMastodonは最大40件、Misskeyは最大100件、Blueskyは最大100件です。</string>
+    <string name="config_tweet_get_limit_summary_たいぺん">投稿を1回に取得する件数です。大きくしすぎると通信時間やデータ量が多くなります。</string>
     <string name="config_use_home_timeline_v2">タイムラインをTwitter API v2で取得</string>
     <string name="config_use_home_timeline_v2_summary">ホームタイムラインの取得に Twitter API v2 を使用します。API制限が15回から180回に緩和されます【初期値：OFF】</string>
     <string name="config_use_home_timeline_v2_confirm_message">・API制限が15分あたり15回から180回に増加します。\n
@@ -1204,12 +1210,20 @@
     <string name="config_auto_pager">オートページャ</string>
     <string name="config_auto_pager_summary">リストの下までスクロールした際に自動的に次のページを取得します【初期値：ON】 (Blueskyは未対応)</string>
     <string name="config_scroll_pos_after_acquired_gap_ついぺん">中間投稿取得後の位置</string>
+    <string name="config_scroll_pos_after_acquired_gap_ぞーぺん">中間投稿取得後の位置</string>
+    <string name="config_scroll_pos_after_acquired_gap_たいぺん">中間投稿取得後の位置</string>
     <string name="config_scroll_pos_after_acquired_gap_summary_ついぺん">…をタップして「間のツイート(ギャップ)」を取得した後のスクロール位置を設定します</string>
+    <string name="config_scroll_pos_after_acquired_gap_summary_ぞーぺん">…をタップして「間の投稿(ギャップ)」を取得した後のスクロール位置を設定します</string>
+    <string name="config_scroll_pos_after_acquired_gap_summary_たいぺん">…をタップして「間のタイーツ(ギャップ)」を取得した後のスクロール位置を設定します</string>
     <string name="config_scroll_pos_after_acquired_gap_top">中間投稿の上側(移動しない)</string>
     <string name="config_scroll_pos_after_acquired_gap_bottom">中間投稿の下側</string>
     <string name="config_scroll_pos_after_acquired_gap_confirm_each_time">取得時に毎回確認する</string>
     <string name="config_scroll_pos_after_acquired_new_tweet_ついぺん">新着投稿取得後の位置</string>
+    <string name="config_scroll_pos_after_acquired_new_tweet_ぞーぺん">新着投稿取得後の位置</string>
+    <string name="config_scroll_pos_after_acquired_new_tweet_たいぺん">新着タイーツ取得後の位置</string>
     <string name="config_scroll_pos_after_acquired_new_tweet_summary_ついぺん">リロードボタン等で新しいツイートを取得した後のスクロール位置を設定します</string>
+    <string name="config_scroll_pos_after_acquired_new_tweet_summary_ぞーぺん">リロードボタン等で新しい投稿を取得した後のスクロール位置を設定します</string>
+    <string name="config_scroll_pos_after_acquired_new_tweet_summary_たいぺん">リロードボタン等で新しいタイーツを取得した後のスクロール位置を設定します</string>
     <string name="config_scroll_pos_after_acquired_new_tweet_top">新着投稿の上側</string>
     <string name="config_scroll_pos_after_acquired_new_tweet_bottom">新着投稿の下側</string>
     <string name="config_scroll_pos_after_acquired_new_tweet_keep">移動しない</string>
@@ -1246,7 +1260,11 @@
     <string name="config_tap_ex_preview_post">これはタップ拡張の設定とプレビュー用のポストです。\n左側や右側のエリアをタップ・長押しすることで呼び出す機能を、実際にタップ・長押しして割り当てることができます。</string>
 
 	<string name="config_set_read_after_shown_ついぺん">表示時に既読にする</string>
+	<string name="config_set_read_after_shown_ぞーぺん">表示時に既読にする</string>
+	<string name="config_set_read_after_shown_たいぺん">表示時に既読にする</string>
 	<string name="config_set_read_after_shown_summary_ついぺん">ツイートを表示した時点ですぐに既読にする【初期値：OFF】 (Blueskyは未対応)</string>
+	<string name="config_set_read_after_shown_summary_ぞーぺん">投稿を表示した時点ですぐに既読にする【初期値：OFF】 (Blueskyは未対応)</string>
+	<string name="config_set_read_after_shown_summary_たいぺん">タイーツを表示した時点ですぐに既読にする【初期値：OFF】 (Blueskyは未対応)</string>
 
     <string name="config_message_settings_category">メッセージ設定</string>
     <string name="config_show_new_message_from_bottom">新しいメッセージを下に表示</string>
