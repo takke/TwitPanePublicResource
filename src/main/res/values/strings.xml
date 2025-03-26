@@ -1372,8 +1372,8 @@ Do you want to enable it?</string>
     <string name="config_reply_notification_ticker_type">Reply notif. ticker</string>
     <string-array name="config_reply_notification_ticker_type_entries">
         <item>Name</item>
-        <item>Name+Tweet</item>
-        <item>Tweet [default]</item>
+        <item>Name+Post</item>
+        <item>Post [default]</item>
     </string-array>
     <string name="config_show_dm_notification">Show message notification</string>
     <string name="config_notification_ringtone">Ringtone</string>

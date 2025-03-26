@@ -1379,8 +1379,8 @@
     <string name="config_reply_notification_ticker_type">新着返信の通知内容</string>
     <string-array name="config_reply_notification_ticker_type_entries">
         <item>名前</item>
-        <item>名前＋ツイート本文</item>
-        <item>ツイート本文 【初期値】</item>
+        <item>名前＋投稿本文</item>
+        <item>投稿本文 【初期値】</item>
     </string-array>
     <string name="config_show_dm_notification">新着メッセージの通知</string>
     <string name="config_notification_ringtone">通知音</string>
