@@ -1159,13 +1159,20 @@
     <string name="config_timeline_action_settings_category_summary">Timeline tap-ex, actions</string>
     <string name="config_timeline_action_bluesky">Botones de acción de línea de tiempo (Bluesky)</string>
     <string name="config_bluesky_action_button_size">Tamaño del botón de acción</string>
-    <string name="config_tweet_load_ついぺん">Tweet carga</string>
+    <string name="config_tweet_load_ついぺん">Carga de tweets</string>
+    <string name="config_tweet_load_ぞーぺん">Carga de publicaciones</string>
+    <string name="config_tweet_load_たいぺん">Carga de Taiitsu</string>
+
     <string name="config_official_app_cooperation_ついぺん">Official App Cooperation</string>
     <string name="config_use_official_app_for_tweet_operation">Perform tweets, etc. via official apps</string>
     <string name="config_use_official_app_for_tweet_operation_summary">Like, RT, and Tweets are posted via the official Twitter application. [Default:ON]</string>
     <string name="config_action">Acción</string>
-    <string name="config_tweet_get_limit_title_ついぺん">"Cantidad de Tweet a obtener"</string>
-    <string name="config_tweet_get_limit_summary_ついぺん">"Cantidad de tweets que hay que recuperar al actualizar"</string>
+    <string name="config_tweet_get_limit_title_ついぺん">Número de tweets a cargar</string>
+    <string name="config_tweet_get_limit_title_ぞーぺん">Número de publicaciones a cargar</string>
+    <string name="config_tweet_get_limit_title_たいぺん">Número de Taiitsu a cargar</string>
+    <string name="config_tweet_get_limit_summary_ついぺん">Establecer el número de tweets a cargar a la vez</string>
+    <string name="config_tweet_get_limit_summary_ぞーぺん">Establecer el número de publicaciones a cargar a la vez</string>
+    <string name="config_tweet_get_limit_summary_たいぺん">Establecer el número de Taiitsu a cargar a la vez</string>
     <string name="config_use_home_timeline_v2">Use la API v2 para la línea de tiempo de inicio</string>
     <string name="config_use_home_timeline_v2_summary">Use Twitter API v2 para obtener la línea de tiempo de inicio</string>
     <string name="config_auto_load_at_startup">"Carga automática en el arranque"</string>
@@ -1182,13 +1189,20 @@
     <string name="hide_reposts_show">show</string>
     <string name="config_auto_pager">"Autopaginación"</string>
     <string name="config_auto_pager_summary">"Pasa a la página siguiente cuando la posición de desplazamiento esté en la parte inferior de la lista"</string>
-    <string name="config_scroll_pos_after_acquired_gap_ついぺん">"El desplazamiento se para después de espacios en blanco"</string>
-    <string name="config_scroll_pos_after_acquired_gap_summary_ついぺん">"Establecer la posición de desplazamiento después de adquirir los tweets medios"</string>
+    <string name="config_scroll_pos_after_acquired_gap_ぞーぺん">Posición de desplazamiento después de cargar publicaciones intermedias</string>
+    <string name="config_scroll_pos_after_acquired_gap_たいぺん">Posición de desplazamiento después de cargar Taiitsu intermedios</string>
+    <string name="config_scroll_pos_after_acquired_gap_summary_ついぺん">Establecer dónde desplazarse después de cargar tweets intermedios</string>
+    <string name="config_scroll_pos_after_acquired_gap_summary_ぞーぺん">Establecer dónde desplazarse después de cargar publicaciones intermedias</string>
+    <string name="config_scroll_pos_after_acquired_gap_summary_たいぺん">Establecer dónde desplazarse después de cargar Taiitsu intermedios</string>
     <string name="config_scroll_pos_after_acquired_gap_top">"parte superior de los tweets medios"</string>
     <string name="config_scroll_pos_after_acquired_gap_bottom">"parte inferior de los tweets"</string>
     <string name="config_scroll_pos_after_acquired_gap_confirm_each_time">Verifique cada vez que adquiera.</string>
-    <string name="config_scroll_pos_after_acquired_new_tweet_ついぺん">"Pausa de desplazamiento después de uno nuevo"</string>
-    <string name="config_scroll_pos_after_acquired_new_tweet_summary_ついぺん">"Establecer la posición de desplazamiento después de adquirir los nuevos tweets"</string>
+    <string name="config_scroll_pos_after_acquired_new_tweet_ついぺん">Posición de desplazamiento después de cargar nuevos tweets</string>
+    <string name="config_scroll_pos_after_acquired_new_tweet_ぞーぺん">Posición de desplazamiento después de cargar nuevas publicaciones</string>
+    <string name="config_scroll_pos_after_acquired_new_tweet_たいぺん">Posición de desplazamiento después de cargar nuevos Taiitsu</string>
+    <string name="config_scroll_pos_after_acquired_new_tweet_summary_ついぺん">Establecer dónde desplazarse después de cargar nuevos tweets</string>
+    <string name="config_scroll_pos_after_acquired_new_tweet_summary_ぞーぺん">Establecer dónde desplazarse después de cargar nuevas publicaciones</string>
+    <string name="config_scroll_pos_after_acquired_new_tweet_summary_たいぺん">Establecer dónde desplazarse después de cargar nuevos Taiitsu</string>
     <string name="config_scroll_pos_after_acquired_new_tweet_top">"parte superior de los nuevos tweets"</string>
     <string name="config_scroll_pos_after_acquired_new_tweet_bottom">"parte inferior de las nuevos tweets"</string>
     <string name="config_scroll_pos_after_acquired_new_tweet_keep">keep original position</string>
@@ -1224,8 +1238,12 @@
     <string name="config_tap_ex_action_right_long_summary">"Ejecutar la función directamente al mantener pulsada el área derecha de la cronología"</string>
     <string name="config_tap_ex_preview_post">This is the post for setting up and previewing the tap extension.\nYou can actually tap and hold and assign functions that are called up by tapping and holding the area on the left or right side of the post.</string>
 
-    <string name="config_set_read_after_shown_ついぺん">"Tweet leído tras mostrarlo"</string>
-    <string name="config_set_read_after_shown_summary_ついぺん">"Establecer tweet como leído tras mostrarlo"</string>
+    <string name="config_set_read_after_shown_ついぺん">Marcar como leído después de ver</string>
+    <string name="config_set_read_after_shown_ぞーぺん">Marcar como leído después de ver</string>
+    <string name="config_set_read_after_shown_たいぺん">Marcar como leído después de ver</string>
+    <string name="config_set_read_after_shown_summary_ついぺん">Marcar tweets como leídos después de verlos</string>
+    <string name="config_set_read_after_shown_summary_ぞーぺん">Marcar publicaciones como leídas después de verlas</string>
+    <string name="config_set_read_after_shown_summary_たいぺん">Marcar Taiitsu como leídos después de verlos</string>
 
     <string name="config_message_settings_category">"Mensajes"</string>
     <string name="config_show_new_message_from_bottom">"Mostrar desde abajo"</string>
@@ -1952,5 +1970,12 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
 
     <string name="notification_channel_bluesky_auth_error">Error de autenticación de Bluesky</string>
     <string name="bluesky_auth_error_notification_message">El token de autenticación ha caducado y se requiere una reautenticación (%1$s)</string>
+
+
+
+
+
+
+
 
 </resources>
