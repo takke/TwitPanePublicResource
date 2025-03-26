@@ -502,7 +502,9 @@
     <string name="add_user_list_to_home_already_added">已經新增..</string>
     <string name="add_user_list_to_home_finish">已新增</string>
     <string name="menu_share">分享</string>
-    <string name="menu_share_design">分享設計</string>
+    <string name="menu_share_design_ついぺん">分享設計</string>
+    <string name="menu_share_design_ぞーぺん">分享設計</string>
+    <string name="menu_share_design_たいぺん">分享設計</string>
 
     <string name="menu_stop_userstream">停止使用者串流</string>
     <string name="menu_start_userstream">啟動使用者串流</string>

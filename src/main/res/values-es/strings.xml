@@ -500,7 +500,9 @@
     <string name="add_user_list_to_home_already_added">"ya se ha añadido ..."</string>
     <string name="add_user_list_to_home_finish">"añadido"</string>
     <string name="menu_share">"Compartir"</string>
-    <string name="menu_share_design">"Compartir diseño"</string>
+    <string name="menu_share_design_ついぺん">"Compartir diseño"</string>
+    <string name="menu_share_design_ぞーぺん">"Compartir diseño"</string>
+    <string name="menu_share_design_たいぺん">"Compartir diseño"</string>
 
     <string name="menu_stop_userstream">"Detener Transmisión"</string>
     <string name="menu_start_userstream">"Iniciar Transmisión"</string>

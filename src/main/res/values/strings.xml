@@ -503,7 +503,9 @@
     <string name="add_user_list_to_home_already_added">already added..</string>
     <string name="add_user_list_to_home_finish">added</string>
     <string name="menu_share">Share</string>
-    <string name="menu_share_design">Share Design</string>
+    <string name="menu_share_design_ついぺん">Share Design</string>
+    <string name="menu_share_design_ぞーぺん">Share Design</string>
+    <string name="menu_share_design_たいぺん">Share Design</string>
 
     <string name="menu_stop_userstream">Stop UserStream</string>
     <string name="menu_start_userstream">Start UserStream</string>

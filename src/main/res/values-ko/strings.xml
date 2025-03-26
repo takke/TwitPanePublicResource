@@ -499,8 +499,10 @@
     <string name="add_user_list_to_home_already_added">"이미 추가됨.."</string>
     <string name="add_user_list_to_home_finish">"추가"</string>
     <string name="menu_share">"공유"</string>
-    <string name="menu_share_design">"디자인 공유"</string>
-    
+    <string name="menu_share_design_ついぺん">"디자인 공유"</string>
+    <string name="menu_share_design_ぞーぺん">"디자인 공유"</string>
+    <string name="menu_share_design_たいぺん">"디자인 공유"</string>
+
     <string name="menu_stop_userstream">"UserStream를 중지"</string>
     <string name="menu_start_userstream">"UserStream를 시작"</string>
     <string name="menu_enable_auto_scroll">"자동 스크롤 활성화"</string>

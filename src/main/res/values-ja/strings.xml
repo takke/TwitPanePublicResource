@@ -508,7 +508,9 @@
     <string name="add_user_list_to_home_already_added">既に追加されています</string>
     <string name="add_user_list_to_home_finish">ホームタブに追加しました</string>
     <string name="menu_share">共有</string>
-    <string name="menu_share_design">デザインをツイートする</string>
+    <string name="menu_share_design_ついぺん">デザインをツイートする</string>
+    <string name="menu_share_design_ぞーぺん">デザインを投稿する</string>
+    <string name="menu_share_design_たいぺん">デザインをタイーツする</string>
     
     <string name="menu_stop_userstream">UserStream 停止</string>
     <string name="menu_start_userstream">UserStream 開始</string>
