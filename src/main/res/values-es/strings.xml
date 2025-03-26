@@ -1041,8 +1041,10 @@
     <string name="config_snackbar_for_like_rt_notice_twitpane">Nuevo estilo de notificación para like y RT</string>
     <string name="config_snackbar_for_like_rt_notice_zonepane">Nuevo estilo de notificación para like y RP</string>
     <string name="config_snackbar_for_like_rt_notice_taipane">Nuevo estilo de notificación para like y RT</string>
-    <string name="config_snackbar_for_like_rt_notice_summary_twitpane"></string>
-    <string name="config_image_animation">"Animación de imagen"</string>
+    <string name="config_snackbar_for_like_rt_notice_summary_twitpane">Cambia la notificación después de dar like y retweetear al nuevo estilo (Snackbar). Desactivar para utilizar el estilo antiguo (Toast)[default:ON]</string>
+    <string name="config_snackbar_for_like_rt_notice_summary_zonepane">Cambia la notificación después de dar like y repostear al nuevo estilo (Snackbar). Desactivar para utilizar el estilo antiguo (Toast)[default:ON]</string>
+    <string name="config_snackbar_for_like_rt_notice_summary_taipane">Cambia la notificación después de dar like y retaiitsuar al nuevo estilo (Snackbar). Desactivar para utilizar el estilo antiguo (Toast)[default:ON]</string>
+    <string name="config_image_animation">"Animación para mostrar imágenes"</string>
     <string name="config_image_animation_summary">""</string>
     <string name="config_enable_fast_scroll">"Desplazamiento rápido"</string>
     <string name="config_enable_fast_scroll_summary">"Habilitar cuadro de desplazamiento rápido en la lista"</string>
