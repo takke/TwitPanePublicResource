@@ -205,12 +205,13 @@
     <string name="destroyed_favorite_message_favorite_mst">お気に入りから削除しました</string>
     <string name="bookmarked_message">ブックマークしました</string>
     <string name="unbookmarked_message">ブックマークを外しました</string>
-    <string name="added_note_to_clip_message">クリップしました</string>
-    <string name="removed_note_from_clip_message">クリップを削除しました</string>
+    <string name="added_note_to_clip_message">ノートをクリップに追加しました</string>
+    <string name="removed_note_from_clip_message">ノートをクリップから削除しました</string>
     <string name="delete_confirm_message_tw">このツイートを削除しますか？</string>
     <string name="delete_confirm_message_bluesky">この投稿を削除しますか？</string>
     <string name="delete_confirm_message_mastodon">この投稿を削除しますか？</string>
     <string name="delete_confirm_message_misskey">このノートを削除しますか？</string>
+    <string name="delete_confirm_message_taittsuu">このタイーツを削除しますか？</string>
     <string name="delete_dm_confirm_message">このメッセージを削除しますか？</string>
     <string name="deleted_message">削除しました</string>
     <string name="already_deleted_message">既に削除されています</string>

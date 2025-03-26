@@ -205,13 +205,14 @@
     <string name="destroyed_favorite_message_favorite_mst">已從收藏中移除</string>
     <string name="bookmarked_message">已收藏</string>
     <string name="unbookmarked_message">書籤已刪除</string>
-    <string name="added_note_to_clip_message">Added note to clip</string>
-    <string name="removed_note_from_clip_message">Removed note from clip</string>
+    <string name="added_note_to_clip_message">已將筆記添加到剪輯</string>
+    <string name="removed_note_from_clip_message">已從剪輯中刪除筆記</string>
     <string name="delete_confirm_message_tw">確定要刪除這個推文嗎？</string>
     <string name="delete_confirm_message_bluesky">確定要刪除這個帖文嗎？</string>
     <string name="delete_confirm_message_mastodon">確定要刪除這個帖文嗎？</string>
     <string name="delete_confirm_message_misskey">確定要刪除這個筆記嗎？</string>
-    <string name="delete_dm_confirm_message">刪除此消息？</string>
+    <string name="delete_confirm_message_taittsuu">確定要刪除這個帖文嗎？</string>
+    <string name="delete_dm_confirm_message">刪除這個訊息？</string>
     <string name="deleted_message">已刪除</string>
     <string name="already_deleted_message">已被刪除</string>
     <string name="mute_user_confirm_message">將此用户靜音？</string>

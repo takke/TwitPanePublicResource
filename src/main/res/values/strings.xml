@@ -210,7 +210,8 @@
     <string name="delete_confirm_message_tw">Are you sure you want to delete this Tweet?</string>
     <string name="delete_confirm_message_bluesky">Are you sure you want to delete this post?</string>
     <string name="delete_confirm_message_mastodon">Are you sure you want to delete this post?</string>
-    <string name="delete_confirm_message_misskey">Are you sure you want to delete this Note?</string>
+    <string name="delete_confirm_message_misskey">Are you sure you want to delete this note?</string>
+    <string name="delete_confirm_message_taittsuu">Are you sure you want to delete this taiitsu?</string>
     <string name="delete_dm_confirm_message">Delete this message?</string>
     <string name="deleted_message">Deleted</string>
     <string name="already_deleted_message">Already deleted</string>
