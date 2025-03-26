@@ -1241,6 +1241,8 @@
     <string name="upload_image_quality_better">更好</string>
     <string name="upload_image_quality_best">最好</string>
     <string name="config_show_tweet_confirm_dialog_title_ついぺん">推文确认</string>
+    <string name="config_show_tweet_confirm_dialog_title_ぞーぺん">发送确认</string>
+    <string name="config_show_tweet_confirm_dialog_title_たいぺん">タイーツ确认</string>
     <string name="config_show_tweet_confirm_dialog_summary_ついぺん">发送推文或消息之前显示确认对话框</string>
     <string name="config_initial_visibility">Initial Visibility</string>
     <string name="config_initial_visibility_per_account">Initial Visibility(Per Account)</string>

@@ -1262,6 +1262,8 @@
     <string name="upload_image_quality_better">中画質【初期値】</string>
     <string name="upload_image_quality_best">高画質</string>
 	<string name="config_show_tweet_confirm_dialog_title_ついぺん">投稿前の確認画面</string>
+	<string name="config_show_tweet_confirm_dialog_title_ぞーぺん">投稿前の確認画面</string>
+	<string name="config_show_tweet_confirm_dialog_title_たいぺん">投稿前の確認画面</string>
 	<string name="config_show_tweet_confirm_dialog_summary_ついぺん">ツイートやメッセージの投稿前に投稿内容を確認する画面を表示します【初期値：ON】</string>
     <string name="config_initial_visibility">公開範囲の初期値</string>
     <string name="config_initial_visibility_per_account">公開範囲の初期値(アカウント毎)</string>

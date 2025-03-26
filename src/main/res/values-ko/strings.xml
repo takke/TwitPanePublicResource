@@ -1242,6 +1242,8 @@
     <string name="upload_image_quality_better">Better</string>
     <string name="upload_image_quality_best">Best</string>
 	<string name="config_show_tweet_confirm_dialog_title_ついぺん">"트윗 확인"</string>
+    <string name="config_show_tweet_confirm_dialog_title_ぞーぺん">게시물 확인</string>
+    <string name="config_show_tweet_confirm_dialog_title_たいぺん">타이츠 확인</string>
 	<string name="config_show_tweet_confirm_dialog_summary_ついぺん">"트윗 또는 메시지를 전송하기 전에 확인 대화상자 표시"</string>
     <string name="config_initial_visibility">Initial Visibility</string>
     <string name="config_initial_visibility_per_account">Initial Visibility(Per Account)</string>
@@ -1946,12 +1948,5 @@
     <string name="notification_channel_bluesky_auth_error">Bluesky 인증 오류</string>
     <string name="bluesky_auth_error_notification_message">인증 토큰이 만료되어 재인증이 필요합니다(%1$s)</string>
 
-    <string name="config_snackbar_for_like_rt_notice_zonepane">좋아요와 리포스트 알림의 새로운 방식</string>
-    <string name="config_snackbar_for_like_rt_notice_taipane">좋아요와 리트윗 알림의 새로운 방식</string>
-    <string name="config_snackbar_for_like_rt_notice_summary">좋아요와 리트윗 후 알림을 새로운 방식(스낵바)으로 변경합니다. 이전 방식(토스트)을 원하시면 해제하세요. [기본값: ON]</string>
-    <string name="config_snackbar_for_like_rt_notice_summary_zonepane">좋아요와 리포스트 후 알림을 새로운 방식(스낵바)으로 변경합니다. 이전 방식(토스트)을 원하시면 해제하세요. [기본값: ON]</string>
-    <string name="config_snackbar_for_like_rt_notice_summary_taipane">좋아요와 리타이츠 후 알림을 새로운 방식(스낵바)으로 변경합니다. 이전 방식(토스트)을 원하시면 해제하세요. [기본값: ON]</string>
-    <string name="config_image_animation">이미지 표시 애니메이션</string>
-    <string name="config_image_animation_summary">""</string>
 
 </resources>

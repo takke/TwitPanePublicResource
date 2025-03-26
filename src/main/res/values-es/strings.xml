@@ -1241,6 +1241,8 @@
     <string name="upload_image_quality_better">Better</string>
     <string name="upload_image_quality_best">Best</string>
     <string name="config_show_tweet_confirm_dialog_title_ついぺん">"Confirmar Tweet"</string>
+    <string name="config_show_tweet_confirm_dialog_title_ぞーぺん">Confirmar publicación</string>
+    <string name="config_show_tweet_confirm_dialog_title_たいぺん">Confirmar Taiitsu</string>
     <string name="config_show_tweet_confirm_dialog_summary_ついぺん">"Mostrar diálogo de confirmación antes de enviar un tweet o mensaje"</string>
     <string name="config_initial_visibility">Initial Visibility</string>
     <string name="config_initial_visibility_per_account">Initial Visibility(Per Account)</string>
