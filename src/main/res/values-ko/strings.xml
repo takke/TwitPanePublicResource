@@ -1028,7 +1028,9 @@
     <string name="config_one_photo_size_summary_たいぺん">타이츠의 단일 사진 크기 [기본값:중간]</string>
     <string name="config_multi_photo_size">축소판 크기 (다중)</string>
     <string name="config_change_multi_photo_size">다중 축소판 크기 변경</string>
-    <string name="config_multi_photo_size_summary_ついぺん">여러 장의 사진이 첨부 된 경우 축소판 크기</string>
+    <string name="config_multi_photo_size_summary_ついぺん">트윗의 다중 사진 크기 [기본값:중간]</string>
+    <string name="config_multi_photo_size_summary_ぞーぺん">게시물의 다중 사진 크기 [기본값:중간]</string>
+    <string name="config_multi_photo_size_summary_たいぺん">타이츠의 다중 사진 크기 [기본값:중간]</string>
     <string name="config_photo_size_hide">"숨기기"</string>
     <string name="config_tab_icon">"탭 아이콘"</string>
     <string name="config_tab_icon_summary">"탭에 아이콘 표시"</string>

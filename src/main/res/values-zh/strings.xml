@@ -1027,7 +1027,9 @@
     <string name="config_one_photo_size_summary_たいぺん">Taiitsu中单张照片的大小 [默认：中等]</string>
     <string name="config_multi_photo_size">缩略图大小（多）</string>
     <string name="config_change_multi_photo_size">更改多缩略图大小</string>
-    <string name="config_multi_photo_size_summary_ついぺん">附加多张照片时的缩略图大小</string>
+    <string name="config_multi_photo_size_summary_ついぺん">推文中多张照片的大小 [默认：中等]</string>
+    <string name="config_multi_photo_size_summary_ぞーぺん">帖子中多张照片的大小 [默认：中等]</string>
+    <string name="config_multi_photo_size_summary_たいぺん">Taiitsu中多张照片的大小 [默认：中等]</string>
     <string name="config_photo_size_hide">隐藏</string>
     <string name="config_tab_icon">标签图标</string>
     <string name="config_tab_icon_summary">在标签上显示图标</string>
@@ -2019,5 +2021,6 @@
 
     <string name="notification_channel_bluesky_auth_error">Bluesky 认证错误</string>
     <string name="bluesky_auth_error_notification_message">认证令牌已过期，需要重新认证 (%1$s)</string>
+
 
 </resources>

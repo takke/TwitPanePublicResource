@@ -1032,7 +1032,9 @@
     <string name="config_one_photo_size_summary_たいぺん">Size of single photo in taiitsu [default:MEDIUM]</string>
     <string name="config_multi_photo_size">Multiple photos size</string>
     <string name="config_change_multi_photo_size">Change multi-thumbnail size</string>
-    <string name="config_multi_photo_size_summary_ついぺん">Thumbnail size when multi photos attached</string>
+    <string name="config_multi_photo_size_summary_ついぺん">Size of multiple photos in tweet [default:MEDIUM]</string>
+    <string name="config_multi_photo_size_summary_ぞーぺん">Size of multiple photos in post [default:MEDIUM]</string>
+    <string name="config_multi_photo_size_summary_たいぺん">Size of multiple photos in taiitsu [default:MEDIUM]</string>
     <string name="config_photo_size_hide">Hide</string>
     <string name="config_tab_icon">Tab icon</string>
     <string name="config_tab_icon_summary">Show icon on tab</string>
