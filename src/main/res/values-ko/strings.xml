@@ -706,7 +706,10 @@
     <string name="menu_cancel_reply_to_other_post_misskey">다른 노트 연결 취소</string>
     <string name="menu_cancel_reply_to_other_post_bluesky">다른 게시물 연결 취소</string>
     <string name="menu_cancel_reply_to_other_post_mastodon">다른 게시물 연결 취소</string>
-    <string name="select_tweet_to_link_to">에 연결하는 트윗을 선택</string>
+    <string name="select_tweet_to_link_to_tw">에 연결하는 트윗을 선택</string>
+    <string name="select_tweet_to_link_to_mastodon">링크할 게시물 선택</string>
+    <string name="select_tweet_to_link_to_misskey">링크할 노트 선택</string>
+    <string name="select_tweet_to_link_to_bluesky">링크할 게시물 선택</string>
     <string name="menu_hide_reply_area">숨기기 답글 영역</string>
     <string name="menu_show_reply_area">보기 답글 영역</string>
     <string name="menu_hide_attached_image_area">첨부 이미지 영역을 숨기기</string>

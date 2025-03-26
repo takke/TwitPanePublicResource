@@ -698,7 +698,10 @@
     <string name="menu_cancel_reply_to_other_post_misskey">取消連結到其他筆記</string>
     <string name="menu_cancel_reply_to_other_post_bluesky">取消連結到其他帖文</string>
     <string name="menu_cancel_reply_to_other_post_mastodon">取消連結到其他帖文</string>
-    <string name="select_tweet_to_link_to">選擇要連結的推文</string>
+    <string name="select_tweet_to_link_to_tw">選擇要連結的推文</string>
+    <string name="select_tweet_to_link_to_mastodon">選擇要連結的帖文</string>
+    <string name="select_tweet_to_link_to_misskey">選擇要連結的筆記</string>
+    <string name="select_tweet_to_link_to_bluesky">選擇要連結的帖文</string>
     <string name="menu_hide_reply_area">隱藏回覆區</string>
     <string name="menu_show_reply_area">顯示回覆區</string>
     <string name="menu_hide_attached_image_area">隱藏附加圖像區域</string>

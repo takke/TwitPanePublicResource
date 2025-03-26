@@ -713,7 +713,10 @@
     <string name="menu_cancel_reply_to_other_post_misskey">他のノートに繋ぐのをやめる</string>
     <string name="menu_cancel_reply_to_other_post_bluesky">他の投稿に繋ぐのをやめる</string>
     <string name="menu_cancel_reply_to_other_post_mastodon">他の投稿に繋ぐのをやめる</string>
-    <string name="select_tweet_to_link_to">繋ぎ先のツイートを選択してください</string>
+    <string name="select_tweet_to_link_to_tw">繋ぎ先のツイートを選択してください</string>
+    <string name="select_tweet_to_link_to_mastodon">繋ぎ先の投稿を選択してください</string>
+    <string name="select_tweet_to_link_to_misskey">繋ぎ先のノートを選択してください</string>
+    <string name="select_tweet_to_link_to_bluesky">繋ぎ先の投稿を選択してください</string>
     <string name="menu_hide_reply_area">返信エリアを非表示にする</string>
     <string name="menu_show_reply_area">返信エリアを表示する</string>
     <string name="menu_hide_attached_image_area">添付画像エリアを非表示にする</string>
