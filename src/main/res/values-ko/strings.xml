@@ -886,7 +886,7 @@
     <string name="drafts">"임시보관함"</string>
     <string name="drafts_and_post_history">임시보관함 및 게시물 기록</string>
     <string name="drafts_only">초안만</string>
-    <string name="tweet_history_only">트윗 기록만</string>
+    <string name="post_history_only">게시물 기록만</string>
     <string name="filter">필터</string>
     <string name="draft_remove_confirm_title">"삭제 확인"</string>
     <string name="draft_remove_confirm_message">"이 초안을 삭제하시겠습니까?"</string>

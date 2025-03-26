@@ -886,7 +886,7 @@
     <string name="drafts">"Borradores"</string>
     <string name="drafts_and_post_history">Borradores e historial de publicaciones</string>
     <string name="drafts_only">Solo borradores</string>
-    <string name="tweet_history_only">Solo historial de tuits</string>
+    <string name="post_history_only">Solo historial de publicaciones</string>
     <string name="filter">Filtrar</string>
     <string name="draft_remove_confirm_title">"Confirmar borrado"</string>
     <string name="draft_remove_confirm_message">"¿Eliminar este borrador?"</string>

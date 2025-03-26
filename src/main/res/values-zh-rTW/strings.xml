@@ -888,7 +888,7 @@
     <string name="drafts">草稿</string>
     <string name="drafts_and_post_history">草稿和發佈歷史</string>
     <string name="drafts_only">僅草稿</string>
-    <string name="tweet_history_only">僅推文歷史</string>
+    <string name="post_history_only">僅發佈歷史</string>
     <string name="filter">篩選</string>
     <string name="draft_remove_confirm_title">刪除確認</string>
     <string name="draft_remove_confirm_message">刪除此草稿嗎？</string>

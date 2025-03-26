@@ -890,7 +890,7 @@
     <string name="drafts">Drafts</string>
     <string name="drafts_and_post_history">Drafts and Post history</string>
     <string name="drafts_only">Drafts only</string>
-    <string name="tweet_history_only">Tweet history only</string>
+    <string name="post_history_only">Post history only</string>
     <string name="filter">Filter</string>
     <string name="draft_remove_confirm_title">Delete confirm</string>
     <string name="draft_remove_confirm_message">Delete this draft?</string>

@@ -897,7 +897,7 @@
     <string name="drafts">下書き・ツイート履歴</string>
     <string name="drafts_and_post_history">下書き・投稿履歴</string>
     <string name="drafts_only">下書きのみ</string>
-    <string name="tweet_history_only">ツイート履歴のみ</string>
+    <string name="post_history_only">投稿履歴のみ</string>
     <string name="filter">フィルター</string>
     <string name="draft_remove_confirm_title">削除確認</string>
     <string name="draft_remove_confirm_message">下書きを削除しますか？</string>
