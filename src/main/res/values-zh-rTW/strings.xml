@@ -172,6 +172,7 @@
 
     <string name="retweet_confirm_message">轉推此推文？</string>
     <string name="retweet_confirm_message_misskey">轉發此筆記？</string>
+    <string name="repost_confirm_message">轉發此貼文？</string>
     <string name="renote_in_channel_confirm_message">Renote this note in the channel?</string>
     <string name="boost_confirm_message">Boost this toot?</string>
     <string name="retweeted_message">已轉推</string>
@@ -180,6 +181,7 @@
     <string name="removed_repost_message">Removed</string>
     <string name="boosted_message">Boosted</string>
     <string name="remove_retweet_confirm_message">移除轉推？</string>
+    <string name="remove_repost_confirm_message">移除轉發？</string>
     <string name="remove_renote_confirm_message">移除轉發？</string>
     <string name="remove_boost_confirm_message">Remove boost?</string>
     <string name="remove_retweeted_message">已移除</string>
@@ -191,9 +193,10 @@
     <string name="remove_favorite_confirm_message_favorite_tw">刪除收藏？</string>
     <string name="remove_favorite_confirm_message_favorite_misskey">刪除收藏？</string>
     <string name="remove_favorite_confirm_message_like">取消收藏？</string>
+    <string name="remove_favorite_confirm_message_like_bluesky">取消喜歡？</string>
     <string name="destroyed_favorite_message_favorite">已取消收藏</string>
     <string name="favorite_confirm_message_like">收藏此推文？</string>
-    <string name="favorite_confirm_message_like_bluesky">喜歡這個帖文？</string>
+    <string name="favorite_confirm_message_like_bluesky">喜歡這個貼文？</string>
     <string name="created_favorite_message_like">已收藏</string>
     <string name="destroyed_favorite_message_like">已取消收藏</string>
     <string name="cannot_favorite_duplicate_status_favorite">可能已新增到您的收藏夾</string>
