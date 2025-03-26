@@ -1085,7 +1085,9 @@
     <string name="config_show_mutual_mark">Mutual Following Icon</string>
     <string name="config_show_mutual_mark_summary">Show mutual-following icon on timeline</string>
     <string name="config_display_sensitive_iamges_as_blur">Display sensitive images as blur</string>
-    <string name="config_display_sensitive_iamges_as_blur_summary_ついぺん"></string>
+    <string name="config_display_sensitive_iamges_as_blur_summary_ついぺん">Display sensitive images in tweets as blurred [default:ON]</string>
+    <string name="config_display_sensitive_iamges_as_blur_summary_ぞーぺん">Display sensitive images in posts as blurred [default:ON]</string>
+    <string name="config_display_sensitive_iamges_as_blur_summary_たいぺん">Display sensitive images in taiitsu as blurred [default:ON]</string>
     <string name="config_display_all_iamges_as_blur">Display all images as blur</string>
     <string name="config_display_all_iamges_as_blur_summary">[default:OFF]</string>
     <string name="config_user_icon_thumbnail_category">User icon</string>

@@ -1080,7 +1080,9 @@
     <string name="config_show_mutual_mark">"Icono de seguimiento mutuo"</string>
     <string name="config_show_mutual_mark_summary">"Mostrar icono de seguimiento mutuo en la cronología"</string>
     <string name="config_display_sensitive_iamges_as_blur">Mostrar imágenes sensibles como borrosas</string>
-    <string name="config_display_sensitive_iamges_as_blur_summary_ついぺん"></string>
+    <string name="config_display_sensitive_iamges_as_blur_summary_ついぺん">Mostrar imágenes sensibles en tweets como borrosas [predeterminado:ACTIVADO]</string>
+    <string name="config_display_sensitive_iamges_as_blur_summary_ぞーぺん">Mostrar imágenes sensibles en publicaciones como borrosas [predeterminado:ACTIVADO]</string>
+    <string name="config_display_sensitive_iamges_as_blur_summary_たいぺん">Mostrar imágenes sensibles en taiitsu como borrosas [predeterminado:ACTIVADO]</string>
     <string name="config_display_all_iamges_as_blur">Display all images as blur</string>
     <string name="config_display_all_iamges_as_blur_summary">[default:OFF]</string>
     <string name="config_user_icon_thumbnail_category">User icon</string>
