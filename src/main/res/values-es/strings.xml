@@ -821,9 +821,10 @@
     <string name="menu_change_keyword">"Cambiar la palabra clave"</string>
 
     <!-- ================================================================================ -->
-    <!-- WriteView -->
+    <!-- 投稿画面 -->
     <!-- ================================================================================ -->
     <string name="publish_activity_title">"Tweet"</string>
+    <string name="bluesky_post">Post</string>
     <string name="mastodon_publish_activity_title">Post</string>
     <string name="mastodon_publish_activity_title_edit">Edit</string>
     <string name="misskey_publish_activity_title">Note</string>

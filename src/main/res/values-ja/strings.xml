@@ -830,9 +830,10 @@
     <string name="menu_change_keyword">検索キーワード変更</string>
     
 	<!-- ================================================================================ -->
-    <!-- WriteView -->
+    <!-- 投稿画面 -->
     <!-- ================================================================================ -->
     <string name="publish_activity_title">ツイート</string>
+    <string name="bluesky_post">投稿</string>
     <string name="mastodon_publish_activity_title">投稿</string>
     <string name="mastodon_publish_activity_title_edit">編集</string>
     <string name="misskey_publish_activity_title">ノート</string>
