@@ -1094,7 +1094,9 @@
     <string name="config_tweet_design1_ついぺん">Tweet Design</string>
     <string name="config_tweet_design1_ぞーぺん">Post Design</string>
     <string name="config_tweet_design1_たいぺん">Taiitsu Design</string>
-    <string name="config_tweet_design2_ついぺん">Tweet design2</string>
+    <string name="config_tweet_design2_ついぺん">Tweet Design (Advanced)</string>
+    <string name="config_tweet_design2_ぞーぺん">Post Design (Advanced)</string>
+    <string name="config_tweet_design2_たいぺん">Taiitsu Design (Advanced)</string>
     <string name="config_other_design">Other Design</string>
     <string name="config_hide_my_numbers">Hide my numbers</string>
     <string name="config_hide_my_numbers_summary">Hide the number of likes, RTs, etc. of your posts.</string>

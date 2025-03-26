@@ -1089,6 +1089,8 @@
     <string name="config_tweet_design1_ぞーぺん">帖子设计</string>
     <string name="config_tweet_design1_たいぺん">Taiitsu设计</string>
     <string name="config_tweet_design2_ついぺん">推文设计2</string>
+    <string name="config_tweet_design2_ぞーぺん">帖子设计（高级）</string>
+    <string name="config_tweet_design2_たいぺん">Taiitsu设计（高级）</string>
     <string name="config_other_design">Other Design</string>
     <string name="config_hide_my_numbers">Hide my numbers</string>
     <string name="config_hide_my_numbers_summary">Hide the number of likes, RTs, etc. of your posts.</string>
