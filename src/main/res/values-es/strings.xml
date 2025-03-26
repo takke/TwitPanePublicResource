@@ -1163,7 +1163,9 @@
     <string name="config_tweet_load_ぞーぺん">Carga de publicaciones</string>
     <string name="config_tweet_load_たいぺん">Carga de Taiitsu</string>
 
-    <string name="config_official_app_cooperation_ついぺん">Official App Cooperation</string>
+    <string name="config_official_app_cooperation_ついぺん">Cooperación de la aplicación oficial</string>
+    <string name="config_official_app_cooperation_ぞーぺん">Cooperación de la aplicación oficial</string>
+    <string name="config_official_app_cooperation_たいぺん">Cooperación de la aplicación oficial</string>
     <string name="config_use_official_app_for_tweet_operation">Perform tweets, etc. via official apps</string>
     <string name="config_use_official_app_for_tweet_operation_summary">Like, RT, and Tweets are posted via the official Twitter application. [Default:ON]</string>
     <string name="config_action">Acción</string>

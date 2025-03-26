@@ -1166,6 +1166,8 @@
     <string name="config_tweet_load_ぞーぺん">貼文載入</string>
     <string name="config_tweet_load_たいぺん">Taiitsu載入</string>
     <string name="config_official_app_cooperation_ついぺん">官方應用程式合作</string>
+    <string name="config_official_app_cooperation_ぞーぺん">官方應用程式合作</string>
+    <string name="config_official_app_cooperation_たいぺん">官方應用程式合作</string>
     <string name="config_use_official_app_for_tweet_operation">透過官方應用程式執行推文等操作</string>
     <string name="config_use_official_app_for_tweet_operation_summary">讚好、轉推和推文將透過官方Twitter應用程式發布。[預設:開啟]</string>
     <string name="config_action">動作</string>

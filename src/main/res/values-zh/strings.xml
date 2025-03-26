@@ -1163,6 +1163,8 @@
     <string name="config_tweet_load_ぞーぺん">帖子加载</string>
     <string name="config_tweet_load_たいぺん">Taiitsu加载</string>
     <string name="config_official_app_cooperation_ついぺん">官方应用合作</string>
+    <string name="config_official_app_cooperation_ぞーぺん">官方应用合作</string>
+    <string name="config_official_app_cooperation_たいぺん">官方应用合作</string>
     <string name="config_use_official_app_for_tweet_operation">通过官方应用执行推文等操作</string>
     <string name="config_use_official_app_for_tweet_operation_summary">点赞、转推和推文将通过官方Twitter应用发布。[默认:开启]</string>
     <string name="config_action">动作</string>
