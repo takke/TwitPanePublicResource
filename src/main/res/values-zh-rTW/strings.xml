@@ -895,11 +895,10 @@
     <string name="publish_sensitive_warning_length_error">Please enter in %1$d characters or less text</string>
     <string name="publish_twitlonger_confirm">超過140字元，想透過TwitLonger發布嗎？</string>
     <string name="publish_twitter_dm_command_notice">發送私信嗎？</string>
-    <string name="publish_tweet_confirm_tw">傳送新推文嗎？</string>
-    <string name="publish_tweet_confirm_mastodon">傳送新貼文嗎？</string>
-    <string name="publish_tweet_confirm_misskey">傳送新筆記嗎？</string>
-    <string name="publish_tweet_confirm_bluesky">傳送新貼文嗎？</string>
-    <string name="publish_post_confirm">Send new post. ok?</string>
+    <string name="publish_post_confirm_tw">傳送新推文嗎？</string>
+    <string name="publish_post_confirm_mastodon">傳送新貼文嗎？</string>
+    <string name="publish_post_confirm_misskey">傳送新筆記嗎？</string>
+    <string name="publish_post_confirm_bluesky">傳送新貼文嗎？</string>
     <string name="publish_toot_edit_confirm">Edit toot. ok?</string>
     <string name="publish_attached_files">attached files</string>
     <string name="publish_emoji_warning">Emoji may not appear as shown in this preview in some instances</string>

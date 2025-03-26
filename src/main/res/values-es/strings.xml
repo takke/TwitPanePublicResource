@@ -893,11 +893,10 @@
     <string name="publish_sensitive_warning_length_error">Please enter in %1$d characters or less text</string>
     <string name="publish_twitlonger_confirm">"Más de 140 caracteres. ¿Quieres publicar a través de TwitLonger?"</string>
     <string name="publish_twitter_dm_command_notice">Es un comando DM. ¿Aceptar?</string>
-    <string name="publish_tweet_confirm_tw">"Enviar un nuevo tweet.¿Aceptar?"</string>
-    <string name="publish_tweet_confirm_mastodon">"Enviar una nueva publicación.¿Aceptar?"</string>
-    <string name="publish_tweet_confirm_misskey">"Enviar una nueva nota.¿Aceptar?"</string>
-    <string name="publish_tweet_confirm_bluesky">"Enviar una nueva publicación.¿Aceptar?"</string>
-    <string name="publish_post_confirm">Send new post. ok?</string>
+    <string name="publish_post_confirm_tw">"Enviar un nuevo tweet.¿Aceptar?"</string>
+    <string name="publish_post_confirm_mastodon">"Enviar una nueva publicación.¿Aceptar?"</string>
+    <string name="publish_post_confirm_misskey">"Enviar una nueva nota.¿Aceptar?"</string>
+    <string name="publish_post_confirm_bluesky">"Enviar una nueva publicación.¿Aceptar?"</string>
     <string name="publish_toot_edit_confirm">Edit toot. ok?</string>
     <string name="publish_attached_files">attached files</string>
     <string name="publish_emoji_warning">Emoji may not appear as shown in this preview in some instances</string>

@@ -893,11 +893,10 @@
     <string name="publish_sensitive_warning_length_error">Please enter in %1$d characters or less text</string>
     <string name="publish_twitlonger_confirm">"140자 이상. 당신이 TwitLonger를 통해 게시하시겠습니까?"</string>
     <string name="publish_twitter_dm_command_notice">"DM 명령입니다, 괜찮으세요?"</string>
-    <string name="publish_tweet_confirm_tw">"새로운 트윗을 보냅니다. 괜찮습니까?"</string>
-    <string name="publish_tweet_confirm_mastodon">"새로운 게시물을 보냅니다. 괜찮습니까?"</string>
-    <string name="publish_tweet_confirm_misskey">"새로운 노트를 보냅니다. 괜찮습니까?"</string>
-    <string name="publish_tweet_confirm_bluesky">"새로운 게시물을 보냅니다. 괜찮습니까?"</string>
-    <string name="publish_post_confirm">Send new post. ok?</string>
+    <string name="publish_post_confirm_tw">"새로운 트윗을 보냅니다. 괜찮습니까?"</string>
+    <string name="publish_post_confirm_mastodon">"새로운 게시물을 보냅니다. 괜찮습니까?"</string>
+    <string name="publish_post_confirm_misskey">"새로운 노트를 보냅니다. 괜찮습니까?"</string>
+    <string name="publish_post_confirm_bluesky">"새로운 게시물을 보냅니다. 괜찮습니까?"</string>
     <string name="publish_toot_edit_confirm">Edit toot. ok?</string>
     <string name="publish_attached_files">attached files</string>
     <string name="publish_emoji_warning">Emoji may not appear as shown in this preview in some instances</string>
