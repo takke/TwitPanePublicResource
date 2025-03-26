@@ -1264,8 +1264,12 @@ Do you want to enable it?</string>
     <string name="config_tweet_font_size">Font size</string>
     <string name="config_refresh_timeline_after_tweet_title">Refresh after tweet</string>
     <string name="config_refresh_timeline_after_tweet_summary">Refresh timeline after sending tweet [default: OFF]</string>
-    <string name="config_live_tweet_mode_title_ついぺん">Live Tweet Mode</string>
-    <string name="config_live_tweet_mode_summary_ついぺん">Remember hashtags in the last tweet</string>
+    <string name="config_live_tweet_mode_title_ついぺん">Live tweet mode</string>
+    <string name="config_live_tweet_mode_title_ぞーぺん">Live post mode</string>
+    <string name="config_live_tweet_mode_title_たいぺん">Live taiitsu mode</string>
+    <string name="config_live_tweet_mode_summary_ついぺん">Automatically show next tweet screen after tweeting</string>
+    <string name="config_live_tweet_mode_summary_ぞーぺん">Automatically show next post screen after posting</string>
+    <string name="config_live_tweet_mode_summary_たいぺん">Automatically show next taiitsu screen after posting</string>
     <string name="config_v2_tweet_post_title">v2 tweeting mode</string>
     <string name="config_v2_tweet_post_summary"></string>
     <string name="config_show_mushroom_button">Emoji picker button</string>
@@ -1273,7 +1277,11 @@ Do you want to enable it?</string>
     <string name="config_use_screen_name_completion">Use \'@\' Completion</string>
     <string name="config_use_screen_name_completion_summary"></string>
     <string name="config_show_actionbar_tweet_button_ついぺん">Tweet Button on Menu</string>
+    <string name="config_show_actionbar_tweet_button_ぞーぺん">Tweet in menu</string>
+    <string name="config_show_actionbar_tweet_button_たいぺん">Taiitsu in menu</string>
     <string name="config_show_actionbar_tweet_button_summary_ついぺん">Show tweet button on menu</string>
+    <string name="config_show_actionbar_tweet_button_summary_ぞーぺん">Show post button in menu</string>
+    <string name="config_show_actionbar_tweet_button_summary_たいぺん">Show taiitsu button in menu</string>
     <!--	<string name="config_show_emoji_ime_title">Emoji input support</string>-->
     <!--	<string name="config_show_emoji_ime_summary">Enable emoji-input feature of IME if supported</string>-->
     <string name="config_hide_publish_reply_area_by_default_title">Hide reply area</string>

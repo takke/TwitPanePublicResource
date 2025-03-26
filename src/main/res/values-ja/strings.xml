@@ -1272,7 +1272,11 @@
     <string name="config_refresh_timeline_after_tweet_title">投稿後の自動更新</string>
     <string name="config_refresh_timeline_after_tweet_summary">ツイート投稿後にタイムラインを再取得します【初期値：OFF】</string>
     <string name="config_live_tweet_mode_title_ついぺん">実況モード</string>
+    <string name="config_live_tweet_mode_title_ぞーぺん">実況モード</string>
+    <string name="config_live_tweet_mode_title_たいぺん">実況モード</string>
     <string name="config_live_tweet_mode_summary_ついぺん">最後にツイートした際のハッシュタグを記憶します。投稿画面のハッシュタグボタンの長押しでも実況モードを切り替えられます【初期値：OFF】</string>
+    <string name="config_live_tweet_mode_summary_ぞーぺん">最後にポストした際のハッシュタグを記憶します。投稿画面のハッシュタグボタンの長押しでも実況モードを切り替えられます【初期値：OFF】</string>
+    <string name="config_live_tweet_mode_summary_たいぺん">最後にタイーツした際のハッシュタグを記憶します。投稿画面のハッシュタグボタンの長押しでも実況モードを切り替えられます【初期値：OFF】</string>
     <string name="config_v2_tweet_post_title">v2投稿モード</string>
     <string name="config_v2_tweet_post_summary">Twitter API v2 で投稿します。【初期値：OFF】</string>
     <string name="config_show_mushroom_button">絵文字選択ボタン</string>
@@ -1280,9 +1284,11 @@
     <string name="config_use_screen_name_completion">"@ 補完 (Blueskyは未対応)"</string>
     <string name="config_use_screen_name_completion_summary">\'@\'入力時にユーザー名の選択画面を表示します【初期値：ON】</string>
     <string name="config_show_actionbar_tweet_button_ついぺん">メニューでツイート</string>
+    <string name="config_show_actionbar_tweet_button_ぞーぺん">メニューで投稿</string>
+    <string name="config_show_actionbar_tweet_button_たいぺん">メニューでタイーツ</string>
     <string name="config_show_actionbar_tweet_button_summary_ついぺん">上部メニューにツイートボタンを表示します【初期値：OFF】</string>
-<!--    <string name="config_show_emoji_ime_title">絵文字入力</string>-->
-<!--    <string name="config_show_emoji_ime_summary">IME(文字・日本語入力パネル)で絵文字を入力できるようにします(実際に入力できるかどうかはIMEにより異なります)【初期値：OFF】</string>-->
+    <string name="config_show_actionbar_tweet_button_summary_ぞーぺん">上部メニューに投稿ボタンを表示します【初期値：OFF】</string>
+    <string name="config_show_actionbar_tweet_button_summary_たいぺん">上部メニューにタイーツボタンを表示します【初期値：OFF】</string>
     <string name="config_hide_publish_reply_area_by_default_title">返信エリアの非表示</string>
     <string name="config_hide_publish_reply_area_by_default_summary">返信時に返信エリアを閉じた状態で投稿画面を開きます【初期値：OFF】</string>
     <string name="config_show_after_published_banner_ad_title">投稿後の広告を常に表示</string>
