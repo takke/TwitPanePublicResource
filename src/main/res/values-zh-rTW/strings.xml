@@ -1088,8 +1088,9 @@
     <string name="config_link_area_category">連結</string>
     <string name="config_show_link_area">顯示連結區域</string>
     <string name="config_show_link_area_summary_ついぺん">在推文中顯示連結圖片和連結網址的標題 [預設：開]</string>
-    <string name="config_tweet_design1_ついぺん">推文設計1</string>
-    <string name="config_tweet_design2_ついぺん">推文設計2</string>
+    <string name="config_tweet_design1_ついぺん">推文設計</string>
+    <string name="config_tweet_design1_ぞーぺん">貼文設計</string>
+    <string name="config_tweet_design1_たいぺん">Taiitsu設計</string>
     <string name="config_other_design">Other Design</string>
     <string name="config_hide_my_numbers">Hide my numbers</string>
     <string name="config_hide_my_numbers_summary">Hide the number of likes, RTs, etc. of your posts.</string>

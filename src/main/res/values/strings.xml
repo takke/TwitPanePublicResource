@@ -1091,7 +1091,9 @@
     <string name="config_link_area_category">Link</string>
     <string name="config_show_link_area">Show link area</string>
     <string name="config_show_link_area_summary_ついぺん">Show link image and title from link url in the tweet [default:ON]</string>
-    <string name="config_tweet_design1_ついぺん">Tweet design1</string>
+    <string name="config_tweet_design1_ついぺん">Tweet Design</string>
+    <string name="config_tweet_design1_ぞーぺん">Post Design</string>
+    <string name="config_tweet_design1_たいぺん">Taiitsu Design</string>
     <string name="config_tweet_design2_ついぺん">Tweet design2</string>
     <string name="config_other_design">Other Design</string>
     <string name="config_hide_my_numbers">Hide my numbers</string>
