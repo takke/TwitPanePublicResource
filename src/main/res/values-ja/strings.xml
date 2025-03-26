@@ -903,7 +903,10 @@
     <string name="publish_sensitive_warning_length_error">ひとこと注意文は%1$d文字以内で入力してください</string>
     <string name="publish_twitlonger_confirm">本文が140文字を超えています。\nTwitLonger経由で投稿しますか？</string>
     <string name="publish_twitter_dm_command_notice">DM送信コマンドになりますがよろしいですか？</string>
-    <string name="publish_tweet_confirm">ツイートします。よろしいですか？</string>
+    <string name="publish_tweet_confirm_tw">ツイートします。よろしいですか？</string>
+    <string name="publish_tweet_confirm_mastodon">投稿します。よろしいですか？</string>
+    <string name="publish_tweet_confirm_misskey">ノートします。よろしいですか？</string>
+    <string name="publish_tweet_confirm_bluesky">投稿します。よろしいですか？</string>
     <string name="publish_post_confirm">投稿します。よろしいですか？</string>
     <string name="publish_toot_edit_confirm">編集します。よろしいですか？</string>
     <string name="publish_attached_files">添付ファイル</string>
