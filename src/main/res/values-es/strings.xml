@@ -170,7 +170,8 @@
     <string name="send_post_mention_button">"nueva mención"</string>
     <string name="display_name">Display Name</string>
 
-    <string name="retweet_confirm_message">"¿Retwittear este tweet?"</string>
+    <string name="retweet_confirm_message">"¿Retuitear este tweet?"</string>
+    <string name="retweet_confirm_message_taittsuu">¿Retaiitsu este taiitsu?</string>
     <string name="renote_confirm_message">¿Renotar esta nota?</string>
     <string name="repost_confirm_message">¿Republicar esta publicación?</string>
     <string name="renote_in_channel_confirm_message">Renote this note in the channel?</string>
@@ -181,6 +182,7 @@
     <string name="removed_repost_message">Removed</string>
     <string name="boosted_message">Boosted</string>
     <string name="remove_retweet_confirm_message">"¿Eliminar retweet?"</string>
+    <string name="remove_retweet_confirm_message_taittsuu">¿Eliminar retaiitsu?</string>
     <string name="remove_repost_confirm_message">¿Eliminar republicación?</string>
     <string name="remove_renote_confirm_message">¿Eliminar renote?</string>
     <string name="remove_boost_confirm_message">Remove boost?</string>
@@ -194,9 +196,11 @@
     <string name="remove_favorite_confirm_message_favorite_misskey">¿Eliminar de favoritos?</string>
     <string name="remove_favorite_confirm_message_like">"Deshecho como?"</string>
     <string name="remove_favorite_confirm_message_like_bluesky">¿Quitar me gusta?</string>
+    <string name="remove_favorite_confirm_message_like_taittsuu">¿Deshacer me gusta?</string>
     <string name="destroyed_favorite_message_favorite">"Eliminado como favorito"</string>
     <string name="favorite_confirm_message_like">¿Quieres recibir este tweet?</string>
     <string name="favorite_confirm_message_like_bluesky">¿Quieres dar me gusta a esta publicación?</string>
+    <string name="favorite_confirm_message_like_taittsuu">¿Te gusta este taiitsu?</string>
     <string name="created_favorite_message_like">"Marcado como me gusta"</string>
     <string name="destroyed_favorite_message_like">"Eliminado como me gusta"</string>
     <string name="cannot_favorite_duplicate_status_favorite">Puede que ya agregado a favoritos.</string>
@@ -568,7 +572,8 @@
     <string name="menu_delete_and_edit">Delete and Edit</string>
     <string name="delete_and_edit_warning">Are you sure you want to delete this post and edit it? Reactions, Renotes and Replies will be missing.</string>
     <string name="menu_hidden_button">"Sin función (Oculto)"</string>
-    <string name="menu_retweet">"Retwittear"</string>
+    <string name="menu_retweet">"Retuitear"</string>
+    <string name="menu_retweet_taittsuu">Retaiitsu</string>
     <string name="menu_renote">Renote</string>
     <string name="menu_repost">Repost</string>
     <string name="menu_renote_in_channel">Renote in Channel</string>
@@ -581,6 +586,7 @@
     <string name="menu_unofficial_retweet">RT \@TwitPane: …</string>
     <string name="cannot_retweet_protected_user_tweet">"No se puede retwittear el tweet de un usuario protegido"</string>
     <string name="menu_remove_retweet">Quitar retweet</string>
+    <string name="menu_remove_retweet_taittsuu">Eliminar retaiitsu</string>
     <string name="menu_remove_boost">Quitar boost</string>
     <string name="menu_remove_renote">Quitar renote</string>
     <string name="menu_remove_repost">Quitar repost</string>
@@ -704,14 +710,16 @@
     <string name="menu_add_list">"Añadir a la lista ..."</string>
 
     <string name="menu_tweet_config">"Ajustes"</string>
-    <string name="menu_reply_to_other_post_tw">Enlace a otros Tweet</string>
+    <string name="menu_reply_to_other_post_tw">Enlazar a otros Tweet</string>
     <string name="menu_reply_to_other_post_misskey">Enlazar a otra nota</string>
     <string name="menu_reply_to_other_post_bluesky">Enlazar a otra publicación</string>
     <string name="menu_reply_to_other_post_mastodon">Enlazar a otra publicación</string>
+    <string name="menu_reply_to_other_post_taittsuu">Enlazar a otro taiitsu</string>
     <string name="menu_cancel_reply_to_other_post_tw">Cancelar enlace a otro tweet</string>
     <string name="menu_cancel_reply_to_other_post_misskey">Cancelar enlace a otra nota</string>
     <string name="menu_cancel_reply_to_other_post_bluesky">Cancelar enlace a otra publicación</string>
     <string name="menu_cancel_reply_to_other_post_mastodon">Cancelar enlace a otra publicación</string>
+    <string name="menu_cancel_reply_to_other_post_taittsuu">Cancelar enlace a otro taiitsu</string>
     <string name="select_tweet_to_link_to_tw">Seleccionar tweet para enlazar</string>
     <string name="select_tweet_to_link_to_mastodon">Seleccionar publicación para enlazar</string>
     <string name="select_tweet_to_link_to_misskey">Seleccionar nota para enlazar</string>
