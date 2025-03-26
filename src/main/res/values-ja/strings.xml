@@ -1007,7 +1007,7 @@
     <!-- Settings -->
     <!-- ================================================================================ -->
     <string name="config_timeline_display_settings_category">タイムライン表示設定</string>
-    <string name="config_timeline_display_settings_category_summary">フォントサイズ、サムネイルサイズ、ユーザーアイコン、固定ツイート、ツイートデザインなど</string>
+    <string name="config_timeline_display_settings_category_summary">フォントサイズ、サムネイルサイズ、ユーザーアイコン、固定ポスト、TLデザインなど</string>
 
 	<string name="config_display_settings_category">表示設定</string>
     <string name="config_display_settings_category_summary">タイトルバー、タブ、サイドメニューなど</string>
