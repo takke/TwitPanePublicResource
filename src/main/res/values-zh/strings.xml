@@ -171,7 +171,7 @@
     <string name="display_name">Display Name</string>
 
     <string name="retweet_confirm_message">转推此推文？</string>
-    <string name="retweet_confirm_message_misskey">转发此笔记？</string>
+    <string name="renote_confirm_message">转发此笔记？</string>
     <string name="repost_confirm_message">转发此帖子？</string>
     <string name="renote_in_channel_confirm_message">Renote this note in the channel?</string>
     <string name="boost_confirm_message">Boost this toot?</string>

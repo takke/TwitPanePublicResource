@@ -171,7 +171,7 @@
     <string name="display_name">表示名</string>
 
     <string name="retweet_confirm_message">このツイートをフォロワーにリツイートしますか？</string>
-    <string name="retweet_confirm_message_misskey">このノートをフォロワーにリノートしますか？</string>
+    <string name="renote_confirm_message">このノートをフォロワーにリノートしますか？</string>
     <string name="repost_confirm_message">この投稿をフォロワーにリポストしますか？</string>
     <string name="renote_in_channel_confirm_message">このノートをチャンネル内にリノートしますか？</string>
     <string name="boost_confirm_message">この投稿をフォロワーにブーストしますか？</string>
