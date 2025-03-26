@@ -1053,10 +1053,12 @@
     <string name="config_unread_count_on_right_of_title_summary">アプリタイトルの右側に未読件数を表示します。OFFの場合はアプリ名・アカウント名の後に表示します【初期値：OFF】</string>
     <string name="config_auto_hide_toolbar">タイトルバーの自動開閉</string>
     <string name="config_auto_hide_toolbar_summary">アプリタイトル部分をタイムラインのスクロールで自動的に開閉します。【初期値：ON】</string>
-    <string name="config_snackbar_for_like_rt_notice">いいねとRT通知の新方式</string>
+    <string name="config_snackbar_for_like_rt_notice_twitpane">いいねとRT通知の新方式</string>
     <string name="config_snackbar_for_like_rt_notice_zonepane">いいねとRP通知の新方式</string>
     <string name="config_snackbar_for_like_rt_notice_taipane">いいねとRT通知の新方式</string>
-    <string name="config_snackbar_for_like_rt_notice_summary">いいねとリツイート後の通知を新しい方式(Snackbar)にします。旧形式(Toast)にしたい場合はオフにしてください【初期値：ON】</string>
+    <string name="config_snackbar_for_like_rt_notice_summary_twitpane">いいねとリツイート後の通知を新しい方式(Snackbar)にします。旧形式(Toast)にしたい場合はオフにしてください【初期値：ON】</string>
+    <string name="config_snackbar_for_like_rt_notice_summary_zonepane">いいねとリポスト後の通知を新しい方式(Snackbar)にします。旧形式(Toast)にしたい場合はオフにしてください【初期値：ON】</string>
+    <string name="config_snackbar_for_like_rt_notice_summary_taipane">いいねとリタイーツ後の通知を新しい方式(Snackbar)にします。旧形式(Toast)にしたい場合はオフにしてください【初期値：ON】</string>
     <string name="config_image_animation">画像表示アニメーション</string>
     <string name="config_image_animation_summary">画像を表示する際にだんだん現れるアニメーションをします。性能の低い端末ではオフにすると高速に表示できます。【初期値：OFF】</string>
 	<string name="config_enable_fast_scroll">高速スクロールバー表示</string>

@@ -1039,10 +1039,10 @@
     <string name="config_unread_count_on_right_of_title_summary">제목 오른쪽에 읽지 않은 수를 표시</string>
     <string name="config_auto_hide_toolbar">제목 표시줄 자동 숨김</string>
     <string name="config_auto_hide_toolbar_summary">타임라인 스크롤시 앱 제목 부분을 자동으로 닫습니다. [기본값: ON]</string>
-    <string name="config_snackbar_for_like_rt_notice">좋아요와 리트윗 알림의 새로운 방식</string>
+    <string name="config_snackbar_for_like_rt_notice_twitpane">좋아요와 리트윗 알림의 새로운 방식</string>
     <string name="config_snackbar_for_like_rt_notice_zonepane">좋아요와 리포스트 알림의 새로운 방식</string>
     <string name="config_snackbar_for_like_rt_notice_taipane">좋아요와 리트윗 알림의 새로운 방식</string>
-    <string name="config_snackbar_for_like_rt_notice_summary">좋아요와 리트윗 후 알림을 새로운 방식(스낵바)으로 변경합니다. 이전 방식(토스트)을 원하시면 해제하세요. [기본값: ON]</string>
+    <string name="config_snackbar_for_like_rt_notice_summary_twitpane">좋아요와 리트윗 후 알림을 새로운 방식(스낵바)으로 변경합니다. 이전 방식(토스트)을 원하시면 해제하세요. [기본값: ON]</string>
     <string name="config_image_animation">이미지 표시 애니메이션</string>
     <string name="config_image_animation_summary">""</string>
     <string name="config_enable_fast_scroll">"빠른 스크롤"</string>
