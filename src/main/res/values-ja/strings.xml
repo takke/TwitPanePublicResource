@@ -1418,6 +1418,8 @@
     <string name="config_notification_category_reply_summary_たいぺん">新しい返信を通知します。「現在のアカウント」のみ対応しています。</string>
     <string name="config_notification_category_message">新着メッセージ</string>
     <string name="config_notification_category_message_summary_ついぺん">新しいメッセージを通知します。Mastodonの「現在のアカウント」のみ対応しています。</string>
+    <string name="config_notification_category_message_summary_ぞーぺん">新しいメッセージを通知します。Mastodonの「現在のアカウント」のみ対応しています。</string>
+    <string name="config_notification_category_message_summary_たいぺん">新しいメッセージを通知します。「現在のアカウント」のみ対応しています。</string>
     <string name="config_notification_category_details">通知のカスタマイズ</string>
     <string name="config_use_interval_notification">定期取得</string>
     <string name="config_use_interval_notification_summary">タブの自動更新を行ったり、新着返信やメッセージを定期的に取得し通知します。【初期値：OFF】</string>

@@ -1395,6 +1395,8 @@
     <string name="config_notification_category_reply_summary_たいぺん">New replies are supported only for "current account".</string>
     <string name="config_notification_category_message">訊息</string>
     <string name="config_notification_category_message_summary_ついぺん">New messages are supported only for "current account" of Mastodon.</string>
+    <string name="config_notification_category_message_summary_ぞーぺん">New messages are supported only for "current account" of Mastodon.</string>
+    <string name="config_notification_category_message_summary_たいぺん">New messages are supported only for "current account".</string>
     <string name="config_notification_category_details">詳情</string>
     <string name="config_use_interval_notification">定期通知</string>
     <string name="config_use_interval_notification_summary"></string>
