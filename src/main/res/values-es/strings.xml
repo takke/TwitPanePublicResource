@@ -1090,7 +1090,9 @@
     <string name="config_use_rounded_thumbnail_summary">Use rounded profile icon [default:ON]</string>
     <string name="config_link_area_category">Enlace</string>
     <string name="config_show_link_area">Mostrar área de enlace</string>
-    <string name="config_show_link_area_summary_ついぺん">Mostrar la imagen del enlace y el título de la URL del enlace en el tweet [predeterminado: activado]</string>
+    <string name="config_show_link_area_summary_ついぺん">Mostrar la imagen del enlace y el título de la URL del enlace en el tweet [predeterminado:ACTIVADO]</string>
+    <string name="config_show_link_area_summary_ぞーぺん">Mostrar la imagen del enlace y el título de la URL del enlace en la publicación [predeterminado:ACTIVADO]</string>
+    <string name="config_show_link_area_summary_たいぺん">Mostrar la imagen del enlace y el título de la URL del enlace en el taiitsu [predeterminado:ACTIVADO]</string>
     <string name="config_tweet_design1_ついぺん">Diseño del Tweet</string>
     <string name="config_tweet_design1_ぞーぺん">Diseño de la Publicación</string>
     <string name="config_tweet_design1_たいぺん">Diseño del Taiitsu</string>

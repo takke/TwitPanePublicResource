@@ -1083,7 +1083,9 @@
     <string name="config_use_rounded_thumbnail_summary">使用圓形的個人資料圖標 [默認:開]</string>
     <string name="config_link_area_category">鏈接</string>
     <string name="config_show_link_area">顯示鏈接區域</string>
-    <string name="config_show_link_area_summary_ついぺん">在推文中顯示鏈接圖片和鏈接網址的標題 [默認：開]</string>
+    <string name="config_show_link_area_summary_ついぺん">在推文中顯示鏈接圖片和鏈接網址的標題 [預設：開啟]</string>
+    <string name="config_show_link_area_summary_ぞーぺん">在貼文中顯示鏈接圖片和鏈接網址的標題 [預設：開啟]</string>
+    <string name="config_show_link_area_summary_たいぺん">在Taiitsu中顯示鏈接圖片和鏈接網址的標題 [預設：開啟]</string>
     <string name="config_tweet_design1_ついぺん">推文設計</string>
     <string name="config_tweet_design1_ぞーぺん">貼文設計</string>
     <string name="config_tweet_design1_たいぺん">Taiitsu設計</string>
