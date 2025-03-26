@@ -575,6 +575,8 @@
     <string name="delete_and_edit_warning">Are you sure you want to delete this post and edit it? Reactions, Renotes and Replies will be missing.</string>
     <string name="menu_hidden_button">"Sin función (Oculto)"</string>
     <string name="menu_retweet">"Retuitear"</string>
+    <string name="menu_retweet_boost_renote_repost">Retweet/Boost/Renote/Repost</string>
+    <string name="menu_boost_renote_repost">Boost/Renote/Repost</string>
     <string name="menu_retaiitsu">Retaiitsu</string>
     <string name="menu_renote">Renote</string>
     <string name="menu_repost">Repost</string>

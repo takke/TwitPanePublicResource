@@ -583,6 +583,8 @@
     <string name="delete_and_edit_warning">このノートを削除してもう一度編集しますか？このノートへのリアクション、リノート、返信も全て削除されます。</string>
     <string name="menu_hidden_button">機能なし(非表示)</string>
     <string name="menu_retweet">リツイート</string>
+    <string name="menu_retweet_boost_renote_repost">リツイート/ブースト/リノート/リポスト</string>
+    <string name="menu_boost_renote_repost">ブースト/リノート/リポスト</string>
     <string name="menu_retaiitsu">リタイーツ</string>
     <string name="menu_renote">リノート</string>
     <string name="menu_repost">リポスト</string>
