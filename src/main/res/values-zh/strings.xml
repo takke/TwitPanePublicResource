@@ -1037,10 +1037,12 @@
     <string name="config_unread_count_on_right_of_title">右侧显示未读邮件数</string>
     <string name="config_unread_count_on_right_of_title_summary">标题的右侧显示未读邮件数</string>
     <string name="config_auto_hide_toolbar">自动隐藏标题栏</string>
-    <string name="config_auto_hide_toolbar_summary">自动隐藏顶部标题栏</string>
-    <string name="config_snackbar_for_like_rt_notice">带有图标的点赞和转推通知</string>
-    <string name="config_snackbar_for_like_rt_notice_summary"></string>
-    <string name="config_image_animation">图像动画</string>
+    <string name="config_auto_hide_toolbar_summary">滚动时间轴时自动隐藏应用标题部分[默认：开]</string>
+    <string name="config_snackbar_for_like_rt_notice">点赞和转推通知的新方式</string>
+    <string name="config_snackbar_for_like_rt_notice_zonepane">点赞和转发通知的新方式</string>
+    <string name="config_snackbar_for_like_rt_notice_taipane">点赞和转推通知的新方式</string>
+    <string name="config_snackbar_for_like_rt_notice_summary">将点赞和转推后的通知改为新方式(Snackbar)。如需旧方式(Toast)请关闭此设置[默认：开]</string>
+    <string name="config_image_animation">图片显示动画</string>
     <string name="config_image_animation_summary"></string>
     <string name="config_enable_fast_scroll">快速滚动</string>
     <string name="config_enable_fast_scroll_summary">在列表上启用快速滚动框</string>
