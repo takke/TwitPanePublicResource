@@ -1168,13 +1168,19 @@
     <string name="config_timeline_action_settings_category_summary">Timeline tap-ex, actions</string>
     <string name="config_timeline_action_bluesky">Timeline Action Buttons (Bluesky)</string>
     <string name="config_bluesky_action_button_size">Action button size</string>
-    <string name="config_tweet_load_ついぺん">Tweet loading</string>
+    <string name="config_tweet_load_ついぺん">Tweet Loading</string>
+    <string name="config_tweet_load_ぞーぺん">Post Loading</string>
+    <string name="config_tweet_load_たいぺん">Taiitsu Loading</string>
     <string name="config_official_app_cooperation_ついぺん">Official App Cooperation</string>
     <string name="config_use_official_app_for_tweet_operation">Perform tweets, etc. via official apps</string>
     <string name="config_use_official_app_for_tweet_operation_summary">Like, RT, and Tweets are posted via the official Twitter application. [Default:ON]</string>
     <string name="config_action">Action</string>
-    <string name="config_tweet_get_limit_title_ついぺん">Tweet Get Count</string>
+    <string name="config_tweet_get_limit_title_ついぺん">Number of Tweets to Load</string>
+    <string name="config_tweet_get_limit_title_ぞーぺん">Number of Posts to Load</string>
+    <string name="config_tweet_get_limit_title_たいぺん">Number of Taiitsu to Load</string>
     <string name="config_tweet_get_limit_summary_ついぺん">Number of tweets to be retrieved per one access</string>
+    <string name="config_tweet_get_limit_summary_ぞーぺん">Set the number of posts to load at once</string>
+    <string name="config_tweet_get_limit_summary_たいぺん">Set the number of Taiitsu to load at once</string>
     <string name="config_use_home_timeline_v2">Use v2 API for Home Timeline</string>
     <string name="config_use_home_timeline_v2_summary">Use Twitter API v2 to get the home timeline [default: OFF]</string>
     <string name="config_use_home_timeline_v2_confirm_message" translatable="false">✔ API limit will be increased from 15 times per 15 minutes to 180 times per 15 minutes.\n
@@ -1196,13 +1202,21 @@ Do you want to enable it?</string>
     <string name="hide_reposts_show">show</string>
     <string name="config_auto_pager">Auto pager</string>
     <string name="config_auto_pager_summary">Get next page when the scrolling position is bottom of the list</string>
-    <string name="config_scroll_pos_after_acquired_gap_ついぺん">Scroll pos after gap</string>
-    <string name="config_scroll_pos_after_acquired_gap_summary_ついぺん">Set scroll position after acquired the mid-gap-tweets</string>
+    <string name="config_scroll_pos_after_acquired_gap_ついぺん">Scroll Position After Loading Gap Tweets</string>
+    <string name="config_scroll_pos_after_acquired_gap_ぞーぺん">Scroll Position After Loading Gap Posts</string>
+    <string name="config_scroll_pos_after_acquired_gap_たいぺん">Scroll Position After Loading Gap Taiitsu</string>
+    <string name="config_scroll_pos_after_acquired_gap_summary_ついぺん">Set where to scroll after loading gap tweets</string>
+    <string name="config_scroll_pos_after_acquired_gap_summary_ぞーぺん">Set where to scroll after loading gap posts</string>
+    <string name="config_scroll_pos_after_acquired_gap_summary_たいぺん">Set where to scroll after loading gap Taiitsu</string>
     <string name="config_scroll_pos_after_acquired_gap_top">top of mid-tweets</string>
     <string name="config_scroll_pos_after_acquired_gap_bottom">bottom of mid-tweets</string>
     <string name="config_scroll_pos_after_acquired_gap_confirm_each_time">Check every time when acquiring.</string>
-    <string name="config_scroll_pos_after_acquired_new_tweet_ついぺん">Scroll pos after new</string>
-    <string name="config_scroll_pos_after_acquired_new_tweet_summary_ついぺん">Set scroll position after acquired the new tweets</string>
+    <string name="config_scroll_pos_after_acquired_new_tweet_ついぺん">Scroll Position After Loading New Tweets</string>
+    <string name="config_scroll_pos_after_acquired_new_tweet_ぞーぺん">Scroll Position After Loading New Posts</string>
+    <string name="config_scroll_pos_after_acquired_new_tweet_たいぺん">Scroll Position After Loading New Taiitsu</string>
+    <string name="config_scroll_pos_after_acquired_new_tweet_summary_ついぺん">Set where to scroll after loading new tweets</string>
+    <string name="config_scroll_pos_after_acquired_new_tweet_summary_ぞーぺん">Set where to scroll after loading new posts</string>
+    <string name="config_scroll_pos_after_acquired_new_tweet_summary_たいぺん">Set where to scroll after loading new Taiitsu</string>
     <string name="config_scroll_pos_after_acquired_new_tweet_top">top of new-tweets</string>
     <string name="config_scroll_pos_after_acquired_new_tweet_bottom">bottom of new-tweets</string>
     <string name="config_scroll_pos_after_acquired_new_tweet_keep">keep original position</string>
@@ -1238,8 +1252,12 @@ Do you want to enable it?</string>
     <string name="config_tap_ex_action_right_long_summary">Call function directly when long-tap right area of timeline</string>
     <string name="config_tap_ex_preview_post">This is the post for setting up and previewing the tap extension.\nYou can actually tap and hold and assign functions that are called up by tapping and holding the area on the left or right side of the post.</string>
 
-    <string name="config_set_read_after_shown_ついぺん">Set read tweet after shown</string>
-    <string name="config_set_read_after_shown_summary_ついぺん"></string>
+    <string name="config_set_read_after_shown_ついぺん">Mark as Read After Viewing</string>
+    <string name="config_set_read_after_shown_ぞーぺん">Mark as Read After Viewing</string>
+    <string name="config_set_read_after_shown_たいぺん">Mark as Read After Viewing</string>
+    <string name="config_set_read_after_shown_summary_ついぺん">Mark tweets as read after viewing them</string>
+    <string name="config_set_read_after_shown_summary_ぞーぺん">Mark posts as read after viewing them</string>
+    <string name="config_set_read_after_shown_summary_たいぺん">Mark Taiitsu as read after viewing them</string>
 
     <string name="config_message_settings_category">Message Settings</string>
     <string name="config_show_new_message_from_bottom">Show the new message from the bottom</string>
