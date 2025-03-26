@@ -1396,8 +1396,8 @@
     <string name="unset_auto_updates">取消自動更新設定</string>
     <string name="auto_updates_is_disabled_when_notification_is_disabled">定期通知已關閉，因此不會進行自動更新。</string>
     <string name="auto_update_every_n_minutes">每 %1$d 分鐘自動更新一次</string>
-    <string name="config_show_new_tweet_notification">顯示新推文通知</string>
-    <string name="config_show_new_tweet_notification_summary"></string>
+    <string name="config_show_new_tweet_notification_ついぺん">顯示新推文通知</string>
+    <string name="config_show_new_tweet_notification_summary_ついぺん"></string>
     <string name="config_new_tweet_notification_icon_type">新推文通知圖示</string>
 
     <string name="config_color_label">彩色標籤設定</string>
