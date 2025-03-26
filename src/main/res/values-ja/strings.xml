@@ -632,6 +632,8 @@
     <string name="menu_show_rt_users_mastodon">ブーストしたユーザーを表示</string>
     <string name="menu_show_rt_users_misskey">リノートしたユーザーを表示</string>
     <string name="menu_show_rt_users_bluesky">リポストしたユーザーを表示</string>
+    <string name="menu_show_quoted_tweets">引用されたツイート一覧</string>
+    <string name="menu_show_quoted_posts">引用されたポスト一覧</string>
     <string name="menu_show_favorite_users_favorite">お気に入りに追加したユーザー一覧</string>
     <string name="menu_show_favorite_users_like">いいねしたユーザー一覧</string>
     <string name="no_liked_users">いいねしたユーザーはいません</string>
