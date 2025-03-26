@@ -1392,6 +1392,9 @@
     <string name="config_show_new_tweet_notification_summary_ついぺん"></string>
     <string name="config_show_new_tweet_notification_summary_ぞーぺん">在時間軸上顯示新帖文通知</string>
     <string name="config_show_new_tweet_notification_summary_たいぺん">在時間軸上顯示新泰文通知</string>
+    <string name="config_new_tweet_notification_icon_type_ついぺん">新推文通知圖標</string>
+    <string name="config_new_tweet_notification_icon_type_ぞーぺん">新帖文通知圖標</string>
+    <string name="config_new_tweet_notification_icon_type_たいぺん">新泰文通知圖標</string>
 
     <string name="config_color_label">彩色標籤設置</string>
     <string name="config_color_label_summary">Set the colors of the user labels</string>

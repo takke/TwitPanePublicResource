@@ -1400,6 +1400,9 @@
     <string name="config_show_new_tweet_notification_summary_ついぺん"></string>
     <string name="config_show_new_tweet_notification_summary_ぞーぺん">타임라인에 새 게시물 알림 표시</string>
     <string name="config_show_new_tweet_notification_summary_たいぺん">타임라인에 새 타이츠 알림 표시</string>
+    <string name="config_new_tweet_notification_icon_type_ついぺん">새 트윗 알림 아이콘</string>
+    <string name="config_new_tweet_notification_icon_type_ぞーぺん">새 게시물 알림 아이콘</string>
+    <string name="config_new_tweet_notification_icon_type_たいぺん">새 타이츠 알림 아이콘</string>
 
     <string name="config_color_label">"색상 레이블 설정"</string>
     <string name="config_color_label_summary">Set the colors of the user labels</string>
