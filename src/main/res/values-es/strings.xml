@@ -1261,7 +1261,9 @@
     <string name="config_show_tweet_confirm_dialog_title_ついぺん">"Confirmar Tweet"</string>
     <string name="config_show_tweet_confirm_dialog_title_ぞーぺん">Confirmar publicación</string>
     <string name="config_show_tweet_confirm_dialog_title_たいぺん">Confirmar Taiitsu</string>
-    <string name="config_show_tweet_confirm_dialog_summary_ついぺん">"Mostrar diálogo de confirmación antes de enviar un tweet o mensaje"</string>
+    <string name="config_show_tweet_confirm_dialog_summary_ついぺん">Mostrar diálogo de confirmación antes de publicar un tweet</string>
+    <string name="config_show_tweet_confirm_dialog_summary_ぞーぺん">Mostrar diálogo de confirmación antes de publicar una publicación</string>
+    <string name="config_show_tweet_confirm_dialog_summary_たいぺん">Mostrar diálogo de confirmación antes de publicar un taiitsu</string>
     <string name="config_initial_visibility">Initial Visibility</string>
     <string name="config_initial_visibility_per_account">Initial Visibility(Per Account)</string>
     <string name="config_initial_visibility_per_account_summary"></string>
@@ -1970,12 +1972,5 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
 
     <string name="notification_channel_bluesky_auth_error">Error de autenticación de Bluesky</string>
     <string name="bluesky_auth_error_notification_message">El token de autenticación ha caducado y se requiere una reautenticación (%1$s)</string>
-
-
-
-
-
-
-
 
 </resources>

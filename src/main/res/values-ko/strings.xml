@@ -1262,7 +1262,9 @@
 	<string name="config_show_tweet_confirm_dialog_title_ついぺん">"트윗 확인"</string>
     <string name="config_show_tweet_confirm_dialog_title_ぞーぺん">게시물 확인</string>
     <string name="config_show_tweet_confirm_dialog_title_たいぺん">타이츠 확인</string>
-	<string name="config_show_tweet_confirm_dialog_summary_ついぺん">"트윗 또는 메시지를 전송하기 전에 확인 대화상자 표시"</string>
+    <string name="config_show_tweet_confirm_dialog_summary_ついぺん">트윗을 게시하기 전에 확인 대화상자 표시</string>
+    <string name="config_show_tweet_confirm_dialog_summary_ぞーぺん">게시물을 게시하기 전에 확인 대화상자 표시</string>
+    <string name="config_show_tweet_confirm_dialog_summary_たいぺん">타이츠를 게시하기 전에 확인 대화상자 표시</string>
     <string name="config_initial_visibility">Initial Visibility</string>
     <string name="config_initial_visibility_per_account">Initial Visibility(Per Account)</string>
     <string name="config_initial_visibility_per_account_summary"></string>

@@ -1251,7 +1251,9 @@
     <string name="config_show_tweet_confirm_dialog_title_ついぺん">推文確認</string>
     <string name="config_show_tweet_confirm_dialog_title_ぞーぺん">發送確認</string>
     <string name="config_show_tweet_confirm_dialog_title_たいぺん">タイーツ確認</string>
-    <string name="config_show_tweet_confirm_dialog_summary_ついぺん">發送推文或消息之前顯示確認對話框</string>
+    <string name="config_show_tweet_confirm_dialog_summary_ついぺん">發送推文前顯示確認對話框</string>
+    <string name="config_show_tweet_confirm_dialog_summary_ぞーぺん">發送貼文前顯示確認對話框</string>
+    <string name="config_show_tweet_confirm_dialog_summary_たいぺん">發送Taiitsu前顯示確認對話框</string>
     <string name="config_initial_visibility">Initial Visibility</string>
     <string name="config_initial_visibility_per_account">Initial Visibility(Per Account)</string>
     <string name="config_initial_visibility_per_account_summary"></string>
