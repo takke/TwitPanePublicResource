@@ -134,7 +134,7 @@
 
     <string name="color_edit_button">編輯</string>
     <string name="restore_default_confirm">恢復默認值？</string>
-    <string name="import_confirm_message">你確定要導入這個設計嗎？（導入後重新啓動TwitPane）</string>
+    <string name="import_confirm_message">你確定要導入這個設計嗎？（導入後重新啓動%s）</string>
 
     <!-- ================================================================================ -->
     <!-- Others -->
