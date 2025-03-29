@@ -136,6 +136,8 @@
     <string name="restore_default_confirm">初期値に戻してもよろしいですか？</string>
     <string name="import_confirm_message">このデザインをインポートしますか？</string>
     <string name="import_restart_message">インポート後に%sを再起動します</string>
+    <string name="import_theme_name_message">* インポート先テーマ名: %s</string>
+    <string name="import_theme_color_overwrite_warning">* %sテーマに設定している配色データは上書きされますのでご注意ください</string>
 
     <!-- ================================================================================ -->
     <!-- Others -->
