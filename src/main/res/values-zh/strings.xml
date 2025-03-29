@@ -134,7 +134,8 @@
 
     <string name="color_edit_button">编辑</string>
     <string name="restore_default_confirm">恢复默认值？</string>
-    <string name="import_confirm_message">你确定要导入这个设计吗？（导入后重新启动%s）</string>
+    <string name="import_confirm_message">你确定要导入这个设计吗？</string>
+    <string name="import_restart_message">导入后重新启动%s</string>
 
     <!-- ================================================================================ -->
     <!-- Others -->

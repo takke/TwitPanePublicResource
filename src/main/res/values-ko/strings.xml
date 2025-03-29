@@ -134,8 +134,9 @@
     
     <string name="color_edit_button">"편집"</string>
     <string name="restore_default_confirm">"기본값을 복원?"</string>
-    <string name="import_confirm_message">"정말로 이 디자인을 들여오기하시겠습니까? (들여오기를 한 후 %s을 다시 시작하세요)"</string>
-    
+    <string name="import_confirm_message">"정말로 이 디자인을 들여오기하시겠습니까?"</string>
+    <string name="import_restart_message">"들여오기를 한 후 %s을 다시 시작하세요"</string>
+
     <!-- ================================================================================ -->
     <!-- Others -->
     <!-- ================================================================================ -->

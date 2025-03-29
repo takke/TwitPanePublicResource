@@ -134,8 +134,9 @@
     
     <string name="color_edit_button">変更</string>
     <string name="restore_default_confirm">初期値に戻してもよろしいですか？</string>
-    <string name="import_confirm_message">このデザインをインポートしますか？\n(インポート後に%sを再起動します)</string>
-    
+    <string name="import_confirm_message">このデザインをインポートしますか？</string>
+    <string name="import_restart_message">インポート後に%sを再起動します</string>
+
     <!-- ================================================================================ -->
     <!-- Others -->
     <!-- ================================================================================ -->

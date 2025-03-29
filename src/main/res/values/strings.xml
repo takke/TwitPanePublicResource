@@ -134,7 +134,8 @@
 
     <string name="color_edit_button">Edit</string>
     <string name="restore_default_confirm">Restore default?</string>
-    <string name="import_confirm_message">Are you sure you want to import this design?(restart %s after imported)</string>
+    <string name="import_confirm_message">Are you sure you want to import this design?</string>
+    <string name="import_restart_message">restart %s after imported</string>
 
     <!-- ================================================================================ -->
     <!-- Others -->
