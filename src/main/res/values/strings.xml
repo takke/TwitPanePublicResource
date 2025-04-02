@@ -1294,6 +1294,8 @@ Do you want to enable it?</string>
     <string name="upload_image_quality_good">Good</string>
     <string name="upload_image_quality_better">Better</string>
     <string name="upload_image_quality_best">Best</string>
+    <string name="config_use_internal_image_edit_tool">Use in-app image editor</string>
+    <string name="config_use_internal_image_edit_tool_summary">Use the built-in image cropping tool when editing attached images. When turned off, it launches an image editing app installed on your device [default: ON]</string>
     <string name="config_show_tweet_confirm_dialog_title_ついぺん">Tweet confirm</string>
     <string name="config_show_tweet_confirm_dialog_title_ぞーぺん">Post confirm</string>
     <string name="config_show_tweet_confirm_dialog_title_たいぺん">Taiitsu confirm</string>

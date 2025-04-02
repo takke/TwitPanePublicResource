@@ -1280,6 +1280,8 @@
     <string name="upload_image_quality_good">好</string>
     <string name="upload_image_quality_better">更好</string>
     <string name="upload_image_quality_best">最好</string>
+    <string name="config_use_internal_image_edit_tool">使用應用程式內圖像編輯器</string>
+    <string name="config_use_internal_image_edit_tool_summary">編輯附加圖像時使用內建的圖像裁剪工具。關閉時，將啟動裝置上安裝的圖像編輯應用程式 [預設值：開啟]</string>
     <string name="config_show_tweet_confirm_dialog_title_ついぺん">推文確認</string>
     <string name="config_show_tweet_confirm_dialog_title_ぞーぺん">發文確認</string>
     <string name="config_show_tweet_confirm_dialog_title_たいぺん">タイーツ確認</string>
@@ -1611,11 +1613,11 @@
     <string name="config_prefs_clear_confirm_message">你確定你要清除所有的設定嗎？(警告！！所有賬戶設定將被刪除！！)</string>
     <string name="config_prefer_protocol">支援HTTP/2.0</string>
     <string name="config_prefer_protocol_summary">選擇協議</string>
-    <string name="config_prefer_ipv4_address">首選IPv4</string>
-    <string name="config_prefer_ipv4_address_summary">修復Wi-Fi上的twitter影象問題（針對日本au Hikari網路）。</string>
-    <string name="config_disable_hardware_rendering">禁用硬體渲染</string>
+    <string name="config_prefer_ipv4_address">優先使用 IPv4</string>
+    <string name="config_prefer_ipv4_address_summary">修復 Wi-Fi 上的 Twitter 圖像問題 (針對日本 au Hikari 網路)</string>
+    <string name="config_disable_hardware_rendering">停用硬體渲染</string>
     <string name="config_disable_hardware_rendering_summary"></string>
-    <string name="config_disable_image_hardware_rendering">禁用硬體渲染(圖片)</string>
+    <string name="config_disable_image_hardware_rendering">停用硬體渲染(圖像)</string>
     <string name="config_disable_image_hardware_rendering_summary"></string>
 
     <string name="config_adfree_category">無廣告</string>

@@ -1280,6 +1280,8 @@
     <string name="upload_image_quality_good">好</string>
     <string name="upload_image_quality_better">更好</string>
     <string name="upload_image_quality_best">最好</string>
+    <string name="config_use_internal_image_edit_tool">使用应用内图像编辑器</string>
+    <string name="config_use_internal_image_edit_tool_summary">编辑附加图像时使用内置的图像裁剪工具。关闭时，将启动设备上安装的图像编辑应用 [默认值：开启]</string>
     <string name="config_show_tweet_confirm_dialog_title_ついぺん">推文确认</string>
     <string name="config_show_tweet_confirm_dialog_title_ぞーぺん">发送确认</string>
     <string name="config_show_tweet_confirm_dialog_title_たいぺん">タイーツ确认</string>
@@ -1616,7 +1618,7 @@
     <string name="config_prefer_ipv4_address_summary">修复Wi-Fi上的twitter图像问题（针对日本au Hikari网络）。</string>
     <string name="config_disable_hardware_rendering">禁用硬件渲染</string>
     <string name="config_disable_hardware_rendering_summary"></string>
-    <string name="config_disable_image_hardware_rendering">禁用硬件渲染(图片)</string>
+    <string name="config_disable_image_hardware_rendering">禁用硬件渲染(图像)</string>
     <string name="config_disable_image_hardware_rendering_summary"></string>
 
     <string name="config_adfree_category">无广告</string>

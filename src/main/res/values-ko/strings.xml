@@ -1281,6 +1281,8 @@
     <string name="upload_image_quality_good">Good</string>
     <string name="upload_image_quality_better">Better</string>
     <string name="upload_image_quality_best">Best</string>
+    <string name="config_use_internal_image_edit_tool">앱 내 이미지 편집기 사용</string>
+    <string name="config_use_internal_image_edit_tool_summary">첨부된 이미지를 편집할 때 내장된 이미지 자르기 도구를 사용합니다. 해제하면 기기에 설치된 이미지 편집 앱을 실행합니다 [기본값: 켜짐]</string>
 	<string name="config_show_tweet_confirm_dialog_title_ついぺん">"트윗 확인"</string>
     <string name="config_show_tweet_confirm_dialog_title_ぞーぺん">게시물 확인</string>
     <string name="config_show_tweet_confirm_dialog_title_たいぺん">타이츠 확인</string>
@@ -1574,11 +1576,11 @@
     <string name="config_prefs_clear_confirm_message">모든 설정을 삭제 하시겠습니까? (경고! 모든 계정 설정이 제거됩니다!)</string>
     <string name="config_prefer_protocol">"HTTP/2.0 지원"</string>
     <string name="config_prefer_protocol_summary">"프로토콜 선택"</string>
-    <string name="config_prefer_ipv4_address">Prefer IPv4</string>
-    <string name="config_prefer_ipv4_address_summary">Fix twitter image problem on Wi-Fi (for Japanese xx Hikari network)</string>
-    <string name="config_disable_hardware_rendering">안 하드웨어 렌더링</string>
+    <string name="config_prefer_ipv4_address">IPv4 선호</string>
+    <string name="config_prefer_ipv4_address_summary">Wi-Fi에서 트위터 이미지 문제 해결 (일본 au Hikari 네트워크용)</string>
+    <string name="config_disable_hardware_rendering">하드웨어 렌더링 비활성화</string>
     <string name="config_disable_hardware_rendering_summary"></string>
-    <string name="config_disable_image_hardware_rendering">안 하드웨어 렌더링(Image)</string>
+    <string name="config_disable_image_hardware_rendering">하드웨어 렌더링 비활성화(이미지)</string>
     <string name="config_disable_image_hardware_rendering_summary"></string>
 
     <string name="config_adfree_category">"AdFree"</string>

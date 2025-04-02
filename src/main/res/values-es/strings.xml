@@ -1280,6 +1280,8 @@
     <string name="upload_image_quality_good">Good</string>
     <string name="upload_image_quality_better">Better</string>
     <string name="upload_image_quality_best">Best</string>
+    <string name="config_use_internal_image_edit_tool">Usar editor de imágenes integrado</string>
+    <string name="config_use_internal_image_edit_tool_summary">Utilizar la herramienta de recorte de imágenes integrada al editar imágenes adjuntas. Cuando está desactivado, se inicia una aplicación de edición de imágenes instalada en su dispositivo [valor predeterminado: ACTIVADO]</string>
     <string name="config_show_tweet_confirm_dialog_title_ついぺん">"Confirmar Tweet"</string>
     <string name="config_show_tweet_confirm_dialog_title_ぞーぺん">Confirmar publicación</string>
     <string name="config_show_tweet_confirm_dialog_title_たいぺん">Confirmar Taiitsu</string>
@@ -1573,11 +1575,11 @@
     <string name="config_prefs_clear_confirm_message">¿Está seguro de que desea borrar todos los ajustes? (ADVERTENCIA !! TODAS CONFIGURACIÓN DE LA CUENTA se eliminará !!)</string>
     <string name="config_prefer_protocol">"Admite HTTP/2.0"</string>
     <string name="config_prefer_protocol_summary">"Selecciona el protocolo"</string>
-    <string name="config_prefer_ipv4_address">Prefer IPv4</string>
-    <string name="config_prefer_ipv4_address_summary">Fix twitter image problem on Wi-Fi (for Japanese xx Hikari network)</string>
-    <string name="config_disable_hardware_rendering">Rendering Hardware Desactivar</string>
+    <string name="config_prefer_ipv4_address">Preferir IPv4</string>
+    <string name="config_prefer_ipv4_address_summary">Solucionar problema de imagen de Twitter en Wi-Fi (para red japonesa au Hikari)</string>
+    <string name="config_disable_hardware_rendering">Desactivar renderizado por hardware</string>
     <string name="config_disable_hardware_rendering_summary"></string>
-    <string name="config_disable_image_hardware_rendering">Rendering Hardware Desactivar(Image)</string>
+    <string name="config_disable_image_hardware_rendering">Desactivar renderizado por hardware (imagen)</string>
     <string name="config_disable_image_hardware_rendering_summary"></string>
 
     <string name="config_adfree_category">"Ocultar publicidad"</string>
