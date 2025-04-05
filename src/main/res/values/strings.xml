@@ -1724,6 +1724,7 @@ Do you want to enable it?</string>
     <string name="dark_theme_same_as_light_theme">Same as light theme</string>
     <string name="dark_theme_info">Set dark theme running on Android 10 or later devices.</string>
     <string name="current_theme">[Selected]</string>
+    <string name="theme_manage">Manage Themes</string>
 
 
     <!-- ================================================================================ -->
