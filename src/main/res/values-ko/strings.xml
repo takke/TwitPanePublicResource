@@ -1646,6 +1646,7 @@
     <string name="theme_default">"기본값"</string>
     <string name="dark_theme_same_as_light_theme">빛 테마와 동일</string>
     <string name="dark_theme_info">안드로이드 10 이상 장치에서 실행되는 설정 어두운 테마.</string>
+    <string name="current_theme">[선택됨]</string>
 
     
     <!-- ================================================================================ -->
