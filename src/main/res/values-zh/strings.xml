@@ -1686,6 +1686,9 @@
     <string name="dark_theme_info">设置运行在安卓10或更高版本设备上的暗色主题。</string>
     <string name="current_theme">[已选择]</string>
     <string name="theme_manage">管理主题</string>
+    <string name="theme_manage_delete_imported_theme">可以删除导入的主题</string>
+    <string name="theme_delete_confirm_title">删除主题</string>
+    <string name="theme_delete_confirm_message">确定要删除主题 %s 吗？</string>
 
 
     <!-- ================================================================================ -->

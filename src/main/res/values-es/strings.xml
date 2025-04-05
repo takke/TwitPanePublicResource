@@ -1647,6 +1647,9 @@
     <string name="dark_theme_info">Conjunto tema oscuro que se ejecuta en Android 10 o dispositivos posteriores.</string>
     <string name="current_theme">[Seleccionado]</string>
     <string name="theme_manage">Administrar temas</string>
+    <string name="theme_manage_delete_imported_theme">Los temas importados pueden ser eliminados</string>
+    <string name="theme_delete_confirm_title">Eliminar tema</string>
+    <string name="theme_delete_confirm_message">¿Estás seguro de que quieres eliminar el tema %s?</string>
 
 
     <!-- ================================================================================ -->
