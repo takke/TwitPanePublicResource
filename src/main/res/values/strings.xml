@@ -135,7 +135,7 @@
     <string name="color_edit_button">Edit</string>
     <string name="restore_default_confirm">Restore default?</string>
     <string name="import_confirm_message">Are you sure you want to import this design?</string>
-    <string name="import_restart_message">%s will be restarted after importing</string>
+    <string name="import_restart_message">* %s will be restarted after importing</string>
     <string name="import_theme_name_message">* Target theme name: %s</string>
     <string name="import_theme_color_overwrite_warning">* Please note that the color data set in the %s theme will be overwritten</string>
 

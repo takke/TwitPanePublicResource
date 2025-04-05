@@ -135,7 +135,7 @@
     <string name="color_edit_button">編輯</string>
     <string name="restore_default_confirm">恢復預設值？</string>
     <string name="import_confirm_message">你確定要導入這個設計嗎？</string>
-    <string name="import_restart_message">導入後重新啓動%s</string>
+    <string name="import_restart_message">* 導入後重新啓動%s</string>
     <string name="import_theme_name_message">* 導入目標主題名稱: %s</string>
     <string name="import_theme_color_overwrite_warning">* 請注意，%s主題中設置的顏色數據將被覆蓋</string>
 

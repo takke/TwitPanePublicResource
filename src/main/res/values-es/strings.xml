@@ -135,7 +135,7 @@
     <string name="color_edit_button">"Editar"</string>
     <string name="restore_default_confirm">"¿Restaurar lo predeterminado?"</string>
     <string name="import_confirm_message">¿Estás seguro de que quieres importar este diseño?</string>
-    <string name="import_restart_message">%s se reiniciará después de importar</string>
+    <string name="import_restart_message">* %s se reiniciará después de importar</string>
     <string name="import_theme_name_message">* Nombre del tema de destino: %s</string>
     <string name="import_theme_color_overwrite_warning">* Ten en cuenta que los datos de color establecidos en el tema %s se sobrescribirán</string>
 
