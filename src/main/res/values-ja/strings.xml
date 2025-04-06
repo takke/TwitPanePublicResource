@@ -1689,6 +1689,7 @@
     <string name="current_theme">【選択中】</string>
     <string name="manage_imported_theme">テーマの管理</string>
     <string name="theme_manage_delete_imported_theme">インポートしたテーマを削除できます</string>
+    <string name="theme_manage_theme_import_message">新しいテーマを<a href="https://twitpane.com/d/">テーマデザイナー(Web)</a>で作成し、インポートすることができます。\nテーマデザイナー(Web)はPCのブラウザで開くと快適にテーマを作成できておすすめです。</string>
     <string name="theme_delete_confirm_title">テーマの削除</string>
     <string name="theme_delete_confirm_message">%s を削除しますか？</string>
 
