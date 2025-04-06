@@ -1971,6 +1971,9 @@ Reauthenticate on the next screen.</string>
     <string name="spoiler_more">SHOW MORE</string>
     <string name="same_language_only">Same language only</string>
     <string name="open_registration">Open Registration</string>
+    <string name="misskey_use_old_auth">Authenticate for older servers</string>
+    <string name="misskey_old_auth_title">About Old Authentication Method</string>
+    <string name="misskey_old_auth_description">When enabled, authenticates using the app creation method (auth method). Use this if you cannot log in to servers prior to v12.\nWhen disabled, authenticates using the MiAuth method.</string>
 
     <!-- Misskey -->
     <string name="misskey_server_name_label">Server Name</string>

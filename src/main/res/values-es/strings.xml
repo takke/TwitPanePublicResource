@@ -1834,6 +1834,9 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="spoiler_more">SHOW MORE</string>
     <string name="same_language_only">Same language only</string>
     <string name="open_registration">Open Registration</string>
+    <string name="misskey_use_old_auth">Autenticar para servidores antiguos</string>
+    <string name="misskey_old_auth_title">Sobre el método de autenticación antiguo</string>
+    <string name="misskey_old_auth_description">Cuando está habilitado, se autentica mediante el método de creación de aplicaciones (método auth). Úselo si no puede iniciar sesión en servidores anteriores a v12.\nCuando está deshabilitado, se autentica mediante el método MiAuth.</string>
 
     <!-- Misskey -->
     <string name="misskey_server_name_label">Server Name</string>
@@ -1969,5 +1972,6 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
 
     <string name="notification_channel_bluesky_auth_error">Error de autenticación de Bluesky</string>
     <string name="bluesky_auth_error_notification_message">El token de autenticación ha caducado y se requiere una reautenticación (%1$s)</string>
+
 
 </resources>

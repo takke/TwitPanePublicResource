@@ -1862,6 +1862,9 @@
     <string name="spoiler_more">SHOW MORE</string>
     <string name="same_language_only">Same language only</string>
     <string name="open_registration">Open Registration</string>
+    <string name="misskey_use_old_auth">為舊伺服器進行認證</string>
+    <string name="misskey_old_auth_title">關於舊認證方式</string>
+    <string name="misskey_old_auth_description">啟用時，使用應用創建方式(auth方式)進行認證。如果您無法登入v12之前的伺服器，請使用此選項。\n禁用時，使用MiAuth方式進行認證。</string>
 
     <!-- Misskey -->
     <string name="misskey_server_name_label">Server Name</string>

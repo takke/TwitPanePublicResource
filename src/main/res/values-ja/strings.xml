@@ -1934,6 +1934,9 @@
     <string name="spoiler_more">もっと見る</string>
     <string name="same_language_only">同一言語のみ</string>
     <string name="open_registration">新規登録可</string>
+    <string name="misskey_use_old_auth">旧サーバー用に認証する</string>
+    <string name="misskey_old_auth_title">旧認証方式について</string>
+    <string name="misskey_old_auth_description">オンにするとアプリ作成方式(auth 方式)で認証します。v12 以前のサーバーにログインできない場合にご利用ください。\nオフの場合は MiAuth 方式で認証します。</string>
 
     <!-- Misskey -->
     <string name="misskey_server_name_label">接続先サーバー</string>

@@ -1835,6 +1835,9 @@
     <string name="spoiler_more">SHOW MORE</string>
     <string name="same_language_only">Same language only</string>
     <string name="open_registration">Open Registration</string>
+    <string name="misskey_use_old_auth">이전 서버용 인증</string>
+    <string name="misskey_old_auth_title">이전 인증 방식에 대하여</string>
+    <string name="misskey_old_auth_description">활성화하면 앱 생성 방식(auth 방식)으로 인증합니다. v12 이전 서버에 로그인할 수 없는 경우 사용하세요.\n비활성화하면 MiAuth 방식으로 인증합니다.</string>
 
     <!-- Misskey -->
     <string name="misskey_server_name_label">Server Name</string>
