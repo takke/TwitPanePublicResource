@@ -1726,7 +1726,7 @@ Do you want to enable it?</string>
     <string name="current_theme">[Selected]</string>
     <string name="manage_imported_theme">Manage Themes</string>
     <string name="theme_manage_delete_imported_theme">Imported themes can be deleted</string>
-    <string name="theme_manage_theme_import_message">新しいテーマを<a href="https://twitpane.com/d/">テーマデザイナー(Web)</a>で作成し、インポートすることができます。\nテーマデザイナー(Web)はPCのブラウザで開くと快適にテーマを作成できておすすめです。</string>
+    <string name="theme_manage_theme_import_message">You can create new themes with the <a href="https://twitpane.com/d/">Theme Designer (Web)</a> and import them.\nUsing the Theme Designer (Web) on a PC browser is recommended for comfortable theme creation.</string>
     <string name="theme_delete_confirm_title">Delete Theme</string>
     <string name="theme_delete_confirm_message">Are you sure you want to delete theme %s ?</string>
 

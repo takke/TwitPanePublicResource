@@ -1688,6 +1688,7 @@
     <string name="theme_manage_delete_imported_theme">可以刪除匯入的主題</string>
     <string name="theme_delete_confirm_title">刪除主題</string>
     <string name="theme_delete_confirm_message">確定要刪除主題 %s 嗎？</string>
+    <string name="theme_manage_theme_import_message">您可以使用<a href="https://twitpane.com/d/">主題設計器(網頁版)</a>創建新主題並匯入。\n建議在PC瀏覽器上使用主題設計器(網頁版)，這樣可以更舒適地創建主題。</string>
 
 
     <!-- ================================================================================ -->

@@ -1648,7 +1648,8 @@
     <string name="current_theme">[Seleccionado]</string>
     <string name="manage_imported_theme">Administrar temas</string>
     <string name="theme_manage_delete_imported_theme">Los temas importados pueden ser eliminados</string>
-    <string name="theme_delete_confirm_title">Eliminar tema</string>
+    <string name="theme_manage_theme_import_message">Puede crear nuevos temas con el <a href="https://twitpane.com/d/">Diseñador de Temas (Web)</a> e importarlos.\nSe recomienda usar el Diseñador de Temas (Web) en un navegador de PC para una creación de temas más cómoda.</string>
+    <string name="theme_delete_confirm_title">Eliminar Tema</string>
     <string name="theme_delete_confirm_message">¿Estás seguro de que quieres eliminar el tema %s?</string>
 
 
