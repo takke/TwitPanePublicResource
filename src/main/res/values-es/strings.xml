@@ -656,6 +656,7 @@
     <string name="menu_show_profile">"Mostrar perfil"</string>
     <string name="menu_show_timeline">"Mostrar cronología"</string>
     <string name="show_tweets">Mostrar cronología</string>
+    <string name="show_posts">Mostrar cronología</string>
     <string name="menu_show_tweet">"Ver"</string>
     <string name="menu_set_color_label_dots">"Definir etiqueta de color ..."</string>
     <string name="menu_set_color_label_short">"Establecer etiquetas de color"</string>

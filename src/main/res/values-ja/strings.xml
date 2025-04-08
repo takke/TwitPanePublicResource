@@ -664,6 +664,7 @@
     <string name="menu_show_profile">プロフィールを表示する</string>
     <string name="menu_show_timeline">タイムラインを表示する</string>
     <string name="show_tweets">ツイートを表示</string>
+    <string name="show_posts">ポストを表示</string>
     <string name="menu_show_tweet">表示</string>
     <string name="menu_set_color_label_dots">カラーラベルを設定する...</string>
     <string name="menu_set_color_label_short">カラーラベル設定</string>
