@@ -360,7 +360,7 @@
 
     <string name="retweeted_by_user">"Retwitteado por %1$s"</string>
     <string name="boosted_by_user">Boosted by %1$s</string>
-    <string name="renoted_by_user">Renoted by %1$s</string>
+    <string name="renoted_by_user">Renotado por %1$s</string>
     <string name="reposted_by_user">Reposteado por %1$s</string>
     <string name="source_from">"de %1$s"</string>
     <string name="reply_to">"a %1$s"</string>
