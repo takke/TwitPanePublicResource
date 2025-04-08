@@ -704,6 +704,7 @@
     <string name="show_blocked_tweets">Blocked tweets</string>
     <string name="show_blocked_posts">Blocked posts</string>
     <string name="menu_user_reply_search_tweets">Search replies</string>
+    <string name="menu_user_reply_search_posts">Search replies</string>
     <string name="menu_search_from_user_posts">Search from user posts</string>
     <string name="menu_user_posts_only">User Posts Only</string>
     <string name="menu_user_posts_only_posts">User Posts Only</string>

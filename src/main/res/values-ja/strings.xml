@@ -709,6 +709,7 @@
     <string name="show_blocked_tweets">ブロックツイート一覧</string>
     <string name="show_blocked_posts">ブロックポスト一覧</string>
     <string name="menu_user_reply_search_tweets">ユーザー宛のツイートを検索する</string>
+    <string name="menu_user_reply_search_posts">ユーザー宛のポストを検索する</string>
     <string name="menu_search_from_user_posts">ユーザーの投稿から検索する</string>
     <string name="menu_user_posts_only">投稿のみ</string>
     <string name="menu_user_posts_only_posts">ポストのみ</string>

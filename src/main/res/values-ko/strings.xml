@@ -700,6 +700,7 @@
     <string name="show_blocked_tweets">차단된 트윗 표시</string>
     <string name="show_blocked_posts">차단된 게시물 표시</string>
     <string name="menu_user_reply_search_tweets">"유저에게 보낸 트윗 검색"</string>
+    <string name="menu_user_reply_search_posts">"유저에게 보낸 트윗 검색"</string>
     <string name="menu_search_from_user_posts">Search from user posts</string>
     <string name="menu_user_posts_only">User Posts Only</string>
     <string name="menu_user_posts_only_posts">User Posts Only</string>

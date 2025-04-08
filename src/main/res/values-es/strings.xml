@@ -700,6 +700,7 @@
     <string name="show_blocked_tweets">mostrar tweets bloqueados</string>
     <string name="show_blocked_posts">Mostrar publicaciones bloqueadas</string>
     <string name="menu_user_reply_search_tweets">"Buscar respuestas"</string>
+    <string name="menu_user_reply_search_posts">"Buscar respuestas"</string>
     <string name="menu_search_from_user_posts">Search from user posts</string>
     <string name="menu_user_posts_only">User Posts Only</string>
     <string name="menu_user_posts_only_posts">User Posts Only</string>

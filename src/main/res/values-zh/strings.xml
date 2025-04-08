@@ -701,6 +701,7 @@
     <string name="show_blocked_tweets">显示被屏蔽的推文</string>
     <string name="show_blocked_posts">显示被屏蔽的帖子</string>
     <string name="menu_user_reply_search_tweets">搜索回复</string>
+    <string name="menu_user_reply_search_posts">搜索回复</string>
     <string name="menu_search_from_user_posts">Search from user posts</string>
     <string name="menu_user_posts_only">User Posts Only</string>
     <string name="menu_user_posts_only_posts">User Posts Only</string>
