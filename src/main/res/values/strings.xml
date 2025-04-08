@@ -363,6 +363,7 @@
     <string name="retweeted_by_user">Retweeted by %1$s</string>
     <string name="boosted_by_user">Boosted by %1$s</string>
     <string name="renoted_by_user">Renoted by %1$s</string>
+    <string name="reposted_by_user">Reposted by %1$s</string>
     <string name="source_from">from %1$s</string>
     <string name="reply_to">to %1$s</string>
     <string name="cannot_launch_official_app">Cannot launch the official app.\nPlease make sure that installed the latest official app.</string>

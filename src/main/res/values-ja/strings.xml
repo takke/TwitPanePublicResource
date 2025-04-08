@@ -363,6 +363,7 @@
     <string name="retweeted_by_user">%1$sさんがリツイートしました</string>
     <string name="boosted_by_user">%1$sさんがブーストしました</string>
     <string name="renoted_by_user">%1$sさんがリノートしました</string>
+    <string name="reposted_by_user">%1$sさんがリポストしました</string>
     <string name="source_from">%1$sから</string>
     <string name="reply_to">%1$s宛</string>
     
