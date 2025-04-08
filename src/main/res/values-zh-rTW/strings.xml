@@ -644,7 +644,7 @@
     <string name="menu_search_around_posts_misskey">搜尋相關的筆記</string>
     <string name="menu_search_around_posts_bluesky">搜尋相關的帖子</string>
     <string name="found_new_reply_tweets">發現新的推文(%1$s)</string>
-    <string name="menu_show_rt_users">轉推使用者</string>
+    <string name="menu_show_rt_users_tw">轉推使用者</string>
     <string name="menu_show_rt_users_mastodon">顯示轉嘟的使用者</string>
     <string name="menu_show_rt_users_misskey">顯示轉筆記的使用者</string>
     <string name="menu_show_rt_users_bluesky">顯示轉貼的使用者</string>

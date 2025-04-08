@@ -642,7 +642,7 @@
     <string name="menu_search_around_posts_misskey">Buscar alrededor de los notes</string>
     <string name="menu_search_around_posts_bluesky">Buscar alrededor de los posts</string>
     <string name="found_new_reply_tweets">Encuentran nuevos tweets(%1$s)</string>
-    <string name="menu_show_rt_users">"RT usuarios"</string>
+    <string name="menu_show_rt_users_tw">"RT usuarios"</string>
     <string name="menu_show_rt_users_mastodon">Mostrar usuarios que han boosteado</string>
     <string name="menu_show_rt_users_misskey">Mostrar usuarios que han renoteado</string>
     <string name="menu_show_rt_users_bluesky">Mostrar usuarios que han reposteado</string>

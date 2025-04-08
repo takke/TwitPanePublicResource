@@ -641,7 +641,7 @@
     <string name="menu_search_around_posts_misskey">전후 노트 검색</string>
     <string name="menu_search_around_posts_bluesky">전후 포스트 검색</string>
     <string name="found_new_reply_tweets">발견 새 트윗(%1$s)</string>
-    <string name="menu_show_rt_users">"리트윗 한 유저 보기"</string>
+    <string name="menu_show_rt_users_tw">"리트윗 한 유저 보기"</string>
     <string name="menu_show_rt_users_mastodon">부스트한 사용자 표시</string>
     <string name="menu_show_rt_users_misskey">리노트한 사용자 표시</string>
     <string name="menu_show_rt_users_bluesky">리포스트한 사용자 표시</string>
