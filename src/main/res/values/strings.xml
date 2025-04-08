@@ -12,7 +12,8 @@
     <string name="title_activity_list_create">New List</string>
     <string name="title_activity_browser">Browser</string>
     <string name="title_activity_movie_player"></string>
-    <string name="title_activity_tweet_select">Tweet select</string>
+    <string name="title_activity_tweet_select">Select tweet</string>
+    <string name="title_activity_post_select">Select post</string>
     <string name="title_activity_toolbar_config">Toolbar Config</string>
     <string name="title_activity_gallery_image_picker">Gallery</string>
     <string name="title_activity_subscription_guide">Upgrade to Subscription</string>

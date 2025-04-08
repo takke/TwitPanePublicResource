@@ -12,8 +12,9 @@
     <string name="title_activity_list_create">"새로운 목록"</string>
     <string name="title_activity_browser">"브라우저"</string>
     <string name="title_activity_movie_player"></string>
-    <string name="title_activity_tweet_select">"트윗 선택"</string>
-    <string name="title_activity_toolbar_config">"툴바 설정"</string>
+    <string name="title_activity_tweet_select">트윗 선택</string>
+    <string name="title_activity_post_select">게시물 선택</string>
+    <string name="title_activity_toolbar_config">도구 모음 구성</string>
     <string name="title_activity_gallery_image_picker">Gallery</string>
     <string name="title_activity_subscription_guide">구독으로 업그레이드</string>
 

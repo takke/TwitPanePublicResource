@@ -12,8 +12,9 @@
     <string name="title_activity_list_create">"Nueva lista"</string>
     <string name="title_activity_browser">"Navegador"</string>
     <string name="title_activity_movie_player"></string>
-    <string name="title_activity_tweet_select">"Seleccionar tweet"</string>
-    <string name="title_activity_toolbar_config">"Ajustes barra de herramientas"</string>
+    <string name="title_activity_tweet_select">Seleccionar tweet</string>
+    <string name="title_activity_post_select">Seleccionar publicación</string>
+    <string name="title_activity_toolbar_config">Configuración de la barra de herramientas</string>
     <string name="title_activity_gallery_image_picker">Gallery</string>
     <string name="title_activity_subscription_guide">Actualizar a suscripción</string>
 

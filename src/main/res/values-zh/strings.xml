@@ -12,8 +12,9 @@
     <string name="title_activity_list_create">新建列表</string>
     <string name="title_activity_browser">浏览器</string>
     <string name="title_activity_movie_player"></string>
-    <string name="title_activity_tweet_select">推文选择</string>
-    <string name="title_activity_toolbar_config">工具栏设置</string>
+    <string name="title_activity_tweet_select">选择推文</string>
+    <string name="title_activity_post_select">选择帖子</string>
+    <string name="title_activity_toolbar_config">工具栏配置</string>
     <string name="title_activity_gallery_image_picker">Gallery</string>
     <string name="title_activity_subscription_guide">升级到订阅</string>
 
