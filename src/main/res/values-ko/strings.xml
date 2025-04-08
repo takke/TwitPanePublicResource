@@ -1043,6 +1043,9 @@
     <string name="config_tab_icon">"탭 아이콘"</string>
     <string name="config_tab_icon_summary">"탭에 아이콘 표시"</string>
     <string name="config_hide_tab_bar_on_landscape">풍경에 탭을 숨기기</string>
+    <string name="config_x_mode_category">X 모드</string>
+    <string name="config_enable_x_mode">X 모드 사용</string>
+    <string name="config_enable_x_mode_summary">UI를 X 스타일로 만듭니다. 트윗은 게시물로, 리트윗(RT)은 리포스트(RP)로 표시됩니다. [기본값:켜짐]</string>
     <string name="config_account_on_title">"제목 계정 (1)"</string>
     <string name="config_account_on_title_summary">"제목에 계정 화면 이름 (@ 이름) 보이기"</string>
     <string name="config_account_name_on_title">"제목 계정 (2)"</string>

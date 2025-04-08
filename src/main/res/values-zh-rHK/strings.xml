@@ -1035,6 +1035,9 @@
     <string name="config_tab_icon">標籤圖標</string>
     <string name="config_tab_icon_summary">在標籤上顯示圖標</string>
     <string name="config_hide_tab_bar_on_landscape">橫屏時隱藏標籤</string>
+    <string name="config_x_mode_category">X 模式</string>
+    <string name="config_enable_x_mode">使用 X 模式</string>
+    <string name="config_enable_x_mode_summary">使介面類似於 X。推文將標記為貼文，轉推(RT)將標記為轉發(RP)。[預設:開啟]</string>
     <string name="config_account_on_title">標題帳户（1）</string>
     <string name="config_account_on_title_summary">在標題上顯示帳户的網名（@name）</string>
     <string name="config_account_name_on_title">標題賬户（2）</string>
