@@ -1042,7 +1042,6 @@
     <string name="config_tab_icon">"Icono de pestaña"</string>
     <string name="config_tab_icon_summary">"Mostrar icono en la pestaña"</string>
     <string name="config_hide_tab_bar_on_landscape">"Ocultar pestañas en apaisado"</string>
-    <string name="config_x_mode_category">Modo X</string>
     <string name="config_enable_x_mode">Usar modo X</string>
     <string name="config_enable_x_mode_summary">Hacer que la interfaz de usuario sea similar a X. Los tweets ahora se etiquetarán como publicaciones y los retweets (RT) se etiquetarán como republicaciones (RP). [predeterminado:ACTIVADO]</string>
     <string name="config_account_on_title">"Cuenta en el título (1)"</string>

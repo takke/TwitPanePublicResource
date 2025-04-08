@@ -1042,7 +1042,6 @@
     <string name="config_tab_icon">标签图标</string>
     <string name="config_tab_icon_summary">在标签上显示图标</string>
     <string name="config_hide_tab_bar_on_landscape">横屏时隐藏标签</string>
-    <string name="config_x_mode_category">X 模式</string>
     <string name="config_enable_x_mode">使用 X 模式</string>
     <string name="config_enable_x_mode_summary">使界面类似于 X。推文将标记为帖子，转推(RT)将标记为转发(RP)。[默认:开启]</string>
     <string name="config_account_on_title">标题帐户（1）</string>
