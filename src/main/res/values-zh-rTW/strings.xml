@@ -168,7 +168,7 @@
     <string name="banner_change">修改</string>
     <string name="banner_remove">移除</string>
     <string name="send_dm_button">新訊息</string>
-    <string name="send_mention_button">新提及</string>
+    <string name="send_tweet_mention_button">新提及</string>
     <string name="send_toot_mention_button">新提及</string>
     <string name="send_note_mention_button">新提及</string>
     <string name="send_post_mention_button">新提及</string>

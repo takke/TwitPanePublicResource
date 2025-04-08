@@ -168,7 +168,7 @@
     <string name="banner_change">変更</string>
     <string name="banner_remove">削除</string>
     <string name="send_dm_button">メッセージを送信する</string>
-    <string name="send_mention_button">\@ツイートを送信する</string>
+    <string name="send_tweet_mention_button">\@ツイートを送信する</string>
     <string name="send_toot_mention_button">\@トゥートを送信する</string>
     <string name="send_note_mention_button">\@ノートを送信する</string>
     <string name="send_post_mention_button">\@Postを送信する</string>

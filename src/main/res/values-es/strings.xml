@@ -168,7 +168,7 @@
     <string name="banner_change">"Cambiar"</string>
     <string name="banner_remove">"Eliminar"</string>
     <string name="send_dm_button">"nuevo mensaje"</string>
-    <string name="send_mention_button">"nueva mención"</string>
+    <string name="send_tweet_mention_button">"nueva mención"</string>
     <string name="send_toot_mention_button">"nueva mención"</string>
     <string name="send_note_mention_button">"nueva mención"</string>
     <string name="send_post_mention_button">"nueva mención"</string>
