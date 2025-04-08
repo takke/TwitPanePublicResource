@@ -603,6 +603,7 @@
     <string name="menu_tweet_with_comment">Tweet with Comment(Twitter Style)</string>
     <string name="menu_unofficial_retweet">RT \@TwitPane: …</string>
     <string name="cannot_retweet_protected_user_tweet">Cannot retweet protected user\'s tweet</string>
+    <string name="cannot_repost_protected_user_post">Cannot repost protected user\'s post</string>
     <string name="menu_remove_retweet">Remove retweet</string>
     <string name="menu_remove_retweet_taittsuu">Remove retaiitsu</string>
     <string name="menu_remove_boost">Remove boost</string>

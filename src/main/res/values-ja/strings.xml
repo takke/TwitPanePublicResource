@@ -608,6 +608,7 @@
     <string name="menu_tweet_with_comment">コメント付きツイート(公式方式)</string>
     <string name="menu_unofficial_retweet">RT \@TwitPane: …</string>
     <string name="cannot_retweet_protected_user_tweet">非公開アカウントのツイートはリツイートできません</string>
+    <string name="cannot_repost_protected_user_post">非公開アカウントのポストはリポストできません</string>
     <string name="menu_remove_retweet">リツイートを解除</string>
     <string name="menu_remove_retweet_taittsuu">リタイーツを解除</string>
     <string name="menu_remove_boost">ブーストを解除</string>
