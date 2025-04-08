@@ -1058,8 +1058,8 @@
     <string name="config_tab_icon_summary">タブにアイコンを表示します【初期値：ON】</string>
     <string name="config_hide_tab_bar_on_landscape">横画面でタブ非表示</string>
     <string name="config_x_mode_category">Xモード</string>
-    <string name="config_enable_x_mode">Xモードを使う</string>
-    <string name="config_enable_x_mode_summary">UIをX風にする。ツイートはポスト、リツイート(RT)はリポスト(RP)と表記するようになります。【初期値：新規インストール時はON、v32以前からのアップデート時はOFF】</string>
+    <string name="config_enable_x_mode">Xモード</string>
+    <string name="config_enable_x_mode_summary">UIをX風にする。ツイートはポスト、リツイート(RT)はリポスト(RP)と表記するようになります。【初期値：ON(v32以前からのアップデート時はOFF)】</string>
     <string name="config_account_on_title">タイトルのアカウント</string>
     <string name="config_account_on_title_summary">アプリタイトルにアカウント名(@name)を表示します【初期値：ON】</string>
     <string name="config_account_name_on_title">タイトルの名前表示</string>
