@@ -264,6 +264,7 @@
     <string name="already_task_running">"실행 중... 몇 분 후에 다시 시도하십시오"</string>
     <string name="cannot_view_private_account_timeline">"개인계정의 타임라인을 볼 수 없습니다 ..."</string>
     <string name="cannot_view_private_account_tweet">"개인계정의 트윗을 볼 수 없습니다 ..."</string>
+    <string name="cannot_view_private_account_post">비공개 계정의 게시물을 볼 수 없습니다</string>
     <string name="cannot_retweet_duplicate_status">"이미 리트윗되었습니다."</string>
     <string name="cannot_retweet_blocked_user">You have been blocked from retweeting this user\'s tweets at their request.</string>
     

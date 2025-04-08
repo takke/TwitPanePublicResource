@@ -264,6 +264,7 @@
     <string name="already_task_running">正在運行，請在幾分鐘後重試。</string>
     <string name="cannot_view_private_account_timeline">無法查看私人帳户的推特...</string>
     <string name="cannot_view_private_account_tweet">無法查看私人帳户的推文...</string>
+    <string name="cannot_view_private_account_post">無法查看私密帳號的帖文</string>
     <string name="cannot_retweet_duplicate_status">可能已被轉推。</string>
     <string name="cannot_retweet_blocked_user">應該用户的要求，您已被禁止轉發該用户的推文。</string>
 

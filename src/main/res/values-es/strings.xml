@@ -264,6 +264,7 @@
     <string name="already_task_running">"Ejecutándose, por favor, inténtelo de nuevo en unos minutos."</string>
     <string name="cannot_view_private_account_timeline">"No se puede ver la cronología de la cuenta privada ..."</string>
     <string name="cannot_view_private_account_tweet">"No se puede ver el tweet de la cuenta privada ..."</string>
+    <string name="cannot_view_private_account_post">No se puede ver la publicación de una cuenta privada</string>
     <string name="cannot_retweet_duplicate_status">"Puede que ya se haya retwiteado."</string>
     <string name="cannot_retweet_blocked_user">You have been blocked from retweeting this user\'s tweets at their request.</string>
 
