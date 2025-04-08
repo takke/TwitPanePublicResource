@@ -273,6 +273,7 @@
     
     <string name="block_user_confirm_message">"정말로 차단하시겠습니까?"</string>
     <string name="block_tweet_confirm_message">"정말로 차단하시겠습니까?"</string>
+    <string name="block_post_confirm_message">이 게시물을 차단하시겠습니까?</string>
     <string name="blocked_message">"차단됨"</string>
     <string name="report_spam_confirm_message">"이 유저를 정말로 신고하시겠습니까?"</string>
     <string name="user_reported_message">"신고됨"</string>

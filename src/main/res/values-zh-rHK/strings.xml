@@ -273,6 +273,7 @@
 
     <string name="block_user_confirm_message">你確定要屏蔽嗎？</string>
     <string name="block_tweet_confirm_message">你確定你屏蔽嗎？</string>
+    <string name="block_post_confirm_message">你確定要屏蔽這條帖文嗎？</string>
     <string name="blocked_message">已屏蔽</string>
     <string name="report_spam_confirm_message">你確定要舉報這個用户的垃圾信息嗎？</string>
     <string name="user_reported_message">已舉報</string>

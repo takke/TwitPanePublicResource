@@ -273,6 +273,7 @@
 
     <string name="block_user_confirm_message">Are you sure you want to block?</string>
     <string name="block_tweet_confirm_message">Are you sure you want to block?</string>
+    <string name="block_post_confirm_message">Are you sure you want to block this post?</string>
     <string name="blocked_message">Blocked</string>
     <string name="report_spam_confirm_message">Are you sure you want to report spam this user?</string>
     <string name="user_reported_message">Reported</string>

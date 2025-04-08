@@ -273,6 +273,7 @@
 
     <string name="block_user_confirm_message">"¿Seguro de que quieres bloquearlo?"</string>
     <string name="block_tweet_confirm_message">"¿Seguro de que quieres bloquearlo?"</string>
+    <string name="block_post_confirm_message">¿Seguro que quieres bloquear esta publicación?</string>
     <string name="blocked_message">"Bloqueado"</string>
     <string name="report_spam_confirm_message">"¿Seguro que quieres señalar como spam a este usuario?"</string>
     <string name="user_reported_message">"Señalado"</string>
