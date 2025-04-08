@@ -13,6 +13,7 @@
     <string name="title_activity_browser">ブラウザ</string>
     <string name="title_activity_movie_player"></string>
     <string name="title_activity_tweet_select">ツイート選択</string>
+    <string name="title_activity_post_select">ポスト選択</string>
     <string name="title_activity_toolbar_config">ツールバー設定</string>
     <string name="title_activity_gallery_image_picker">Gallery</string>
     <string name="title_activity_subscription_guide">サブスクリプションについて</string>
