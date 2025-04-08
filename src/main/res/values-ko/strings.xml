@@ -168,10 +168,10 @@
     <string name="banner_change">"변경"</string>
     <string name="banner_remove">"제거"</string>
     <string name="send_dm_button">"새 메시지"</string>
-    <string name="send_tweet_mention_button">"새로운 멘션"</string>
-    <string name="send_toot_mention_button">"새로운 멘션"</string>
-    <string name="send_note_mention_button">"새로운 멘션"</string>
-    <string name="send_post_mention_button">"새로운 멘션"</string>
+    <string name="send_mention_button_twitter">"새로운 멘션"</string>
+    <string name="send_mention_button_mastodon">"새로운 멘션"</string>
+    <string name="send_mention_button_misskey">"새로운 멘션"</string>
+    <string name="send_mention_button_bluesky">"새로운 멘션"</string>
     <string name="display_name">Display Name</string>
 
     <string name="retweet_confirm_message">"이 트윗을 리트윗할까요?"</string>

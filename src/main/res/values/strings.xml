@@ -168,10 +168,10 @@
     <string name="banner_change">Change</string>
     <string name="banner_remove">Remove</string>
     <string name="send_dm_button">New Message</string>
-    <string name="send_tweet_mention_button">New Mention</string>
-    <string name="send_toot_mention_button">New Mention</string>
-    <string name="send_note_mention_button">New Mention</string>
-    <string name="send_post_mention_button">New Mention</string>
+    <string name="send_mention_button_twitter">New Mention</string>
+    <string name="send_mention_button_mastodon">New Mention</string>
+    <string name="send_mention_button_misskey">New Mention</string>
+    <string name="send_mention_button_bluesky">New Mention</string>
     <string name="display_name">Display Name</string>
 
     <string name="retweet_confirm_message">Retweet this tweet?</string>
