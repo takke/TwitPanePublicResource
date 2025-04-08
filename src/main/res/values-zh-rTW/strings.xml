@@ -549,6 +549,7 @@
     <string name="menu_show_emoji_reactions">Emoji Reactions</string>
     <string name="menu_show_emoji_reactions_notes">Emoji Reacted Notes</string>
     <string name="menu_show_no_retweet_users">顯示非轉推使用者</string>
+    <string name="menu_show_no_repost_users">顯示非轉發使用者</string>
     <string name="menu_show_personal_timeline">Personal Timeline</string>
     <string name="menu_fedibird_follow_subscribe_management">Follow/subscribe management</string>
     <string name="menu_show_follow_hashtag_management">Hashtags following management</string>

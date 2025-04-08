@@ -547,6 +547,7 @@
     <string name="menu_show_emoji_reactions">Emoji Reactions</string>
     <string name="menu_show_emoji_reactions_notes">Emoji Reacted Notes</string>
     <string name="menu_show_no_retweet_users">Los usuarios no Retweet</string>
+    <string name="menu_show_no_repost_users">Los usuarios no Repost</string>
     <string name="menu_show_personal_timeline">Personal Timeline</string>
     <string name="menu_fedibird_follow_subscribe_management">Follow/subscribe management</string>
     <string name="menu_show_follow_hashtag_management">Hashtags following management</string>
