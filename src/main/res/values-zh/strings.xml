@@ -208,7 +208,8 @@
     <string name="created_favorite_message_like">已收藏</string>
     <string name="destroyed_favorite_message_like">已取消收藏</string>
     <string name="cannot_favorite_duplicate_status_favorite">可能已添加到您的收藏夹</string>
-    <string name="cannot_favorite_duplicate_status_like">可能已收藏</string>
+    <string name="cannot_favorite_duplicate_status_like">你已经点赞过这条推文了</string>
+    <string name="cannot_favorite_duplicate_status_like_post">你已经点赞过这条帖子了</string>
     <string name="favorite_confirm_message_favorite_mst">添加到收藏？</string>
     <string name="remove_favorite_confirm_message_favorite_mst">从收藏中移除？</string>
     <string name="cannot_favorite_duplicate_status_favorite_mst">此帖子已加入收藏</string>

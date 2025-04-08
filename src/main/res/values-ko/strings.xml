@@ -208,7 +208,8 @@
     <string name="created_favorite_message_like">마음</string>
     <string name="destroyed_favorite_message_like">마음 취소</string>
     <string name="cannot_favorite_duplicate_status_favorite">그것은 이미 즐겨 찾기에 추가 할 수 있습니다</string>
-    <string name="cannot_favorite_duplicate_status_like">그것은 이미 좋아 수 있습니다</string>
+    <string name="cannot_favorite_duplicate_status_like">이미 이 트윗을 좋아요했습니다</string>
+    <string name="cannot_favorite_duplicate_status_like_post">이미 이 게시물을 좋아요했습니다</string>
     <string name="favorite_confirm_message_favorite_mst">즐겨찾기에 추가하시겠습니까?</string>
     <string name="remove_favorite_confirm_message_favorite_mst">즐겨찾기에서 제거하시겠습니까?</string>
     <string name="cannot_favorite_duplicate_status_favorite_mst">이 게시물은 이미 즐겨찾기에 추가되어 있습니다</string>

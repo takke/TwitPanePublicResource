@@ -208,7 +208,8 @@
     <string name="created_favorite_message_like">"Marcado como me gusta"</string>
     <string name="destroyed_favorite_message_like">"Eliminado como me gusta"</string>
     <string name="cannot_favorite_duplicate_status_favorite">Puede que ya agregado a favoritos.</string>
-    <string name="cannot_favorite_duplicate_status_like">Puede que ya gustado.</string>
+    <string name="cannot_favorite_duplicate_status_like">Ya te ha gustado este tweet</string>
+    <string name="cannot_favorite_duplicate_status_like_post">Ya te ha gustado esta publicación</string>
     <string name="favorite_confirm_message_favorite_mst">¿Añadir a favoritos?</string>
     <string name="remove_favorite_confirm_message_favorite_mst">¿Eliminar de favoritos?</string>
     <string name="cannot_favorite_duplicate_status_favorite_mst">Esta publicación ya está en favoritos</string>
