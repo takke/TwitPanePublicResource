@@ -658,7 +658,7 @@
     <string name="no_blocking_users">No blocking users</string>
     <string name="menu_show_profile">Show Profile</string>
     <string name="menu_show_timeline">Show Timeline</string>
-    <string name="show_latest_tweet">Show Last Tweet</string>
+    <string name="show_tweets">Show Tweets</string>
     <string name="menu_show_tweet">View</string>
     <string name="menu_set_color_label_dots">Set Color Label...</string>
     <string name="menu_set_color_label_short">Set Color Label</string>

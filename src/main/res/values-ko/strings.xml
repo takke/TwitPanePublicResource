@@ -654,7 +654,7 @@
     <string name="no_blocking_users">No blocking users</string>
     <string name="menu_show_profile">"프로필 보기"</string>
     <string name="menu_show_timeline">"타임라인 보이기"</string>
-    <string name="show_latest_tweet">타임라인 보이기</string>
+    <string name="show_tweets">타임라인 보이기</string>
     <string name="menu_show_tweet">"보기"</string>
     <string name="menu_set_color_label_dots">"색상 레이블을 설정..."</string>
     <string name="menu_set_color_label_short">"색상 레이블을 설정..."</string>

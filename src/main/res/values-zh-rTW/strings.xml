@@ -657,7 +657,7 @@
     <string name="no_blocking_users">No blocking users</string>
     <string name="menu_show_profile">顯示個人資料</string>
     <string name="menu_show_timeline">顯示時間軸</string>
-    <string name="show_latest_tweet">顯示時間軸</string>
+    <string name="show_tweets">顯示時間軸</string>
     <string name="menu_show_tweet">檢視</string>
     <string name="menu_set_color_label_dots">設定彩色標籤...</string>
     <string name="menu_set_color_label_short">設定顏色標籤</string>
