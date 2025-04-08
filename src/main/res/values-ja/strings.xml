@@ -264,6 +264,7 @@
     <string name="already_task_running">通信中です。しばらく待ってからやり直してみてください</string>
     <string name="cannot_view_private_account_timeline">プライベートアカウントのタイムラインは表示できません</string>
     <string name="cannot_view_private_account_tweet">プライベートアカウントのツイートなので表示できません</string>
+    <string name="cannot_view_private_account_post">プライベートアカウントのポストなので表示できません</string>
     <string name="cannot_retweet_duplicate_status">このツイートは既にリツイート済みのようです</string>
     <string name="cannot_retweet_blocked_user">このユーザーからブロックされているのでリツイートできませんでした。</string>
     
