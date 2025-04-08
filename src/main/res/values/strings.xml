@@ -596,6 +596,7 @@
     <string name="menu_renote_in_channel">Renote in Channel</string>
     <string name="menu_boost">Boost</string>
     <string name="menu_quote_tweet">Quote Tweet</string>
+    <string name="quoted_posts">Quoted Posts</string>
     <string name="menu_quote">Quote</string>
     <string name="menu_quote_disabled">Quote(Disabled)</string>
     <string name="menu_quote_in_channel">Quote in Channel</string>
