@@ -332,7 +332,8 @@
     <string name="exclude_channel_notes">Exclude channel notes</string>
 
     <string name="twitter_error_network_issue">已失敗。可能無法與Twitter伺服器進行通訊。請在幾分鐘後重試。</string>
-    <string name="twitter_error_resource_not_found">已失敗。資源可能已被刪除（推文或私信，或者其他資源）</string>
+    <string name="twitter_error_resource_not_found">失敗。找不到資源。</string>
+    <string name="twitter_error_resource_not_found_post">失敗。資源（貼文、私訊或其他）可能已被刪除</string>
     <string name="twitter_error_api_rate_limitation_with_reset_minutes">已超過速率限制（Twitter的API請求限制）\n\n請在大約%1$d分%2$d秒後再試</string>
     <string name="twitter_error_api_restricted_by_remote_control_of_twitpane">We are temporarily restricting the use of the API to avoid application outages from Twitter.</string>
     <string name="twitter_error_api_restricted_by_remote_control_of_twitpane_full">We are temporarily restricting the use of the API to avoid application outages from Twitter. \nWe apologize for the inconvenience, but please wait for a while until the restriction is lifted.</string>
