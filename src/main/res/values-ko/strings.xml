@@ -599,6 +599,7 @@
     <string name="menu_tweet_with_comment">코멘트 트윗</string>
     <string name="menu_unofficial_retweet">RT \@TwitPane: …</string>
     <string name="cannot_retweet_protected_user_tweet">"보호된 사용자의 트윗을 리트윗할 수 없습니다"</string>
+    <string name="cannot_repost_protected_user_post">"보호된 사용자의 게시물을 리포스트할 수 없습니다"</string>
     <string name="menu_remove_retweet">"리트윗 해제"</string>
     <string name="menu_remove_retweet_taittsuu">리타이쓰 해제</string>
     <string name="menu_remove_boost">부스트 취소</string>
