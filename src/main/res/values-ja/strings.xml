@@ -273,6 +273,7 @@
     
     <string name="block_user_confirm_message">本当にこのユーザーをブロックしますか？</string>
     <string name="block_tweet_confirm_message">本当にこのツイートをブロックしますか？</string>
+    <string name="block_post_confirm_message">本当にこのポストをブロックしますか？</string>
     <string name="blocked_message">ユーザーをブロックしました</string>
     <string name="report_spam_confirm_message">本当にこのユーザーをスパム通報しますか？</string>
     <string name="user_reported_message">ユーザーをスパム通報しました</string>
