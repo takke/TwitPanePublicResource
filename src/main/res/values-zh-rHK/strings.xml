@@ -591,6 +591,16 @@
     <string name="menu_retaiitsu">轉發</string>
     <string name="menu_renote">轉發</string>
     <string name="menu_repost">轉帖</string>
+    <string name="menu_renote_in_channel">Renote in Channel</string>
+    <string name="menu_boost">Boost</string>
+    <string name="menu_quote_tweet">引用推文</string>
+    <string name="quoted_posts">引用的帖子</string>
+    <string name="menu_quote">引用</string>
+    <string name="menu_quote_disabled">引用（無法）</string>
+    <string name="menu_quote_in_channel">Quote in Channel</string>
+    <string name="menu_tweet_with_comment">帶評論的推文（Twitter風格）</string>
+    <string name="menu_unofficial_retweet">轉推 \@TwitPane: …</string>
+    <string name="cannot_retweet_protected_user_tweet">不能轉推受保護的使用者的推文</string>
     <string name="menu_remove_retweet">取消轉推</string>
     <string name="menu_remove_retweet_taittsuu">取消轉發</string>
     <string name="menu_remove_boost">取消轉嘟</string>
@@ -637,7 +647,7 @@
     <string name="menu_show_rt_users_misskey">顯示轉筆記的用戶</string>
     <string name="menu_show_rt_users_bluesky">顯示轉帖的用戶</string>
     <string name="menu_show_quoted_tweets">引用的推文</string>
-    <string name="menu_show_quoted_posts">Quoted posts</string>
+    <string name="menu_show_quoted_posts">引用的帖文</string>
     <string name="menu_show_favorite_users_favorite">收藏的用户</string>
     <string name="menu_show_favorite_users_like">點讚的用户</string>
     <string name="no_liked_users">No liked users</string>

@@ -592,6 +592,7 @@
     <string name="menu_renote_in_channel">Renote in Channel</string>
     <string name="menu_boost">Boost</string>
     <string name="menu_quote_tweet">인용 트윗</string>
+    <string name="quoted_posts">인용된 게시물</string>
     <string name="menu_quote">인용</string>
     <string name="menu_quote_disabled">"인용 불가능"</string>
     <string name="menu_quote_in_channel">Quote in Channel</string>
