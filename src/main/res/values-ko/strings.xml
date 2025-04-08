@@ -359,7 +359,7 @@
     <string name="notification_new_dm_text_with_user">"\@%1$s로부터의 메세지"</string>
     
     <string name="retweeted_by_user">"%1$s에 의해 리트윗됨"</string>
-    <string name="boosted_by_user">Boosted by %1$s</string>
+    <string name="boosted_by_user">%1$s님이 부스트했습니다</string>
     <string name="renoted_by_user">%1$s님이 리노트했습니다</string>
     <string name="reposted_by_user">%1$s님이 리포스트했습니다</string>
     <string name="source_from">"%1$s로부터"</string>

@@ -360,7 +360,7 @@
     <string name="notification_new_dm_text_with_user">來自\@%1$s的訊息</string>
 
     <string name="retweeted_by_user">由%1$s轉推</string>
-    <string name="boosted_by_user">Boosted by %1$s</string>
+    <string name="boosted_by_user">%1$s轉嘟了</string>
     <string name="renoted_by_user">%1$s轉發了</string>
     <string name="reposted_by_user">%1$s轉發了</string>
     <string name="source_from">來自%1$s</string>
