@@ -700,6 +700,7 @@
     <string name="menu_user_block">遮蔽此使用者</string>
     <string name="menu_block_this_tweet">遮蔽這條推文</string>
     <string name="show_blocked_tweets">顯示被遮蔽的推文</string>
+    <string name="show_blocked_posts">顯示被遮蔽的帖子</string>
     <string name="menu_user_reply_search">搜尋回覆</string>
     <string name="menu_search_from_user_posts">Search from user posts</string>
     <string name="menu_user_posts_only">User Posts Only</string>
