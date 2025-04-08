@@ -753,7 +753,9 @@
     <string name="menu_mute_chat">Mute</string>
     <string name="menu_unmute_chat">Unmute</string>
     <string name="menu_misc_block_mute">屏蔽、有害推文...</string>
-    <string name="menu_choose_tweets">選擇推文...</string>
+    <string name="menu_choose_tweets">選擇多條推文...</string>
+    <string name="menu_choose_posts">選擇多條帖子...</string>
+    <string name="menu_choose_toots">選擇多條嘟文...</string>
     <string name="message_for">%1$s的消息</string>
     <string name="message_from">來自%1$s的消息</string>
     <string name="loaded_messages">已載入 %1$d 條消息</string>

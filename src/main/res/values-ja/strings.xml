@@ -771,6 +771,8 @@
     <string name="menu_unmute_chat">ミュート解除</string>
     <string name="menu_misc_block_mute">ブロック・スパム通報...</string>
     <string name="menu_choose_tweets">複数ツイートの選択...</string>
+    <string name="menu_choose_posts">複数ポストの選択...</string>
+    <string name="menu_choose_toots">複数投稿の選択...</string>
     <string name="message_for">%1$s宛のメッセージ</string>
     <string name="message_from">%1$sからのメッセージ</string>
     <string name="loaded_messages">%1$d件のメッセージを取得しました</string>

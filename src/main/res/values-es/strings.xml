@@ -761,7 +761,9 @@
     <string name="menu_mute_chat">Mute</string>
     <string name="menu_unmute_chat">Unmute</string>
     <string name="menu_misc_block_mute">"bloqueos, correo no deseado ..."</string>
-    <string name="menu_choose_tweets">"Elegir tweets ..."</string>
+    <string name="menu_choose_tweets">Elegir varios tweets...</string>
+    <string name="menu_choose_posts">Elegir varias publicaciones...</string>
+    <string name="menu_choose_toots">Elegir varios toots...</string>
     <string name="message_for">"Mensaje para %1$s"</string>
     <string name="message_from">"Mensaje de %1$s"</string>
     <string name="loaded_messages">%1$d Mensaje</string>
