@@ -1288,8 +1288,8 @@ Do you want to enable it?</string>
     <string name="config_open_youtube_link_with_internal_browser_summary">Open YouTube link with internal browser(Chrome Custom Tabs)</string>
     <string name="config_show_conversation_from_bottom">Show new posts to bottom</string>
     <string name="config_show_conversation_from_bottom_summary"></string>
-    <string name="config_conversation_search_count">Count of conversation search</string>
-    <string name="config_conversation_search_count_summary"></string>
+<!--    <string name="config_conversation_search_count">Count of conversation search</string>-->
+<!--    <string name="config_conversation_search_count_summary"></string>-->
 
     <string name="config_tap_ex">Timeline Tap Extension</string>
     <string name="config_tap_ex_action_left">TL Tap Ex(Left)</string>

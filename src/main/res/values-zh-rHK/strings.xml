@@ -1273,8 +1273,8 @@
     <string name="config_open_youtube_link_with_internal_browser_summary">用內部瀏覽器打開YouTube鏈接（Chrome自定義標籤）。</string>
     <string name="config_show_conversation_from_bottom">在底部顯示新的推文。</string>
     <string name="config_show_conversation_from_bottom_summary"></string>
-    <string name="config_conversation_search_count">會話搜索的數量</string>
-    <string name="config_conversation_search_count_summary"></string>
+<!--    <string name="config_conversation_search_count">會話搜索的數量</string>-->
+<!--    <string name="config_conversation_search_count_summary"></string>-->
 
     <string name="config_tap_ex">時間軸點擊擴展</string>
     <string name="config_tap_ex_action_left">左側輕點</string>

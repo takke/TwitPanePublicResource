@@ -344,7 +344,7 @@
     <string name="account_change_confirm">Cambie cuenta?</string>
 
     <string name="failed_to_load_image_and_try_again">"No se ha podido cargar la imagen, vuelve a intentarlo después de unos minutos ..."</string>
-    
+
     <string name="another_menu">"Otros"</string>
     <string name="another_menu_dots">Otros…</string>
 
@@ -1274,8 +1274,8 @@
     <string name="config_open_youtube_link_with_internal_browser_summary">Open YouTube link with internal browser(Chrome Custom Tabs)</string>
     <string name="config_show_conversation_from_bottom">Mostrar nuevos tweets de fondo</string>
     <string name="config_show_conversation_from_bottom_summary"></string>
-    <string name="config_conversation_search_count">Conde de búsqueda conversación</string>
-    <string name="config_conversation_search_count_summary"></string>
+<!--    <string name="config_conversation_search_count">Conde de búsqueda conversación</string>-->
+<!--    <string name="config_conversation_search_count_summary"></string>-->
 
     <string name="config_tap_ex">extensión de la línea de tiempo</string>
     <string name="config_tap_ex_action_left">"TL pulsar Ex (izquierda)"</string>
@@ -1713,11 +1713,11 @@
     <!-- ================================================================================ -->
     <!-- Instagram 関連 -->
     <!-- ================================================================================ -->
-<!--    <string name="login_to_instagram_to_view">Login to Instagram to view</string>-->
-<!--    <string name="config_instagram_settings_category">Instagram Settings</string>-->
-<!--    <string name="clear_instagram_login_info">Clear Instagram login info</string>-->
-<!--    <string name="cannot_show_image_cause_this_account_is_private">Cannot show the image because this account is private on instagram</string>-->
-<!--    <string name="cannot_show_image_cause_your_account_is_locked">Cannot show the image because your account has been locked temporarily</string>-->
+    <!--    <string name="login_to_instagram_to_view">Login to Instagram to view</string>-->
+    <!--    <string name="config_instagram_settings_category">Instagram Settings</string>-->
+    <!--    <string name="clear_instagram_login_info">Clear Instagram login info</string>-->
+    <!--    <string name="cannot_show_image_cause_this_account_is_private">Cannot show the image because this account is private on instagram</string>-->
+    <!--    <string name="cannot_show_image_cause_your_account_is_locked">Cannot show the image because your account has been locked temporarily</string>-->
 
     <!-- ================================================================================ -->
     <!-- パーミッション -->
@@ -1766,7 +1766,7 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="detail">detalles</string>
     <string name="download_translation_ml_data_confirm_message">Necesitamos los datos de aprendizaje automático (alrededor de 30 MB) para que se traduzca el idioma. ¿Estás seguro de que quieres descargarlo?</string>
     <string name="inline_translation">About Inline-Translation</string>
-<!--    <string name="inline_translation_limit_details">Existe un límite para la cantidad de traducciones en línea que se pueden realizar. free=%1$d, paid=%2$d</string>-->
+    <!--    <string name="inline_translation_limit_details">Existe un límite para la cantidad de traducciones en línea que se pueden realizar. free=%1$d, paid=%2$d</string>-->
 
     <string name="login_with_browser">Ingresar con navegador</string>
     <string name="next">Siguiente</string>

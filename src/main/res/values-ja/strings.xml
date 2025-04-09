@@ -1295,8 +1295,8 @@
     <string name="config_open_youtube_link_with_internal_browser_summary">YouTubeのURLを内部ブラウザ(Chrome Custom Tabs)で開く【初期値：OFF】</string>
     <string name="config_show_conversation_from_bottom">新しい投稿を下に表示</string>
     <string name="config_show_conversation_from_bottom_summary">公式アプリと同様に下側に新しい会話の投稿を表示します【初期値：ON】</string>
-    <string name="config_conversation_search_count">会話検索の件数</string>
-    <string name="config_conversation_search_count_summary">ツイートの会話を表示する際はそのツイートへの返信をTwitterの「ツイート検索」機能を利用して取得しています。この設定を大きくすることでより多くの返信を取得できる場合がありますが、通信時間が長くなります。設定値：%s</string>
+<!--    <string name="config_conversation_search_count">会話検索の件数</string>-->
+<!--    <string name="config_conversation_search_count_summary">ツイートの会話を表示する際はそのツイートへの返信をTwitterの「ツイート検索」機能を利用して取得しています。この設定を大きくすることでより多くの返信を取得できる場合がありますが、通信時間が長くなります。設定値：%s</string>-->
 
     <string name="config_tap_ex">タイムラインタップ拡張</string>
 	<string name="config_tap_ex_action_left">左側タップ</string>
