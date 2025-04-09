@@ -767,6 +767,7 @@
     <string name="edited_tweet">Edited history</string>
     <string name="edited">Edited</string>
     <string name="there_is_a_new_version_of_this_tweet">There\'s a new version of this Tweet.</string>
+    <string name="there_is_a_new_version_of_this_post">There\'s a new version of this Post.</string>
     <string name="latest_tweet">Latest Tweet</string>
     <string name="version_history">Version history</string>
     <string name="menu_delete_user_from_list">Delete user from list...</string>

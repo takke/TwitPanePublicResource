@@ -763,6 +763,7 @@
     <string name="edited_tweet">Edited history</string>
     <string name="edited">수정됨</string>
     <string name="there_is_a_new_version_of_this_tweet">이 트윗의 새 버전이 있습니다.</string>
+    <string name="there_is_a_new_version_of_this_post">이 게시물의 새 버전이 있습니다</string>
     <string name="latest_tweet">최근 트윗</string>
     <string name="version_history">버전 기록</string>
     <string name="menu_delete_user_from_list">"목록에서 사용자를 삭제 ..."</string>
