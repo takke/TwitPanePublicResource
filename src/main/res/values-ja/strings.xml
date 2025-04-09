@@ -1829,6 +1829,7 @@
     <string name="privacy_policy_agreement">&lt;a href="https://twitpane.com/terms_of_use/"&gt;利用規約&lt;/a&gt;、&lt;a href="https://twitpane.com/privacy_policy/"&gt;プライバシーポリシー&lt;/a&gt;に同意の上、&lt;br /&gt;ログインしてください</string>
 
     <string name="trend_tweet_count">"%1$s ツイート"</string>
+    <string name="trend_post_count">"%1$s ポスト"</string>
     <string name="dm_not_allowed_and_re_authorize_confirm_message">ダイレクトメッセージのアクセス権限がTwitter社の不具合により消えてしまいました。再度認証することでアクセス権限を取得することができます。再度認証しますか？</string>
     <string name="could_not_authenticate_you_re_authorize_confirm_message">アカウントの認証に失敗しました。ログイン画面から再度同じアカウントでログインし直してください。再度認証しますか？\n\n※このエラーが繰り返し表示される場合は何らかの障害が発生している可能性があります。公式サイトや公式アカウント(@TwitPane)で最新情報をご確認ください。</string>
     <string name="invalid_token_re_authorize_confirm_message">認証の有効期限が切れたようです。再認証が必要です。再認証しますか？\n\n※このエラーが繰り返し表示される場合は何らかの障害が発生している可能性があります。公式サイトで最新情報をご確認ください。</string>
