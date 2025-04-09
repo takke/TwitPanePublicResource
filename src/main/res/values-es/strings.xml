@@ -1516,7 +1516,9 @@
         <item>"Vietnamita"</item><item>"Chino"</item>
     </string-array>
     <string name="config_exclude_rt">"Excluir RT"</string>
+    <string name="config_exclude_rp">"Excluir RP"</string>
     <string name="config_exclude_rt_summary">"Excluir los retweets del resultado de la búsqueda"</string>
+    <string name="config_exclude_rp_summary">"Excluir los reposts del resultado de la búsqueda"</string>
     <string name="config_show_soft_keyboard_activated_plain_search_tab">"Mostrar teclado"</string>
     <string name="config_show_soft_keyboard_activated_plain_search_tab_summary">"Mostrar teclado cuando se active la pestaña de búsqueda que no introdujo la palabra clave"</string>
     <string name="config_show_follow_count_on_search_result">"Mostrar cómputo de a quién sigues"</string>

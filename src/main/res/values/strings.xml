@@ -1574,7 +1574,9 @@ Do you want to enable it?</string>
         <item>Chinese</item>
     </string-array>
     <string name="config_exclude_rt">Exclude RT</string>
+    <string name="config_exclude_rp">Exclude RP</string>
     <string name="config_exclude_rt_summary">Exclude retweets from search result</string>
+    <string name="config_exclude_rp_summary">Exclude reposts from search result</string>
     <string name="config_show_soft_keyboard_activated_plain_search_tab">Show Keyboard</string>
     <string name="config_show_soft_keyboard_activated_plain_search_tab_summary">Show soft keyboard when activated the search tab which not entered keyword</string>
     <string name="config_show_follow_count_on_search_result">Show Follow Count</string>

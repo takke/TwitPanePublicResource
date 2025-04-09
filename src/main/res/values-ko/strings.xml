@@ -1517,7 +1517,9 @@
 		<item>"베트남어"</item><item>"중국어(간체)"</item>
 	</string-array>
 	<string name="config_exclude_rt">"RT 제외"</string>
+	<string name="config_exclude_rp">"RP 제외"</string>
 	<string name="config_exclude_rt_summary">"검색결과에서 리트윗 제외"</string>
+	<string name="config_exclude_rp_summary">"검색결과에서 리트윗 제외"</string>
 	<string name="config_show_soft_keyboard_activated_plain_search_tab">"키보드 표시"</string>
 	<string name="config_show_soft_keyboard_activated_plain_search_tab_summary">"키워드를 입력하지 않은 검색탭을 활성화할 때 소프트 키보드 표시"</string>
 	<string name="config_show_follow_count_on_search_result">"팔로우 수 표시"</string>

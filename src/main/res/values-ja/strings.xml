@@ -1537,7 +1537,9 @@
 		<item>ベトナム語</item><item>中国語</item>
     </string-array>
 	<string name="config_exclude_rt">RTを除外する</string>
+	<string name="config_exclude_rp">RPを除外する</string>
 	<string name="config_exclude_rt_summary">検索結果からリツイートを除外します【初期値：ON】</string>
+	<string name="config_exclude_rp_summary">検索結果からリポストを除外します【初期値：ON】</string>
 	<string name="config_show_soft_keyboard_activated_plain_search_tab">ソフトキーボード表示</string>
     <string name="config_show_soft_keyboard_activated_plain_search_tab_summary">キーワード未入力の検索タブに切り替えた際にソフトキーボードを表示します【初期値：ON】</string>
 	<string name="config_show_follow_count_on_search_result">フォロー数等を表示する</string>

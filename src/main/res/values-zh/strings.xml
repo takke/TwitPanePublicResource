@@ -1555,7 +1555,9 @@
         <item>"中文</item>
     </string-array>
     <string name="config_exclude_rt">排除转推</string>
+    <string name="config_exclude_rp">排除转推</string>
     <string name="config_exclude_rt_summary">从搜索结果中排除转推</string>
+    <string name="config_exclude_rp_summary">从搜索结果中排除转推</string>
     <string name="config_show_soft_keyboard_activated_plain_search_tab">显示键盘</string>
     <string name="config_show_soft_keyboard_activated_plain_search_tab_summary">激活未输入关键词的搜索标签时显示软键盘</string>
     <string name="config_show_follow_count_on_search_result">显示关注计数</string>
