@@ -756,7 +756,7 @@
     <string name="menu_block_dots">"차단 ..."</string>
     <string name="menu_spam">"스팸 신고"</string>
     <string name="menu_report_as_spam">스팸으로 신고 ...</string>
-    <string name="report_tweet_as_spam_confirm_message">이 트윗을 스팸으로 표시하시겠습니까?</string>
+    <string name="report_as_spam_confirm_message_tweet">이 트윗을 스팸으로 표시하시겠습니까?</string>
     <string name="tweet_reported_message">Reported</string>
     <string name="edited_tweet">Edited history</string>
     <string name="edited">수정됨</string>

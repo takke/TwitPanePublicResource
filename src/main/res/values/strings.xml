@@ -760,7 +760,7 @@
     <string name="menu_block_dots">Block...</string>
     <string name="menu_spam">Spam Report</string>
     <string name="menu_report_as_spam">Report as spam...</string>
-    <string name="report_tweet_as_spam_confirm_message">Do you really want to mark this tweet as spam?</string>
+    <string name="report_as_spam_confirm_message_tweet">Do you really want to mark this tweet as spam?</string>
     <string name="tweet_reported_message">Reported</string>
     <string name="edited_tweet">Edited history</string>
     <string name="edited">Edited</string>

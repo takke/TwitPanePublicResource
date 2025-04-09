@@ -756,7 +756,7 @@
     <string name="menu_block_dots">"Bloquear..."</string>
     <string name="menu_spam">"Marcar spam"</string>
     <string name="menu_report_as_spam">Reportar como spam...</string>
-    <string name="report_tweet_as_spam_confirm_message">¿Realmente quieres marcar este tweet como spam?</string>
+    <string name="report_as_spam_confirm_message_tweet">¿Realmente quieres marcar este tweet como spam?</string>
     <string name="tweet_reported_message">Reported</string>
     <string name="edited_tweet">Edited history</string>
     <string name="edited">editado</string>
