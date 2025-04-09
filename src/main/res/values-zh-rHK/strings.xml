@@ -1126,6 +1126,8 @@
     <string name="config_show_link_area_summary_ぞーぺん">在貼文中顯示鏈接圖片和鏈接網址的標題 [預設：開啟]</string>
     <string name="config_show_link_area_summary_たいぺん">在Taiitsu中顯示鏈接圖片和鏈接網址的標題 [預設：開啟]</string>
     <string name="config_tweet_design1_ついぺん">推文設計</string>
+    <string name="config_tweet_design1_R_twitter">推文設計</string>
+    <string name="config_tweet_design1_R_X">貼文設計</string>
     <string name="config_tweet_design1_ぞーぺん">貼文設計</string>
     <string name="config_tweet_design1_たいぺん">Taiitsu設計</string>
     <string name="config_tweet_design2_ついぺん">推文設計（進階）</string>

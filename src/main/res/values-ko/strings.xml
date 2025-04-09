@@ -1125,6 +1125,8 @@
     <string name="config_show_link_area_summary_ぞーぺん">게시물의 링크 URL에서 링크 이미지 및 제목 표시 [기본값:ON]</string>
     <string name="config_show_link_area_summary_たいぺん">타이츠의 링크 URL에서 링크 이미지 및 제목 표시 [기본값:ON]</string>
     <string name="config_tweet_design1_ついぺん">트윗 디자인</string>
+    <string name="config_tweet_design1_R_twitter">트윗 디자인</string>
+    <string name="config_tweet_design1_R_X">게시물 디자인</string>
     <string name="config_tweet_design1_ぞーぺん">게시물 디자인</string>
     <string name="config_tweet_design1_たいぺん">타이츠 디자인</string>
     <string name="config_tweet_design2_ついぺん">트윗 디자인 (고급)</string>

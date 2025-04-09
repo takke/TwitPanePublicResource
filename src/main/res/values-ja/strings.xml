@@ -1139,6 +1139,8 @@
     <string name="config_show_link_area_summary_ぞーぺん">投稿内のWebサイト(リンク)のヘッダー画像とタイトルを表示します【初期値：ON】</string>
     <string name="config_show_link_area_summary_たいぺん">タイーツ内のWebサイト(リンク)のヘッダー画像とタイトルを表示します【初期値：ON】</string>
     <string name="config_tweet_design1_ついぺん">ツイートデザイン1 (Blueskyは未対応)</string>
+    <string name="config_tweet_design1_R_twitter">ツイートデザイン1</string>
+    <string name="config_tweet_design1_R_X">投稿デザイン1</string>
     <string name="config_tweet_design1_ぞーぺん">投稿デザイン1 (Blueskyは未対応)</string>
     <string name="config_tweet_design1_たいぺん">タイーツデザイン1</string>
     <string name="config_tweet_design2_ついぺん">ツイートデザイン2</string>

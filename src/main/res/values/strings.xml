@@ -1130,6 +1130,8 @@
     <string name="config_show_link_area_summary_ぞーぺん">Show link image and title from link url in the post [default:ON]</string>
     <string name="config_show_link_area_summary_たいぺん">Show link image and title from link url in the taiitsu [default:ON]</string>
     <string name="config_tweet_design1_ついぺん">Tweet Design</string>
+    <string name="config_tweet_design1_R_twitter">Tweet Design</string>
+    <string name="config_tweet_design1_R_X">Post Design</string>
     <string name="config_tweet_design1_ぞーぺん">Post Design</string>
     <string name="config_tweet_design1_たいぺん">Taiitsu Design</string>
     <string name="config_tweet_design2_ついぺん">Tweet Design (Advanced)</string>
