@@ -1896,11 +1896,11 @@
     <string name="event_log_message_1_post_bluesky">1件の投稿</string>
     <string name="event_log_message_1_post_mastodon">1件の投稿</string>
     <string name="event_log_message_1_post_misskey">1件のノート</string>
-    <string name="event_log_message_1_post_tw" translatable="false">1件</string>
+    <string name="event_log_message_1_post_tw">1件</string>
     <string name="event_log_message_n_posts_bluesky">%1$d件の投稿</string>
     <string name="event_log_message_n_posts_mastodon">%1$d件の投稿</string>
     <string name="event_log_message_n_posts_misskey">%1$d件のノート</string>
-    <string name="event_log_message_n_posts_tw" translatable="false">%1$d件</string>
+    <string name="event_log_message_n_posts_tw">%1$d件</string>
     <string name="event_log_message_new_posts_failed_bluesky">新しい投稿の読み込みに失敗しました</string>
     <string name="event_log_message_new_posts_failed_mastodon">新しい投稿の読み込みに失敗しました</string>
     <string name="event_log_message_new_posts_failed_misskey">新しいノートの読み込みに失敗しました</string>

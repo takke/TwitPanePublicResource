@@ -1814,8 +1814,29 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="new_posts_notification_title_misskey">Nuevas notas</string>
     <string name="new_posts_notification_title_bluesky">Nuevas publicaciones</string>
 
-    <string name="event_log_message_no_new_posts_tw">No hay tuits nuevos.</string>
+    <string name="event_log_message_1_post_bluesky">1 post</string>
+    <string name="event_log_message_1_post_mastodon">1 post</string>
+    <string name="event_log_message_1_post_misskey">1 note</string>
+    <string name="event_log_message_1_post_tw">1 tweet</string>
+    <string name="event_log_message_n_posts_bluesky">%1$d posts</string>
+    <string name="event_log_message_n_posts_mastodon">%1$d posts</string>
+    <string name="event_log_message_n_posts_misskey">%1$d notes</string>
+    <string name="event_log_message_n_posts_tw">%1$d tweets</string>
+    <string name="event_log_message_new_posts_failed_bluesky">Failed to load new posts</string>
+    <string name="event_log_message_new_posts_failed_mastodon">Failed to load new posts</string>
+    <string name="event_log_message_new_posts_failed_misskey">Failed to load new notes</string>
     <string name="event_log_message_new_posts_failed_tw">Error al obtener tweets.</string>
+    <string name="event_log_message_new_posts_loaded_bluesky">Loaded new posts</string>
+    <string name="event_log_message_new_posts_loaded_mastodon">Loaded new posts</string>
+    <string name="event_log_message_new_posts_loaded_misskey">Loaded new notes</string>
+    <string name="event_log_message_no_new_posts_bluesky">No new posts</string>
+    <string name="event_log_message_no_new_posts_mastodon">No new posts</string>
+    <string name="event_log_message_no_new_posts_misskey">No new notes</string>
+    <string name="event_log_message_no_new_posts_tw">No hay tuits nuevos.</string>
+
+    <string name="event_log_delete_confirm_title">Delete log</string>
+    <string name="event_log_delete_confirm_message">Delete this event, OK?</string>
+    <string name="event_log_information">You can see the events that took place in the background, such as "Posts" and "New Notifications".</string>
 
 
     <!-- 自動更新 -->
