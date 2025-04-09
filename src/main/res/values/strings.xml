@@ -1194,6 +1194,7 @@
 
     <string name="config_translation_settings_category">Translation Settings</string>
     <string name="config_show_translation_link_tweet">Show `translate\' link</string>
+    <string name="config_show_translation_link_post">Show `translate\' link</string>
     <string name="config_show_translation_link_summary_tweet"></string>
     <string name="config_use_cloud_translation">High quality translation</string>
     <string name="config_use_cloud_translation_summary">By using cloud translation including DeepL and Google Translation service, the translation results will be higher quality and more accurate. Use a paid external services.</string>

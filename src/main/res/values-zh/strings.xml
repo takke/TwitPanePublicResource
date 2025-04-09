@@ -1185,6 +1185,7 @@
 
     <string name="config_translation_settings_category">翻译设置</string>
     <string name="config_show_translation_link_tweet">显示"翻译"链接</string>
+    <string name="config_show_translation_link_post">显示"翻译"链接</string>
     <string name="config_show_translation_link_summary_tweet"></string>
     <string name="config_use_cloud_translation">高质量的翻译</string>
     <string name="config_use_cloud_translation_summary">通过使用云翻译，包括DeepL 和谷歌翻译服务，翻译结果的质量会更高，更准确。使用付费的外部服务。</string>

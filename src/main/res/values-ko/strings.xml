@@ -1186,6 +1186,7 @@
 
     <string name="config_translation_settings_category">번역 설정</string>
     <string name="config_show_translation_link_tweet">\'번역\' 링크 표시</string>
+    <string name="config_show_translation_link_post">\'번역\' 링크 표시</string>
     <string name="config_show_translation_link_summary_tweet"></string>
     <string name="config_use_cloud_translation">고품질 번역</string>
     <string name="config_use_cloud_translation_summary">클라우드 번역을 사용하면 번역 결과의 품질과 정확도가 높아집니다. 유료 외부 서비스를 이용하세요.</string>

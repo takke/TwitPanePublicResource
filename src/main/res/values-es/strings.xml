@@ -1185,6 +1185,7 @@
 
     <string name="config_translation_settings_category">Configuración de traducción</string>
     <string name="config_show_translation_link_tweet">Mostrar enlace `traducir\'</string>
+    <string name="config_show_translation_link_post">Mostrar enlace `traducir\'</string>
     <string name="config_show_translation_link_summary_tweet"></string>
     <string name="config_use_cloud_translation">Traducción de alta calidad</string>
     <string name="config_use_cloud_translation_summary">Al utilizar la traducción en la nube, los resultados de la traducción serán de mayor calidad y más precisos. Utilice un servicio externo de pago.</string>
