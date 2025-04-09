@@ -1793,21 +1793,21 @@
     <!-- イベントログ -->
     <string name="event_log_message_tweet_publish_success">트윗이 게시되었습니다.</string>
     <string name="event_log_message_tweet_publish_failed">트윗을 게시하지 못했습니다.</string>
-    <string name="event_log_message_toot_publish_success">Toot posted</string>
-    <string name="event_log_message_toot_publish_failed">Failed to post toot</string>
-    <string name="event_log_message_note_publish_success">Note posted</string>
-    <string name="event_log_message_note_publish_failed">Failed to post note</string>
-    <string name="event_log_message_bs_post_publish_success">Posted</string>
-    <string name="event_log_message_bs_post_publish_failed">Failed to post</string>
+    <string name="event_log_message_toot_publish_success">툿이 게시되었습니다.</string>
+    <string name="event_log_message_toot_publish_failed">툿을 게시하지 못했습니다.</string>
+    <string name="event_log_message_note_publish_success">노트가 게시되었습니다.</string>
+    <string name="event_log_message_note_publish_failed">노트를 게시하지 못했습니다.</string>
+    <string name="event_log_message_bs_post_publish_success">게시물이 게시되었습니다.</string>
+    <string name="event_log_message_bs_post_publish_failed">게시물을 게시하지 못했습니다.</string>
     <string name="event_log_message_new_reply">새로운 답변을 받았습니다.</string>
     <string name="event_log_message_no_new_reply">새로운 답변이 없습니다.</string>
     <string name="event_log_message_new_message">새 메시지를 받았습니다.</string>
     <string name="event_log_message_no_new_message">새 메시지가 없습니다.</string>
     <string name="event_log_message_new_posts_loaded_tw">새로운 트윗이 검색되었습니다.</string>
     <string name="new_tweets">새로운 트윗</string>
-    <string name="new_toots">New toots</string>
-    <string name="new_notes">New notes</string>
-    <string name="new_posts">New posts</string>
+    <string name="new_toots">새 툿</string>
+    <string name="new_notes">새 노트</string>
+    <string name="new_posts">새 게시물</string>
     <!-- Notification -->
     <string name="new_tweets_notification_title_tw">새 트윗</string>
     <string name="new_tweets_notification_title_mst">새 게시물</string>
