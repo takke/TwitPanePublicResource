@@ -1659,8 +1659,8 @@
     <string name="config_adfree_pack_title">広告解除パック(サブスクリプション)</string>
 	<string name="config_adfree_pack_summary">Google Playストアで広告解除パック(サブスクリプション)を購入すると広告を消すことができます</string>
     <string name="config_adfree_pack_already_bought">購入済みです。ご購読ありがとうございます。</string>
-    <string name="config_adfree_pr_title">PRツイートをして広告を解除する(お試し)</string>
-	<string name="config_adfree_pr_summary">TwitPaneのPRツイートにより数日間広告を解除できます。有料版のお試し用です</string>
+    <string name="config_adfree_pr_title">PR投稿をして広告を解除する(お試し)</string>
+	<string name="config_adfree_pr_summary">TwitPaneのPR投稿により数日間広告を解除できます。有料版のお試し用です</string>
     <string name="config_adfree_video_title">動画を見て広告を解除する</string>
     <string name="config_adfree_video_confirm_message">いつもご利用頂きありがとうございます。\n\n次の画面で動画をご覧いただくと、タイムライン上部のバナー広告を約%1$s日間非表示にすることができます。\n動画を再生しますか？</string>
     <string name="config_adfree_video_start">再生する</string>

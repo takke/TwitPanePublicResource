@@ -1696,8 +1696,8 @@ Do you want to enable it?</string>
     <string name="config_adfree_pack_title">AdFree pack</string>
     <string name="config_adfree_pack_summary">Please subscribe ad-free pack on google play store to remove ads</string>
     <string name="config_adfree_pack_already_bought">Already bought, thanks!</string>
-    <string name="config_adfree_pr_title">AdFree Tweet</string>
-    <string name="config_adfree_pr_summary">You can remove ads by tweeting PR of TwitPane</string>
+    <string name="config_adfree_pr_title">AdFree Post</string>
+    <string name="config_adfree_pr_summary">You can remove ads by posting PR of TwitPane</string>
     <string name="config_adfree_video_title">Remove Ads by Video</string>
     <string name="config_adfree_video_confirm_message">You can remove ads by viewing video</string>
     <string name="config_adfree_video_start">Play</string>
