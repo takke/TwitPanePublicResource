@@ -1839,7 +1839,7 @@
 
     <string name="trend_tweet_count">"%1$s ツイート"</string>
     <string name="trend_post_count">"%1$s ポスト"</string>
-    <string name="dm_not_allowed_and_re_authorize_confirm_message">ダイレクトメッセージのアクセス権限がTwitter社の不具合により消えてしまいました。再度認証することでアクセス権限を取得することができます。再度認証しますか？</string>
+    <string name="dm_not_allowed_and_re_authorize_confirm_message">ダイレクトメッセージのアクセス権限がX社の不具合により消えてしまいました。再度認証することでアクセス権限を取得することができます。再度認証しますか？</string>
     <string name="could_not_authenticate_you_re_authorize_confirm_message">アカウントの認証に失敗しました。ログイン画面から再度同じアカウントでログインし直してください。再度認証しますか？\n\n※このエラーが繰り返し表示される場合は何らかの障害が発生している可能性があります。公式サイトや公式アカウント(@TwitPane)で最新情報をご確認ください。</string>
     <string name="invalid_token_re_authorize_confirm_message">認証の有効期限が切れたようです。再認証が必要です。再認証しますか？\n\n※このエラーが繰り返し表示される場合は何らかの障害が発生している可能性があります。公式サイトで最新情報をご確認ください。</string>
     <string name="twitter_error_no_value_for_tweet_results">データ取得に失敗しました。少し時間をあけてからやり直してみてください</string>
@@ -1874,7 +1874,7 @@
     <string name="subs_guide_item_view_quoted_tweets" translatable="false">・引用されたツイート一覧</string>
     <string name="subs_guide_item_view_quoted_tweets_message" translatable="false">あるツイートの引用されたツイート一覧を表示できます</string>
     <string name="liked_order_likes" translatable="false">いいねした順のいいね</string>
-    <string name="config_use_liked_order_likes_summary" translatable="false">Twitter 社により Tweet cap というツイート取得数の厳しい制限があるため、定期購入中のユーザーにのみ使用可能としています</string>
+    <string name="config_use_liked_order_likes_summary" translatable="false">X 社により Tweet cap というツイート取得数の厳しい制限があるため、定期購入中のユーザーにのみ使用可能としています</string>
     <string name="subs_guide_bottom_notice">既に定期購入をお試しいただいた方は、7日間無料の対象外となります。\n初回無料登録から6日後の解約期限を過ぎると、Google Play ストアでキャンセルするまで、毎月%1$sが自動的に課金されます。\nGoogle Playストアの定期購入の設定から解約できます。\n法律で定められている場合を除き、キャンセル時に以前のお支払額は払い戻されませんのでご了承ください。</string>
     <string name="subs_guide_bottom_notice_cloud_translation">クラウド翻訳には1日当たりの利用回数に上限があります。</string>
 
