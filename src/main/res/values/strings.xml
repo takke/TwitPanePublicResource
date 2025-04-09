@@ -1925,10 +1925,10 @@ Reauthenticate on the next screen.</string>
     <string name="new_notes">New notes</string>
     <string name="new_posts">New posts</string>
     <!-- Notification -->
-    <string name="new_tweets_notification_title_tw">New tweets</string>
-    <string name="new_tweets_notification_title_mst">New posts</string>
-    <string name="new_tweets_notification_title_mky">New notes</string>
-    <string name="new_tweets_notification_title_bs">New posts</string>
+    <string name="new_posts_notification_title_twitter">New tweets</string>
+    <string name="new_posts_notification_title_mastodon">New posts</string>
+    <string name="new_posts_notification_title_misskey">New notes</string>
+    <string name="new_posts_notification_title_bluesky">New posts</string>
 
     <string name="event_log_message_1_post_bluesky" translatable="false">1 post</string>
     <string name="event_log_message_1_post_mastodon" translatable="false">1 post</string>
