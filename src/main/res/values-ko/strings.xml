@@ -1188,6 +1188,7 @@
     <string name="config_show_translation_link_tweet">\'번역\' 링크 표시</string>
     <string name="config_show_translation_link_post">\'번역\' 링크 표시</string>
     <string name="config_show_translation_link_summary_tweet"></string>
+    <string name="config_show_translation_link_summary_post"></string>
     <string name="config_use_cloud_translation">고품질 번역</string>
     <string name="config_use_cloud_translation_summary">클라우드 번역을 사용하면 번역 결과의 품질과 정확도가 높아집니다. 유료 외부 서비스를 이용하세요.</string>
     <string name="config_use_cloud_translation_summary_not_available_due_to_not_subscribed">(내 구독이 이미 취소되었기 때문에 이 서비스를 사용할 수 없습니다.)</string>

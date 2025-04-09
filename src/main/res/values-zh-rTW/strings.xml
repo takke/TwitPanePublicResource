@@ -1190,6 +1190,7 @@
     <string name="config_show_translation_link_tweet">顯示"翻譯"連結</string>
     <string name="config_show_translation_link_post">顯示"翻譯"連結</string>
     <string name="config_show_translation_link_summary_tweet"></string>
+    <string name="config_show_translation_link_summary_post"></string>
     <string name="config_use_cloud_translation">高質量的翻譯</string>
     <string name="config_use_cloud_translation_summary">透過使用雲翻譯，包括DeepL 和谷歌翻譯服務，翻譯結果的質量會更高，更準確。使用付費的外部服務。</string>
     <string name="config_use_cloud_translation_summary_not_available_due_to_not_subscribed">(無法使用此服務，因為我的訂閱已被取消。)</string>
