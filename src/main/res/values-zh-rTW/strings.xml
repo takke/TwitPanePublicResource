@@ -761,6 +761,7 @@
     <string name="report_as_spam_confirm_message_tweet">您真的要將此推文標記為有害嗎？</string>
     <string name="report_as_spam_confirm_message_post">您真的要將此帖子標記為有害嗎？</string>
     <string name="reported_as_spam_done_message_tweet">已舉報</string>
+    <string name="reported_as_spam_done_message_post">已舉報</string>
     <string name="edited_tweet">編輯歷史</string>
     <string name="edited">已編輯</string>
     <string name="there_is_a_new_version_of_this_tweet">這條推文有一個新版本。</string>
