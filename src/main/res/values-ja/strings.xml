@@ -1155,7 +1155,7 @@
     <string name="config_show_quote_count_summary">引用ツイート数(引用ポスト数)を表示します【初期値：ON】</string>
     <string name="config_change_link_area_thumbnail_size">画像サイズの変更</string>
     <string name="config_link_area_thumbnail_size">リンク先の画像サイズ</string>
-    <string name="config_emoji">絵文字 (Blueskyは未対応)</string>
+    <string name="config_emoji">絵文字</string>
     <string name="config_emoji_size">絵文字表示設定</string>
     <string name="config_enable_animation_emoji">絵文字のアニメーション</string>
     <string name="config_enable_animation_emoji_summary">タイムラインの絵文字をアニメーションさせます。スクロール等が遅くなる場合はオフにすることをおすすめします。バッテリー消費量抑制のためアニメーションは数秒間で自動停止します。【初期値：ON】</string>
