@@ -1098,6 +1098,7 @@
     <string name="config_show_server_info">Show server info of notes</string>
     <string name="config_show_server_info_summary">[default:ON]</string>
     <string name="config_show_rt_on_top">Show RT on top</string>
+    <string name="config_show_rp_on_top">Show RP on top</string>
     <string name="config_show_bt_rn_on_top">Show BT and RN on top</string>
     <string name="config_show_rt_bt_rn_on_top_summary">[default:ON]</string>
     <string name="config_ignore_unsupported_mfm">Ignore unsupported MFM</string>
