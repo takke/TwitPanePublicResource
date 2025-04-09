@@ -74,10 +74,10 @@
     <string name="pane_name_feeds">Feeds</string>
 
     <string name="showcase_start_title">Welcome to TwitPane!</string>
-    <string name="showcase_start_summary">A little bit, how to use it.\n\nFirst, a list of tweets will appear in the middle, of course you can scroll up and down!</string>
+    <string name="showcase_start_summary">A little bit, how to use it.\n\nFirst, a list of posts will appear in the middle, of course you can scroll up and down!</string>
     <string name="showcase_center1_title">You can move the tabs to slide from side to side!</string>
     <string name="showcase_center1_summary">It is convenient to use by switching the various tabs!</string>
-    <string name="showcase_tweet_title">New tweet from this button at the bottom left.</string>
+    <string name="showcase_tweet_title">New post from this button at the bottom left.</string>
     <string name="showcase_tweet_summary">\nYou can save drafts</string>
     <string name="showcase_menu_title">Menu from this button at the bottom right.</string>
     <string name="showcase_menu_summary">\nConfig dialog from here</string>

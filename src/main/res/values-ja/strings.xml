@@ -74,10 +74,10 @@
     <string name="pane_name_feeds">フィード</string>
     
     <string name="showcase_start_title">TwitPaneをご利用いただきありがとうございます！</string>
-    <string name="showcase_start_summary">使い方を少しだけ説明させていただきます。\n\nまず、真ん中にはツイートの一覧が表示されます。\nもちろん上下にスクロールできます！</string>
+    <string name="showcase_start_summary">使い方を少しだけ説明させていただきます。\n\nまず、真ん中には投稿の一覧が表示されます。\nもちろん上下にスクロールできます！</string>
     <string name="showcase_center1_title">左右にスライドするとタブを移動できます！</string>
     <string name="showcase_center1_summary">色んなタブを切り替えて使うと便利ですね！</string>
-    <string name="showcase_tweet_title">左下のこのボタンからツイートできます</string>
+    <string name="showcase_tweet_title">左下のこのボタンから投稿できます</string>
     <string name="showcase_tweet_summary">\n下書きにも対応しています。</string>
     <string name="showcase_menu_title">右下のこのボタンを押すとメニューを表示できます。</string>
     <string name="showcase_menu_summary">\n設定画面もここから開けますよ。</string>
