@@ -1914,7 +1914,7 @@
     <string name="event_log_message_no_new_posts_tw">新着ツイートはありませんでした</string>
 
     <string name="event_log_delete_confirm_title">イベントログの削除</string>
-    <string name="event_log_delete_confirm_message">このイベントを削除してもよろしいですか？\n※ツイート等の投稿データ自体は消えません</string>
+    <string name="event_log_delete_confirm_message">このイベントを削除してもよろしいですか？\n※投稿データ自体は消えません</string>
     <string name="event_log_information">"「投稿」や「新着通知」等のバックグラウンドで行われたイベントを確認できます。"</string>
 
 
