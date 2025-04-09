@@ -1231,13 +1231,13 @@
     <string name="config_tweet_get_limit_summary_R_X">Set the number of posts to load at once</string>
     <string name="config_tweet_get_limit_summary_ぞーぺん">Set the number of posts to load at once</string>
     <string name="config_tweet_get_limit_summary_たいぺん">Set the number of Taiitsu to load at once</string>
-    <string name="config_use_home_timeline_v2">Use v2 API for Home Timeline</string>
-    <string name="config_use_home_timeline_v2_summary">Use Twitter API v2 to get the home timeline [default: OFF]</string>
-    <string name="config_use_home_timeline_v2_confirm_message" translatable="false">✔ API limit will be increased from 15 times per 15 minutes to 180 times per 15 minutes.\n
-✔ The maximum number of tweets that can be retrieved at one time will be 100. \n
-✔ If the app becomes unstable, please turn the setting back off. \n
-\n
-Do you want to enable it?</string>
+<!--    <string name="config_use_home_timeline_v2">Use v2 API for Home Timeline</string>-->
+<!--    <string name="config_use_home_timeline_v2_summary">Use Twitter API v2 to get the home timeline [default: OFF]</string>-->
+<!--    <string name="config_use_home_timeline_v2_confirm_message" translatable="false">✔ API limit will be increased from 15 times per 15 minutes to 180 times per 15 minutes.\n-->
+<!--✔ The maximum number of tweets that can be retrieved at one time will be 100. \n-->
+<!--✔ If the app becomes unstable, please turn the setting back off. \n-->
+<!--\n-->
+<!--Do you want to enable it?</string>-->
     <string name="config_auto_load_at_startup">Auto load TL at startup</string>
     <string name="config_auto_load_at_startup_summary">at the startup of app, the new timeline will loaded automatically when the cursor is top of timeline</string>
     <string name="config_misskey_timeline_with_replies">Show replies</string>

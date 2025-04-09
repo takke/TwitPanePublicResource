@@ -1238,13 +1238,13 @@
     <string name="config_tweet_get_limit_summary_R_X">投稿を1回に取得する件数です。大きくしすぎると通信時間やデータ量が多くなります。</string>
     <string name="config_tweet_get_limit_summary_ぞーぺん">投稿を1回に取得する件数です。大きくしすぎると通信時間やデータ量が多くなります。\nMastodonは最大40件、Misskeyは最大100件、Blueskyは最大100件です。</string>
     <string name="config_tweet_get_limit_summary_たいぺん">投稿を1回に取得する件数です。大きくしすぎると通信時間やデータ量が多くなります。</string>
-    <string name="config_use_home_timeline_v2">タイムラインをTwitter API v2で取得</string>
-    <string name="config_use_home_timeline_v2_summary">ホームタイムラインの取得に Twitter API v2 を使用します。API制限が15回から180回に緩和されます【初期値：OFF】</string>
-    <string name="config_use_home_timeline_v2_confirm_message">・API制限が15分あたり15回から180回に増加します。\n
-・一度に取得できるツイートの上限が100件になります。\n
-・動作が不安定になる場合は設定をオフに戻してください。\n
-\n
-変更しますか？</string>
+<!--    <string name="config_use_home_timeline_v2">タイムラインをTwitter API v2で取得</string>-->
+<!--    <string name="config_use_home_timeline_v2_summary">ホームタイムラインの取得に Twitter API v2 を使用します。API制限が15回から180回に緩和されます【初期値：OFF】</string>-->
+<!--    <string name="config_use_home_timeline_v2_confirm_message">・API制限が15分あたり15回から180回に増加します。\n-->
+<!--・一度に取得できるツイートの上限が100件になります。\n-->
+<!--・動作が不安定になる場合は設定をオフに戻してください。\n-->
+<!--\n-->
+<!--変更しますか？</string>-->
     <string name="config_auto_load_at_startup">起動時にTLを取得する</string>
     <string name="config_auto_load_at_startup_summary">アプリの起動時にカーソルが一番上にある場合、自動的に新着のタイムラインを取得します【初期値：ON】</string>
     <string name="config_misskey_timeline_with_replies">ノートへの返信を表示する</string>

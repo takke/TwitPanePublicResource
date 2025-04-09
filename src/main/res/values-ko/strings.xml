@@ -1223,8 +1223,8 @@
     <string name="config_tweet_get_limit_summary_R_X">한 번에 로드할 게시물 수 설정</string>
     <string name="config_tweet_get_limit_summary_ぞーぺん">한 번에 로드할 게시물 수 설정</string>
     <string name="config_tweet_get_limit_summary_たいぺん">한 번에 로드할 타이츠 수 설정</string>
-    <string name="config_use_home_timeline_v2">홈 타임라인에 v2 API 사용</string>
-    <string name="config_use_home_timeline_v2_summary">Twitter API v2를 사용하여 홈 타임라인 가져오기</string>
+<!--    <string name="config_use_home_timeline_v2">홈 타임라인에 v2 API 사용</string>-->
+<!--    <string name="config_use_home_timeline_v2_summary">Twitter API v2를 사용하여 홈 타임라인 가져오기</string>-->
     <string name="config_auto_load_at_startup">"시작 시 TL 자동로드"</string>
     <string name="config_auto_load_at_startup_summary">"앱의 시작 시, 커서가 타임라인의 상위에 있을 때 새로운 타임라인이 자동으로 로딩될 것입니다"</string>
     <string name="config_misskey_timeline_with_replies">Show replies</string>

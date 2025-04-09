@@ -1223,8 +1223,8 @@
     <string name="config_tweet_get_limit_summary_R_X">Establecer el número de publicaciones a cargar a la vez</string>
     <string name="config_tweet_get_limit_summary_ぞーぺん">Establecer el número de publicaciones a cargar a la vez</string>
     <string name="config_tweet_get_limit_summary_たいぺん">Establecer el número de Taiitsu a cargar a la vez</string>
-    <string name="config_use_home_timeline_v2">Use la API v2 para la línea de tiempo de inicio</string>
-    <string name="config_use_home_timeline_v2_summary">Use Twitter API v2 para obtener la línea de tiempo de inicio</string>
+<!--    <string name="config_use_home_timeline_v2">Use la API v2 para la línea de tiempo de inicio</string>-->
+<!--    <string name="config_use_home_timeline_v2_summary">Use Twitter API v2 para obtener la línea de tiempo de inicio</string>-->
     <string name="config_auto_load_at_startup">"Carga automática en el arranque"</string>
     <string name="config_auto_load_at_startup_summary">"Cuando arranque la aplicación, la nueva cronología se cargará automáticamente cuando el cursor esté en la parte superior de la cronología"</string>
     <string name="config_misskey_timeline_with_replies">Show replies</string>

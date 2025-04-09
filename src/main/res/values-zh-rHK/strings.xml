@@ -1224,8 +1224,8 @@
     <string name="config_tweet_get_limit_summary_R_X">設定一次載入的貼文數量</string>
     <string name="config_tweet_get_limit_summary_ぞーぺん">設定一次載入的貼文數量</string>
     <string name="config_tweet_get_limit_summary_たいぺん">設定一次載入的Taiitsu數量</string>
-    <string name="config_use_home_timeline_v2">主頁時間線使用v2 API</string>
-    <string name="config_use_home_timeline_v2_summary">使用Twitter API v2獲取主頁時間線</string>
+<!--    <string name="config_use_home_timeline_v2">主頁時間線使用v2 API</string>-->
+<!--    <string name="config_use_home_timeline_v2_summary">使用Twitter API v2獲取主頁時間線</string>-->
     <string name="config_auto_load_at_startup">啓動時自動加載時間軸</string>
     <string name="config_auto_load_at_startup_summary">在應用程序啓動時，當光標位於時間線的頂部時，新的時間線將自動加載。</string>
     <string name="config_misskey_timeline_with_replies">Show replies</string>
