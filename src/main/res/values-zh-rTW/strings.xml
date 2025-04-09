@@ -1556,7 +1556,7 @@
     <string name="config_exclude_rt">排除轉推</string>
     <string name="config_exclude_rp">排除轉推</string>
     <string name="config_exclude_rt_summary">從搜尋結果中排除轉推</string>
-    <string name="config_exclude_rt_summary">從搜尋結果中排除轉推</string>
+    <string name="config_exclude_rp_summary">從搜尋結果中排除轉推</string>
     <string name="config_show_soft_keyboard_activated_plain_search_tab">顯示鍵盤</string>
     <string name="config_show_soft_keyboard_activated_plain_search_tab_summary">啟用未輸入關鍵詞的搜尋標籤時顯示軟鍵盤</string>
     <string name="config_show_follow_count_on_search_result">顯示關注計數</string>
