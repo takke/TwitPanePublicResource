@@ -1764,6 +1764,7 @@ Do you want to enable it?</string>
     <!-- Profile Fragment -->
     <!-- ================================================================================ -->
     <string name="profile_tweets">Tweets</string>
+    <string name="profile_posts">"Posts"</string>
     <string name="profile_toots">"Toots"</string>
     <string name="profile_follows">Follows</string>
     <string name="profile_followers">Followers</string>

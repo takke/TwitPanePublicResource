@@ -1727,6 +1727,7 @@
     <!-- Profile Fragment -->
     <!-- ================================================================================ -->
     <string name="profile_tweets">ツイート</string>
+    <string name="profile_posts">ポスト</string>
     <string name="profile_toots">"投稿"</string>
     <string name="profile_follows">フォロー</string>
     <string name="profile_followers">フォロワー</string>

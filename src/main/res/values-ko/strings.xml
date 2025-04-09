@@ -1687,7 +1687,8 @@
     <!-- Profile Fragment -->
     <!-- ================================================================================ -->
     <string name="profile_tweets">"트윗"</string>
-    <string name="profile_toots">"Toots"</string>
+    <string name="profile_posts">"게시물"</string>
+    <string name="profile_toots">"툿"</string>
     <string name="profile_follows">"팔로우"</string>
     <string name="profile_followers">"팔로워"</string>
 

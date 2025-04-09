@@ -1724,6 +1724,7 @@
     <!-- Profile Fragment -->
     <!-- ================================================================================ -->
     <string name="profile_tweets">推文</string>
+    <string name="profile_posts">"貼文"</string>
     <string name="profile_toots">"Toots"</string>
     <string name="profile_follows">關注</string>
     <string name="profile_followers">關注者</string>
