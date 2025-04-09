@@ -1647,8 +1647,6 @@ Do you want to enable it?</string>
     <string name="config_misskey_use_since_id_limit_hours_zero" translatable="false">Always new notes</string>
     <string name="use_conversation_id" translatable="false">Use conversation_id</string>
     <string name="use_conversation_id_summary" translatable="false">Use conversation_id for conversation search</string>
-    <string name="use_tweet_complementary_fetcher" translatable="false">Get the number of quoted tweets, polls, etc.</string>
-    <string name="use_tweet_complementary_fetcher_summary" translatable="false">Automatically load the number of quoted tweets, replies, polls, etc. [default:ON]</string>
     <string name="show_ad_on_top" translatable="false">Ad on top</string>
     <string name="show_ad_on_top_summary" translatable="false">Show ad on top of window</string>
     <string name="low_packet_mode_text" translatable="false">Low Packet Mode</string>
