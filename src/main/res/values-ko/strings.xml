@@ -1792,14 +1792,14 @@
     <string name="some_settings_applied_after_restarted">일부 설정은 응용 프로그램을 다시 시작한 후에 적용됩니다.</string>
 
     <!-- イベントログ -->
-    <string name="event_log_message_tweet_publish_success">트윗이 게시되었습니다.</string>
-    <string name="event_log_message_tweet_publish_failed">트윗을 게시하지 못했습니다.</string>
-    <string name="event_log_message_toot_publish_success">Toot posted</string>
-    <string name="event_log_message_toot_publish_failed">Failed to post toot</string>
-    <string name="event_log_message_note_publish_success">Note posted</string>
-    <string name="event_log_message_note_publish_failed">Failed to post note</string>
-    <string name="event_log_message_bs_post_publish_success">Posted</string>
-    <string name="event_log_message_bs_post_publish_failed">Failed to post</string>
+    <string name="event_log_message_publish_success_twitter">트윗이 게시되었습니다.</string>
+    <string name="event_log_message_publish_failed_twitter">트윗을 게시하지 못했습니다.</string>
+    <string name="event_log_message_publish_success_mastodon">Toot posted</string>
+    <string name="event_log_message_publish_failed_mastodon">Failed to post toot</string>
+    <string name="event_log_message_publish_success_misskey">Note posted</string>
+    <string name="event_log_message_publish_failed_misskey">Failed to post note</string>
+    <string name="event_log_message_publish_success_bluesky">Posted</string>
+    <string name="event_log_message_publish_failed_bluesky">Failed to post</string>
     <string name="event_log_message_new_reply">새로운 답변을 받았습니다.</string>
     <string name="event_log_message_no_new_reply">새로운 답변이 없습니다.</string>
     <string name="event_log_message_new_message">새 메시지를 받았습니다.</string>

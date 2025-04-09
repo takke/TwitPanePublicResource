@@ -1870,14 +1870,14 @@
     <string name="subs_guide_bottom_notice_cloud_translation">クラウド翻訳には1日当たりの利用回数に上限があります。</string>
 
     <!-- イベントログ -->
-    <string name="event_log_message_tweet_publish_success">ツイートを投稿しました</string>
-    <string name="event_log_message_tweet_publish_failed">ツイート投稿に失敗しました</string>
-    <string name="event_log_message_toot_publish_success">トゥートを投稿しました</string>
-    <string name="event_log_message_toot_publish_failed">トゥートの投稿に失敗しました</string>
-    <string name="event_log_message_note_publish_success">ノートを投稿しました</string>
-    <string name="event_log_message_note_publish_failed">ノートの投稿に失敗しました</string>
-    <string name="event_log_message_bs_post_publish_success">ポストを投稿しました</string>
-    <string name="event_log_message_bs_post_publish_failed">ポストの投稿に失敗しました</string>
+    <string name="event_log_message_publish_success_twitter">ツイートを投稿しました</string>
+    <string name="event_log_message_publish_failed_twitter">ツイート投稿に失敗しました</string>
+    <string name="event_log_message_publish_success_mastodon">トゥートを投稿しました</string>
+    <string name="event_log_message_publish_failed_mastodon">トゥートの投稿に失敗しました</string>
+    <string name="event_log_message_publish_success_misskey">ノートを投稿しました</string>
+    <string name="event_log_message_publish_failed_misskey">ノートの投稿に失敗しました</string>
+    <string name="event_log_message_publish_success_bluesky">ポストを投稿しました</string>
+    <string name="event_log_message_publish_failed_bluesky">ポストの投稿に失敗しました</string>
     <string name="event_log_message_new_reply">新着返信がありました</string>
     <string name="event_log_message_no_new_reply">新着返信はありませんでした</string>
     <string name="event_log_message_new_message">新着メッセージがありました</string>

@@ -1830,14 +1830,14 @@
     <string name="some_settings_applied_after_restarted">部分设置将在应用程序重新启动后生效。</string>
 
     <!-- イベントログ -->
-    <string name="event_log_message_tweet_publish_success">推文发布成功</string>
-    <string name="event_log_message_tweet_publish_failed">无法发布推文</string>
-    <string name="event_log_message_toot_publish_success">Toot posted</string>
-    <string name="event_log_message_toot_publish_failed">Failed to post toot</string>
-    <string name="event_log_message_note_publish_success">Note posted</string>
-    <string name="event_log_message_note_publish_failed">Failed to post note</string>
-    <string name="event_log_message_bs_post_publish_success">Posted</string>
-    <string name="event_log_message_bs_post_publish_failed">Failed to post</string>
+    <string name="event_log_message_publish_success_twitter">推文发布成功</string>
+    <string name="event_log_message_publish_failed_twitter">无法发布推文</string>
+    <string name="event_log_message_publish_success_mastodon">Toot posted</string>
+    <string name="event_log_message_publish_failed_mastodon">Failed to post toot</string>
+    <string name="event_log_message_publish_success_misskey">Note posted</string>
+    <string name="event_log_message_publish_failed_misskey">Failed to post note</string>
+    <string name="event_log_message_publish_success_bluesky">Posted</string>
+    <string name="event_log_message_publish_failed_bluesky">Failed to post</string>
     <string name="event_log_message_new_reply">收到新回复。</string>
     <string name="event_log_message_no_new_reply">没有新的回复。</string>
     <string name="event_log_message_new_message">收到新消息。</string>
