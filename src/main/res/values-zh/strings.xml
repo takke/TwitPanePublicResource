@@ -1218,6 +1218,8 @@
     <string name="config_tweet_get_limit_title_ぞーぺん">要加载的帖子数量</string>
     <string name="config_tweet_get_limit_title_たいぺん">要加载的Taiitsu数量</string>
     <string name="config_tweet_get_limit_summary_ついぺん">设置一次加载的推文数量</string>
+    <string name="config_tweet_get_limit_summary_R_twitter">设置一次加载的推文数量</string>
+    <string name="config_tweet_get_limit_summary_R_X">设置一次加载的帖子数量</string>
     <string name="config_tweet_get_limit_summary_ぞーぺん">设置一次加载的帖子数量</string>
     <string name="config_tweet_get_limit_summary_たいぺん">设置一次加载的Taiitsu数量</string>
     <string name="config_use_home_timeline_v2">主页时间线使用v2 API</string>

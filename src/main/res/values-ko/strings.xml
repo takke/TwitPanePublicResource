@@ -1219,6 +1219,8 @@
     <string name="config_tweet_get_limit_title_ぞーぺん">로드할 게시물 수</string>
     <string name="config_tweet_get_limit_title_たいぺん">로드할 타이츠 수</string>
     <string name="config_tweet_get_limit_summary_ついぺん">한 번에 로드할 트윗 수 설정</string>
+    <string name="config_tweet_get_limit_summary_R_twitter">한 번에 로드할 트윗 수 설정</string>
+    <string name="config_tweet_get_limit_summary_R_X">한 번에 로드할 게시물 수 설정</string>
     <string name="config_tweet_get_limit_summary_ぞーぺん">한 번에 로드할 게시물 수 설정</string>
     <string name="config_tweet_get_limit_summary_たいぺん">한 번에 로드할 타이츠 수 설정</string>
     <string name="config_use_home_timeline_v2">홈 타임라인에 v2 API 사용</string>

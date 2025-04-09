@@ -1227,6 +1227,8 @@
     <string name="config_tweet_get_limit_title_ぞーぺん">Number of Posts to Load</string>
     <string name="config_tweet_get_limit_title_たいぺん">Number of Taiitsu to Load</string>
     <string name="config_tweet_get_limit_summary_ついぺん">Number of tweets to be retrieved per one access</string>
+    <string name="config_tweet_get_limit_summary_R_twitter">Number of tweets to be retrieved per one access</string>
+    <string name="config_tweet_get_limit_summary_R_X">Set the number of posts to load at once</string>
     <string name="config_tweet_get_limit_summary_ぞーぺん">Set the number of posts to load at once</string>
     <string name="config_tweet_get_limit_summary_たいぺん">Set the number of Taiitsu to load at once</string>
     <string name="config_use_home_timeline_v2">Use v2 API for Home Timeline</string>

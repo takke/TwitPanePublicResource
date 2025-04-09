@@ -1234,6 +1234,8 @@
 	<string name="config_tweet_get_limit_title_ぞーぺん">投稿取得件数</string>
 	<string name="config_tweet_get_limit_title_たいぺん">投稿取得件数</string>
     <string name="config_tweet_get_limit_summary_ついぺん">ツイートを1回に取得する件数です。大きくしすぎると通信時間やデータ量が多くなります。\nMastodonは最大40件、Misskeyは最大100件、Blueskyは最大100件です。</string>
+    <string name="config_tweet_get_limit_summary_R_twitter">ツイートを1回に取得する件数です。大きくしすぎると通信時間やデータ量が多くなります。</string>
+    <string name="config_tweet_get_limit_summary_R_X">投稿を1回に取得する件数です。大きくしすぎると通信時間やデータ量が多くなります。</string>
     <string name="config_tweet_get_limit_summary_ぞーぺん">投稿を1回に取得する件数です。大きくしすぎると通信時間やデータ量が多くなります。\nMastodonは最大40件、Misskeyは最大100件、Blueskyは最大100件です。</string>
     <string name="config_tweet_get_limit_summary_たいぺん">投稿を1回に取得する件数です。大きくしすぎると通信時間やデータ量が多くなります。</string>
     <string name="config_use_home_timeline_v2">タイムラインをTwitter API v2で取得</string>
