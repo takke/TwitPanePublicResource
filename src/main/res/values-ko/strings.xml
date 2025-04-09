@@ -1293,6 +1293,8 @@
     <string name="config_set_read_after_shown_ぞーぺん">표시 후 읽음으로 표시</string>
     <string name="config_set_read_after_shown_たいぺん">표시 후 읽음으로 표시</string>
     <string name="config_set_read_after_shown_summary_ついぺん">트윗을 표시한 후 읽음으로 표시</string>
+    <string name="config_set_read_after_shown_summary_R_twitter">트윗을 표시한 후 읽음으로 표시</string>
+    <string name="config_set_read_after_shown_summary_R_X">게시물을 표시한 후 읽음으로 표시</string>
     <string name="config_set_read_after_shown_summary_ぞーぺん">게시물을 표시한 후 읽음으로 표시</string>
     <string name="config_set_read_after_shown_summary_たいぺん">타이츠를 표시한 후 읽음으로 표시</string>
 

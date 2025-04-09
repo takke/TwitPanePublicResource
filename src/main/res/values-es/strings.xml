@@ -1292,6 +1292,8 @@
     <string name="config_set_read_after_shown_ぞーぺん">Marcar como leído después de ver</string>
     <string name="config_set_read_after_shown_たいぺん">Marcar como leído después de ver</string>
     <string name="config_set_read_after_shown_summary_ついぺん">Marcar tweets como leídos después de verlos</string>
+    <string name="config_set_read_after_shown_summary_R_twitter">Marcar tweets como leídos después de verlos</string>
+    <string name="config_set_read_after_shown_summary_R_X">Marcar publicaciones como leídas después de verlas</string>
     <string name="config_set_read_after_shown_summary_ぞーぺん">Marcar publicaciones como leídas después de verlas</string>
     <string name="config_set_read_after_shown_summary_たいぺん">Marcar Taiitsu como leídos después de verlos</string>
 

@@ -1313,6 +1313,8 @@
 	<string name="config_set_read_after_shown_ぞーぺん">表示時に既読にする</string>
 	<string name="config_set_read_after_shown_たいぺん">表示時に既読にする</string>
 	<string name="config_set_read_after_shown_summary_ついぺん">ツイートを表示した時点ですぐに既読にする【初期値：OFF】 (Blueskyは未対応)</string>
+	<string name="config_set_read_after_shown_summary_R_twitter">ツイートを表示した時点ですぐに既読にする【初期値：OFF】</string>
+	<string name="config_set_read_after_shown_summary_R_X">投稿を表示した時点ですぐに既読にする【初期値：OFF】</string>
 	<string name="config_set_read_after_shown_summary_ぞーぺん">投稿を表示した時点ですぐに既読にする【初期値：OFF】 (Blueskyは未対応)</string>
 	<string name="config_set_read_after_shown_summary_たいぺん">タイーツを表示した時点ですぐに既読にする【初期値：OFF】 (Blueskyは未対応)</string>
 

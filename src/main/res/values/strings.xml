@@ -1306,6 +1306,8 @@ Do you want to enable it?</string>
     <string name="config_set_read_after_shown_ぞーぺん">Mark as Read After Viewing</string>
     <string name="config_set_read_after_shown_たいぺん">Mark as Read After Viewing</string>
     <string name="config_set_read_after_shown_summary_ついぺん">Mark tweets as read after viewing them</string>
+    <string name="config_set_read_after_shown_summary_R_twitter">Mark tweets as read after viewing them</string>
+    <string name="config_set_read_after_shown_summary_R_X">Mark posts as read after viewing them</string>
     <string name="config_set_read_after_shown_summary_ぞーぺん">Mark posts as read after viewing them</string>
     <string name="config_set_read_after_shown_summary_たいぺん">Mark Taiitsu as read after viewing them</string>
 

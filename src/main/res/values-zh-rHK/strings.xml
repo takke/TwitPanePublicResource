@@ -1291,6 +1291,8 @@
     <string name="config_set_read_after_shown_ぞーぺん">設置顯示後閲讀貼文</string>
     <string name="config_set_read_after_shown_たいぺん">設置顯示後閲讀Taiitsu</string>
     <string name="config_set_read_after_shown_summary_ついぺん">在顯示推文時立即閲讀[默認:關]。</string>
+    <string name="config_set_read_after_shown_summary_R_twitter">在顯示推文時立即閲讀[默認:關]。</string>
+    <string name="config_set_read_after_shown_summary_R_X">在顯示貼文時立即閲讀[默認:關]。</string>
     <string name="config_set_read_after_shown_summary_ぞーぺん">在顯示貼文時立即閲讀[默認:關]。</string>
     <string name="config_set_read_after_shown_summary_たいぺん">在顯示Taiitsu後標記為已讀[默認:關]。</string>
 
