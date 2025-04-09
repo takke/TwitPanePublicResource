@@ -766,6 +766,7 @@
     <string name="menu_spam">スパム通報</string>
     <string name="menu_report_as_spam">スパムとして報告...</string>
     <string name="report_as_spam_confirm_message_tweet">本当にこのツイートをスパムとしてマークしますか？</string>
+    <string name="report_as_spam_confirm_message_post">本当にこのポストをスパムとしてマークしますか？</string>
     <string name="tweet_reported_message">ツイートをスパム通報しました</string>
     <string name="edited_tweet">編集履歴</string>
     <string name="edited">編集済み</string>

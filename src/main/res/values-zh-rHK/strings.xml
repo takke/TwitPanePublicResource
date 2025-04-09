@@ -758,6 +758,7 @@
     <string name="menu_spam">有害推文舉報</string>
     <string name="menu_report_as_spam">舉報為有害推文...</string>
     <string name="report_as_spam_confirm_message_tweet">您真的要將此推文標記為有害嗎？</string>
+    <string name="report_as_spam_confirm_message_post">您真的要將此帖子標記為有害嗎？</string>
     <string name="tweet_reported_message">已舉報</string>
     <string name="edited_tweet">編輯歷史</string>
     <string name="edited">已編輯</string>

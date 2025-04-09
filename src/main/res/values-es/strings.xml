@@ -757,6 +757,7 @@
     <string name="menu_spam">"Marcar spam"</string>
     <string name="menu_report_as_spam">Reportar como spam...</string>
     <string name="report_as_spam_confirm_message_tweet">¿Realmente quieres marcar este tweet como spam?</string>
+    <string name="report_as_spam_confirm_message_post">¿Realmente quieres marcar esta publicación como spam?</string>
     <string name="tweet_reported_message">Reported</string>
     <string name="edited_tweet">Edited history</string>
     <string name="edited">editado</string>
