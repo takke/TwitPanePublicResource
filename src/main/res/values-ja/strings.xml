@@ -1200,8 +1200,8 @@
     <string name="toolbar_button_tutorial1">ボタンをタップすると機能を変更できます。\nまた、長押しするとボタンのカラーを変更できます。</string>
 
     <string name="config_translation_settings_category">翻訳設定</string>
-    <string name="config_show_translation_link">「ツイートを翻訳」を表示</string>
-    <string name="config_show_translation_link_summary">ツイートの下に「ツイートを翻訳」リンクを表示します【初期値：ON】</string>
+    <string name="config_show_translation_link_tweet">「ツイートを翻訳」を表示</string>
+    <string name="config_show_translation_link_summary_tweet">ツイートの下に「ツイートを翻訳」リンクを表示します【初期値：ON】</string>
     <string name="config_use_cloud_translation">翻訳の質を上げる</string>
     <string name="config_use_cloud_translation_summary">クラウド翻訳(DeepL翻訳、Googleクラウド翻訳)を利用することで翻訳結果が高品質・高精度になります。有料の外部サービスを利用します。</string>
     <string name="config_use_cloud_translation_summary_not_available_due_to_not_subscribed">(定期購入がキャンセル済みなので利用できません)</string>
