@@ -729,6 +729,7 @@
     <string name="menu_user_show_favorite_favorite">ユーザーのお気に入りを表示</string>
     <string name="menu_user_show_favorite_like">ユーザーのいいねを表示</string>
     <string name="menu_user_show_quoted_tweets">引用されたツイートを表示</string>
+    <string name="menu_user_show_quoted_posts">引用されたポストを表示</string>
     <string name="menu_user_show_timeline">ユーザーのタイムラインを表示</string>
     <string name="menu_user_reply_to">ユーザー宛にツイートする</string>
     <string name="menu_user_send_message">ユーザーにメッセージを送る</string>

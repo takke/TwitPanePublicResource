@@ -721,6 +721,7 @@
     <string name="menu_user_show_favorite_favorite">显示收藏</string>
     <string name="menu_user_show_favorite_like">显示点赞</string>
     <string name="menu_user_show_quoted_tweets">显示引用推文</string>
+    <string name="menu_user_show_quoted_posts">显示引用的帖子</string>
     <string name="menu_user_show_timeline">显示时间轴</string>
     <string name="menu_user_reply_to">回复</string>
     <string name="menu_user_send_message">发送消息给</string>

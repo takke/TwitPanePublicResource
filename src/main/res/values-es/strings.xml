@@ -720,6 +720,7 @@
     <string name="menu_user_show_favorite_favorite">"Mostrar los favoritos"</string>
     <string name="menu_user_show_favorite_like">"Mostrar los me gusta"</string>
     <string name="menu_user_show_quoted_tweets">Mostrar citado tuits</string>
+    <string name="menu_user_show_quoted_posts">Mostrar publicaciones citadas</string>
     <string name="menu_user_show_timeline">"Mostrar cronología"</string>
     <string name="menu_user_reply_to">"Responder a"</string>
     <string name="menu_user_send_message">"Enviar un mensaje a"</string>
