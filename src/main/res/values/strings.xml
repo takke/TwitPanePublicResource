@@ -1919,7 +1919,6 @@ Reauthenticate on the next screen.</string>
     <string name="event_log_message_no_new_reply">No new replies.</string>
     <string name="event_log_message_new_message">New message received.</string>
     <string name="event_log_message_no_new_message">No new message.</string>
-    <string name="event_log_message_new_posts_loaded_tw">New tweets retrieved.</string>
     <string name="new_tweets">New tweets</string>
     <string name="new_toots">New toots</string>
     <string name="new_notes">New notes</string>
@@ -1938,10 +1937,11 @@ Reauthenticate on the next screen.</string>
     <string name="event_log_message_n_posts_mastodon">%1$d posts</string>
     <string name="event_log_message_n_posts_misskey">%1$d notes</string>
     <string name="event_log_message_n_posts_tw">%1$d tweets</string>
+    <string name="event_log_message_new_posts_failed_tw">Failed to get tweets.</string>
     <string name="event_log_message_new_posts_failed_bluesky">Failed to load new posts</string>
     <string name="event_log_message_new_posts_failed_mastodon">Failed to load new posts</string>
     <string name="event_log_message_new_posts_failed_misskey">Failed to load new notes</string>
-    <string name="event_log_message_new_posts_failed_tw">Failed to get tweets.</string>
+    <string name="event_log_message_new_posts_loaded_tw">New tweets retrieved.</string>
     <string name="event_log_message_new_posts_loaded_bluesky">Loaded new posts</string>
     <string name="event_log_message_new_posts_loaded_mastodon">Loaded new posts</string>
     <string name="event_log_message_new_posts_loaded_misskey">Loaded new notes</string>

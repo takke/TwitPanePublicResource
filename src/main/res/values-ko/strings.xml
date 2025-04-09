@@ -1804,7 +1804,6 @@
     <string name="event_log_message_no_new_reply">새로운 답변이 없습니다.</string>
     <string name="event_log_message_new_message">새 메시지를 받았습니다.</string>
     <string name="event_log_message_no_new_message">새 메시지가 없습니다.</string>
-    <string name="event_log_message_new_posts_loaded_tw">새로운 트윗이 검색되었습니다.</string>
     <string name="new_tweets">새로운 트윗</string>
     <string name="new_toots">New toots</string>
     <string name="new_notes">New notes</string>
@@ -1823,10 +1822,11 @@
     <string name="event_log_message_n_posts_mastodon">게시물 %1$d개</string>
     <string name="event_log_message_n_posts_misskey">노트 %1$d개</string>
     <string name="event_log_message_n_posts_tw">트윗 %1$d개</string>
+    <string name="event_log_message_new_posts_failed_tw">트윗을 가져오지 못했습니다.</string>
     <string name="event_log_message_new_posts_failed_bluesky">새 게시물 로드 실패</string>
     <string name="event_log_message_new_posts_failed_mastodon">새 게시물 로드 실패</string>
     <string name="event_log_message_new_posts_failed_misskey">새 노트 로드 실패</string>
-    <string name="event_log_message_new_posts_failed_tw">트윗을 가져오지 못했습니다.</string>
+    <string name="event_log_message_new_posts_loaded_tw">새로운 트윗이 검색되었습니다.</string>
     <string name="event_log_message_new_posts_loaded_bluesky">새 게시물 로드됨</string>
     <string name="event_log_message_new_posts_loaded_mastodon">새 게시물 로드됨</string>
     <string name="event_log_message_new_posts_loaded_misskey">새 노트 로드됨</string>
