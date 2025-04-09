@@ -758,7 +758,7 @@
     <string name="menu_report_as_spam">스팸으로 신고 ...</string>
     <string name="report_as_spam_confirm_message_tweet">이 트윗을 스팸으로 표시하시겠습니까?</string>
     <string name="report_as_spam_confirm_message_post">이 게시물을 스팸으로 표시하시겠습니까?</string>
-    <string name="tweet_reported_message">Reported</string>
+    <string name="reported_as_spam_done_message_tweet">Reported</string>
     <string name="edited_tweet">Edited history</string>
     <string name="edited">수정됨</string>
     <string name="there_is_a_new_version_of_this_tweet">이 트윗의 새 버전이 있습니다.</string>
