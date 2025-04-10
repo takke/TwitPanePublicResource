@@ -1861,8 +1861,8 @@
     <string name="subs_guide_item_no_ads">・広告なし</string>
     <string name="subs_guide_item_no_top_ads_message">画面上部のバナー広告、投稿後の広告を消すことができます</string>
     <string name="subs_guide_item_no_bottom_ads_message">画面下部のバナー広告、投稿後の広告を消すことができます</string>
-    <string name="subs_guide_item_free_more_accounts">・+2アカウント</string>
-    <string name="subs_guide_item_free_more_accounts_message">登録できるアカウント数を2個増やすことができます</string>
+    <string name="subs_guide_item_free_more_accounts">・アカウント上限を5に拡大！</string>
+    <string name="subs_guide_item_free_more_accounts_message">登録できるアカウント数を5個までに増やすことができます</string>
     <string name="subs_guide_item_premium_more_accounts">・+アカウント上限を10に拡大！</string>
     <string name="subs_guide_item_premium_more_accounts_message">登録できるアカウント数を10個までに増やすことができます</string>
     <string name="subs_guide_item_zonepane_more_accounts">・アカウント上限を10に拡大！</string>
