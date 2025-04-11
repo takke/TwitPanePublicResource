@@ -1764,6 +1764,7 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="emojipicker_guide_dialog_download">descargar</string>
 
     <!-- Unicode Emoji Picker -->
+    <string name="emoji_add_reaction">"Add Reaction"</string>
     <string name="emoji_category_smileys_and_emotion">"Smileys &amp; Emotion"</string>
     <string name="emoji_category_people_and_body">"People &amp; Body"</string>
     <string name="emoji_category_animals_and_nature">"Animals &amp; Nature"</string>
