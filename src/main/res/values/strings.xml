@@ -1853,6 +1853,7 @@ Reauthenticate on the next screen.</string>
     <string name="emoji_category_objects">"Objects"</string>
     <string name="emoji_category_symbols">"Symbols"</string>
     <string name="emoji_category_flags">"Flags"</string>
+    <string name="emoji_category_recently_used">"Recently Used"</string>
 
     <!-- Google Translate -->
     <string name="translate_app_guide_dialog_title">Google Translate is not installed</string>

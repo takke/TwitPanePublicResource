@@ -1774,6 +1774,7 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="emoji_category_objects">"Objects"</string>
     <string name="emoji_category_symbols">"Symbols"</string>
     <string name="emoji_category_flags">"Flags"</string>
+    <string name="emoji_category_recently_used">"Usado recientemente"</string>
 
     <!-- Google Translate -->
     <string name="translate_app_guide_dialog_title">Traductor Google no está instalado</string>

@@ -1812,6 +1812,7 @@
     <string name="emoji_category_objects">"アイテム"</string>
     <string name="emoji_category_symbols">"記号"</string>
     <string name="emoji_category_flags">"旗"</string>
+    <string name="emoji_category_recently_used">"最近使用した絵文字"</string>
 
     <!-- Google Translate -->
     <string name="translate_app_guide_dialog_title">Google翻訳がインストールされていません</string>

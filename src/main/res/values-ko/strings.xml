@@ -1775,6 +1775,7 @@
     <string name="emoji_category_objects">"Objects"</string>
     <string name="emoji_category_symbols">"Symbols"</string>
     <string name="emoji_category_flags">"Flags"</string>
+    <string name="emoji_category_recently_used">"최근 사용"</string>
 
     <!-- Google Translate -->
     <string name="translate_app_guide_dialog_title">구글은 설치되지 않은 번역</string>
