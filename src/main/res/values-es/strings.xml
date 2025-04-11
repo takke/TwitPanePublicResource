@@ -1763,6 +1763,17 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="emojipicker_guide_dialog_message">¿Desea descargar EmojiPicker4T para TwitPane desde %1$s?</string>
     <string name="emojipicker_guide_dialog_download">descargar</string>
 
+    <!-- Unicode Emoji Picker -->
+    <string name="emoji_category_smileys_and_emotion">"Smileys &amp; Emotion"</string>
+    <string name="emoji_category_people_and_body">"People &amp; Body"</string>
+    <string name="emoji_category_animals_and_nature">"Animals &amp; Nature"</string>
+    <string name="emoji_category_food_and_drink">"Food &amp; Drink"</string>
+    <string name="emoji_category_travel_and_places">"Travel &amp; Places"</string>
+    <string name="emoji_category_activities">"Activities"</string>
+    <string name="emoji_category_objects">"Objects"</string>
+    <string name="emoji_category_symbols">"Symbols"</string>
+    <string name="emoji_category_flags">"Flags"</string>
+
     <!-- Google Translate -->
     <string name="translate_app_guide_dialog_title">Traductor Google no está instalado</string>
     <string name="translate_app_guide_dialog_message">que necesita la aplicación Google Translate. Descargar de %1$s?</string>

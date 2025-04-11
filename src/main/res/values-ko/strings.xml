@@ -1764,6 +1764,17 @@
     <string name="emojipicker_guide_dialog_message">당신이 %1$s 스토어에서 TwitPane에 대한 EmojiPicker4T를 다운로드 하시겠습니까?</string>
     <string name="emojipicker_guide_dialog_download">다운로드</string>
 
+    <!-- Unicode Emoji Picker -->
+    <string name="emoji_category_smileys_and_emotion">"Smileys &amp; Emotion"</string>
+    <string name="emoji_category_people_and_body">"People &amp; Body"</string>
+    <string name="emoji_category_animals_and_nature">"Animals &amp; Nature"</string>
+    <string name="emoji_category_food_and_drink">"Food &amp; Drink"</string>
+    <string name="emoji_category_travel_and_places">"Travel &amp; Places"</string>
+    <string name="emoji_category_activities">"Activities"</string>
+    <string name="emoji_category_objects">"Objects"</string>
+    <string name="emoji_category_symbols">"Symbols"</string>
+    <string name="emoji_category_flags">"Flags"</string>
+
     <!-- Google Translate -->
     <string name="translate_app_guide_dialog_title">구글은 설치되지 않은 번역</string>
     <string name="translate_app_guide_dialog_message">당신은 구글이 앱을 번역해야합니다. %1$s 에서 다운로드?</string>

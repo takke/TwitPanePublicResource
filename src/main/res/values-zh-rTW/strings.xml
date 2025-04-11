@@ -1801,6 +1801,17 @@
     <string name="emojipicker_guide_dialog_message">你想從 %1$s 下載用於 TwitPane 的 EmojiPicker4T 嗎？</string>
     <string name="emojipicker_guide_dialog_download">下載</string>
 
+    <!-- Unicode Emoji Picker -->
+    <string name="emoji_category_smileys_and_emotion">"Smileys &amp; Emotion"</string>
+    <string name="emoji_category_people_and_body">"People &amp; Body"</string>
+    <string name="emoji_category_animals_and_nature">"Animals &amp; Nature"</string>
+    <string name="emoji_category_food_and_drink">"Food &amp; Drink"</string>
+    <string name="emoji_category_travel_and_places">"Travel &amp; Places"</string>
+    <string name="emoji_category_activities">"Activities"</string>
+    <string name="emoji_category_objects">"Objects"</string>
+    <string name="emoji_category_symbols">"Symbols"</string>
+    <string name="emoji_category_flags">"Flags"</string>
+
     <!-- Google Translate -->
     <string name="translate_app_guide_dialog_title">谷歌翻譯未安裝</string>
     <string name="translate_app_guide_dialog_message">你需要谷歌翻譯軟體。從%1$s下載？</string>

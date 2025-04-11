@@ -1801,6 +1801,17 @@
     <string name="emojipicker_guide_dialog_message">TwitPane用絵文字入力用アプリ EmojiPicker4T を利用できます。\n%1$s からダウンロードしますか？</string>
     <string name="emojipicker_guide_dialog_download">ダウンロード</string>
 
+    <!-- Unicode Emoji Picker -->
+    <string name="emoji_category_smileys_and_emotion">"顔文字"</string>
+    <string name="emoji_category_people_and_body">"人物"</string>
+    <string name="emoji_category_animals_and_nature">"動物と自然"</string>
+    <string name="emoji_category_food_and_drink">"食べ物＆飲み物"</string>
+    <string name="emoji_category_travel_and_places">"旅行と場所"</string>
+    <string name="emoji_category_activities">"活動"</string>
+    <string name="emoji_category_objects">"アイテム"</string>
+    <string name="emoji_category_symbols">"記号"</string>
+    <string name="emoji_category_flags">"旗"</string>
+
     <!-- Google Translate -->
     <string name="translate_app_guide_dialog_title">Google翻訳がインストールされていません</string>
     <string name="translate_app_guide_dialog_message">翻訳するにはGoogle翻訳アプリが必要です。\n%1$s からダウンロードしますか？</string>
