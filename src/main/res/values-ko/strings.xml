@@ -1782,6 +1782,8 @@
 
     <!-- Bluesky Chat -->
     <string name="bs_delete_reaction_message">Do you want to delete %s ?</string>
+    <string name="bs_reaction_added">리액션이 추가되었습니다</string>
+    <string name="bs_reaction_removed">리액션이 제거되었습니다</string>
 
     <!-- Google Translate -->
     <string name="translate_app_guide_dialog_title">구글은 설치되지 않은 번역</string>

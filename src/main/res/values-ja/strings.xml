@@ -1819,6 +1819,8 @@
 
     <!-- Bluesky Chat -->
     <string name="bs_delete_reaction_message">%s を削除しますか？</string>
+    <string name="bs_reaction_added">リアクションを追加しました</string>
+    <string name="bs_reaction_removed">リアクションを削除しました</string>
 
     <!-- Google Translate -->
     <string name="translate_app_guide_dialog_title">Google翻訳がインストールされていません</string>

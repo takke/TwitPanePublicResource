@@ -1819,6 +1819,8 @@
 
     <!-- Bluesky Chat -->
     <string name="bs_delete_reaction_message">Do you want to delete %s ?</string>
+    <string name="bs_reaction_added">反應已添加</string>
+    <string name="bs_reaction_removed">反應已移除</string>
 
     <!-- Google Translate -->
     <string name="translate_app_guide_dialog_title">谷歌翻譯未安裝</string>
