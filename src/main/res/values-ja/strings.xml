@@ -1805,6 +1805,7 @@
 
     <!-- Unicode Emoji Picker -->
     <string name="emoji_add_reaction">"リアクションを追加"</string>
+    <string name="emoji_add_reaction_dots">"リアクションを追加..."</string>
     <string name="emoji_category_smileys_and_emotion">"顔文字"</string>
     <string name="emoji_category_people_and_body">"人物"</string>
     <string name="emoji_category_animals_and_nature">"動物と自然"</string>
