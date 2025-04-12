@@ -1494,6 +1494,9 @@
     <string name="config_new_tweet_notification_icon_type_ついぺん">新推文通知图标</string>
     <string name="config_new_tweet_notification_icon_type_ぞーぺん">新帖子通知图标</string>
     <string name="config_new_tweet_notification_icon_type_たいぺん">新泰推通知图标</string>
+    <string name="notification_channel_bluesky_auth_error">Bluesky 认证错误</string>
+    <string name="bluesky_auth_error_notification_message">认证令牌已过期，需要重新认证 (%1$s)</string>
+
     <string name="config_color_label">彩色标签设置</string>
     <string name="config_color_label_summary">Set the colors of the user labels</string>
     <string name="config_color_label_description">"Color labels can be assigned to users to make it easier to identify posts.For example, it is useful to categorize them as "News," "Celebrities," or "Friends"."</string>
@@ -1815,6 +1818,9 @@
     <string name="emoji_category_flags">"Flags"</string>
     <string name="emoji_category_recently_used">"最近使用"</string>
 
+    <!-- Bluesky Chat -->
+    <string name="bs_delete_reaction_message">Do you want to delete %s ?</string>
+
     <!-- Google Translate -->
     <string name="translate_app_guide_dialog_title">谷歌翻译未安装</string>
     <string name="translate_app_guide_dialog_message">你需要谷歌翻译软件。从%1$s下载？</string>
@@ -2077,8 +2083,11 @@
     <string name="bsky_quote_blocked">已屏蔽</string>
     <string name="bsky_quote_detached">已断开连接</string>
 
-    <string name="notification_channel_bluesky_auth_error">Bluesky 认证错误</string>
-    <string name="bluesky_auth_error_notification_message">认证令牌已过期，需要重新认证 (%1$s)</string>
+    <!-- ================================================================================ -->
+    <!-- Dialogs -->
+    <!-- ================================================================================ -->
+    <string name="dialog_delete">Delete</string>
+    <string name="dialog_cancel">Cancel</string>
 
 
 </resources>

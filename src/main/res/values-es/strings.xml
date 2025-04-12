@@ -1494,6 +1494,8 @@
     <string name="config_new_tweet_notification_icon_type_ついぺん">Icono de notificación de nuevo tweet</string>
     <string name="config_new_tweet_notification_icon_type_ぞーぺん">Icono de notificación de nueva publicación</string>
     <string name="config_new_tweet_notification_icon_type_たいぺん">Icono de notificación de nuevo taiitsu</string>
+    <string name="notification_channel_bluesky_auth_error">Error de autenticación de Bluesky</string>
+    <string name="bluesky_auth_error_notification_message">El token de autenticación ha caducado y se requiere una reautenticación (%1$s)</string>
 
     <string name="config_color_label">"Color de la etiqueta"</string>
     <string name="config_color_label_summary">"Establecer el color de la etiqueta"</string>
@@ -1776,6 +1778,9 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="emoji_category_flags">"Flags"</string>
     <string name="emoji_category_recently_used">"Usado recientemente"</string>
 
+    <!-- Bluesky Chat -->
+    <string name="bs_delete_reaction_message">Do you want to delete %s ?</string>
+
     <!-- Google Translate -->
     <string name="translate_app_guide_dialog_title">Traductor Google no está instalado</string>
     <string name="translate_app_guide_dialog_message">que necesita la aplicación Google Translate. Descargar de %1$s?</string>
@@ -2038,8 +2043,11 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="bsky_quote_blocked">Bloqueado</string>
     <string name="bsky_quote_detached">Desvinculado</string>
 
-    <string name="notification_channel_bluesky_auth_error">Error de autenticación de Bluesky</string>
-    <string name="bluesky_auth_error_notification_message">El token de autenticación ha caducado y se requiere una reautenticación (%1$s)</string>
+    <!-- ================================================================================ -->
+    <!-- Dialogs -->
+    <!-- ================================================================================ -->
+    <string name="dialog_delete">Delete</string>
+    <string name="dialog_cancel">Cancel</string>
 
 
 </resources>

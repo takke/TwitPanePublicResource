@@ -1492,6 +1492,8 @@
     <string name="config_new_tweet_notification_icon_type_ついぺん">新推文通知圖示</string>
     <string name="config_new_tweet_notification_icon_type_ぞーぺん">新貼文通知圖示</string>
     <string name="config_new_tweet_notification_icon_type_たいぺん">新泰推通知圖示</string>
+    <string name="notification_channel_bluesky_auth_error">Bluesky 認證錯誤</string>
+    <string name="bluesky_auth_error_notification_message">認證權杖已過期，需要重新認證 (%1$s)</string>
 
     <string name="config_color_label">彩色標籤設定</string>
     <string name="config_color_label_summary">Set the colors of the user labels</string>
@@ -1814,6 +1816,9 @@
     <string name="emoji_category_flags">"Flags"</string>
     <string name="emoji_category_recently_used">"最近使用"</string>
 
+    <!-- Bluesky Chat -->
+    <string name="bs_delete_reaction_message">Do you want to delete %s ?</string>
+
     <!-- Google Translate -->
     <string name="translate_app_guide_dialog_title">谷歌翻譯未安裝</string>
     <string name="translate_app_guide_dialog_message">你需要谷歌翻譯軟體。從%1$s下載？</string>
@@ -2076,8 +2081,11 @@
     <string name="bsky_quote_blocked">已封鎖</string>
     <string name="bsky_quote_detached">已斷開連接</string>
 
-    <string name="notification_channel_bluesky_auth_error">Bluesky 認證錯誤</string>
-    <string name="bluesky_auth_error_notification_message">認證權杖已過期，需要重新認證 (%1$s)</string>
+    <!-- ================================================================================ -->
+    <!-- Dialogs -->
+    <!-- ================================================================================ -->
+    <string name="dialog_delete">Delete</string>
+    <string name="dialog_cancel">Cancel</string>
 
 
 </resources>

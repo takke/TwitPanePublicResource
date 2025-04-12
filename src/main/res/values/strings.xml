@@ -1855,6 +1855,9 @@ Reauthenticate on the next screen.</string>
     <string name="emoji_category_flags">"Flags"</string>
     <string name="emoji_category_recently_used">"Recently Used"</string>
 
+    <!-- Bluesky Chat -->
+    <string name="bs_delete_reaction_message">Do you want to delete %s ?</string>
+
     <!-- Google Translate -->
     <string name="translate_app_guide_dialog_title">Google Translate is not installed</string>
     <string name="translate_app_guide_dialog_message">You need the Google Translate app. Download from %1$s?</string>
@@ -2165,5 +2168,10 @@ Reauthenticate on the next screen.</string>
     <string name="bsky_quote_blocked">Blocked</string>
     <string name="bsky_quote_detached">Detached</string>
 
-
+    <!-- ================================================================================ -->
+    <!-- Dialogs -->
+    <!-- ================================================================================ -->
+    <string name="dialog_delete">Delete</string>
+    <string name="dialog_cancel">Cancel</string>
+    
 </resources>

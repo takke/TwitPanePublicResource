@@ -1515,6 +1515,8 @@
     <string name="config_new_tweet_notification_icon_type_ついぺん">新着ツイート通知のアイコン</string>
     <string name="config_new_tweet_notification_icon_type_ぞーぺん">新着投稿通知のアイコン</string>
     <string name="config_new_tweet_notification_icon_type_たいぺん">新着タイーツ通知のアイコン</string>
+    <string name="notification_channel_bluesky_auth_error">Bluesky 認証エラー</string>
+    <string name="bluesky_auth_error_notification_message">セッションの有効期限が切れました。再ログインをお願いします(%1$s)</string>
 
     <string name="config_color_label">カラーラベル設定</string>
     <string name="config_color_label_summary">ユーザーのカラーラベルの色や名前の設定</string>
@@ -1813,6 +1815,9 @@
     <string name="emoji_category_symbols">"記号"</string>
     <string name="emoji_category_flags">"旗"</string>
     <string name="emoji_category_recently_used">"最近使用した絵文字"</string>
+
+    <!-- Bluesky Chat -->
+    <string name="bs_delete_reaction_message">%s を削除しますか？</string>
 
     <!-- Google Translate -->
     <string name="translate_app_guide_dialog_title">Google翻訳がインストールされていません</string>
@@ -2119,7 +2124,10 @@
     <string name="bsky_quote_blocked">ブロックされています</string>
     <string name="bsky_quote_detached">リンクが切れています</string>
 
-    <string name="notification_channel_bluesky_auth_error">Bluesky 認証エラー</string>
-    <string name="bluesky_auth_error_notification_message">セッションの有効期限が切れました。再ログインをお願いします(%1$s)</string>
-
+    <!-- ================================================================================ -->
+    <!-- Dialogs -->
+    <!-- ================================================================================ -->
+    <string name="dialog_delete">削除</string>
+    <string name="dialog_cancel">キャンセル</string>
+    
 </resources>
