@@ -1860,6 +1860,7 @@ Reauthenticate on the next screen.</string>
     <string name="bs_delete_reaction_message">Do you want to delete %s ?</string>
     <string name="bs_reaction_added">Reaction added</string>
     <string name="bs_reaction_removed">Reaction removed</string>
+    <string name="bs_too_many_reactions">You cannot add more reactions</string>
 
     <!-- Google Translate -->
     <string name="translate_app_guide_dialog_title">Google Translate is not installed</string>

@@ -1780,9 +1780,10 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="emoji_category_recently_used">"Usado recientemente"</string>
 
     <!-- Bluesky Chat -->
-    <string name="bs_delete_reaction_message">Do you want to delete %s ?</string>
+    <string name="bs_delete_reaction_message">¿Quieres eliminar %s?</string>
     <string name="bs_reaction_added">Reacción añadida</string>
     <string name="bs_reaction_removed">Reacción eliminada</string>
+    <string name="bs_too_many_reactions">No puedes añadir más reacciones</string>
 
     <!-- Google Translate -->
     <string name="translate_app_guide_dialog_title">Traductor Google no está instalado</string>
