@@ -1666,7 +1666,10 @@
     <string name="theme_bg_rt_taipane">Fondo(RT)</string>
     <string name="theme_gradation">"Gradación de bg"</string>
     <string name="theme_name">"nombre"</string>
-    <string name="theme_date_rt">"Fecha, RT"</string>
+    <string name="theme_date_rt_twitpane">"Fecha, RT"</string>
+    <string name="theme_date_rt_bluepane">"Fecha, Repost"</string>
+    <string name="theme_date_rt_zonepane">"Fecha, Boost"</string>
+    <string name="theme_date_rt_taipane">"Fecha, RT"</string>
     <string name="theme_body">" Cuerpo"</string>
     <string name="theme_body_unread">" Cuerpo"</string>
     <string name="theme_body_reply_for_me">"Cuerpo (Respuesta para mí)"</string>

@@ -1740,7 +1740,10 @@
     <string name="theme_bg_rt_taipane">BG(RT)</string>
     <string name="theme_gradation">Gradation of bg</string>
     <string name="theme_name">Name(Unread)</string>
-    <string name="theme_date_rt">Date, RT</string>
+    <string name="theme_date_rt_twitpane">Date, RT</string>
+    <string name="theme_date_rt_bluepane">Date, Repost</string>
+    <string name="theme_date_rt_zonepane">Date, Boost</string>
+    <string name="theme_date_rt_taipane">Date, RT</string>
     <string name="theme_body">Body</string>
     <string name="theme_body_unread">Body(Unread)</string>
     <string name="theme_body_reply_for_me">Body(Reply for me)</string>

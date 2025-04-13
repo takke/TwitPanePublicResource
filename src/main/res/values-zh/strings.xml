@@ -1706,7 +1706,10 @@
     <string name="theme_bg_rt_taipane">背景(RT)</string>
     <string name="theme_gradation">背景渐变</string>
     <string name="theme_name">name</string>
-    <string name="theme_date_rt">日期，RT</string>
+    <string name="theme_date_rt_twitpane">日期，RT</string>
+    <string name="theme_date_rt_bluepane">日期，Repost</string>
+    <string name="theme_date_rt_zonepane">日期，Boost</string>
+    <string name="theme_date_rt_taipane">日期，RT</string>
     <string name="theme_body">正文</string>
     <string name="theme_body_unread">正文</string>
     <string name="theme_body_reply_for_me">正文（回复我）</string>
