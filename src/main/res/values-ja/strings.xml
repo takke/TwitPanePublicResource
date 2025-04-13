@@ -1699,7 +1699,10 @@
     <string name="dark_theme">ダークテーマ</string>
     <string name="theme_change_bg">背景色を変更する</string>
     <string name="theme_bg_reply_for_me">背景色(自分宛の返信)</string>
-    <string name="theme_bg_rt">背景色(RT)</string>
+    <string name="theme_bg_rt_twitpane">背景色(RT)</string>
+    <string name="theme_bg_rt_bluepane">背景色(リポスト)</string>
+    <string name="theme_bg_rt_zonepane">背景色(ブーストなど)</string>
+    <string name="theme_bg_rt_taipane">背景色(リタイーツ)</string>
     <string name="theme_gradation">背景のグラデーション</string>
     <string name="theme_name">名前(未読)</string>
     <string name="theme_date_rt">日付、RTなど</string>

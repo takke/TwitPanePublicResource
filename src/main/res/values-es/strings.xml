@@ -1660,7 +1660,10 @@
     <string name="dark_theme">tema oscuro</string>
     <string name="theme_change_bg">"Fondo"</string>
     <string name="theme_bg_reply_for_me">Fondo(Respuesta para mí)</string>
-    <string name="theme_bg_rt">Fondo(RT)</string>
+    <string name="theme_bg_rt_twitpane">Fondo(RT)</string>
+    <string name="theme_bg_rt_bluepane">Fondo(Repost)</string>
+    <string name="theme_bg_rt_zonepane">Fondo(Boost)</string>
+    <string name="theme_bg_rt_taipane">Fondo(RT)</string>
     <string name="theme_gradation">"Gradación de bg"</string>
     <string name="theme_name">"nombre"</string>
     <string name="theme_date_rt">"Fecha, RT"</string>

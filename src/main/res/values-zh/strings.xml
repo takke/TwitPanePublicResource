@@ -1700,7 +1700,10 @@
     <string name="dark_theme">暗主题</string>
     <string name="theme_change_bg">背景</string>
     <string name="theme_bg_reply_for_me">背景(回复我)</string>
-    <string name="theme_bg_rt">背景(RT)</string>
+    <string name="theme_bg_rt_twitpane">背景(RT)</string>
+    <string name="theme_bg_rt_bluepane">背景(Repost)</string>
+    <string name="theme_bg_rt_zonepane">背景(Boost)</string>
+    <string name="theme_bg_rt_taipane">背景(RT)</string>
     <string name="theme_gradation">背景渐变</string>
     <string name="theme_name">name</string>
     <string name="theme_date_rt">日期，RT</string>
