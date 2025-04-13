@@ -461,6 +461,7 @@
     <string name="menu_about_taipane">About</string>
     <string name="menu_about_light">About</string>
     <string name="menu_about_zonepane">About</string>
+    <string name="menu_about_bluepane">About</string>
     <string name="menu_debug">"Depurar fallos"</string>
     <string name="debug_mode_confirm_title">"Confirmar modo depuración"</string>
     <string name="debug_mode_confirm_message">"¿Seguro que quieres entrar en el modo depuración?"</string>

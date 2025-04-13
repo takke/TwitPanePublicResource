@@ -461,6 +461,7 @@
     <string name="menu_about_taipane">About</string>
     <string name="menu_about_light">About</string>
     <string name="menu_about_zonepane">About</string>
+    <string name="menu_about_bluepane">About</string>
     <string name="menu_debug">"디버그"</string>
     <string name="debug_mode_confirm_title">"디버그 모드 확인"</string>
     <string name="debug_mode_confirm_message">"정말로 디버그 모드에 돌입하시겠습니까?"</string>

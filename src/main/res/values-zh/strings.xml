@@ -462,6 +462,7 @@
     <string name="menu_about_taipane">About</string>
     <string name="menu_about_light">About</string>
     <string name="menu_about_zonepane">About</string>
+    <string name="menu_about_bluepane">About</string>
     <string name="menu_debug">调试</string>
     <string name="debug_mode_confirm_title">调试模式确认</string>
     <string name="debug_mode_confirm_message">你确定要进入调试模式吗？</string>

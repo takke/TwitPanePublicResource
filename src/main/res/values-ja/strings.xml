@@ -468,6 +468,7 @@
     <string name="menu_about_taipane">たいぺんについて</string>
     <string name="menu_about_light">TwitPane Lightについて</string>
     <string name="menu_about_zonepane">ZonePaneについて</string>
+    <string name="menu_about_bluepane">BluePaneについて</string>
     <string name="menu_debug">デバッグ</string>
     <string name="debug_mode_confirm_title">デバッグモード確認</string>
     <string name="debug_mode_confirm_message">デバッグモードを設定します。よろしいですか？</string>
