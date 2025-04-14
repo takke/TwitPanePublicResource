@@ -2112,6 +2112,25 @@
     <string name="zonepane_onboarding_page4_item2">自動更新で最新の投稿をすぐにチェック！</string>
     <string name="zonepane_onboarding_page4_item3">画像＆動画も簡単にダウンロード！</string>
 
+    <!-- BluePane Onboarding -->
+    <string name="bluepane_onboarding_page1_title">ようこそ、BluePaneへ！</string>
+    <string name="bluepane_onboarding_page1_item1">BluePane（ぶるーぺーん）は、軽快・高機能なBluesky専用のSNSクライアントです。</string>
+    <string name="bluepane_onboarding_page1_item2">快適にSNSを楽しむための機能が満載です！</string>
+
+    <string name="bluepane_onboarding_page2_title">複数アカウントをまとめて管理</string>
+    <string name="bluepane_onboarding_page2_item1">各アカウントのタイムラインやリストを並べて表示</string>
+    <string name="bluepane_onboarding_page2_item2">スワイプで素早く切り替え</string>
+
+    <string name="bluepane_onboarding_page3_title">カスタマイズ自由自在</string>
+    <string name="bluepane_onboarding_page3_item1">テーマカラーや配色を自由に変更</string>
+    <string name="bluepane_onboarding_page3_item2">フォント・文字サイズを変更</string>
+    <string name="bluepane_onboarding_page3_item3">レイアウトの調整も自由自在！</string>
+
+    <string name="bluepane_onboarding_page4_title">もっと便利機能で快適に！</string>
+    <string name="bluepane_onboarding_page4_item1">既読位置を保存 → 途中から続きが読める！</string>
+    <string name="bluepane_onboarding_page4_item2">自動更新で最新の投稿をすぐにチェック！</string>
+    <string name="bluepane_onboarding_page4_item3">画像＆動画も簡単にダウンロード！</string>
+
     <!-- TwitPane Onboarding -->
     <string name="twitpane_onboarding_page1_title">ようこそ、TwitPaneへ！</string>
     <string name="twitpane_onboarding_page1_item1">TwitPaneは、複数のSNSを1つのアプリで管理できるクライアントアプリです！</string>
