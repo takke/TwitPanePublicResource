@@ -2067,6 +2067,25 @@
     <string name="zonepane_onboarding_page4_item2">自動更新，立即查看最新帖子！</string>
     <string name="zonepane_onboarding_page4_item3">輕鬆下載圖片和視頻！</string>
 
+    <!-- BluePane Onboarding -->
+    <string name="bluepane_onboarding_page1_title">歡迎使用BluePane！</string>
+    <string name="bluepane_onboarding_page1_item1">BluePane是一款輕量級、功能豐富的Bluesky專用客戶端應用。</string>
+    <string name="bluepane_onboarding_page1_item2">擁有眾多功能，讓您舒適享受Bluesky體驗！</string>
+
+    <string name="bluepane_onboarding_page2_title">同時管理多個帳號</string>
+    <string name="bluepane_onboarding_page2_item1">並排顯示各帳號的時間軸和列表</string>
+    <string name="bluepane_onboarding_page2_item2">透過滑動手勢快速切換</string>
+
+    <string name="bluepane_onboarding_page3_title">自由客製化</string>
+    <string name="bluepane_onboarding_page3_item1">自由更改主題顏色和配色方案</string>
+    <string name="bluepane_onboarding_page3_item2">調整字型和文字大小</string>
+    <string name="bluepane_onboarding_page3_item3">靈活的版面客製化！</string>
+
+    <string name="bluepane_onboarding_page4_title">更多便捷功能！</string>
+    <string name="bluepane_onboarding_page4_item1">儲存閱讀位置 → 從您離開的地方繼續閱讀！</string>
+    <string name="bluepane_onboarding_page4_item2">自動更新，立即查看最新貼文！</string>
+    <string name="bluepane_onboarding_page4_item3">輕鬆下載圖片和影片！</string>
+
     <!-- TwitPane Onboarding -->
     <string name="twitpane_onboarding_page1_title">歡迎使用 TwitPane!</string>
     <string name="twitpane_onboarding_page1_item1">一款讓資訊收集變得舒適的應用！</string>

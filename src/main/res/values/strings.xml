@@ -2156,6 +2156,25 @@ Reauthenticate on the next screen.</string>
     <string name="zonepane_onboarding_page4_item2">Auto-update to check the latest posts immediately!</string>
     <string name="zonepane_onboarding_page4_item3">Easily download images &amp; videos!</string>
 
+    <!-- BluePane Onboarding -->
+    <string name="bluepane_onboarding_page1_title">Welcome to BluePane!</string>
+    <string name="bluepane_onboarding_page1_item1">BluePane is a lightweight, feature-rich client app exclusively for Bluesky.</string>
+    <string name="bluepane_onboarding_page1_item2">Packed with features to enjoy Bluesky comfortably!</string>
+
+    <string name="bluepane_onboarding_page2_title">Manage Multiple Accounts Together</string>
+    <string name="bluepane_onboarding_page2_item1">Display timelines and lists from each account side by side</string>
+    <string name="bluepane_onboarding_page2_item2">Switch quickly with swipe gestures</string>
+
+    <string name="bluepane_onboarding_page3_title">Customize Freely</string>
+    <string name="bluepane_onboarding_page3_item1">Change theme colors and color schemes freely</string>
+    <string name="bluepane_onboarding_page3_item2">Adjust fonts and text sizes</string>
+    <string name="bluepane_onboarding_page3_item3">Flexible layout customization!</string>
+
+    <string name="bluepane_onboarding_page4_title">More Convenient Features!</string>
+    <string name="bluepane_onboarding_page4_item1">Save read position → Continue reading from where you left off!</string>
+    <string name="bluepane_onboarding_page4_item2">Auto-update to check the latest posts immediately!</string>
+    <string name="bluepane_onboarding_page4_item3">Easily download images &amp; videos!</string>
+
     <!-- TwitPane Onboarding -->
     <string name="twitpane_onboarding_page1_title">Welcome to TwitPane!</string>
     <string name="twitpane_onboarding_page1_item1">TwitPane is a client app that lets you manage multiple social networks in one app!</string>

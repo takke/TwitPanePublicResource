@@ -2030,6 +2030,25 @@
     <string name="zonepane_onboarding_page4_item2">자동 업데이트로 최신 게시물을 즉시 확인!</string>
     <string name="zonepane_onboarding_page4_item3">이미지 및 동영상을 쉽게 다운로드!</string>
 
+    <!-- BluePane Onboarding -->
+    <string name="bluepane_onboarding_page1_title">BluePane에 오신 것을 환영합니다!</string>
+    <string name="bluepane_onboarding_page1_item1">BluePane은 Bluesky 전용의 가볍고 기능이 풍부한 클라이언트 앱입니다.</string>
+    <string name="bluepane_onboarding_page1_item2">Bluesky를 편안하게 즐길 수 있는 기능이 가득합니다!</string>
+
+    <string name="bluepane_onboarding_page2_title">여러 계정을 함께 관리</string>
+    <string name="bluepane_onboarding_page2_item1">각 계정의 타임라인과 리스트를 나란히 표시</string>
+    <string name="bluepane_onboarding_page2_item2">스와이프로 빠르게 전환</string>
+
+    <string name="bluepane_onboarding_page3_title">자유롭게 커스터마이즈</string>
+    <string name="bluepane_onboarding_page3_item1">테마 색상과 색상 구성표를 자유롭게 변경</string>
+    <string name="bluepane_onboarding_page3_item2">글꼴과 텍스트 크기 조정</string>
+    <string name="bluepane_onboarding_page3_item3">유연한 레이아웃 커스터마이징!</string>
+
+    <string name="bluepane_onboarding_page4_title">더 많은 편리한 기능!</string>
+    <string name="bluepane_onboarding_page4_item1">읽은 위치 저장 → 마지막으로 읽은 위치부터 계속 읽을 수 있어요!</string>
+    <string name="bluepane_onboarding_page4_item2">자동 업데이트로 최신 게시물을 즉시 확인!</string>
+    <string name="bluepane_onboarding_page4_item3">이미지 및 동영상을 쉽게 다운로드!</string>
+
     <!-- TwitPane Onboarding -->
     <string name="twitpane_onboarding_page1_title">TwitPane에 오신 것을 환영합니다!</string>
     <string name="twitpane_onboarding_page1_item1">정보 수집을 편안하게 만드는 앱입니다!</string>

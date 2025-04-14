@@ -2029,6 +2029,25 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="zonepane_onboarding_page4_item2">¡Actualización automática para ver las últimas publicaciones inmediatamente!</string>
     <string name="zonepane_onboarding_page4_item3">¡Descarga fácilmente imágenes y videos!</string>
 
+    <!-- BluePane Onboarding -->
+    <string name="bluepane_onboarding_page1_title">¡Bienvenido a BluePane!</string>
+    <string name="bluepane_onboarding_page1_item1">BluePane es una aplicación cliente ligera y rica en funciones exclusivamente para Bluesky.</string>
+    <string name="bluepane_onboarding_page1_item2">¡Llena de funciones para disfrutar de Bluesky cómodamente!</string>
+
+    <string name="bluepane_onboarding_page2_title">Gestiona múltiples cuentas juntas</string>
+    <string name="bluepane_onboarding_page2_item1">Muestra líneas de tiempo y listas de cada cuenta una al lado de la otra</string>
+    <string name="bluepane_onboarding_page2_item2">Cambia rápidamente con gestos de deslizamiento</string>
+
+    <string name="bluepane_onboarding_page3_title">Personaliza libremente</string>
+    <string name="bluepane_onboarding_page3_item1">Cambia los colores del tema y los esquemas de colores libremente</string>
+    <string name="bluepane_onboarding_page3_item2">Ajusta fuentes y tamaños de texto</string>
+    <string name="bluepane_onboarding_page3_item3">¡Personalización flexible del diseño!</string>
+
+    <string name="bluepane_onboarding_page4_title">¡Más funciones convenientes!</string>
+    <string name="bluepane_onboarding_page4_item1">Guarda la posición de lectura → ¡Continúa leyendo desde donde lo dejaste!</string>
+    <string name="bluepane_onboarding_page4_item2">¡Actualización automática para ver las publicaciones más recientes inmediatamente!</string>
+    <string name="bluepane_onboarding_page4_item3">¡Descarga imágenes y videos fácilmente!</string>
+
     <!-- TwitPane Onboarding -->
     <string name="twitpane_onboarding_page1_title">¡Bienvenido a TwitPane!</string>
     <string name="twitpane_onboarding_page1_item1">¡Una aplicación que hace cómoda la recopilación de información!</string>
