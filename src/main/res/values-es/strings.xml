@@ -751,6 +751,7 @@
     <string name="menu_show_attached_image_area">"Mostrar Imagen adjunta"</string>
     <string name="menu_add_app_link">"Añadir enlace TwitPane"</string>
     <string name="menu_add_app_link_zonepane">"Añadir enlace ZonePane"</string>
+    <string name="menu_add_app_link_bluepane">"Añadir enlace BluePane"</string>
     <string name="menu_add_app_link_taipane">"Añadir enlace TaiPane"</string>
 
     <string name="menu_block">"Bloquear"</string>
