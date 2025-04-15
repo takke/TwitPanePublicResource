@@ -362,6 +362,7 @@
     <string name="boosted_by_user">%1$s轉嘟了</string>
     <string name="renoted_by_user">%1$s轉發了</string>
     <string name="reposted_by_user">%1$s轉發了</string>
+    <string name="retaiitsued_by_user">%1$sさんがリタイーツしました</string>
     <string name="source_from">來自%1$s</string>
     <string name="reply_to">回覆%1$s</string>
     <string name="cannot_launch_official_app">Cannot launch the official app.\nPlease make sure that installed the latest official app.</string>
