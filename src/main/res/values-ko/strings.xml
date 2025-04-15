@@ -1699,7 +1699,7 @@
     <string name="theme_preview_post_reposted_text_zonepane">해시태그가 포함된, 부스트된 게시물입니다. #ZonePane</string>
     <string name="theme_preview_post_reposted_text_bluepane">해시태그가 포함된, 리포스트된 게시물입니다. #BluePane</string>
     <string name="theme_preview_post_reposted_text_taipane">해시태그가 포함된, 리타이츠된 게시물입니다. #TaiPane</string>
-    <string name="theme_preview_post_my_post">自分の投稿です。このデザインのプレビューです。\n実際の表示はこのようになります。</string>
+    <string name="theme_preview_post_my_post">이것은 내 게시물입니다. 이것은 디자인 미리보기입니다.\n실제로 표시되는 방식입니다.</string>
 
 
     <!-- ================================================================================ -->

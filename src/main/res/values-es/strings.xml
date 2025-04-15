@@ -1698,7 +1698,7 @@
     <string name="theme_preview_post_reposted_text_zonepane">Esta es una publicación con hashtags. Ha sido impulsada. #ZonePane</string>
     <string name="theme_preview_post_reposted_text_bluepane">Esta es una publicación con hashtag. Ha sido reposteada. #BluePane</string>
     <string name="theme_preview_post_reposted_text_taipane">Esta es una publicación con hashtag. Ha sido retuitada. #TaiPane</string>
-    <string name="theme_preview_post_my_post">自分の投稿です。このデザインのプレビューです。\n実際の表示はこのようになります。</string>
+    <string name="theme_preview_post_my_post">Esta es mi publicación. Esta es una vista previa del diseño.\nAsí es como se mostrará realmente.</string>
 
 
     <!-- ================================================================================ -->
