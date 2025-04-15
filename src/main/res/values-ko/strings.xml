@@ -1701,6 +1701,7 @@
     <string name="theme_preview_post_reposted_text_taipane">해시태그가 포함된, 리타이츠된 게시물입니다. #TaiPane</string>
     <string name="theme_preview_post_my_post">이것은 내 게시물입니다. 이것은 디자인 미리보기입니다.\n실제로 표시되는 방식입니다.</string>
     <string name="theme_preview_post_others_post">다른 사람의 게시물입니다.</string>
+    <string name="theme_preview_post_reply_to_me">"@takke 나에게 보낸 답장입니다."</string>
 
 
     <!-- ================================================================================ -->
