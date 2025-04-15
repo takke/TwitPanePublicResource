@@ -1761,7 +1761,7 @@
     <string name="theme_default">default</string>
     <string name="dark_theme_same_as_light_theme">Same as light theme</string>
     <string name="dark_theme_info">Set dark theme running on Android 10 or later devices.</string>
-    <string name="current_theme">[Selected]</string>
+    <string name="selected">[Selected]</string>
     <string name="manage_imported_theme">Manage Themes</string>
     <string name="theme_manage_delete_imported_theme">Imported themes can be deleted</string>
     <string name="theme_manage_theme_import_message">You can create new themes with the <a href="https://twitpane.com/d/">Theme Designer (Web)</a> and import them.\nUsing the Theme Designer (Web) on a PC browser is recommended for comfortable theme creation.</string>
