@@ -1767,10 +1767,10 @@
     <string name="theme_manage_theme_import_message">You can create new themes with the <a href="https://twitpane.com/d/">Theme Designer (Web)</a> and import them.\nUsing the Theme Designer (Web) on a PC browser is recommended for comfortable theme creation.</string>
     <string name="theme_delete_confirm_title">Delete Theme</string>
     <string name="theme_delete_confirm_message">Are you sure you want to delete theme %s ?</string>
-    <string name="theme_preview_post_reposted_text_twitpane">ハッシュタグを含む投稿です。リツイートされています。 #TwitPane</string>
+    <string name="theme_preview_post_reposted_text_twitpane">This is a post with hashtags. It has been retweeted. #TwitPane</string>
     <string name="theme_preview_post_reposted_text_zonepane">This is a post with hashtags. It has been boosted. #ZonePane</string>
-    <string name="theme_preview_post_reposted_text_bluepane">ハッシュタグを含む投稿です。リポストされています。 #BluePane</string>
-    <string name="theme_preview_post_reposted_text_taipane">ハッシュタグを含む投稿です。リタイーツされています。 #TaiPane</string>
+    <string name="theme_preview_post_reposted_text_bluepane">This is a post with hashtags. It has been reposted. #BluePane</string>
+    <string name="theme_preview_post_reposted_text_taipane">This is a post with hashtags. It has been retaiitsued. #TaiPane</string>
 
     <!-- ================================================================================ -->
     <!-- 画像ビューア -->
