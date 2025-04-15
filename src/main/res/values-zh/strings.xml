@@ -1733,7 +1733,7 @@
     <string name="theme_manage_theme_import_message">您可以使用<a href="https://twitpane.com/d/">主题设计器(网页版)</a>创建新主题并导入。\n推荐在PC浏览器上使用主题设计器(网页版)，这样可以更舒适地创建主题。</string>
     <string name="theme_delete_confirm_title">删除主题</string>
     <string name="theme_delete_confirm_message">确定要删除主题 %s 吗？</string>
-    <string name="theme_preview_post_reposted_text_zonepane">ハッシュタグを含む投稿です。ブーストされています。 #ZonePane</string>
+    <string name="theme_preview_post_reposted_text_zonepane">这是一个带有标签的帖子。它已被推荐。 #ZonePane</string>
 
 
     <!-- ================================================================================ -->
