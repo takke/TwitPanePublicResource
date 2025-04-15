@@ -1767,6 +1767,7 @@
     <string name="theme_manage_theme_import_message">You can create new themes with the <a href="https://twitpane.com/d/">Theme Designer (Web)</a> and import them.\nUsing the Theme Designer (Web) on a PC browser is recommended for comfortable theme creation.</string>
     <string name="theme_delete_confirm_title">Delete Theme</string>
     <string name="theme_delete_confirm_message">Are you sure you want to delete theme %s ?</string>
+    <string name="theme_preview_post_reposted_text_zonepane">ハッシュタグを含む投稿です。ブーストされています。 #ZonePane</string>
 
 
     <!-- ================================================================================ -->
