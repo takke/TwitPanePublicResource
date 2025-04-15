@@ -1726,7 +1726,7 @@
     <string name="theme_default">初期値</string>
     <string name="dark_theme_same_as_light_theme">Lightテーマと同じ</string>
     <string name="dark_theme_info">Android 10 以降のダークテーマを設定できます。\n\n・端末を「ダークテーマ」に設定したときに自動的に切り替えるテーマを指定できます。</string>
-    <string name="selected">【選択中】</string>
+    <string name="item_selected">【選択中】</string>
     <string name="manage_imported_theme">テーマの管理</string>
     <string name="theme_manage_delete_imported_theme">インポートしたテーマを削除できます</string>
     <string name="theme_manage_theme_import_message">新しいテーマを<a href="https://twitpane.com/d/">テーマデザイナー(Web)</a>で作成し、インポートすることができます。\nテーマデザイナー(Web)はPCのブラウザで開くと快適にテーマを作成できておすすめです。</string>
