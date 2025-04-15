@@ -2046,7 +2046,7 @@
     <string name="re_login">再ログイン</string>
     <string name="bluesky_login_description">Bluesky にサインインします。\nアカウントは事前に https://bsky.app/ から作成してください。\n今のところBluesky.Socialのみ対応しています。</string>
     <string name="bluesky_password_login_description">https://bsky.app/settings/app-passwords からアプリパスワードを発行してログインしてください。</string>
-    <string name="bluesky_oauth_login_description">ユーザー名を入力しログインボタンを押してください。\n※OAuthログインは現在試験運用中です</string>
+    <string name="bluesky_oauth_login_description">ユーザー名またはメールアドレスを入力しログインボタンを押してください。\n※OAuth ログインの場合、セキュリティ上の理由から約1週間毎に再認証が必要になります。</string>
     <string name="write_message">メッセージを書く</string>
     <string name="delete_for_me">自分宛を削除...</string>
     <string name="delete_chat_message_confirm_message">このメッセージを本当に削除しますか？このメッセージはあなたからは削除したように見えますが、他の参加者からは削除されません。</string>
