@@ -1693,7 +1693,10 @@
     <string name="theme_manage_theme_import_message">Puede crear nuevos temas con el <a href="https://twitpane.com/d/">Diseñador de Temas (Web)</a> e importarlos.\nSe recomienda usar el Diseñador de Temas (Web) en un navegador de PC para una creación de temas más cómoda.</string>
     <string name="theme_delete_confirm_title">Eliminar Tema</string>
     <string name="theme_delete_confirm_message">¿Estás seguro de que quieres eliminar el tema %s?</string>
+    <string name="theme_preview_post_reposted_text_twitpane">ハッシュタグを含む投稿です。リツイートされています。 #TwitPane</string>
     <string name="theme_preview_post_reposted_text_zonepane">Esta es una publicación con hashtags. Ha sido impulsada. #ZonePane</string>
+    <string name="theme_preview_post_reposted_text_bluepane">ハッシュタグを含む投稿です。リポストされています。 #BluePane</string>
+    <string name="theme_preview_post_reposted_text_taipane">ハッシュタグを含む投稿です。リタイーツされています。 #TaiPane</string>
 
 
     <!-- ================================================================================ -->
