@@ -2005,7 +2005,7 @@
     <string name="re_login">Re-login</string>
     <string name="bluesky_login_description">To sign in to Bluesky, please enter the following fields. </string>
     <string name="bluesky_password_login_description">Issue an app password from https://bsky.app/settings/app-passwords and log in. </string>
-    <string name="bluesky_oauth_login_description">(OAuth Login is beta support)</string>
+    <string name="bluesky_oauth_login_description">请输入您的用户名或电子邮件地址，然后按登录按钮。\n注意：对于OAuth登录，出于安全原因，大约每周需要重新认证一次。</string>
     <string name="write_message">Write a message</string>
     <string name="delete_for_me">Delete for me</string>
     <string name="delete_chat_message_confirm_message">Are you sure you want to delete this message? The message will be deleted for you, but not for the other participant.</string>
