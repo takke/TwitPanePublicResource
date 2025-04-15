@@ -1735,6 +1735,8 @@
     <string name="theme_preview_post_reposted_text_zonepane">這是一個帶有標籤的帖子。它已被推薦。 #ZonePane</string>
     <string name="theme_preview_post_reposted_text_bluepane">這是一個帶有標籤的帖子。已被轉發。 #BluePane</string>
     <string name="theme_preview_post_reposted_text_taipane">這是一個帶有標籤的帖子。已被轉推。 #TaiPane</string>
+    <string name="theme_preview_post_my_post">自分の投稿です。このデザインのプレビューです。\n実際の表示はこのようになります。</string>
+
 
     <!-- ================================================================================ -->
     <!-- 畫像ビューア -->
