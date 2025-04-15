@@ -1738,6 +1738,7 @@
     <string name="theme_preview_post_reposted_text_bluepane">ハッシュタグを含む投稿です。リポストされています。 #BluePane</string>
     <string name="theme_preview_post_reposted_text_taipane">ハッシュタグを含む投稿です。リタイーツされています。 #TaiPane</string>
     <string name="theme_preview_post_my_post">自分の投稿です。このデザインのプレビューです。\n実際の表示はこのようになります。</string>
+    <string name="theme_preview_post_others_post">他人の投稿です。</string>
 
     
     <!-- ================================================================================ -->

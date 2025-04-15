@@ -1773,6 +1773,7 @@
     <string name="theme_preview_post_reposted_text_bluepane">This is a post with hashtags. It has been reposted. #BluePane</string>
     <string name="theme_preview_post_reposted_text_taipane">This is a post with hashtags. It has been retaiitsued. #TaiPane</string>
     <string name="theme_preview_post_my_post">This is my post. This is a preview of the design.\nThis is how it will actually be displayed.</string>
+    <string name="theme_preview_post_others_post">This is a post from someone else.</string>
 
 
     <!-- ================================================================================ -->

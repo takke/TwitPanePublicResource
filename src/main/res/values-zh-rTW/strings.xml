@@ -1737,6 +1737,7 @@
     <string name="theme_preview_post_reposted_text_bluepane">這是一個帶有標籤的貼文。已被轉發。 #BluePane</string>
     <string name="theme_preview_post_reposted_text_taipane">這是一個帶有標籤的貼文。已被轉推。 #TaiPane</string>
     <string name="theme_preview_post_my_post">這是我的貼文。這是設計預覽。\n實際顯示效果如下。</string>
+    <string name="theme_preview_post_others_post">這是他人的貼文。</string>
 
 
     <!-- ================================================================================ -->

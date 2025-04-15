@@ -1699,6 +1699,7 @@
     <string name="theme_preview_post_reposted_text_bluepane">Esta es una publicación con hashtag. Ha sido reposteada. #BluePane</string>
     <string name="theme_preview_post_reposted_text_taipane">Esta es una publicación con hashtag. Ha sido retuitada. #TaiPane</string>
     <string name="theme_preview_post_my_post">Esta es mi publicación. Esta es una vista previa del diseño.\nAsí es como se mostrará realmente.</string>
+    <string name="theme_preview_post_others_post">Esta es una publicación de otra persona.</string>
 
 
     <!-- ================================================================================ -->
