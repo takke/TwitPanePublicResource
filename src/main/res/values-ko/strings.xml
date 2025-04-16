@@ -1099,6 +1099,7 @@
 	<string name="config_show_follow_count_on_timeline_summary">"타임라인에서 팔로우 및 팔로워 수를 보이기"</string>
     <string name="config_show_source_app">보기 소스</string>
     <string name="config_show_source_app_summary"></string>
+    <string name="config_show_source_app_summary_bluepane"></string>
     <string name="config_show_server_info">Show server info of notes</string>
     <string name="config_show_server_info_summary">[default:ON]</string>
     <string name="config_show_rt_on_top">Show RT on top</string>

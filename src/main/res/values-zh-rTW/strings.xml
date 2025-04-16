@@ -1101,6 +1101,7 @@
     <string name="config_show_follow_count_on_timeline_summary">在時間軸上顯示關注和關注者計數</string>
     <string name="config_show_source_app">顯示源應用程式</string>
     <string name="config_show_source_app_summary"></string>
+    <string name="config_show_source_app_summary_bluepane"></string>
     <string name="config_show_server_info">Show server info of notes</string>
     <string name="config_show_server_info_summary">[default:ON]</string>
     <string name="config_show_rt_on_top">Show RT on top</string>

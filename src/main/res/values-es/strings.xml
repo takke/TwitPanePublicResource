@@ -1098,6 +1098,7 @@
     <string name="config_show_follow_count_on_timeline_summary">"Mostrar el cómputo de a quién se sigue y seguidores en la cronología"</string>
     <string name="config_show_source_app">"Mostrar App de origen"</string>
     <string name="config_show_source_app_summary">"Muestra la app desde la que se envió el tweet"</string>
+    <string name="config_show_source_app_summary_bluepane">"Muestra la app desde la que se envió el tweet"</string>
     <string name="config_show_server_info">Show server info of notes</string>
     <string name="config_show_server_info_summary">[default:ON]</string>
     <string name="config_show_rt_on_top">Show RT on top</string>

@@ -1113,6 +1113,7 @@
     <string name="config_show_follow_count_on_timeline_summary">タイムラインにそのユーザーのフォロー・フォロワー数を表示する【初期値：OFF】</string>
     <string name="config_show_source_app">投稿元アプリを表示する</string>
     <string name="config_show_source_app_summary">投稿に利用したアプリ名を「○○から」のように表示します。Misskeyは非対応です【初期値：ON】</string>
+    <string name="config_show_source_app_summary_bluepane">投稿に利用したアプリ名を「○○から」のように表示します【初期値：ON】</string>
     <string name="config_show_server_info">投稿元サーバーを表示する</string>
     <string name="config_show_server_info_summary">Misskeyのノートで他サーバーの情報を表示します【初期値：ON】</string>
     <string name="config_show_rt_on_top">リツイートを先頭に表示</string>
