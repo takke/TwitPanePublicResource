@@ -1742,6 +1742,7 @@
     <string name="theme_preview_post_others_post">这是他人的帖子。</string>
     <string name="theme_preview_post_reply_to_me">"@takke 这是给我的回复。"</string>
     <string name="theme_preview_post_attach_image">附加图像后会是这样。</string>
+    <string name="theme_preview_post_attach_2_images">徽章和亚克力钥匙扣 #ZonePane</string>
 
     <!-- ================================================================================ -->
     <!-- 画像ビューア -->
