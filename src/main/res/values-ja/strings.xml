@@ -1741,7 +1741,7 @@
     <string name="theme_preview_post_others_post">他人の投稿です。</string>
     <string name="theme_preview_post_reply_to_me">"@takke 自分宛の返信です。"</string>
     <string name="theme_preview_post_attach_image">画像を添付するとこのようになります。</string>
-    <string name="theme_preview_post_attach_2_images">缶バッジとアクキー(センシティブフラグが付いてる例) #ZonePane</string>
+    <string name="theme_preview_post_attach_2_images">缶バッジとアクキー(センシティブフラグがONの例) #ZonePane</string>
 
     <!-- ================================================================================ -->
     <!-- 画像ビューア -->
