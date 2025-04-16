@@ -1032,6 +1032,7 @@
     <string name="config_line_spacing">줄 간격</string>
     <string name="config_initial_max_lines_of_body_text">Max lines of text</string>
     <string name="config_initial_max_lines_of_body_text_summary"></string>
+    <string name="config_initial_max_lines_of_body_text_summary_bluesky"></string>
     <string name="not_ellipsis">Not ellipsis</string>
     <string name="config_theme">"테마"</string>
     <string name="config_appearance">외모</string>
