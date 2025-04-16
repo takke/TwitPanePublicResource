@@ -1741,6 +1741,7 @@
     <string name="theme_preview_post_my_post">这是我的帖子。这是设计预览。\n实际显示效果如下。</string>
     <string name="theme_preview_post_others_post">这是他人的帖子。</string>
     <string name="theme_preview_post_reply_to_me">"@takke 这是给我的回复。"</string>
+    <string name="theme_preview_post_attach_image">附加图像后会是这样。</string>
 
     <!-- ================================================================================ -->
     <!-- 画像ビューア -->

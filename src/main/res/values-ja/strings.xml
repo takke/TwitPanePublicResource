@@ -1740,6 +1740,7 @@
     <string name="theme_preview_post_my_post">自分の投稿です。このデザインのプレビューです。\n実際の表示はこのようになります。</string>
     <string name="theme_preview_post_others_post">他人の投稿です。</string>
     <string name="theme_preview_post_reply_to_me">"@takke 自分宛の返信です。"</string>
+    <string name="theme_preview_post_attach_image">画像を添付するとこのようになります。</string>
 
     <!-- ================================================================================ -->
     <!-- 画像ビューア -->

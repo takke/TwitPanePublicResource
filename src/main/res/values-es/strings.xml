@@ -1701,6 +1701,7 @@
     <string name="theme_preview_post_my_post">Esta es mi publicación. Esta es una vista previa del diseño.\nAsí es como se mostrará realmente.</string>
     <string name="theme_preview_post_others_post">Esta es una publicación de otra persona.</string>
     <string name="theme_preview_post_reply_to_me">"@takke Esta es una respuesta dirigida a mí."</string>
+    <string name="theme_preview_post_attach_image">Así es como se ve cuando adjuntas una imagen.</string>
 
     <!-- ================================================================================ -->
     <!-- 画像ビューア -->
