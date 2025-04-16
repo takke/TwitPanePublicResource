@@ -1703,6 +1703,7 @@
     <string name="theme_preview_post_others_post">다른 사람의 게시물입니다.</string>
     <string name="theme_preview_post_reply_to_me">"@takke 나에게 보낸 답장입니다."</string>
     <string name="theme_preview_post_attach_image">이미지를 첨부하면 이런 모습이 됩니다.</string>
+    <string name="theme_preview_post_attach_2_images">캔 배지와 아크릴 키링 #ZonePane</string>
 
     <!-- ================================================================================ -->
     <!-- 画像ビューア -->

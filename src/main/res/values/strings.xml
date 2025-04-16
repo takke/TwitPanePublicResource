@@ -1776,6 +1776,7 @@
     <string name="theme_preview_post_others_post">This is a post from someone else.</string>
     <string name="theme_preview_post_reply_to_me">"@takke This is a reply to me."</string>
     <string name="theme_preview_post_attach_image">This is what it looks like when you attach an image.</string>
+    <string name="theme_preview_post_attach_2_images">Can badges and acrylic keychain #ZonePane</string>
 
     <!-- ================================================================================ -->
     <!-- 画像ビューア -->
