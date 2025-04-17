@@ -1413,8 +1413,8 @@
 
     <string name="config_subscription_settings_category">訂閲</string>
     <string name="config_manage_subscriptions">管理訂閲</string>
-    <string name="config_subscription_via_zonepane_s">(Bluesky)Set via as %1$s/S</string>
-    <string name="config_subscription_via_zonepane_s_summary">Change via to %1$s/S on submission if you are on a subscription[default:OFF]</string>
+    <string name="config_subscription_via_s_zonepane">(Bluesky)Set via as %1$s/S</string>
+    <string name="config_subscription_via_s_zonepane_summary">Change via to %1$s/S on submission if you are on a subscription[default:OFF]</string>
 
     <string name="config_userstream_settings_category">用户串流</string>
     <string name="config_userstream_auto_start">自動啓動</string>
