@@ -1436,6 +1436,7 @@
     <string name="config_subscription_settings_category">定期購入</string>
     <string name="config_manage_subscriptions">定期購入の管理</string>
     <string name="config_subscription_via_s_zonepane">(Bluesky)via を %1$s/S にする</string>
+    <string name="config_subscription_via_s_bluepane">via を %1$s/S にする</string>
     <string name="config_subscription_via_s_zonepane_summary">定期購入中の場合に、投稿時のviaを %1$s/S に変更します【初期値：OFF】</string>
 
     <string name="config_userstream_settings_category">UserStream設定</string>
