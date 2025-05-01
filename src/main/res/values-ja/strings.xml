@@ -2169,6 +2169,11 @@
     <string name="bsky_quote_blocked">ブロックされています</string>
     <string name="bsky_quote_detached">リンクが切れています</string>
 
+    <!-- Bluesky Verification Strings -->
+    <string name="verified_user_title">%s が認証されました</string>
+    <string name="verified_user_description">信頼できるソースによって検証されたため、このアカウントにはチェックマークが付いています。</string>
+    <string name="verified_by">認証者：</string>
+
     <!-- ================================================================================ -->
     <!-- Dialogs -->
     <!-- ================================================================================ -->

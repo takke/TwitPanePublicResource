@@ -2124,7 +2124,12 @@
     <string name="bsky_quote_muted">已静音</string>
     <string name="bsky_quote_post_deleted">引用的帖子已被删除</string>
     <string name="bsky_quote_blocked">已屏蔽</string>
-    <string name="bsky_quote_detached">已断开连接</string>
+    <string name="bsky_quote_detached">已分离</string>
+
+    <!-- Bluesky Verification Strings -->
+    <string name="verified_user_title">%s 已验证</string>
+    <string name="verified_user_description">此账号已被可信来源验证，因此带有复选标记。</string>
+    <string name="verified_by">验证方：</string>
 
     <!-- ================================================================================ -->
     <!-- Dialogs -->

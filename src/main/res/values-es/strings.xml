@@ -2084,7 +2084,12 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="bsky_quote_muted">Silenciado</string>
     <string name="bsky_quote_post_deleted">La publicación referenciada ha sido eliminada</string>
     <string name="bsky_quote_blocked">Bloqueado</string>
-    <string name="bsky_quote_detached">Desvinculado</string>
+    <string name="bsky_quote_detached">Desconectado</string>
+
+    <!-- Bluesky Verification Strings -->
+    <string name="verified_user_title">%s está verificado</string>
+    <string name="verified_user_description">Esta cuenta tiene una marca de verificación porque ha sido verificada por una fuente confiable.</string>
+    <string name="verified_by">Verificado por:</string>
 
     <!-- ================================================================================ -->
     <!-- Dialogs -->
