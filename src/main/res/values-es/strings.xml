@@ -530,7 +530,8 @@
 
     <string name="menu_show_all_rt">"Mostrar todos los Retweets"</string>
     <string name="menu_show_first_rt_only">"Sólo mostrar primera parte"</string>
-    <string name="menu_search_with_official_app">Search with Twitter App</string>
+    <string name="menu_search_with_official_app">Search with Official App</string>
+    <string name="menu_search_with_official_web">Buscar con Web Oficial</string>
 
     <string name="menu_show_user">"Mostrar usuario"</string>
     <string name="menu_search_user">"Buscar usuario"</string>

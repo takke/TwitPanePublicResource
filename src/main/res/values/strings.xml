@@ -534,6 +534,7 @@
     <string name="menu_show_all_rt">"Show All RT"</string>
     <string name="menu_show_first_rt_only">"Show First RT Only"</string>
     <string name="menu_search_with_official_app">Search with Twitter App</string>
+    <string name="menu_search_with_official_web">Search with Official Web</string>
 
     <string name="menu_show_user">Show User</string>
     <string name="menu_search_user">Search User</string>

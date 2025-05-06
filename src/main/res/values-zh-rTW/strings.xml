@@ -532,9 +532,10 @@
 
     <string name="menu_show_all_rt">顯示所有轉推</string>
     <string name="menu_show_first_rt_only">只顯示第一條轉推</string>
-    <string name="menu_search_with_official_app">使用Twitter官員應用程式搜尋</string>
+    <string name="menu_search_with_official_app">使用Twitter官方應用程式搜尋</string>
+    <string name="menu_search_with_official_web">使用官方網頁搜尋</string>
 
-    <string name="menu_show_user">顯示使用者</string>
+    <string name="menu_show_user">顯示用戶</string>
     <string name="menu_search_user">搜尋使用者</string>
     <string name="label_users">使用者</string>
     <string name="menu_show_block_users">顯示已阻止的使用者</string>

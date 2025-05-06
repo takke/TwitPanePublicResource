@@ -539,6 +539,7 @@
     <string name="menu_show_all_rt">全てのRTを表示する</string>
     <string name="menu_show_first_rt_only">最初のRTのみ表示する</string>
     <string name="menu_search_with_official_app">公式アプリで検索</string>
+    <string name="menu_search_with_official_web">公式Webで検索</string>
 
     <string name="menu_show_user">ユーザーを直接表示</string>
     <string name="menu_search_user">ユーザー検索</string>

@@ -530,6 +530,7 @@
     <string name="menu_show_all_rt">"모든 리트 윗보기"</string>
     <string name="menu_show_first_rt_only">"쇼 첫 번째 부분 만"</string>
     <string name="menu_search_with_official_app">Search with Twitter App</string>
+    <string name="menu_search_with_official_web">공식 웹사이트로 검색</string>
 
     <string name="menu_show_user">"유저 보기"</string>
     <string name="menu_search_user">"유저 검색"</string>
