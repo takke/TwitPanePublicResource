@@ -833,7 +833,7 @@
     <string name="image_menu_preview">預覽</string>
     <string name="image_menu_save">保存</string>
     <string name="image_menu_rotate">旋轉90度</string>
-    <string name="image_menu_edit">編輯</string>
+    <string name="image_menu_edit_with_external_app">編輯</string>
 
     <string name="hashtag_menu_search">搜索</string>
     <string name="url_search">搜索URL</string>
