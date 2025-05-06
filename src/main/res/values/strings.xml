@@ -835,6 +835,8 @@
     <string name="media_menu_preview">Preview</string>
     <string name="image_menu_preview">Preview</string>
     <string name="image_menu_save">Save</string>
+    <string name="image_menu_rotate">Rotate 90 degrees</string>
+    <string name="image_menu_edit">Edit</string>
 
     <string name="hashtag_menu_search">Search</string>
     <string name="url_search">Search URL</string>

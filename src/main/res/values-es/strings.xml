@@ -831,6 +831,8 @@
     <string name="media_menu_preview">"Vista previa"</string>
     <string name="image_menu_preview">"Vista previa"</string>
     <string name="image_menu_save">"Guardar"</string>
+    <string name="image_menu_rotate">"Girar 90 grados"</string>
+    <string name="image_menu_edit">"Editar"</string>
 
     <string name="hashtag_menu_search">Buscar</string>
     <string name="url_search">Buscar URL</string>

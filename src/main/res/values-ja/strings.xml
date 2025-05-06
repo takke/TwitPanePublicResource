@@ -840,7 +840,9 @@
     <string name="media_menu_preview">プレビュー</string>
     <string name="image_menu_preview">画像のプレビュー</string>
     <string name="image_menu_save">保存する</string>
-    
+    <string name="image_menu_rotate">90度回転</string>
+    <string name="image_menu_edit">編集</string>
+
     <string name="hashtag_menu_search">検索する</string>
     <string name="url_search">URLを検索する</string>
     <string name="hashtag_menu_tweet_tw">ツイートする</string>
