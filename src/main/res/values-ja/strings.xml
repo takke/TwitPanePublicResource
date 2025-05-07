@@ -871,7 +871,7 @@
     <string name="sensitive_label">コンテンツの警告</string>
     <string name="sensitive_label_sexual">きわどい</string>
     <string name="sensitive_label_nudity">ヌード</string>
-    <string name="sensitive_label_porn">ポルノ</string>
+    <string name="sensitive_label_porn">成人向けコンテンツ</string>
     <string name="sensitive_label_nothing">コンテンツの警告なし(一般向け)</string>
     <string name="visibility">公開範囲</string>
     <string name="visibility_public">公開：公開タイムラインに投稿する</string>
