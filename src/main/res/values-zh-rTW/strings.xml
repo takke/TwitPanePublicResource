@@ -2127,6 +2127,10 @@
     <string name="bsky_quote_blocked">已封鎖</string>
     <string name="bsky_quote_detached">已分離</string>
 
+    <!-- Bluesky Skyblur Strings -->
+    <string name="bsky_skyblur_show_text">顯示被Skyblur隱藏的文字</string>
+    <string name="bsky_skyblur_hide_text">隱藏被Skyblur隱藏的文字</string>
+
     <!-- Bluesky Verification Strings -->
     <string name="verified_user_title">%s 已驗證</string>
     <string name="verified_user_description">此帳戶已被可信來源驗證，因此帶有核取標記。</string>

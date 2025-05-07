@@ -2089,6 +2089,10 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="bsky_quote_blocked">Bloqueado</string>
     <string name="bsky_quote_detached">Desconectado</string>
 
+    <!-- Bluesky Skyblur Strings -->
+    <string name="bsky_skyblur_show_text">Mostrar texto oculto por Skyblur</string>
+    <string name="bsky_skyblur_hide_text">Ocultar texto oculto por Skyblur</string>
+
     <!-- Bluesky Verification Strings -->
     <string name="verified_user_title">%s está verificado</string>
     <string name="verified_user_description">Esta cuenta tiene una marca de verificación porque ha sido verificada por una fuente confiable.</string>

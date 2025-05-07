@@ -2172,6 +2172,10 @@
     <string name="bsky_quote_blocked">ブロックされています</string>
     <string name="bsky_quote_detached">リンクが切れています</string>
 
+    <!-- Bluesky Skyblur Strings -->
+    <string name="bsky_skyblur_show_text">Skyblurで伏せられたテキストを表示</string>
+    <string name="bsky_skyblur_hide_text">Skyblurで伏せられたテキストを非表示</string>
+
     <!-- Bluesky Verification Strings -->
     <string name="verified_user_title">%s が認証されました</string>
     <string name="verified_user_description">信頼できるソースによって検証されたため、このアカウントにはチェックマークが付いています。</string>

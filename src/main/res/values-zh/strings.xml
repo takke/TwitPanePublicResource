@@ -2129,6 +2129,10 @@
     <string name="bsky_quote_blocked">已屏蔽</string>
     <string name="bsky_quote_detached">已分离</string>
 
+    <!-- Bluesky Skyblur Strings -->
+    <string name="bsky_skyblur_show_text">显示被Skyblur隐藏的文本</string>
+    <string name="bsky_skyblur_hide_text">隐藏被Skyblur隐藏的文本</string>
+
     <!-- Bluesky Verification Strings -->
     <string name="verified_user_title">%s 已验证</string>
     <string name="verified_user_description">此账号已被可信来源验证，因此带有复选标记。</string>
