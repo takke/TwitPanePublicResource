@@ -1691,6 +1691,7 @@
     <string name="theme_name_more_button">"더보기 버튼"</string>
     <string name="theme_tab">"탭"</string>
     <string name="theme_actionbar">제목 표시 줄</string>
+    <string name="app_title_bar">제목 표시 줄</string>
     <string name="theme_statusbar">상태 표시 줄</string>
     <string name="theme_preview">"미리보기"</string>
     <string name="preview_with_multiple_accounts">여러 계정으로 미리보기</string>

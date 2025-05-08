@@ -1729,6 +1729,7 @@
     <string name="theme_name_more_button">「もっと見る」ボタン(省略)</string>
     <string name="theme_tab">タブ</string>
     <string name="theme_actionbar">タイトルバー</string>
+    <string name="app_title_bar">アプリタイトルバー</string>
     <string name="theme_statusbar">ステータスバー</string>
     <string name="theme_preview">プレビュー</string>
     <string name="preview_with_multiple_accounts">複数アカウントのプレビュー</string>

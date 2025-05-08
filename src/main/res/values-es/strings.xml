@@ -1690,6 +1690,7 @@
     <string name="theme_name_more_button">"Botón Más"</string>
     <string name="theme_tab">"Pestaña."</string>
     <string name="theme_actionbar">barra de título</string>
+    <string name="app_title_bar">barra de título</string>
     <string name="theme_statusbar">Barra de estado</string>
     <string name="theme_preview">"Vista previa"</string>
     <string name="preview_with_multiple_accounts">Vista previa con múltiples cuentas</string>

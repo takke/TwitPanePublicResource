@@ -1728,6 +1728,7 @@
     <string name="theme_name_more_button">更多按鈕</string>
     <string name="theme_tab">標籤</string>
     <string name="theme_actionbar">標題欄</string>
+    <string name="app_title_bar">標題欄</string>
     <string name="theme_statusbar">狀態列</string>
     <string name="theme_preview">預覽</string>
     <string name="preview_with_multiple_accounts">多個帳戶的預覽</string>
