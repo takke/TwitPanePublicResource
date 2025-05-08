@@ -1078,6 +1078,8 @@
     <string name="config_enable_x_mode_summary">Make the UI X-like.Tweets will now be labeled as posts and retweets (RT) will be labeled as reposts (RP).[default:ON]</string>
     <string name="config_account_on_title">Title account(1)</string>
     <string name="config_account_on_title_summary">Show account screen name (@name) on title</string>
+    <string name="config_account_icon_on_title">Title account icon</string>
+    <string name="config_account_icon_on_title_summary">Show account icon on title</string>
     <string name="config_account_name_on_title">Title account(2)</string>
     <string name="config_account_name_on_title_summary">Show account name on title</string>
     <string name="config_unread_count_on_right_of_title">Unread Count on Right</string>

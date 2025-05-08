@@ -1085,9 +1085,11 @@
     <string name="config_hide_tab_bar_on_landscape">横画面でタブ非表示</string>
     <string name="config_enable_x_mode">Xモード</string>
     <string name="config_enable_x_mode_summary">UIをX風にするモードです。ツイートはポスト、リツイート(RT)はリポスト(RP)と表記するようになります。オフの場合はTwitterモードです。</string>
-    <string name="config_account_on_title">タイトルのアカウント</string>
+    <string name="config_account_on_title">アカウント名表示</string>
     <string name="config_account_on_title_summary">アプリタイトルにアカウント名(@name)を表示します【初期値：ON】</string>
-    <string name="config_account_name_on_title">タイトルの名前表示</string>
+    <string name="config_account_icon_on_title">アカウントアイコン表示</string>
+    <string name="config_account_icon_on_title_summary">アプリタイトルの右端にアカウントアイコンを表示します【初期値：ON】</string>
+    <string name="config_account_name_on_title">名前表示</string>
     <string name="config_account_name_on_title_summary">アプリタイトルにアカウント名(名前)を表示します【初期値：OFF】</string>
     <string name="config_unread_count_on_right_of_title">未読件数を右に表示</string>
     <string name="config_unread_count_on_right_of_title_summary">アプリタイトルの右側に未読件数を表示します。OFFの場合はアプリ名・アカウント名の後に表示します【初期値：OFF】</string>
