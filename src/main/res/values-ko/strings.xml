@@ -1075,6 +1075,8 @@
     <string name="config_account_on_title_summary">"제목에 계정 화면 이름 (@ 이름) 보이기"</string>
     <string name="config_account_name_on_title">"제목 계정 (2)"</string>
     <string name="config_account_name_on_title_summary">"제목에 계정이름을 표시"</string>
+    <string name="config_account_icon_on_title">제목 계정 아이콘</string>
+    <string name="config_account_icon_on_title_summary">제목에 계정 아이콘 표시 [기본값: 켜짐]</string>
     <string name="config_unread_count_on_right_of_title">오른쪽에 읽지 않은 카운트</string>
     <string name="config_unread_count_on_right_of_title_summary">제목 오른쪽에 읽지 않은 수를 표시</string>
     <string name="config_auto_hide_toolbar">제목 표시줄 자동 숨김</string>

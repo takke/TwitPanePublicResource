@@ -1074,6 +1074,8 @@
     <string name="config_account_on_title_summary">"Mostrar nombre (@nombre) en el título"</string>
     <string name="config_account_name_on_title">"Cuenta en el título(2)"</string>
     <string name="config_account_name_on_title_summary">"Mostrar el nombre de cuenta en el título"</string>
+    <string name="config_account_icon_on_title">Icono de cuenta en el título</string>
+    <string name="config_account_icon_on_title_summary">Mostrar icono de cuenta en el título [predeterminado:activado]</string>
     <string name="config_unread_count_on_right_of_title">Contador no leído en Derecho</string>
     <string name="config_unread_count_on_right_of_title_summary">Mostrar recuento no leído en la derecha del título</string>
     <string name="config_auto_hide_toolbar">Ocultar automáticamente Título-bar</string>
