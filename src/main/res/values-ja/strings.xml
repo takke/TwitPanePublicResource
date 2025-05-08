@@ -1729,6 +1729,7 @@
     <string name="theme_actionbar">タイトルバー</string>
     <string name="theme_statusbar">ステータスバー</string>
     <string name="theme_preview">プレビュー</string>
+    <string name="preview_with_multiple_accounts">複数アカウントの場合</string>
     <string name="theme_timeline">タイムライン</string>
     <string name="theme_default">初期値</string>
     <string name="dark_theme_same_as_light_theme">Lightテーマと同じ</string>

@@ -1764,6 +1764,7 @@
     <string name="theme_actionbar">TitleBar</string>
     <string name="theme_statusbar">StatusBar</string>
     <string name="theme_preview">Preview</string>
+    <string name="preview_with_multiple_accounts">Multi Accounts</string>
     <string name="theme_timeline">Timeline</string>
     <string name="theme_default">default</string>
     <string name="dark_theme_same_as_light_theme">Same as light theme</string>

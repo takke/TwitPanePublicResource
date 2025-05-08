@@ -1730,6 +1730,7 @@
     <string name="theme_actionbar">标题栏</string>
     <string name="theme_statusbar">状态栏</string>
     <string name="theme_preview">预览</string>
+    <string name="preview_with_multiple_accounts">Multi Accounts</string>
     <string name="theme_timeline">时间轴</string>
     <string name="theme_default">默认</string>
     <string name="dark_theme_same_as_light_theme">与浅色主题相同</string>
