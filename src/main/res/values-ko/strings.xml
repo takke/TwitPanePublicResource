@@ -1691,7 +1691,7 @@
     <string name="theme_actionbar">제목 표시 줄</string>
     <string name="theme_statusbar">상태 표시 줄</string>
     <string name="theme_preview">"미리보기"</string>
-    <string name="preview_with_multiple_accounts">Multi Accounts</string>
+    <string name="preview_with_multiple_accounts">여러 계정으로 미리보기</string>
     <string name="theme_timeline">"타임라인"</string>
     <string name="theme_default">"기본값"</string>
     <string name="dark_theme_same_as_light_theme">빛 테마와 동일</string>

@@ -1728,7 +1728,7 @@
     <string name="theme_actionbar">標題欄</string>
     <string name="theme_statusbar">狀態列</string>
     <string name="theme_preview">預覽</string>
-    <string name="preview_with_multiple_accounts">Multi Accounts</string>
+    <string name="preview_with_multiple_accounts">多個帳戶的預覽</string>
     <string name="theme_timeline">時間軸</string>
     <string name="theme_default">預設</string>
     <string name="dark_theme_same_as_light_theme">與淺色主題相同</string>
