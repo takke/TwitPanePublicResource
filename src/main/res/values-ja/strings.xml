@@ -1088,7 +1088,7 @@
     <string name="config_account_on_title">アカウント名表示</string>
     <string name="config_account_on_title_summary">アプリタイトルにアカウント名(@name)を表示します【初期値：ON】</string>
     <string name="config_account_icon_on_title">アカウントアイコン表示</string>
-    <string name="config_account_icon_on_title_summary">アプリタイトルの右端にアカウントアイコンを表示します【初期値：ON】</string>
+    <string name="config_account_icon_on_title_summary">アプリタイトルの左端にアカウントアイコンを表示します【初期値：ON】</string>
     <string name="config_account_name_on_title">名前表示</string>
     <string name="config_account_name_on_title_summary">アプリタイトルにアカウント名(名前)を表示します【初期値：OFF】</string>
     <string name="config_unread_count_on_right_of_title">未読件数を右に表示</string>
