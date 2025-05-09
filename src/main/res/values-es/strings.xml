@@ -1259,6 +1259,7 @@
     <string name="hide_reposts_show">show</string>
     <string name="config_auto_pager">"Autopaginación"</string>
     <string name="config_auto_pager_summary">"Pasa a la página siguiente cuando la posición de desplazamiento esté en la parte inferior de la lista"</string>
+    <string name="config_scroll_pos_after_acquired_gap_ついぺん">Scroll Position After Loading Gap Tweets</string>
     <string name="config_scroll_pos_after_acquired_gap_ぞーぺん">Posición de desplazamiento después de cargar publicaciones intermedias</string>
     <string name="config_scroll_pos_after_acquired_gap_たいぺん">Posición de desplazamiento después de cargar Taiitsu intermedios</string>
     <string name="config_scroll_pos_after_acquired_gap_summary_ついぺん">Establecer dónde desplazarse después de cargar tweets intermedios</string>
