@@ -1077,6 +1077,8 @@
     <string name="config_account_on_title_summary">在標題上顯示帳戶的網名（@name）</string>
     <string name="config_account_name_on_title">標題賬戶（2）</string>
     <string name="config_account_name_on_title_summary">在標題上顯示賬戶名稱</string>
+    <string name="config_title_display_style">Title Display Style</string>
+    <string name="config_title_display_style_summary">Select from 8 display patterns for account information on title</string>
     <string name="config_account_icon_on_title">標題賬戶圖示</string>
     <string name="config_account_icon_on_title_summary">在標題上顯示賬戶圖示 [預設:開]</string>
     <string name="config_unread_count_on_right_of_title">右側顯示未讀郵件數</string>
