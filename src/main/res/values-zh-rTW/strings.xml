@@ -1079,6 +1079,14 @@
     <string name="config_account_name_on_title_summary">在標題上顯示賬戶名稱</string>
     <string name="config_title_display_style">標題顯示樣式</string>
     <string name="config_title_display_style_summary">從8種顯示模式中選擇標題上的帳戶資訊顯示方式</string>
+    <string name="config_title_display_style_icon_account_name">圖標 + @帳戶 + 名稱</string>
+    <string name="config_title_display_style_icon_account">圖標 + @帳戶</string>
+    <string name="config_title_display_style_icon_name">圖標 + 名稱</string>
+    <string name="config_title_display_style_icon_only">僅圖標</string>
+    <string name="config_title_display_style_account_name">"@帳戶 + 名稱"</string>
+    <string name="config_title_display_style_account_only">僅@帳戶</string>
+    <string name="config_title_display_style_name_only">僅名稱</string>
+    <string name="config_title_display_style_none">全部隱藏</string>
     <string name="config_account_icon_on_title">標題賬戶圖示</string>
     <string name="config_account_icon_on_title_summary">在標題上顯示賬戶圖示 [預設:開]</string>
     <string name="config_unread_count_on_right_of_title">右側顯示未讀郵件數</string>

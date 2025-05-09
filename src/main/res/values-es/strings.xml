@@ -1076,6 +1076,14 @@
     <string name="config_account_name_on_title_summary">"Mostrar el nombre de cuenta en el título"</string>
     <string name="config_title_display_style">Estilo de visualización del título</string>
     <string name="config_title_display_style_summary">Selecciona entre 8 patrones de visualización para la información de la cuenta en el título</string>
+    <string name="config_title_display_style_icon_account_name">Icono + @cuenta + nombre</string>
+    <string name="config_title_display_style_icon_account">Icono + @cuenta</string>
+    <string name="config_title_display_style_icon_name">Icono + nombre</string>
+    <string name="config_title_display_style_icon_only">Solo icono</string>
+    <string name="config_title_display_style_account_name">"@cuenta + nombre"</string>
+    <string name="config_title_display_style_account_only">Solo @cuenta</string>
+    <string name="config_title_display_style_name_only">Solo nombre</string>
+    <string name="config_title_display_style_none">Ocultar todo</string>
     <string name="config_account_icon_on_title">Icono de cuenta en el título</string>
     <string name="config_account_icon_on_title_summary">Mostrar icono de cuenta en el título [predeterminado:activado]</string>
     <string name="config_unread_count_on_right_of_title">Contador no leído en Derecho</string>
