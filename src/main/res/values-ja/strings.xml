@@ -1093,6 +1093,14 @@
     <string name="config_account_name_on_title_summary">アプリタイトルにアカウント名(名前)を表示します【初期値：OFF】</string>
     <string name="config_title_display_style">アプリタイトルバーのスタイル</string>
     <string name="config_title_display_style_summary">タイトルバーのスタイルを8種類の表示パターンから選択してください</string>
+    <string name="config_title_display_style_icon_account_name">アイコン + @アカウント名 + 名前</string>
+    <string name="config_title_display_style_icon_account">アイコン + @アカウント名</string>
+    <string name="config_title_display_style_icon_name">アイコン + 名前</string>
+    <string name="config_title_display_style_icon_only">アイコンのみ</string>
+    <string name="config_title_display_style_account_name">"@アカウント名 + 名前"</string>
+    <string name="config_title_display_style_account_only">"@アカウント名のみ"</string>
+    <string name="config_title_display_style_name_only">名前のみ</string>
+    <string name="config_title_display_style_none">すべて非表示</string>
     <string name="config_unread_count_on_right_of_title">未読件数を右に表示</string>
     <string name="config_unread_count_on_right_of_title_summary">アプリタイトルの右側に未読件数を表示します。OFFの場合はアプリ名・アカウント名の後に表示します【初期値：OFF】</string>
     <string name="config_auto_hide_toolbar">タイトルバーの自動開閉</string>

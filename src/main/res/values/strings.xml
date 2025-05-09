@@ -1084,6 +1084,14 @@
     <string name="config_account_name_on_title_summary">Show account name on title</string>
     <string name="config_title_display_style">Title Display Style</string>
     <string name="config_title_display_style_summary">Select from 8 display patterns for account information on title</string>
+    <string name="config_title_display_style_icon_account_name">Icon + @account + name</string>
+    <string name="config_title_display_style_icon_account">Icon + @account</string>
+    <string name="config_title_display_style_icon_name">Icon + name</string>
+    <string name="config_title_display_style_icon_only">Icon only</string>
+    <string name="config_title_display_style_account_name">"@account + name"</string>
+    <string name="config_title_display_style_account_only">"@account only"</string>
+    <string name="config_title_display_style_name_only">Name only</string>
+    <string name="config_title_display_style_none">Hide all</string>
     <string name="config_unread_count_on_right_of_title">Unread Count on Right</string>
     <string name="config_unread_count_on_right_of_title_summary">Show unread count on the right of title</string>
     <string name="config_auto_hide_toolbar">Auto hide toolbar</string>
