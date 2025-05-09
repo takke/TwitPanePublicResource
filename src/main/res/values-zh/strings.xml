@@ -1074,8 +1074,8 @@
     <string name="config_account_on_title_summary">在标题上显示帐户的网名（@name）</string>
     <string name="config_account_name_on_title">标题账户（2）</string>
     <string name="config_account_name_on_title_summary">在标题上显示账户名称</string>
-    <string name="config_title_display_style">Title Display Style</string>
-    <string name="config_title_display_style_summary">Select from 8 display patterns for account information on title</string>
+    <string name="config_title_display_style">标题显示样式</string>
+    <string name="config_title_display_style_summary">从8种显示模式中选择标题上的账户信息显示方式</string>
     <string name="config_account_icon_on_title">标题账户图标</string>
     <string name="config_account_icon_on_title_summary">在标题上显示账户图标 [默认:开]</string>
     <string name="config_unread_count_on_right_of_title">右侧显示未读邮件数</string>
