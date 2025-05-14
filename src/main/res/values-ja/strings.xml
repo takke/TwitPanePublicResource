@@ -892,6 +892,7 @@
     <string name="edit_file_attached_toot_warning">添付ファイル付きの投稿を編集すると、添付ファイルが劣化する可能性があります。</string>
     <string name="cant_edit_toot_with_polls">アンケートがある投稿の編集は未対応です</string>
     <string name="publish_body_label">いまどうしてる？</string>
+    <string name="multi_publish_placeholder">いまどうしてる？</string>
     <string name="publish_submit_button">ツイート</string>
     <string name="toot_button">投稿</string>
     <string name="publish_send_button">送信</string>
