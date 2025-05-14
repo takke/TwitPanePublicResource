@@ -863,6 +863,7 @@
     <string name="publish_activity_title">ツイート</string>
     <string name="bluesky_post">投稿</string>
     <string name="multi_publish">一括投稿</string>
+    <string name="multi_publish_select_account">投稿先のアカウントを選択してください</string>
     <string name="mastodon_publish_activity_title">投稿</string>
     <string name="mastodon_publish_activity_title_edit">編集</string>
     <string name="misskey_publish_activity_title">ノート</string>
