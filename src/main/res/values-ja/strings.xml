@@ -862,6 +862,7 @@
     <!-- ================================================================================ -->
     <string name="publish_activity_title">ツイート</string>
     <string name="bluesky_post">投稿</string>
+    <string name="multi_publish">Multi Post</string>
     <string name="mastodon_publish_activity_title">投稿</string>
     <string name="mastodon_publish_activity_title_edit">編集</string>
     <string name="misskey_publish_activity_title">ノート</string>
