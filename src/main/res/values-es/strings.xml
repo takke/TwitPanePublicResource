@@ -114,6 +114,7 @@
     <string name="label_mastodon_search_query_guide_account_url">"https://fedibird.com/@takke Búsqueda de cuenta"</string>
     <string name="label_mastodon_search_query_guide_status_url">"https://fedibird.com/@takke/110886555530031419 Búsqueda de publicación"</string>
     <string name="label_mastodon_search_query_guide_from">"from:takke@fedibird.com Mostrar publicaciones de un usuario específico"</string>
+    <string name="label_mastodon_search_query_guide_from_me">"from:me Show posts from yourself (Fedibird only)"</string>
     <string name="label_mastodon_search_query_guide_to">"to:takke@fedibird.com Mostrar publicaciones que mencionan a un usuario específico"</string>
     <string name="label_mastodon_search_query_guide_domain">"domain:mastodon.social Búsqueda de dominio (solo Fedibird)"</string>
     <string name="label_mastodon_search_query_guide_has_image">"has:image Mostrar solo publicaciones con imágenes"</string>
