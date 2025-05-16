@@ -114,7 +114,7 @@
     <string name="label_mastodon_search_query_guide_account_url">"https://fedibird.com/@takke 帳號搜尋"</string>
     <string name="label_mastodon_search_query_guide_status_url">"https://fedibird.com/@takke/110886555530031419 貼文搜尋"</string>
     <string name="label_mastodon_search_query_guide_from">"from:takke@fedibird.com 顯示特定用戶的貼文"</string>
-    <string name="label_mastodon_search_query_guide_from_me">"from:me Show posts from yourself (Fedibird only)"</string>
+    <string name="label_mastodon_search_query_guide_from_me">"from:me 顯示自己的貼文 (僅Fedibird)"</string>
     <string name="label_mastodon_search_query_guide_to">"to:takke@fedibird.com 顯示提及特定用戶的貼文"</string>
     <string name="label_mastodon_search_query_guide_domain">"domain:mastodon.social 域名搜尋（僅限Fedibird）"</string>
     <string name="label_mastodon_search_query_guide_has_image">"has:image 僅顯示帶圖片的貼文"</string>
