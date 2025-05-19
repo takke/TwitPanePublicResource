@@ -887,6 +887,7 @@
     <string name="visibility_mky_home">ホーム：ホームタイムラインのみに公開</string>
     <string name="visibility_mky_followers">フォロワー：フォロワーのみに公開</string>
     <string name="visibility_mky_specified">ダイレクト：指定したユーザーのみに公開</string>
+    <string name="not_local_only_federated">連合あり</string>
     <string name="local_only">連合なし</string>
     <string name="set_local_only_message">連合なしにしますか？\n連合なしにしても投稿は非公開になりません。ほとんどの場合、連合なしにする必要はありません。</string>
     <string name="set_local_only">連合なしにする</string>

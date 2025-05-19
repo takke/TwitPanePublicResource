@@ -880,6 +880,7 @@
     <string name="visibility_mky_home">Home</string>
     <string name="visibility_mky_followers">Follower</string>
     <string name="visibility_mky_specified">Direct</string>
+    <string name="not_local_only_federated">Federated</string>
     <string name="local_only">Local Only</string>
     <string name="set_local_only_message">Do you want local only?\nIf you choose local only, your posts will not be private. In most cases, you do not need to go "local only".</string>
     <string name="set_local_only">set local only</string>
