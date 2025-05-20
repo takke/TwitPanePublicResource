@@ -863,8 +863,8 @@
     <!-- ================================================================================ -->
     <string name="publish_activity_title">ツイート</string>
     <string name="bluesky_post">投稿</string>
-    <string name="multi_publish">一括投稿</string>
-    <string name="multi_publish_select_account">投稿先のアカウントを選択してください</string>
+    <string name="cross_post">クロスポスト</string>
+    <string name="cross_post_select_account">投稿先のアカウントを選択してください</string>
     <string name="mastodon_publish_activity_title">投稿</string>
     <string name="mastodon_publish_activity_title_edit">編集</string>
     <string name="misskey_publish_activity_title">ノート</string>
@@ -895,7 +895,7 @@
     <string name="edit_file_attached_toot_warning">添付ファイル付きの投稿を編集すると、添付ファイルが劣化する可能性があります。</string>
     <string name="cant_edit_toot_with_polls">アンケートがある投稿の編集は未対応です</string>
     <string name="publish_body_label">いまどうしてる？</string>
-    <string name="multi_publish_placeholder">いまどうしてる？</string>
+    <string name="cross_post_placeholder">いまどうしてる？</string>
     <string name="publish_submit_button">ツイート</string>
     <string name="toot_button">投稿</string>
     <string name="publish_send_button">送信</string>

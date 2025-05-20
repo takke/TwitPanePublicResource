@@ -854,8 +854,8 @@
     <!-- ================================================================================ -->
     <string name="publish_activity_title">"Tweet"</string>
     <string name="bluesky_post">Post</string>
-    <string name="multi_publish">Multi Post</string>
-    <string name="multi_publish_select_account">Seleccionar cuentas para publicar</string>
+    <string name="cross_post">Cross Post</string>
+    <string name="cross_post_select_account">Seleccionar cuentas para publicar</string>
     <string name="mastodon_publish_activity_title">Post</string>
     <string name="mastodon_publish_activity_title_edit">Edit</string>
     <string name="misskey_publish_activity_title">Note</string>
@@ -886,7 +886,7 @@
     <string name="edit_file_attached_toot_warning">Editing posts with attachments may possibly degrade attachments.</string>
     <string name="cant_edit_toot_with_polls">Not supported to edit posts with polls.</string>
     <string name="publish_body_label">"¿Cuál es tu idea?"</string>
-    <string name="multi_publish_placeholder">"¿Cuál es tu idea?"</string>
+    <string name="cross_post_placeholder">"¿Cuál es tu idea?"</string>
     <string name="publish_submit_button">"Tweet"</string>
     <string name="toot_button">Toot</string>
     <string name="publish_send_button">"Enviar"</string>

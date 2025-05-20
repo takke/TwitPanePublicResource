@@ -853,8 +853,8 @@
     <!-- ================================================================================ -->
     <string name="publish_activity_title">推文</string>
     <string name="bluesky_post">Post</string>
-    <string name="multi_publish">Multi Post</string>
-    <string name="multi_publish_select_account">选择要发布的账号</string>
+    <string name="cross_post">Cross Post</string>
+    <string name="cross_post_select_account">选择要发布的账号</string>
     <string name="mastodon_publish_activity_title">Post</string>
     <string name="mastodon_publish_activity_title_edit">Edit</string>
     <string name="misskey_publish_activity_title">Note</string>
@@ -885,7 +885,7 @@
     <string name="edit_file_attached_toot_warning">Editing posts with attachments may possibly degrade attachments.</string>
     <string name="cant_edit_toot_with_polls">Not supported to edit posts with polls.</string>
     <string name="publish_body_label">你在想什么？</string>
-    <string name="multi_publish_placeholder">你在想什么？</string>
+    <string name="cross_post_placeholder">你在想什么？</string>
     <string name="publish_submit_button">推文</string>
     <string name="toot_button">Toot</string>
     <string name="publish_send_button">发送</string>
