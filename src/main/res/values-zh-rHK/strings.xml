@@ -888,6 +888,8 @@
     <string name="cant_edit_toot_with_polls">Not supported to edit posts with polls.</string>
     <string name="publish_body_label">你在想什麼？</string>
     <string name="cross_post_placeholder">你在想什麼？</string>
+    <string name="publish_exit_confirm_title">放棄更改</string>
+    <string name="publish_exit_confirm_message">是否要退出編輯？</string>
     <string name="publish_submit_button">推文</string>
     <string name="toot_button">Toot</string>
     <string name="publish_send_button">發送</string>

@@ -887,6 +887,8 @@
     <string name="cant_edit_toot_with_polls">Not supported to edit posts with polls.</string>
     <string name="publish_body_label">"¿Cuál es tu idea?"</string>
     <string name="cross_post_placeholder">"¿Cuál es tu idea?"</string>
+    <string name="publish_exit_confirm_title">Descartar cambios</string>
+    <string name="publish_exit_confirm_message">¿Desea salir de la edición?</string>
     <string name="publish_submit_button">"Tweet"</string>
     <string name="toot_button">Toot</string>
     <string name="publish_send_button">"Enviar"</string>
