@@ -887,6 +887,7 @@
     <string name="cant_edit_toot_with_polls">Not supported to edit posts with polls.</string>
     <string name="publish_body_label">"무슨 생각을 하고 계십니까?"</string>
     <string name="cross_post_placeholder">"무슨 생각을 하고 계십니까?"</string>
+    <string name="cross_post_option">Post Option</string>
     <string name="publish_exit_confirm_title">변경 사항 삭제</string>
     <string name="publish_exit_confirm_message">편집을 종료하시겠습니까?</string>
     <string name="publish_submit_button">"트윗"</string>
