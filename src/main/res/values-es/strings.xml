@@ -888,6 +888,7 @@
     <string name="publish_body_label">"¿Cuál es tu idea?"</string>
     <string name="cross_post_placeholder">"¿Cuál es tu idea?"</string>
     <string name="cross_post_option">Post Option</string>
+    <string name="cross_post_start">Post Start</string>
     <string name="publish_exit_confirm_title">Descartar cambios</string>
     <string name="publish_exit_confirm_message">¿Desea salir de la edición?</string>
     <string name="publish_submit_button">"Tweet"</string>
