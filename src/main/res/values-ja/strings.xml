@@ -896,6 +896,8 @@
     <string name="cant_edit_toot_with_polls">アンケートがある投稿の編集は未対応です</string>
     <string name="publish_body_label">いまどうしてる？</string>
     <string name="cross_post_placeholder">いまどうしてる？</string>
+    <string name="publish_exit_confirm_title">編集中の内容は破棄されます</string>
+    <string name="publish_exit_confirm_message">編集を終了しますか？</string>
     <string name="publish_submit_button">ツイート</string>
     <string name="toot_button">投稿</string>
     <string name="publish_send_button">送信</string>
