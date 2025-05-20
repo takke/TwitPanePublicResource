@@ -2208,5 +2208,6 @@
     <string name="dialog_delete">削除</string>
     <string name="dialog_cancel">キャンセル</string>
     <string name="dialog_close">閉じる</string>
-    
+    <string name="dialog_done">完了</string>
+
 </resources>

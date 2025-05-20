@@ -2126,6 +2126,6 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="dialog_delete">Delete</string>
     <string name="dialog_cancel">Cancel</string>
     <string name="dialog_close">Close</string>
-
+    <string name="dialog_done">Done</string>
 
 </resources>
