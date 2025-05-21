@@ -899,6 +899,7 @@
     <string name="cross_post_option">投稿オプション</string>
     <string name="cross_post_forward">進む</string>
     <string name="cross_post_start">投稿開始</string>
+    <string name="cross_post_resume">再実行</string>
     <string name="publish_exit_confirm_title">編集中の内容は破棄されます</string>
     <string name="publish_exit_confirm_message">編集を終了しますか？</string>
     <string name="publish_submit_button">ツイート</string>

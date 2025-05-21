@@ -893,7 +893,8 @@
     <string name="cross_post_placeholder">What\'s your mind?</string>
     <string name="cross_post_option">Post Option</string>
     <string name="cross_post_forward">Forward</string>
-    <string name="cross_post_start">Post Start</string>
+    <string name="cross_post_start">Start</string>
+    <string name="cross_post_resume">Resume</string>
     <string name="publish_exit_confirm_title">Discard changes</string>
     <string name="publish_exit_confirm_message">Do you want to exit editing?</string>
     <string name="publish_submit_button">Tweet</string>
