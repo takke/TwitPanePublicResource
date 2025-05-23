@@ -2262,5 +2262,5 @@ Reauthenticate on the next screen.</string>
     <string name="cross_post_warning_mention">The %s in the body of the message may not become a Mention or may be addressed to an unexpected account, depending on the account to which the message is posted.</string>
     <string name="cross_post_warning_custom_emoji">Custom pictograms (%s) are included in the body of the text, but may not be displayed correctly depending on the account to which you are submitting.</string>
     <string name="cross_post_confirm_discard">There are posts with errors or not executed.\nAre you sure you want to discard and exit?</string>
-
+    <string name="cross_post_account_select_history">History</string>
 </resources>
