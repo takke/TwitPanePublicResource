@@ -2129,11 +2129,11 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="cross_post">Cross Post</string>
     <string name="cross_post_select_account">Seleccionar cuentas para publicar</string>
     <string name="cross_post_placeholder">"¿Cuál es tu idea?"</string>
-    <string name="cross_post_option">Post Option</string>
-    <string name="cross_post_forward">Forward</string>
-    <string name="cross_post_start">Start</string>
-    <string name="cross_post_resume">Resume</string>
-    <string name="cross_post_warning_mention">The %s in the body of the message may not become a Mention or may be addressed to an unexpected account, depending on the account to which the message is posted.</string>
-    <string name="cross_post_warning_custom_emoji">Custom pictograms (%s) are included in the body of the text, but may not be displayed correctly depending on the account to which you are submitting.</string>
+    <string name="cross_post_option">Opción de publicación</string>
+    <string name="cross_post_forward">Avanzar</string>
+    <string name="cross_post_start">Comenzar</string>
+    <string name="cross_post_resume">Reanudar</string>
+    <string name="cross_post_warning_mention">El %s en el cuerpo del mensaje puede no convertirse en una Mención o puede dirigirse a una cuenta inesperada, dependiendo de la cuenta a la que se publique el mensaje.</string>
+    <string name="cross_post_warning_custom_emoji">Se incluyen pictogramas personalizados (%s) en el cuerpo del texto, pero es posible que no se muestren correctamente según la cuenta a la que estés enviando.</string>
 
 </resources>

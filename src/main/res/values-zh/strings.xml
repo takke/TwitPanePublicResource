@@ -2166,11 +2166,11 @@
     <string name="cross_post">Cross Post</string>
     <string name="cross_post_select_account">选择要发布的账号</string>
     <string name="cross_post_placeholder">你在想什么？</string>
-    <string name="cross_post_option">Post Option</string>
-    <string name="cross_post_forward">Forward</string>
-    <string name="cross_post_start">Start</string>
-    <string name="cross_post_resume">Resume</string>
-    <string name="cross_post_warning_mention">The %s in the body of the message may not become a Mention or may be addressed to an unexpected account, depending on the account to which the message is posted.</string>
-    <string name="cross_post_warning_custom_emoji">Custom pictograms (%s) are included in the body of the text, but may not be displayed correctly depending on the account to which you are submitting.</string>
+    <string name="cross_post_option">发布选项</string>
+    <string name="cross_post_forward">前进</string>
+    <string name="cross_post_start">开始</string>
+    <string name="cross_post_resume">继续</string>
+    <string name="cross_post_warning_mention">消息正文中的 %s 可能不会成为提及，或者可能会发送到意外的账号，这取决于将消息发布到的账号。</string>
+    <string name="cross_post_warning_custom_emoji">文本正文中包含自定义表情符号 (%s)，但根据您提交的账号，它们可能无法正确显示。</string>
 
 </resources>
