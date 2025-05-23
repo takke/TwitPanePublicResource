@@ -2173,5 +2173,6 @@
     <string name="cross_post_warning_mention">消息正文中的 %s 可能不会成为提及，或者可能会发送到意外的账号，这取决于将消息发布到的账号。</string>
     <string name="cross_post_warning_custom_emoji">文本正文中包含自定义表情符号 (%s)，但根据您提交的账号，它们可能无法正确显示。</string>
     <string name="cross_post_confirm_discard">有错误或未执行的发布内容。\n确定要放弃并退出吗？</string>
+    <string name="cross_post_account_select_history">历史记录</string>
 
 </resources>
