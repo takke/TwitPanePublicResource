@@ -2265,7 +2265,8 @@ Reauthenticate on the next screen.</string>
     <string name="cross_post_account_select_history">History</string>
     <string name="cross_post_account_select_history_empty">No selection history</string>
     <string name="cross_post_account_select_history_clear">Clear</string>
-    <string name="cross_post_account_select_history_clear_confirm">Delete account selection history. Are you sure?</string>
+    <string name="cross_post_account_select_history_clear_confirm_title">Confirm</string>
+    <string name="cross_post_account_select_history_clear_confirm_message">Delete account selection history. Are you sure?</string>
     <string name="account_change_to_cross_post_will_loss_some_info_notice">Some information will be lost when switching to cross-post.</string>
 
 </resources>

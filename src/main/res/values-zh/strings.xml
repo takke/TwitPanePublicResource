@@ -2174,6 +2174,10 @@
     <string name="cross_post_warning_custom_emoji">文本正文中包含自定义表情符号 (%s)，但根据您提交的账号，它们可能无法正确显示。</string>
     <string name="cross_post_confirm_discard">有错误或未执行的发布内容。\n确定要放弃并退出吗？</string>
     <string name="cross_post_account_select_history">历史记录</string>
+    <string name="cross_post_account_select_history_empty">没有选择历史记录</string>
+    <string name="cross_post_account_select_history_clear">清除</string>
+    <string name="cross_post_account_select_history_clear_confirm_title">确认</string>
+    <string name="cross_post_account_select_history_clear_confirm_message">删除账户选择历史记录。确定吗？</string>
     <string name="account_change_to_cross_post_will_loss_some_info_notice">更改为跨平台发布。附件和发布范围可能无法继承。</string>
 
 </resources>

@@ -2137,6 +2137,10 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="cross_post_warning_custom_emoji">Se incluyen pictogramas personalizados (%s) en el cuerpo del texto, pero es posible que no se muestren correctamente según la cuenta a la que estés enviando.</string>
     <string name="cross_post_confirm_discard">Hay publicaciones con errores o no ejecutadas.\n¿Estás seguro de que quieres descartar y salir?</string>
     <string name="cross_post_account_select_history">Historial</string>
+    <string name="cross_post_account_select_history_empty">Sin historial de selección</string>
+    <string name="cross_post_account_select_history_clear">Borrar</string>
+    <string name="cross_post_account_select_history_clear_confirm_title">Confirmar</string>
+    <string name="cross_post_account_select_history_clear_confirm_message">Eliminar historial de selección de cuenta. ¿Estás seguro?</string>
     <string name="account_change_to_cross_post_will_loss_some_info_notice">Cambiar a publicación cruzada. Los archivos adjuntos y el alcance de publicación pueden no transferirse.</string>
 
 </resources>
