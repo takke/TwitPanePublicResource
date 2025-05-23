@@ -2214,4 +2214,8 @@
     <string name="dialog_close">閉じる</string>
     <string name="dialog_done">完了</string>
 
+    <!-- Cross Post -->
+    <string name="cross_post_warning_mention">本文に %s が含まれていますが投稿先アカウントによってはメンションにならなかったり想定外のアカウント宛になる場合があります。</string>
+    <string name="cross_post_warning_custom_emoji">本文にカスタム絵文字(%s)が含まれていますが、投稿先アカウントによっては正しく表示されない場合があります。</string>
+
 </resources>
