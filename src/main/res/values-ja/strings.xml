@@ -863,8 +863,6 @@
     <!-- ================================================================================ -->
     <string name="publish_activity_title">ツイート</string>
     <string name="bluesky_post">投稿</string>
-    <string name="cross_post">クロスポスト</string>
-    <string name="cross_post_select_account">投稿先のアカウントを選択してください</string>
     <string name="mastodon_publish_activity_title">投稿</string>
     <string name="mastodon_publish_activity_title_edit">編集</string>
     <string name="misskey_publish_activity_title">ノート</string>
@@ -895,11 +893,6 @@
     <string name="edit_file_attached_toot_warning">添付ファイル付きの投稿を編集すると、添付ファイルが劣化する可能性があります。</string>
     <string name="cant_edit_toot_with_polls">アンケートがある投稿の編集は未対応です</string>
     <string name="publish_body_label">いまどうしてる？</string>
-    <string name="cross_post_placeholder">いまどうしてる？</string>
-    <string name="cross_post_option">投稿オプション</string>
-    <string name="cross_post_forward">進む</string>
-    <string name="cross_post_start">投稿開始</string>
-    <string name="cross_post_resume">再実行</string>
     <string name="publish_exit_confirm_title">編集中の内容は破棄されます</string>
     <string name="publish_exit_confirm_message">編集を終了しますか？</string>
     <string name="publish_submit_button">ツイート</string>
@@ -2215,6 +2208,13 @@
     <string name="dialog_done">完了</string>
 
     <!-- Cross Post -->
+    <string name="cross_post">クロスポスト</string>
+    <string name="cross_post_select_account">投稿先のアカウントを選択してください</string>
+    <string name="cross_post_placeholder">いまどうしてる？</string>
+    <string name="cross_post_option">投稿オプション</string>
+    <string name="cross_post_forward">進む</string>
+    <string name="cross_post_start">投稿開始</string>
+    <string name="cross_post_resume">再実行</string>
     <string name="cross_post_warning_mention">本文に %s が含まれていますが投稿先アカウントによってはメンションにならなかったり想定外のアカウント宛になる場合があります。</string>
     <string name="cross_post_warning_custom_emoji">本文にカスタム絵文字(%s)が含まれていますが、投稿先アカウントによっては正しく表示されない場合があります。</string>
 

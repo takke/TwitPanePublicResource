@@ -856,8 +856,6 @@
     <!-- ================================================================================ -->
     <string name="publish_activity_title">推文</string>
     <string name="bluesky_post">Post</string>
-    <string name="cross_post">Cross Post</string>
-    <string name="cross_post_select_account">選擇要發佈的帳號</string>
     <string name="mastodon_publish_activity_title">Post</string>
     <string name="mastodon_publish_activity_title_edit">Edit</string>
     <string name="misskey_publish_activity_title">Note</string>
@@ -888,11 +886,6 @@
     <string name="edit_file_attached_toot_warning">Editing posts with attachments may possibly degrade attachments.</string>
     <string name="cant_edit_toot_with_polls">Not supported to edit posts with polls.</string>
     <string name="publish_body_label">你在想什麼？</string>
-    <string name="cross_post_placeholder">你在想什麼？</string>
-    <string name="cross_post_option">Post Option</string>
-    <string name="cross_post_forward">Forward</string>
-    <string name="cross_post_start">Start</string>
-    <string name="cross_post_resume">Resume</string>
     <string name="publish_exit_confirm_title">放棄更改</string>
     <string name="publish_exit_confirm_message">是否要退出編輯？</string>
     <string name="publish_submit_button">推文</string>
@@ -2170,6 +2163,13 @@
     <string name="dialog_done">Done</string>
 
     <!-- Cross Post -->
+    <string name="cross_post">Cross Post</string>
+    <string name="cross_post_select_account">選擇要發佈的帳號</string>
+    <string name="cross_post_placeholder">你在想什麼？</string>
+    <string name="cross_post_option">Post Option</string>
+    <string name="cross_post_forward">Forward</string>
+    <string name="cross_post_start">Start</string>
+    <string name="cross_post_resume">Resume</string>
     <string name="cross_post_warning_mention">The %s in the body of the message may not become a Mention or may be addressed to an unexpected account, depending on the account to which the message is posted.</string>
     <string name="cross_post_warning_custom_emoji">Custom pictograms (%s) are included in the body of the text, but may not be displayed correctly depending on the account to which you are submitting.</string>
 
