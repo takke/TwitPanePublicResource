@@ -2168,4 +2168,8 @@
     <string name="dialog_close">Close</string>
     <string name="dialog_done">Done</string>
 
+    <!-- Cross Post -->
+    <string name="cross_post_warning_mention">The %s in the body of the message may not become a Mention or may be addressed to an unexpected account, depending on the account to which the message is posted.</string>
+    <string name="cross_post_warning_custom_emoji">Custom pictograms (%s) are included in the body of the text, but may not be displayed correctly depending on the account to which you are submitting.</string>
+
 </resources>
