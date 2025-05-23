@@ -2217,5 +2217,6 @@
     <string name="cross_post_resume">再実行</string>
     <string name="cross_post_warning_mention">本文に %s が含まれていますが投稿先アカウントによってはメンションにならなかったり想定外のアカウント宛になる場合があります。</string>
     <string name="cross_post_warning_custom_emoji">本文にカスタム絵文字(%s)が含まれていますが、投稿先アカウントによっては正しく表示されない場合があります。</string>
+    <string name="cross_post_confirm_discard">エラーまたは未実行の投稿があります。\n破棄して終了してもよろしいですか？</string>
 
 </resources>

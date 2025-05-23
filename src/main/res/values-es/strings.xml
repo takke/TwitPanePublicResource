@@ -2135,5 +2135,6 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="cross_post_resume">Reanudar</string>
     <string name="cross_post_warning_mention">El %s en el cuerpo del mensaje puede no convertirse en una Mención o puede dirigirse a una cuenta inesperada, dependiendo de la cuenta a la que se publique el mensaje.</string>
     <string name="cross_post_warning_custom_emoji">Se incluyen pictogramas personalizados (%s) en el cuerpo del texto, pero es posible que no se muestren correctamente según la cuenta a la que estés enviando.</string>
+    <string name="cross_post_confirm_discard">Hay publicaciones con errores o no ejecutadas.\n¿Estás seguro de que quieres descartar y salir?</string>
 
 </resources>
