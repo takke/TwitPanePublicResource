@@ -2263,6 +2263,9 @@ Reauthenticate on the next screen.</string>
     <string name="cross_post_warning_custom_emoji">Custom pictograms (%s) are included in the body of the text, but may not be displayed correctly depending on the account to which you are submitting.</string>
     <string name="cross_post_confirm_discard">There are posts with errors or not executed.\nAre you sure you want to discard and exit?</string>
     <string name="cross_post_account_select_history">History</string>
+    <string name="cross_post_account_select_history_empty">No selection history</string>
+    <string name="cross_post_account_select_history_clear">Clear</string>
+    <string name="cross_post_account_select_history_clear_confirm">Delete account selection history. Are you sure?</string>
     <string name="account_change_to_cross_post_will_loss_some_info_notice">Some information will be lost when switching to cross-post.</string>
 
 </resources>

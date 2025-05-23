@@ -2219,6 +2219,7 @@
     <string name="cross_post_warning_custom_emoji">本文にカスタム絵文字(%s)が含まれていますが、投稿先アカウントによっては正しく表示されない場合があります。</string>
     <string name="cross_post_confirm_discard">エラーまたは未実行の投稿があります。\n破棄して終了してもよろしいですか？</string>
     <string name="cross_post_account_select_history">選択履歴</string>
+    <string name="cross_post_account_select_history_empty">選択履歴はありません</string>
     <string name="account_change_to_cross_post_will_loss_some_info_notice">クロスポストに変更します。添付ファイルや公開範囲は引き継がれない場合があります。</string>
 
 </resources>
