@@ -2164,7 +2164,8 @@
 
     <!-- Cross Post -->
     <string name="cross_post">Cross Post</string>
-    <string name="cross_post_select_account">选择要发布的账号</string>
+    <string name="cross_post_select_account_message">选择要发布的账号</string>
+    <string name="cross_post_account_selection">选择账号</string>
     <string name="cross_post_placeholder">你在想什么？</string>
     <string name="cross_post_option">发布选项</string>
     <string name="cross_post_forward">前进</string>

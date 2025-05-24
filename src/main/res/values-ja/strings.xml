@@ -2209,7 +2209,8 @@
 
     <!-- Cross Post -->
     <string name="cross_post">クロスポスト</string>
-    <string name="cross_post_select_account">投稿先のアカウントを選択してください</string>
+    <string name="cross_post_select_account_message">投稿先のアカウントを選択してください</string>
+    <string name="cross_post_account_selection">アカウント選択</string>
     <string name="cross_post_placeholder">いまどうしてる？</string>
     <string name="cross_post_option">投稿オプション</string>
     <string name="cross_post_forward">進む</string>

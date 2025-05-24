@@ -2253,7 +2253,8 @@ Reauthenticate on the next screen.</string>
 
     <!-- Cross Post -->
     <string name="cross_post">Cross Post</string>
-    <string name="cross_post_select_account">Select accounts to post</string>
+    <string name="cross_post_select_account_message">Select accounts to post</string>
+    <string name="cross_post_account_selection">Account Selection</string>
     <string name="cross_post_placeholder">What\'s your mind?</string>
     <string name="cross_post_option">Post Option</string>
     <string name="cross_post_forward">Forward</string>

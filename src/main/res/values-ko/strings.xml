@@ -2127,7 +2127,8 @@
 
     <!-- Cross Post -->
     <string name="cross_post">Cross Post</string>
-    <string name="cross_post_select_account">게시할 계정 선택</string>
+    <string name="cross_post_select_account_message">게시할 계정 선택</string>
+    <string name="cross_post_account_selection">계정 선택</string>
     <string name="cross_post_placeholder">"무슨 생각을 하고 계십니까?"</string>
     <string name="cross_post_option">게시 옵션</string>
     <string name="cross_post_forward">다음</string>

@@ -2127,7 +2127,8 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
 
     <!-- Cross Post -->
     <string name="cross_post">Cross Post</string>
-    <string name="cross_post_select_account">Seleccionar cuentas para publicar</string>
+    <string name="cross_post_select_account_message">Seleccionar cuentas para publicar</string>
+    <string name="cross_post_account_selection">Seleccionar cuentas</string>
     <string name="cross_post_placeholder">"¿Cuál es tu idea?"</string>
     <string name="cross_post_option">Opción de publicación</string>
     <string name="cross_post_forward">Avanzar</string>
