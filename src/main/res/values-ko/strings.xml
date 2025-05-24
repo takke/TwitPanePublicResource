@@ -2142,5 +2142,6 @@
     <string name="cross_post_account_select_history_clear_confirm_title">확인</string>
     <string name="cross_post_account_select_history_clear_confirm_message">계정 선택 기록을 삭제합니다. 확실합니까?</string>
     <string name="account_change_to_cross_post_will_loss_some_info_notice">크로스 포스트로 변경합니다. 첨부 파일이나 공개 범위가 이어지지 않을 수 있습니다.</string>
+    <string name="publish_body_too_long">게시물 본문이 너무 깁니다. %1$d자 이하로 줄여주세요.</string>
 
 </resources>
