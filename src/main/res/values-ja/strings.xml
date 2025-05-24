@@ -2219,7 +2219,7 @@
     <string name="cross_post_warning_mention">本文に %s が含まれていますが投稿先アカウントによってはメンションにならなかったり想定外のアカウント宛になる場合があります。</string>
     <string name="cross_post_warning_custom_emoji">本文にカスタム絵文字(%s)が含まれていますが、投稿先アカウントによっては正しく表示されない場合があります。</string>
     <string name="cross_post_confirm_discard">エラーまたは未実行の投稿があります。\n破棄して終了してもよろしいですか？</string>
-    <string name="cross_post_account_select_history">アカウント選択履歴</string>
+    <string name="cross_post_account_select_history">履歴</string>
     <string name="cross_post_account_select_history_empty">アカウントの選択履歴はありません</string>
     <string name="cross_post_account_select_history_clear">クリア</string>
     <string name="cross_post_account_select_history_clear_confirm_title">確認</string>
