@@ -1836,7 +1836,7 @@
     <string name="failed_to_authorize_to_twitter_and_confirm_to_reauthorize">Twitter 身份驗證失敗。\n注意：如果您正在對書籤進行身份認證，則在使用其他設備登錄後可能無法進行身份認證。 \n\n請在下一個屏幕上重新認證。</string>
     <string name="authorized_account_not_match_to_current_account">已認證的賬户與當前賬户不一致。\n\n
 - 已認證賬户: @%1$s\n
-- 當前帳户: @%2$s\n
+- 當前帳戶: @%2$s\n
 \n
 在下一個屏幕上重新認證。</string>
 
@@ -2200,5 +2200,6 @@
     <string name="cross_post_max_account_limit_with_subscription">最多可選擇 %1$d 個帳戶\n訂閱後最多可選擇 %2$d 個帳戶</string>
     <string name="cross_post_process_cancelled">發佈過程已取消</string>
     <string name="cross_post_retry_incomplete_posts">重試錯誤和未完成的帖子</string>
+    <string name="cross_post_option_message">請為每個帳戶配置私隱設定</string>
 
 </resources>

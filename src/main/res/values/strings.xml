@@ -2290,5 +2290,6 @@ Reauthenticate on the next screen.</string>
     <string name="cross_post_max_account_limit_with_subscription">You can select up to %1$d accounts\nWith subscription, you can select up to %2$d accounts</string>
     <string name="cross_post_process_cancelled">Publishing process was cancelled</string>
     <string name="cross_post_retry_incomplete_posts">Retry error and incomplete posts</string>
+    <string name="cross_post_option_message">Please configure the privacy settings for each account</string>
 
 </resources>
