@@ -2194,5 +2194,12 @@
     <string name="cross_post_status_success">已完成</string>
     <string name="cross_post_status_error">错误</string>
     <string name="cross_post_error_detail_button">详情</string>
+    <string name="cross_post_no_items_to_publish">没有要发布的项目</string>
+    <string name="cross_post_process_interrupted">发布过程被中断</string>
+    <string name="cross_post_all_posts_completed">所有帖子已完成</string>
+    <string name="cross_post_max_account_limit">最多可选择 %1$d 个账户</string>
+    <string name="cross_post_max_account_limit_with_subscription">最多可选择 %1$d 个账户\n订阅后最多可选择 %2$d 个账户</string>
+    <string name="cross_post_process_cancelled">发布过程已取消</string>
+    <string name="cross_post_retry_incomplete_posts">重试错误和未完成的帖子</string>
 
 </resources>

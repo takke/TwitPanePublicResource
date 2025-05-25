@@ -2157,5 +2157,12 @@
     <string name="cross_post_status_success">게시 완료</string>
     <string name="cross_post_status_error">오류</string>
     <string name="cross_post_error_detail_button">상세</string>
+    <string name="cross_post_no_items_to_publish">게시할 항목이 없습니다</string>
+    <string name="cross_post_process_interrupted">게시 처리가 중단되었습니다</string>
+    <string name="cross_post_all_posts_completed">모든 게시물이 완료되었습니다</string>
+    <string name="cross_post_max_account_limit">최대 %1$d개의 계정을 선택할 수 있습니다</string>
+    <string name="cross_post_max_account_limit_with_subscription">최대 %1$d개의 계정을 선택할 수 있습니다\n구독 구매 시 최대 %2$d개의 계정까지 선택할 수 있습니다</string>
+    <string name="cross_post_process_cancelled">게시 처리를 취소했습니다</string>
+    <string name="cross_post_retry_incomplete_posts">오류 및 미완료 게시물을 재실행합니다</string>
 
 </resources>

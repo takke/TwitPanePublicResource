@@ -2239,5 +2239,12 @@
     <string name="cross_post_status_success">投稿完了</string>
     <string name="cross_post_status_error">エラー</string>
     <string name="cross_post_error_detail_button">詳細</string>
+    <string name="cross_post_no_items_to_publish">投稿するアイテムがありません</string>
+    <string name="cross_post_process_interrupted">投稿処理が中断されました</string>
+    <string name="cross_post_all_posts_completed">全ての投稿が完了しました</string>
+    <string name="cross_post_max_account_limit">アカウントは %1$d 件まで選択できます</string>
+    <string name="cross_post_max_account_limit_with_subscription">アカウントは %1$d 件まで選択できます\nサブスク購入すると最大%2$dアカウントまで選択できます</string>
+    <string name="cross_post_process_cancelled">投稿処理をキャンセルしました</string>
+    <string name="cross_post_retry_incomplete_posts">エラー、未完了の投稿を再実行します</string>
 
 </resources>
