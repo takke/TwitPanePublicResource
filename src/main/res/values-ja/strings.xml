@@ -1355,7 +1355,7 @@
     <string name="upload_image_quality_good">低画質</string>
     <string name="upload_image_quality_better">中画質【初期値】</string>
     <string name="upload_image_quality_best">高画質</string>
-    <string name="config_use_internal_image_edit_tool">アプリ内の画像編集ツールを使う</string>
+    <string name="config_use_internal_image_edit_tool">アプリ内の画像編集ツール</string>
     <string name="config_use_internal_image_edit_tool_summary">添付画像の編集時に内蔵の画像切り抜きツールを使います。オフにすると端末にインストールされている画像編集アプリを起動して編集します【初期値：ON】</string>
 	<string name="config_show_tweet_confirm_dialog_title_ついぺん">投稿前の確認画面</string>
 	<string name="config_show_tweet_confirm_dialog_title_ぞーぺん">投稿前の確認画面</string>
