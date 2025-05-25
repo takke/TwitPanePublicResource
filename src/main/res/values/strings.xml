@@ -2272,5 +2272,16 @@ Reauthenticate on the next screen.</string>
     <string name="cross_post_account_select_history_clear_confirm_message">Delete account selection history. Are you sure?</string>
     <string name="account_change_to_cross_post_will_loss_some_info_notice">Some information will be lost when switching to cross-post.</string>
     <string name="publish_body_too_long">Publish body is too long</string>
+    <string name="cross_post_publish_ready">Ready to post. Press the start button to post to all accounts</string>
+    <string name="cross_post_publish_publishing">Publishing posts. Please wait...</string>
+    <string name="cross_post_publish_cancelled">Publishing process was cancelled</string>
+    <string name="cross_post_publish_error">Some posts encountered errors</string>
+    <string name="cross_post_publish_completed">All posts completed</string>
+    <string name="cross_post_error_detail">Error Detail</string>
+    <string name="cross_post_status_waiting">Waiting</string>
+    <string name="cross_post_status_publishing">Publishing...</string>
+    <string name="cross_post_status_success">Completed</string>
+    <string name="cross_post_status_error">Error</string>
+    <string name="cross_post_error_detail_button">Detail</string>
 
 </resources>

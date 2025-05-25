@@ -2144,7 +2144,18 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="cross_post_account_select_history_clear">Borrar</string>
     <string name="cross_post_account_select_history_clear_confirm_title">Confirmar</string>
     <string name="cross_post_account_select_history_clear_confirm_message">Eliminar historial de selección de cuenta. ¿Estás seguro?</string>
-    <string name="account_change_to_cross_post_will_loss_some_info_notice">Cambiar a publicación cruzada. Los archivos adjuntos y el alcance de publicación pueden no transferirse.</string>
-    <string name="publish_body_too_long">El cuerpo de la publicación es demasiado largo. Por favor, acorta el mensaje.</string>
+    <string name="account_change_to_cross_post_will_loss_some_info_notice">Cambiar a publicación cruzada. Los archivos adjuntos y la configuración de privacidad pueden no transferirse.</string>
+    <string name="publish_body_too_long">El texto del cuerpo excede el número máximo de caracteres</string>
+    <string name="cross_post_publish_ready">Listo para publicar. Presiona el botón de inicio para publicar en todas las cuentas</string>
+    <string name="cross_post_publish_publishing">Publicando posts. Por favor espera...</string>
+    <string name="cross_post_publish_cancelled">El proceso de publicación fue cancelado</string>
+    <string name="cross_post_publish_error">Algunos posts encontraron errores</string>
+    <string name="cross_post_publish_completed">Todos los posts completados</string>
+    <string name="cross_post_error_detail">Detalle del Error</string>
+    <string name="cross_post_status_waiting">Esperando</string>
+    <string name="cross_post_status_publishing">Publicando...</string>
+    <string name="cross_post_status_success">Completado</string>
+    <string name="cross_post_status_error">Error</string>
+    <string name="cross_post_error_detail_button">Detalle</string>
 
 </resources>
