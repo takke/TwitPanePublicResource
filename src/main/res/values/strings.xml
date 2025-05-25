@@ -1340,6 +1340,8 @@
     <string name="config_show_new_message_from_bottom_summary"></string>
 
     <string name="config_post_category">Post Settings</string>
+    <string name="config_post_category_ui_with_cross_post">UI with Cross Post</string>
+    <string name="config_post_category_ui_without_cross_post">UI without Cross Post</string>
     <string name="config_image_uploading_category">Image Uploading</string>
     <string name="config_upload_image_size_title">Upload image size</string>
     <string name="config_upload_image_size_summary">Shrink image size</string>

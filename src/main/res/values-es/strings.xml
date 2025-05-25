@@ -1327,6 +1327,8 @@
     <string name="config_show_new_message_from_bottom_summary">"Mostrar mensajes nuevos desde abajo"</string>
 
     <string name="config_post_category">"Publicaciones"</string>
+    <string name="config_post_category_ui_with_cross_post">UI de publicación con cross-post</string>
+    <string name="config_post_category_ui_without_cross_post">UI de publicación sin cross-post</string>
     <string name="config_image_uploading_category">Subida de la imagen</string>
     <string name="config_upload_image_size_title">"Tamaño de la imagen adjunta"</string>
     <string name="config_upload_image_size_summary">"Reducir tamaño de la imagen"</string>

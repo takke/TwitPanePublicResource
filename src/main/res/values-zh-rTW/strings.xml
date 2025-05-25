@@ -1326,6 +1326,8 @@
     <string name="config_show_new_message_from_bottom_summary">在底部顯示新訊息，就像官方應用程式和一般基於訊息的應用程式一樣[預設：開]。</string>
 
     <string name="config_post_category">帖子設定</string>
+    <string name="config_post_category_ui_with_cross_post">UI with Cross Post</string>
+    <string name="config_post_category_ui_without_cross_post">UI without Cross Post</string>
     <string name="config_image_uploading_category">圖片上傳</string>
     <string name="config_upload_image_size_title">上傳圖片的大小</string>
     <string name="config_upload_image_size_summary">縮小影象大小</string>
