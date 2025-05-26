@@ -2250,5 +2250,6 @@
     <string name="cross_post_guide_title">クロスポストについて</string>
     <string name="cross_post_guide_message">クロスポストは複数のSNSアカウントに同時に投稿する機能です。\n\n複数のアカウントを選択して、同じ内容をすべてのアカウントに一度に投稿できます。</string>
     <string name="cross_post_guide_dont_show_again">次回から表示しない</string>
+    <string name="share_to_other_services">他のSNSに投稿する</string>
 
 </resources>

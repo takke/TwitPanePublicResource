@@ -2204,5 +2204,6 @@
     <string name="cross_post_guide_title">關於跨平台發佈</string>
     <string name="cross_post_guide_message">跨平台發佈功能允許您同時向多個社交媒體帳戶發佈內容。\n\n您可以選擇多個帳戶並同時向所有帳戶發佈相同內容。\n\n注意：一些功能如附件和私隱設定可能無法在不同平台之間傳遞。</string>
     <string name="cross_post_guide_dont_show_again">不再顯示此內容</string>
+    <string name="share_to_other_services">分享至其他服務</string>
 
 </resources>

@@ -2294,5 +2294,6 @@ Reauthenticate on the next screen.</string>
     <string name="cross_post_guide_title">About Cross Post</string>
     <string name="cross_post_guide_message">Cross Post allows you to post to multiple social media accounts at once.\n\nYou can select multiple accounts and post the same content to all of them simultaneously.</string>
     <string name="cross_post_guide_dont_show_again">Don\'t show this again</string>
+    <string name="share_to_other_services">Share to other services</string>
 
 </resources>
