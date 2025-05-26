@@ -2165,5 +2165,8 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="cross_post_process_cancelled">Proceso de publicación cancelado</string>
     <string name="cross_post_retry_incomplete_posts">Reintentar publicaciones con error e incompletas</string>
     <string name="cross_post_option_message">Por favor configure la configuración de privacidad para cada cuenta</string>
+    <string name="cross_post_guide_title">Acerca de la Publicación Cruzada</string>
+    <string name="cross_post_guide_message">La Publicación Cruzada te permite publicar en múltiples cuentas de redes sociales a la vez.\n\nPuedes seleccionar múltiples cuentas y publicar el mismo contenido en todas ellas simultáneamente.\n\nNota: Algunas funciones como archivos adjuntos y configuración de privacidad pueden no transferirse entre diferentes plataformas.</string>
+    <string name="cross_post_guide_dont_show_again">No mostrar esto otra vez</string>
 
 </resources>

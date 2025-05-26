@@ -2201,5 +2201,8 @@
     <string name="cross_post_process_cancelled">發佈過程已取消</string>
     <string name="cross_post_retry_incomplete_posts">重試錯誤和未完成的帖子</string>
     <string name="cross_post_option_message">請為每個帳戶配置私隱設定</string>
+    <string name="cross_post_guide_title">關於跨平台發佈</string>
+    <string name="cross_post_guide_message">跨平台發佈功能允許您同時向多個社交媒體帳戶發佈內容。\n\n您可以選擇多個帳戶並同時向所有帳戶發佈相同內容。\n\n注意：一些功能如附件和私隱設定可能無法在不同平台之間傳遞。</string>
+    <string name="cross_post_guide_dont_show_again">不再顯示此內容</string>
 
 </resources>

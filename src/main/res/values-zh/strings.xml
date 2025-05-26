@@ -2202,5 +2202,8 @@
     <string name="cross_post_process_cancelled">发布过程已取消</string>
     <string name="cross_post_retry_incomplete_posts">重试错误和未完成的帖子</string>
     <string name="cross_post_option_message">请为每个账户配置隐私设置</string>
+    <string name="cross_post_guide_title">关于跨平台发布</string>
+    <string name="cross_post_guide_message">跨平台发布功能允许您同时向多个社交媒体账户发布内容。\n\n您可以选择多个账户并同时向所有账户发布相同内容。\n\n注意：一些功能如附件和隐私设置可能无法在不同平台之间传递。</string>
+    <string name="cross_post_guide_dont_show_again">不再显示此内容</string>
 
 </resources>
