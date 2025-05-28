@@ -229,6 +229,8 @@
     <string name="delete_dm_confirm_message">Delete this message?</string>
     <string name="delete_attachment_with_description_confirm_title">Delete attachment</string>
     <string name="delete_attachment_with_description_confirm_message">This attachment has a description. Are you sure you want to delete it?</string>
+    <string name="delete_all_attachments_confirm_title">Delete all attachments</string>
+    <string name="delete_all_attachments_confirm_message">Are you sure you want to delete all attached files?</string>
     <string name="deleted_message">Deleted</string>
     <string name="already_deleted_message">Already deleted</string>
     <string name="mute_user_confirm_message">Mute this user?</string>

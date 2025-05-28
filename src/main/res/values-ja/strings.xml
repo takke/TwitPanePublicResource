@@ -229,6 +229,8 @@
     <string name="delete_dm_confirm_message">このメッセージを削除しますか？</string>
     <string name="delete_attachment_with_description_confirm_title">添付ファイルを削除</string>
     <string name="delete_attachment_with_description_confirm_message">この添付ファイルには代替テキストが設定されています。削除してもよろしいですか？</string>
+    <string name="delete_all_attachments_confirm_title">全ての添付ファイルを削除</string>
+    <string name="delete_all_attachments_confirm_message">全ての添付ファイルを削除します。よろしいですか？</string>
     <string name="deleted_message">削除しました</string>
     <string name="already_deleted_message">既に削除されています</string>
     <string name="mute_user_confirm_message">本当にこのユーザーを非表示にしますか？(ミュートは本アプリ内でのみ有効です)</string>

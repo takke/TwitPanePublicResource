@@ -229,6 +229,8 @@
     <string name="delete_dm_confirm_message">¿Eliminar este mensaje?</string>
     <string name="delete_attachment_with_description_confirm_title">Eliminar archivo adjunto</string>
     <string name="delete_attachment_with_description_confirm_message">Este archivo adjunto tiene una descripción. ¿Está seguro de que desea eliminarlo?</string>
+    <string name="delete_all_attachments_confirm_title">Eliminar todos los archivos adjuntos</string>
+    <string name="delete_all_attachments_confirm_message">¿Está seguro de que desea eliminar todos los archivos adjuntos?</string>
     <string name="deleted_message">"Eliminado"</string>
     <string name="already_deleted_message">ya eliminado</string>
     <string name="mute_user_confirm_message">"¿Silenciar a este usuario?"</string>
