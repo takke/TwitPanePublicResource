@@ -227,6 +227,8 @@
     <string name="delete_confirm_message_misskey">이 노트를 삭제하시겠습니까?</string>
     <string name="delete_confirm_message_taittsuu">이 게시물을 삭제하시겠습니까?</string>
     <string name="delete_dm_confirm_message">이 메시지를 삭제하시겠습니까?</string>
+    <string name="delete_attachment_with_description_confirm_title">첨부 파일 삭제</string>
+    <string name="delete_attachment_with_description_confirm_message">이 첨부 파일에는 설명이 있습니다. 정말로 삭제하시겠습니까?</string>
     <string name="deleted_message">"삭제됨"</string>
     <string name="already_deleted_message">이미 삭제</string>
     <string name="mute_user_confirm_message">"이 유저를 음소거?"</string>

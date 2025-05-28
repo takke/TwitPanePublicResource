@@ -225,8 +225,10 @@
     <string name="delete_confirm_message_bluesky">确定要删除这个帖子吗？</string>
     <string name="delete_confirm_message_mastodon">确定要删除这个帖子吗？</string>
     <string name="delete_confirm_message_misskey">确定要删除这个笔记吗？</string>
-    <string name="delete_confirm_message_taittsuu">确定要删除这个帖子吗？</string>
-    <string name="delete_dm_confirm_message">删除这个私信？</string>
+    <string name="delete_confirm_message_taittsuu">确定要删除这条发布吗？</string>
+    <string name="delete_dm_confirm_message">删除此消息？</string>
+    <string name="delete_attachment_with_description_confirm_title">删除附件</string>
+    <string name="delete_attachment_with_description_confirm_message">此附件有描述。您确定要删除吗？</string>
     <string name="deleted_message">已删除</string>
     <string name="already_deleted_message">已被删除</string>
     <string name="mute_user_confirm_message">将此用户静音？</string>
