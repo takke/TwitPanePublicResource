@@ -2299,5 +2299,8 @@ Reauthenticate on the next screen.</string>
     <string name="cross_post_guide_message">Cross Post allows you to post to multiple social media accounts at once.\n\nYou can select multiple accounts and post the same content to all of them simultaneously.</string>
     <string name="cross_post_guide_dont_show_again">Don\'t show this again</string>
     <string name="share_to_other_services">Share to other services</string>
+    <string name="share_file_attach_not_supported">%s does not support file attachments. Sharing text only.</string>
+    <string name="share_app_not_found">%s app not found</string>
+    <string name="share_file_requires_android10">File sharing is supported on Android 10 and later.</string>
 
 </resources>

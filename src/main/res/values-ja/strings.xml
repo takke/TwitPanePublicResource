@@ -2255,5 +2255,8 @@
     <string name="cross_post_guide_message">クロスポストは複数のSNSアカウントに同時に投稿する機能です。\n\n複数のアカウントを選択して、同じ内容をすべてのアカウントに一度に投稿できます。</string>
     <string name="cross_post_guide_dont_show_again">次回から表示しない</string>
     <string name="share_to_other_services">他のSNSに投稿する</string>
+    <string name="share_file_attach_not_supported">%sはファイル添付をサポートしていません。テキストのみで共有します。</string>
+    <string name="share_app_not_found">%sアプリが見つかりません</string>
+    <string name="share_file_requires_android10">ファイル共有は Android 10 以降でサポートしています。</string>
 
 </resources>
