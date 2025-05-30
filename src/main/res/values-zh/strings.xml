@@ -2209,6 +2209,9 @@
     <string name="cross_post_guide_title">关于跨平台发布</string>
     <string name="cross_post_guide_message">跨平台发布功能允许您同时向多个社交媒体账户发布内容。\n\n您可以选择多个账户并同时向所有账户发布相同内容。\n\n注意：一些功能如附件和隐私设置可能无法在不同平台之间传递。</string>
     <string name="cross_post_guide_dont_show_again">不再显示此内容</string>
+    <string name="cross_post_share_limit_title">About Share Count Limit</string>
+    <string name="cross_post_share_limit_message">External SNS posting is limited to once per all SNS combined. By subscribing, you can post to external SNS more than twice.</string>
+    <string name="cross_post_subscription_button">Subscribe</string>
     <string name="share_to_other_services">分享到其他服务</string>
     <string name="share_file_attach_not_supported">%s不支持文件附件。只分享文本。</string>
     <string name="share_app_not_found">找不到%s应用</string>

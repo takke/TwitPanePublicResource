@@ -2254,6 +2254,9 @@
     <string name="cross_post_guide_title">クロスポストについて</string>
     <string name="cross_post_guide_message">クロスポストは複数のSNSアカウントに同時に投稿する機能です。\n\n複数のアカウントを選択して、同じ内容をすべてのアカウントに一度に投稿できます。</string>
     <string name="cross_post_guide_dont_show_again">次回から表示しない</string>
+    <string name="cross_post_share_limit_title">共有回数制限について</string>
+    <string name="cross_post_share_limit_message">外部SNSへの投稿回数は各SNSあわせて1回までです。定期購入していただくことで2回以上外部投稿できるようになります。</string>
+    <string name="cross_post_subscription_button">定期購入</string>
     <string name="share_to_other_services">他のSNSに投稿する</string>
     <string name="share_file_attach_not_supported">%sはファイル添付をサポートしていません。テキストのみで共有します。</string>
     <string name="share_app_not_found">%sアプリが見つかりません</string>

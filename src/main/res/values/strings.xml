@@ -2298,6 +2298,9 @@ Reauthenticate on the next screen.</string>
     <string name="cross_post_guide_title">About Cross Post</string>
     <string name="cross_post_guide_message">Cross Post allows you to post to multiple social media accounts at once.\n\nYou can select multiple accounts and post the same content to all of them simultaneously.</string>
     <string name="cross_post_guide_dont_show_again">Don\'t show this again</string>
+    <string name="cross_post_share_limit_title">About Share Count Limit</string>
+    <string name="cross_post_share_limit_message">External SNS posting is limited to once per all SNS combined. By subscribing, you can post to external SNS more than twice.</string>
+    <string name="cross_post_subscription_button">Subscribe</string>
     <string name="share_to_other_services">Share to other services</string>
     <string name="share_file_attach_not_supported">File attachment is not supported by %s. Sharing will be done with text only.</string>
     <string name="share_app_not_found">%s App not found</string>
