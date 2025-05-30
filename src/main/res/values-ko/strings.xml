@@ -2172,9 +2172,9 @@
     <string name="cross_post_guide_title">크로스 포스트에 대하여</string>
     <string name="cross_post_guide_message">크로스 포스트는 여러 소셜 미디어 계정에 한 번에 게시할 수 있는 기능입니다.\n\n여러 계정을 선택하여 동일한 내용을 모든 계정에 동시에 게시할 수 있습니다.\n\n참고: 첨부 파일이나 공개 범위 등의 일부 기능은 다른 플랫폼 간에는 이어지지 않을 수 있습니다.</string>
     <string name="cross_post_guide_dont_show_again">다시 표시하지 않기</string>
-    <string name="cross_post_share_limit_title">About Share Count Limit</string>
-    <string name="cross_post_share_limit_message">External SNS posting is limited to once per all SNS combined. By subscribing, you can post to external SNS more than twice.</string>
-    <string name="cross_post_subscription_button">Subscribe</string>
+    <string name="cross_post_share_limit_title">공유 횟수 제한에 대하여</string>
+    <string name="cross_post_share_limit_message">외부 SNS 게시는 모든 SNS를 합쳐서 1회로 제한됩니다. 구독하시면 외부 SNS에 2회 이상 게시할 수 있습니다.</string>
+    <string name="cross_post_subscription_button">구독</string>
     <string name="share_to_other_services">다른 서비스에 공유</string>
     <string name="share_file_attach_not_supported">%s는 파일 첨부를 지원하지 않습니다. 텍스트만 공유합니다.</string>
     <string name="share_app_not_found">%s 앱을 찾을 수 없습니다</string>
