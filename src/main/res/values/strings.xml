@@ -1980,6 +1980,8 @@ Reauthenticate on the next screen.</string>
     <string name="subs_guide_item_liked_order_likes_message" translatable="false"></string>
     <string name="subs_guide_item_view_quoted_tweets" translatable="false">✔ View quoted tweets</string>
     <string name="subs_guide_item_view_quoted_tweets_message" translatable="false">You can view quoted posts of a post</string>
+    <string name="subs_guide_item_cross_post_limit_relaxed" translatable="false">✔ Cross-post limit relaxed</string>
+    <string name="subs_guide_item_cross_post_limit_relaxed_message" translatable="false">You can share to up to 5 accounts simultaneously, and unlimited external SNS posting</string>
     <string name="liked_order_likes" translatable="false">Liked ordered likes</string>
     <string name="config_use_liked_order_likes_summary" translatable="false">Only available to users with a subscriptions due to Twitter\'s Tweet cap, which is a strict limit on the number of tweets that can be retrieved.</string>
     <string name="subs_guide_bottom_notice" translatable="false">If you have already tried a subscription, you are not eligible for the 7-day free subscription. \nAfter the cancellation deadline of 6 days after your first free registration, you will be automatically charged %1$s each month until you cancel in the Google Play Store. \nYou can cancel your subscription through your subscription settings in the Google Play Store. \Please note that your previous payment will not be refunded upon cancellation unless required by law.</string>

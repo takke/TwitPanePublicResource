@@ -1945,6 +1945,8 @@
     <string name="subs_guide_item_liked_order_likes_message" translatable="false">「いいね一覧」をいいねした順にできます</string>
     <string name="subs_guide_item_view_quoted_tweets" translatable="false">・引用されたツイート一覧</string>
     <string name="subs_guide_item_view_quoted_tweets_message" translatable="false">あるツイートの引用されたツイート一覧を表示できます</string>
+    <string name="subs_guide_item_cross_post_limit_relaxed" translatable="false">・クロスポスト制限の緩和</string>
+    <string name="subs_guide_item_cross_post_limit_relaxed_message" translatable="false">5アカウントまで同時共有可能、外部SNSへの投稿は無制限</string>
     <string name="liked_order_likes" translatable="false">いいねした順のいいね</string>
     <string name="config_use_liked_order_likes_summary" translatable="false">X 社により Tweet cap というツイート取得数の厳しい制限があるため、定期購入中のユーザーにのみ使用可能としています</string>
     <string name="subs_guide_bottom_notice">既に定期購入をお試しいただいた方は、7日間無料の対象外となります。\n初回無料登録から6日後の解約期限を過ぎると、Google Play ストアでキャンセルするまで、毎月%1$sが自動的に課金されます。\nGoogle Playストアの定期購入の設定から解約できます。\n法律で定められている場合を除き、キャンセル時に以前のお支払額は払い戻されませんのでご了承ください。</string>
