@@ -948,6 +948,7 @@
     <string name="publish_picture_edit">編集</string>
     <string name="publish_movie_cut_edit">カット編集</string>
     <string name="alt_text">代替テキスト</string>
+    <string name="alt_text_placeholder">画像の説明を入力してください</string>
     <string name="publish_movie_install_lvc">ストアで Lossless Video Cutter をインストールしてください。\n
 (インストール後に本アプリに戻るとカット編集画面が開きます)</string>
     <string name="publish_picture_cancel">添付解除</string>

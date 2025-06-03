@@ -937,6 +937,7 @@
     <string name="publish_picture_edit">편집</string>
     <string name="publish_movie_cut_edit">편집을 잘라</string>
     <string name="alt_text">Description</string>
+    <string name="alt_text_placeholder">이미지 설명을 입력하세요</string>
     <string name="publish_movie_install_lvc">스토어에 LosslessVideoCutter를 설치하십시오</string>
     <string name="publish_picture_cancel">"취소"</string>
     <string name="publish_picture_select">"사진 선택(갤러리)"</string>

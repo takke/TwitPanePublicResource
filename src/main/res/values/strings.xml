@@ -941,6 +941,7 @@
     <string name="publish_picture_edit">Edit</string>
     <string name="publish_movie_cut_edit">Cut Edit</string>
     <string name="alt_text">Description</string>
+    <string name="alt_text_placeholder">Enter image description</string>
     <string name="publish_movie_install_lvc">Please install Lossless Video Cutter on Store</string>
     <string name="publish_picture_cancel">Cancel</string>
     <string name="publish_picture_select">Select Photo(Gallery)</string>

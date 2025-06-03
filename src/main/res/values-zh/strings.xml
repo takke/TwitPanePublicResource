@@ -936,6 +936,7 @@
     <string name="publish_picture_edit">编辑</string>
     <string name="publish_movie_cut_edit">剪切编辑</string>
     <string name="alt_text">Description</string>
+    <string name="alt_text_placeholder">请输入图片描述</string>
     <string name="publish_movie_install_lvc">请在Play Store上安装无损视频剪辑器</string>
     <string name="publish_picture_cancel">取消</string>
     <string name="publish_picture_select">选择照片(画廊)</string>

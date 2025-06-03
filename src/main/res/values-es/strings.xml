@@ -937,6 +937,7 @@
     <string name="publish_picture_edit">Editar</string>
     <string name="publish_movie_cut_edit">cortar Editar</string>
     <string name="alt_text">Description</string>
+    <string name="alt_text_placeholder">Enter image description</string>
     <string name="publish_movie_install_lvc">Por favor, instale Lossless Video Cutter en la tienda</string>
     <string name="publish_picture_cancel">"Cancelar"</string>
     <string name="publish_picture_select">"Seleccionar foto(galería)"</string>
