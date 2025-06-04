@@ -573,6 +573,7 @@
     <string name="menu_show_subscribe_account_management">アカウントの購読</string>
     <string name="confirm_open_browser_for_fedibird_function_of">Fedibird の%1$sをアプリ内ブラウザで開きます。\n※Fedibird の複数アカウントをお持ちの場合は別のアカウントで操作しないようにご注意ください。</string>
     <string name="menu_show_following_hashtags">フォロー中のハッシュタグ</string>
+    <string name="following_hashtags_description">ここにはフォローしているハッシュタグが表示されます。</string>
     <string name="no_following_hashtags">まだハッシュタグをフォローしていません。フォローするとここに表示されます。</string>
     <string name="unfollow_hashtag_confirm_message">ハッシュタグを既にフォローしているようです。フォロー解除しますか？</string>
 

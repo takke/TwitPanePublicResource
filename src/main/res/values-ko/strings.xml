@@ -563,9 +563,10 @@
     <string name="menu_show_subscribe_keyword_management">Subscribe keyword management</string>
     <string name="menu_show_subscribe_account_management">Subscribe account management</string>
     <string name="confirm_open_browser_for_fedibird_function_of">Open an in-app browser for Fedibird\'s `$1%s` page.</string>
-    <string name="menu_show_following_hashtags">Following Hashtags</string>
-    <string name="no_following_hashtags">No following hashtags</string>
-    <string name="unfollow_hashtag_confirm_message">It appears that you are already following the hashtag. Would you like to unfollow?</string>
+    <string name="menu_show_following_hashtags">팔로잉 해시태그</string>
+    <string name="following_hashtags_description">여기에 팔로우하고 있는 해시태그가 표시됩니다.</string>
+    <string name="no_following_hashtags">해시태그를 팔로우하면 여기에 표시됩니다.</string>
+    <string name="unfollow_hashtag_confirm_message">이미 해시태그를 팔로우하고 있는 것 같습니다. 언팔로우 하시겠습니까?</string>
 
     <string name="menu_campaign_ad">"광고 캠페인"</string>
     <string name="campaign_info">"캠페인에 대해서"</string>

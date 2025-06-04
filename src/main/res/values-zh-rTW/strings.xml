@@ -566,9 +566,10 @@
     <string name="menu_show_subscribe_keyword_management">Subscribe keyword management</string>
     <string name="menu_show_subscribe_account_management">Subscribe account management</string>
     <string name="confirm_open_browser_for_fedibird_function_of">Open an in-app browser for Fedibird\'s `$1%s` page.</string>
-    <string name="menu_show_following_hashtags">Following Hashtags</string>
-    <string name="no_following_hashtags">No following hashtags</string>
-    <string name="unfollow_hashtag_confirm_message">It appears that you are already following the hashtag. Would you like to unfollow?</string>
+    <string name="menu_show_following_hashtags">追蹤的主題標籤</string>
+    <string name="following_hashtags_description">這裡顯示您追蹤的主題標籤。</string>
+    <string name="no_following_hashtags">追蹤主題標籤後將在此處顯示。</string>
+    <string name="unfollow_hashtag_confirm_message">您似乎已經追蹤了這個主題標籤。您想要取消追蹤嗎？</string>
 
     <string name="menu_campaign_ad">廣告宣傳活動</string>
     <string name="campaign_info">關於宣傳活動</string>

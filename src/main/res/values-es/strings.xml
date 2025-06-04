@@ -564,9 +564,10 @@
     <string name="menu_show_subscribe_keyword_management">Subscribe keyword management</string>
     <string name="menu_show_subscribe_account_management">Subscribe account management</string>
     <string name="confirm_open_browser_for_fedibird_function_of">Open an in-app browser for Fedibird\'s `$1%s` page.</string>
-    <string name="menu_show_following_hashtags">Following Hashtags</string>
-    <string name="no_following_hashtags">No following hashtags</string>
-    <string name="unfollow_hashtag_confirm_message">It appears that you are already following the hashtag. Would you like to unfollow?</string>
+    <string name="menu_show_following_hashtags">Hashtags Siguiendo</string>
+    <string name="following_hashtags_description">Aquí están los hashtags que estás siguiendo.</string>
+    <string name="no_following_hashtags">Sigue hashtags para verlos aquí.</string>
+    <string name="unfollow_hashtag_confirm_message">Parece que ya estás siguiendo el hashtag. ¿Te gustaría dejar de seguir?</string>
 
     <string name="menu_campaign_ad">"Ocultar publicidad"</string>
     <string name="campaign_info">"Acerca de la campaña"</string>
