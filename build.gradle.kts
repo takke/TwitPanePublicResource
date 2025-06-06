@@ -10,6 +10,5 @@ android {
 
   defaultConfig {
     minSdk = rootProject.extra["minSdkVersion"] as Int
-    targetSdk = rootProject.extra["targetSdkVersion"] as Int
   }
 } 
