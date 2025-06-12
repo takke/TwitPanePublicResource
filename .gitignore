@@ -28,3 +28,6 @@ hs_err_pid*
 # Ignore Gradle build output directory
 build
 /local.properties
+
+# androidMain のリソースは commonMain から自動生成されるためコミット対象外とする
+src/androidMain/res/values*/strings.xml
