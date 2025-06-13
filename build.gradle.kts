@@ -58,6 +58,9 @@ compose.resources {
 
 // Compose Resource で定義した文字列ファイルを Android の res/values/strings.xml に同期するタスク
 // ※Android のライブラリモジュールから R.string で参照できるようにするため
+// 手動実行方法:
+// 文字列リソースを変更した後、手動で同期を実行:
+//  ./gradlew :ext:TwitPanePublicResource:syncStringsToAndroidRes
 val syncStringsToAndroidRes by tasks.registering {
   val sourceDir = file("src/commonMain/composeResources")
   val targetDir = file("src/androidMain/res")
