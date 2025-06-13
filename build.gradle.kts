@@ -62,7 +62,18 @@ val syncStringsToAndroidRes by tasks.registering {
   val sourceDir = file("src/commonMain/composeResources")
   val targetDir = file("src/androidMain/res")
 
-  outputs.dir(targetDir)
+  // 入力ファイルを指定して変更検出を有効にする
+  inputs.dir(sourceDir).withPropertyName("sourceDir")
+  inputs.files(fileTree(sourceDir) {
+    include("**/strings.xml")
+  }).withPropertyName("stringsFiles")
+
+  // 出力ディレクトリを指定
+  outputs.dir(targetDir).withPropertyName("targetDir")
+
+  // タスクの説明
+  description = "Sync Compose Resource strings.xml files to Android res directory"
+  group = "build"
 
   doLast {
     println("🔄 Syncing Compose Resource strings.xml (all locales) to Android res/")
@@ -78,6 +89,8 @@ val syncStringsToAndroidRes by tasks.registering {
         targetFile.writeText(file.readText())
       }
     }
+
+    println("✅ Sync completed successfully")
   }
 }
 afterEvaluate {
