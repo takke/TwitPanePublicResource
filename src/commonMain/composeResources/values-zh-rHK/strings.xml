@@ -2224,4 +2224,50 @@
     <string name="share_app_not_found">找不到%s應用程式</string>
     <string name="share_file_requires_android10">檔案分享需要Android 10或更高版本。</string>
 
+    <!-- ================================================================================ -->
+    <!-- Color names -->
+    <!-- ================================================================================ -->
+    <string-array name="color_names">
+        <item>"白色1"</item>
+        <item>"白色2"</item>
+        <item>"黑色1"</item>
+        <item>"黑色2"</item>
+        <item>"紅色1"</item>
+        <item>"紅色2"</item>
+        <item>"紅色3"</item>
+        <item>"橙色"</item>
+        <item>"黃色"</item>
+        <item>"淺綠色"</item>
+        <item>"綠色"</item>
+        <item>"天藍色"</item>
+        <item>"藍色"</item>
+        <item>"紫色1"</item>
+        <item>"紫色2"</item>
+        <item>"深紫色"</item>
+        <item>"粉紅色"</item>
+        <item>Deep Pink</item>
+        <item>Lime</item>
+        <item>Indigo</item>
+        <item>Deep Orange</item>
+        <item>Brown</item>
+    </string-array>
+    <string name="color_name_red">"紅色"</string>
+    <string name="color_name_orange">"橙色"</string>
+    <string name="color_name_yellow">"黃色"</string>
+    <string name="color_name_lightgreen">"淺綠色"</string>
+    <string name="color_name_green">"綠色"</string>
+    <string name="color_name_skyblue">"天藍色"</string>
+    <string name="color_name_blue">"藍色"</string>
+    <string name="color_name_purple">"紫色"</string>
+    <string name="color_name_pink">"粉紅色"</string>
+    <string name="color_name_deeppink">"深粉紅色"</string>
+    <string name="color_name_white1">"白色1"</string>
+    <string name="color_name_white2">"白色2"</string>
+    <string name="color_name_black1">"黑色1"</string>
+    <string name="color_name_black2">"黑色2"</string>
+    <string name="color_name_lime">Lime</string>
+    <string name="color_name_indigo">Indigo</string>
+    <string name="color_name_deeporange">Deep Orange</string>
+    <string name="color_name_brown">Brown</string>
+
 </resources>

@@ -2188,4 +2188,50 @@
     <string name="share_app_not_found">%s 앱을 찾을 수 없습니다</string>
     <string name="share_file_requires_android10">파일 공유는 Android 10 이상에서 지원됩니다.</string>
 
+    <!-- ================================================================================ -->
+    <!-- Color names -->
+    <!-- ================================================================================ -->
+    <string-array name="color_names">
+        <item>"흰색1"</item>
+        <item>"흰색2"</item>
+        <item>"검은색1"</item>
+        <item>"검은색2"</item>
+        <item>"붉은색1"</item>
+        <item>"붉은색2"</item>
+        <item>"붉은색3"</item>
+        <item>"오렌지 색"</item>
+        <item>"노란색"</item>
+        <item>"라이트 그린"</item>
+        <item>"녹색"</item>
+        <item>"하늘색"</item>
+        <item>"파란 색"</item>
+        <item>"보라색1"</item>
+        <item>"보라색2"</item>
+        <item>"딥 퍼플"</item>
+        <item>"핑크"</item>
+        <item>Deep Pink</item>
+        <item>Lime</item>
+        <item>Indigo</item>
+        <item>Deep Orange</item>
+        <item>Brown</item>
+    </string-array>
+    <string name="color_name_red">"빨강"</string>
+    <string name="color_name_orange">"오렌지색"</string>
+    <string name="color_name_yellow">"노란색"</string>
+    <string name="color_name_lightgreen">"밝은 녹색"</string>
+    <string name="color_name_green">"녹색"</string>
+    <string name="color_name_skyblue">"하늘색"</string>
+    <string name="color_name_blue">"파란색"</string>
+    <string name="color_name_purple">"보라색"</string>
+    <string name="color_name_pink">"핑크"</string>
+    <string name="color_name_deeppink">"진한 핑크"</string>
+    <string name="color_name_white1">"흰색1"</string>
+    <string name="color_name_white2">"흰색2"</string>
+    <string name="color_name_black1">"검은색 1"</string>
+    <string name="color_name_black2">"검은색2"</string>
+    <string name="color_name_lime">Lime</string>
+    <string name="color_name_indigo">Indigo</string>
+    <string name="color_name_deeporange">Deep Orange</string>
+    <string name="color_name_brown">Brown</string>
+
 </resources>

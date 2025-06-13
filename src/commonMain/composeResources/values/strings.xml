@@ -2316,4 +2316,50 @@ Reauthenticate on the next screen.</string>
     <string name="share_app_not_found">%s App not found</string>
     <string name="share_file_requires_android10">File sharing is supported on Android 10 and later.</string>
 
+    <!-- ================================================================================ -->
+    <!-- Color names -->
+    <!-- ================================================================================ -->
+    <string-array name="color_names">
+        <item>White1</item>
+        <item>White2</item>
+        <item>Black1</item>
+        <item>Black2</item>
+        <item>Red1</item>
+        <item>Red2</item>
+        <item>Red3</item>
+        <item>Orange</item>
+        <item>Yellow</item>
+        <item>Light Green</item>
+        <item>Green</item>
+        <item>Sky Blue</item>
+        <item>Blue</item>
+        <item>Purple1</item>
+        <item>Purple2</item>
+        <item>Deep Purple</item>
+        <item>Pink</item>
+        <item>Deep Pink</item>
+        <item>Lime</item>
+        <item>Indigo</item>
+        <item>Deep Orange</item>
+        <item>Brown</item>
+    </string-array>
+    <string name="color_name_red">Red</string>
+    <string name="color_name_orange">Orange</string>
+    <string name="color_name_yellow">Yellow</string>
+    <string name="color_name_lightgreen">Light Green</string>
+    <string name="color_name_green">Green</string>
+    <string name="color_name_skyblue">Sky Blue</string>
+    <string name="color_name_blue">Blue</string>
+    <string name="color_name_purple">Purple</string>
+    <string name="color_name_pink">Pink</string>
+    <string name="color_name_deeppink">Deep Pink</string>
+    <string name="color_name_white1">White1</string>
+    <string name="color_name_white2">White2</string>
+    <string name="color_name_black1">Black1</string>
+    <string name="color_name_black2">Black2</string>
+    <string name="color_name_lime">Lime</string>
+    <string name="color_name_indigo">Indigo</string>
+    <string name="color_name_deeporange">Deep Orange</string>
+    <string name="color_name_brown">Brown</string>
+
 </resources>

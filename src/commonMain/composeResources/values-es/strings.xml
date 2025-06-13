@@ -2188,4 +2188,50 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="share_app_not_found">App %s no encontrada</string>
     <string name="share_file_requires_android10">El intercambio de archivos es compatible con Android 10 y versiones posteriores.</string>
 
+    <!-- ================================================================================ -->
+    <!-- Color names -->
+    <!-- ================================================================================ -->
+    <string-array name="color_names">
+        <item>"Blanco1"</item>
+        <item>"Blanco2"</item>
+        <item>"Negro1"</item>
+        <item>"Negro2"</item>
+        <item>"Rojo1"</item>
+        <item>"Rojo2"</item>
+        <item>"Rojo3"</item>
+        <item>"Naranja"</item>
+        <item>"Amarillo"</item>
+        <item>"Verde claro"</item>
+        <item>"Verde"</item>
+        <item>"Azul celeste"</item>
+        <item>"Azul"</item>
+        <item>"Púrpura1"</item>
+        <item>"Púrpura2"</item>
+        <item>"Púrpura intenso"</item>
+        <item>"Rosa"</item>
+        <item>Deep Pink</item>
+        <item>Lime</item>
+        <item>Indigo</item>
+        <item>Deep Orange</item>
+        <item>Brown</item>
+    </string-array>
+    <string name="color_name_red">"Rojo"</string>
+    <string name="color_name_orange">"Naranja"</string>
+    <string name="color_name_yellow">"Amarillo"</string>
+    <string name="color_name_lightgreen">"Verde claro"</string>
+    <string name="color_name_green">"Verde"</string>
+    <string name="color_name_skyblue">"Azul celeste"</string>
+    <string name="color_name_blue">"Azul"</string>
+    <string name="color_name_purple">"Púrpura"</string>
+    <string name="color_name_pink">"Rosa"</string>
+    <string name="color_name_deeppink">"Rosa intenso"</string>
+    <string name="color_name_white1">"Blanco1"</string>
+    <string name="color_name_white2">"Blanco2"</string>
+    <string name="color_name_black1">"Negro1"</string>
+    <string name="color_name_black2">"Negro2"</string>
+    <string name="color_name_lime">Lime</string>
+    <string name="color_name_indigo">Indigo</string>
+    <string name="color_name_deeporange">Deep Orange</string>
+    <string name="color_name_brown">Brown</string>
+
 </resources>

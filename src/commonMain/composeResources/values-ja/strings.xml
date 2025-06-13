@@ -2272,4 +2272,50 @@
     <string name="share_app_not_found">%sアプリが見つかりません</string>
     <string name="share_file_requires_android10">ファイル共有は Android 10 以降でサポートしています。</string>
 
+    <!-- ================================================================================ -->
+    <!-- Color names -->
+    <!-- ================================================================================ -->
+    <string-array name="color_names">
+        <item>ホワイト1</item>
+        <item>ホワイト2</item>
+        <item>ブラック1</item>
+        <item>ブラック2</item>
+        <item>レッド1</item>
+        <item>レッド2</item>
+        <item>レッド3</item>
+        <item>オレンジ</item>
+        <item>イエロー</item>
+        <item>ライトグリーン</item>
+        <item>グリーン</item>
+        <item>スカイブルー</item>
+        <item>ブルー</item>
+        <item>パープル1</item>
+        <item>パープル2</item>
+        <item>ディープパープル</item>
+        <item>ピンク</item>
+        <item>ディープピンク</item>
+        <item>ライム</item>
+        <item>インディゴ</item>
+        <item>ディープオレンジ</item>
+        <item>ブラウン</item>
+    </string-array>
+    <string name="color_name_red">レッド</string>
+    <string name="color_name_orange">オレンジ</string>
+    <string name="color_name_yellow">イエロー</string>
+    <string name="color_name_lightgreen">ライトグリーン</string>
+    <string name="color_name_green">グリーン</string>
+    <string name="color_name_skyblue">スカイブルー</string>
+    <string name="color_name_blue">ブルー</string>
+    <string name="color_name_purple">パープル</string>
+    <string name="color_name_pink">ピンク</string>
+    <string name="color_name_deeppink">ディープピンク</string>
+    <string name="color_name_white1">ホワイト1</string>
+    <string name="color_name_white2">ホワイト2</string>
+    <string name="color_name_black1">ブラック1</string>
+    <string name="color_name_black2">ブラック2</string>
+    <string name="color_name_lime">ライム</string>
+    <string name="color_name_indigo">インディゴ</string>
+    <string name="color_name_deeporange">ディープオレンジ</string>
+    <string name="color_name_brown">ブラウン</string>
+
 </resources>
