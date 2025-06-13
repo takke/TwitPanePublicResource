@@ -1,5 +1,12 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
 
+    <string name="common_yes">"是"</string>
+    <string name="common_no">"否"</string>
+    <string name="common_ok">"確定"</string>
+    <string name="common_cancel">"取消"</string>
+
+    <string name="menu_menu">"菜單"</string>
+
     <string name="title_activity_config">TwitPane設定</string>
     <string name="title_activity_page_config">頁面設定</string>
     <string name="title_activity_theme_config">主題設定</string>

@@ -1,5 +1,12 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
 
+    <string name="common_yes">Yes</string>
+    <string name="common_no">No</string>
+    <string name="common_ok">OK</string>
+    <string name="common_cancel">Cancel</string>
+
+    <string name="menu_menu">Menu</string>
+
     <string name="title_activity_config">TwitPane Settings</string>
     <string name="title_activity_page_config">Page Config</string>
     <string name="title_activity_theme_config">Theme Config</string>

@@ -1,4 +1,11 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="common_yes">はい</string>
+    <string name="common_no">いいえ</string>
+    <string name="common_ok">OK</string>
+    <string name="common_cancel">キャンセル</string>
+
+    <string name="menu_menu">メニュー</string>
     
     <string name="title_activity_config">設定</string>
     <string name="title_activity_page_config">タブのカスタマイズ</string>
