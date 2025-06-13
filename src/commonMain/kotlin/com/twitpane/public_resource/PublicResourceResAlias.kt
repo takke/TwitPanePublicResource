@@ -1,4 +1,4 @@
-package com.twitpane.core
+package com.twitpane.public_resource
 
 typealias PublicResourceStringRes = twitpane.public_resources.resources.Res.string
 
