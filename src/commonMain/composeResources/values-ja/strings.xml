@@ -1344,6 +1344,8 @@
     <string name="config_tap_ex_action_right_long">右側の長押し</string>
     <string name="config_tap_ex_action_right_long_summary">投稿の右側を長押しした際に呼び出す機能</string>
     <string name="config_tap_ex_preview_post">これはタップ拡張の設定とプレビュー用のポストです。\n左側や右側のエリアをタップ・長押しすることで呼び出す機能を、実際にタップ・長押しして割り当てることができます。</string>
+    <string name="config_vacuum_db">キャッシュクリア(DB)</string>
+    <string name="config_vacuum_db_confirm_message">内部DBを再作成しますか？\n\n・データは削除されません\n・数分お待ちください</string>
 
 	<string name="config_set_read_after_shown_ついぺん">表示時に既読にする</string>
 	<string name="config_set_read_after_shown_ぞーぺん">表示時に既読にする</string>
