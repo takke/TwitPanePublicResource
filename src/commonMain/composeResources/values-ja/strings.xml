@@ -117,18 +117,18 @@
     <string name="label_search_query_guide_since">since:2023-12-17 指定年月日からのポストに絞る</string>
     <string name="label_search_query_guide_until">until:2024-11-01 指定年月日までのポストに絞る</string>
 
-    <string name="label_mastodon_search_query_guide_account">"@takke@fedibird.com アカウント検索"</string>
-    <string name="label_mastodon_search_query_guide_account_url">"https://fedibird.com/@takke アカウント検索"</string>
-    <string name="label_mastodon_search_query_guide_status_url">"https://fedibird.com/@takke/110886555530031419 投稿の検索"</string>
-    <string name="label_mastodon_search_query_guide_from">"from:takke@fedibird.com 指定ユーザーからの投稿に絞る"</string>
-    <string name="label_mastodon_search_query_guide_from_me">"from:me 自分の投稿に絞る (Fedibirdのみ)"</string>
-    <string name="label_mastodon_search_query_guide_to">"to:takke@fedibird.com 指定ユーザーへのメンションに絞る"</string>
-    <string name="label_mastodon_search_query_guide_domain">"domain:mastodon.social ドメイン検索(Fedibirdのみ)"</string>
-    <string name="label_mastodon_search_query_guide_has_image">"has:image 画像付き投稿のみ"</string>
-    <string name="label_mastodon_search_query_guide_after">"after:2025-03-21 指定日以降の投稿に絞る"</string>
-    <string name="label_mastodon_search_query_guide_before">"before:2025-03-21 指定日以前の投稿に絞る"</string>
-    <string name="label_mastodon_search_query_guide_during">"during:2025-03-21 指定日の投稿のみ"</string>
-    <string name="label_mastodon_search_query_guide_notice">"※サーバーによってはこれらの検索機能が利用できない場合があります"</string>
+    <string name="label_mastodon_search_query_guide_account">@takke@fedibird.com アカウント検索</string>
+    <string name="label_mastodon_search_query_guide_account_url">https://fedibird.com/@takke アカウント検索</string>
+    <string name="label_mastodon_search_query_guide_status_url">https://fedibird.com/@takke/110886555530031419 投稿の検索</string>
+    <string name="label_mastodon_search_query_guide_from">from:takke@fedibird.com 指定ユーザーからの投稿に絞る</string>
+    <string name="label_mastodon_search_query_guide_from_me">from:me 自分の投稿に絞る (Fedibirdのみ)</string>
+    <string name="label_mastodon_search_query_guide_to">to:takke@fedibird.com 指定ユーザーへのメンションに絞る</string>
+    <string name="label_mastodon_search_query_guide_domain">domain:mastodon.social ドメイン検索(Fedibirdのみ)</string>
+    <string name="label_mastodon_search_query_guide_has_image">has:image 画像付き投稿のみ</string>
+    <string name="label_mastodon_search_query_guide_after">after:2025-03-21 指定日以降の投稿に絞る</string>
+    <string name="label_mastodon_search_query_guide_before">before:2025-03-21 指定日以前の投稿に絞る</string>
+    <string name="label_mastodon_search_query_guide_during">during:2025-03-21 指定日の投稿のみ</string>
+    <string name="label_mastodon_search_query_guide_notice">※サーバーによってはこれらの検索機能が利用できない場合があります</string>
 
     <string name="reload_button">リロード</string>
     <string name="reload_with_new_emojis">リロード＆新着絵文字の取得</string>
@@ -266,7 +266,7 @@
     <string name="add_antenna_tab">アンテナタブの追加</string>
     <string name="no_antennas">アンテナがありませんでした。アンテナを作成してからやり直してください。</string>
     <string name="users_mentioned">%1$s人が投稿</string>
-    <string name="remove_tab_confirm">"%1$s をタブから削除します。よろしいですか？"</string>
+    <string name="remove_tab_confirm">%1$s をタブから削除します。よろしいですか？</string>
     <string name="add_search_tab">検索タブの追加</string>
     <string name="common_clear">クリア</string>
     <string name="common_failed_message">失敗しました・・・。しばらく待ってからやり直してみてください</string>
@@ -403,7 +403,7 @@
     <string name="list_member_added">リストに追加しました</string>
     <string name="select_list_to_add_the_member">追加先のリストを選択してください</string>
     <string name="cannot_add_list_member_because_not_following_follow_confirm">このユーザーをフォローしていないのでリストに追加できません。フォローしますか？</string>
-    <string name="remove_from_list_confirm">"@%1$s は既に「%2$s」に追加されています。このリストから削除しますか？"</string>
+    <string name="remove_from_list_confirm">@%1$s は既に「%2$s」に追加されています。このリストから削除しますか？</string>
 
     <!-- プロフィール編集画面 -->
     <string name="profile_edit_screen_name_text_dummy">screen name</string>
@@ -1113,8 +1113,8 @@
     <string name="config_title_display_style_icon_account">アイコン + @アカウント名</string>
     <string name="config_title_display_style_icon_name">アイコン + 名前</string>
     <string name="config_title_display_style_icon_only">アイコンのみ</string>
-    <string name="config_title_display_style_account_name">"@アカウント名 + 名前"</string>
-    <string name="config_title_display_style_account_only">"@アカウント名のみ"</string>
+    <string name="config_title_display_style_account_name">@アカウント名 + 名前</string>
+    <string name="config_title_display_style_account_only">@アカウント名のみ</string>
     <string name="config_title_display_style_name_only">名前のみ</string>
     <string name="config_title_display_style_none">すべて非表示</string>
     <string name="config_unread_count_on_right_of_title">未読件数を右に表示</string>
@@ -1395,7 +1395,7 @@
     <string name="config_v2_tweet_post_summary">Twitter API v2 で投稿します。【初期値：OFF】</string>
     <string name="config_show_mushroom_button">絵文字選択ボタン</string>
     <string name="config_show_mushroom_button_summary">絵文字選択用のボタン(マッシュルームボタン)を表示する【初期値：ON】</string>
-    <string name="config_use_screen_name_completion">"@ 補完 (Blueskyは未対応)"</string>
+    <string name="config_use_screen_name_completion">@ 補完 (Blueskyは未対応)</string>
     <string name="config_use_screen_name_completion_summary">\'@\'入力時にユーザー名の選択画面を表示します【初期値：ON】</string>
     <string name="config_show_actionbar_tweet_button_ついぺん">メニューでツイート</string>
     <string name="config_show_actionbar_tweet_button_ぞーぺん">メニューで投稿</string>
@@ -1561,7 +1561,7 @@
 
     <string name="config_color_label">カラーラベル設定</string>
     <string name="config_color_label_summary">ユーザーのカラーラベルの色や名前の設定</string>
-    <string name="config_color_label_description">"ユーザーにカラーラベルを付けることで投稿を判別しやすくできます。例えば「ニュース」や「芸能人」、「友達」のように分類すると便利です。"</string>
+    <string name="config_color_label_description">ユーザーにカラーラベルを付けることで投稿を判別しやすくできます。例えば「ニュース」や「芸能人」、「友達」のように分類すると便利です。</string>
 
     <string name="config_search_category">検索設定</string>
 	<string name="config_search_lang">検索の言語</string>
@@ -1675,7 +1675,7 @@
     <string name="after_conversion">変換後</string>
     <string name="start_to_conversion_confirm" translatable="false">%1$s への変換を開始します。よろしいですか？</string>
     <string name="conversion_stop_confirm">変換を中断します。よろしいですか？\n(最後まで実行することを強くおすすめします)</string>
-    <string name="converting">"内部DBの変換を行っています。しばらくお待ちください。"</string>
+    <string name="converting">内部DBの変換を行っています。しばらくお待ちください。</string>
     <string name="conversion_aborted">中断しました。</string>
     <string name="config_prefs_export">設定のエクスポート(バックアップ)</string>
     <string name="config_prefs_export_summary">現在の設定をファイルに保存します。端末の移行時などにご利用ください。\n※ファイルには認証情報が含まれるので取扱いには十分ご注意ください。</string>
@@ -1779,7 +1779,7 @@
     <string name="theme_preview_post_reposted_text_taipane">ハッシュタグを含む投稿です。リタイーツされています。 #TaiPane</string>
     <string name="theme_preview_post_my_post">自分の投稿です。このデザインのプレビューです。\n実際の表示はこのようになります。</string>
     <string name="theme_preview_post_others_post">他人の投稿です。</string>
-    <string name="theme_preview_post_reply_to_me">"@takke 自分宛の返信です。"</string>
+    <string name="theme_preview_post_reply_to_me">@takke 自分宛の返信です。</string>
     <string name="theme_preview_post_attach_image">画像を添付するとこのようになります。</string>
     <string name="theme_preview_post_attach_2_images">缶バッジとアクキー(センシティブフラグがONの例) #ZonePane</string>
 
@@ -1796,7 +1796,7 @@
     <!-- ================================================================================ -->
     <string name="profile_tweets">ツイート</string>
     <string name="profile_posts">ポスト</string>
-    <string name="profile_toots">"投稿"</string>
+    <string name="profile_toots">投稿</string>
     <string name="profile_follows">フォロー</string>
     <string name="profile_followers">フォロワー</string>
 
@@ -1861,18 +1861,18 @@
     <string name="emojipicker_guide_dialog_download">ダウンロード</string>
 
     <!-- Unicode Emoji Picker -->
-    <string name="emoji_add_reaction">"リアクションを追加"</string>
-    <string name="emoji_add_reaction_dots">"リアクションを追加..."</string>
-    <string name="emoji_category_smileys_and_emotion">"顔文字"</string>
-    <string name="emoji_category_people_and_body">"人物"</string>
-    <string name="emoji_category_animals_and_nature">"動物と自然"</string>
-    <string name="emoji_category_food_and_drink">"食べ物＆飲み物"</string>
-    <string name="emoji_category_travel_and_places">"旅行と場所"</string>
-    <string name="emoji_category_activities">"活動"</string>
-    <string name="emoji_category_objects">"アイテム"</string>
-    <string name="emoji_category_symbols">"記号"</string>
-    <string name="emoji_category_flags">"旗"</string>
-    <string name="emoji_category_recently_used">"最近使用した絵文字"</string>
+    <string name="emoji_add_reaction">リアクションを追加</string>
+    <string name="emoji_add_reaction_dots">リアクションを追加...</string>
+    <string name="emoji_category_smileys_and_emotion">顔文字</string>
+    <string name="emoji_category_people_and_body">人物</string>
+    <string name="emoji_category_animals_and_nature">動物と自然</string>
+    <string name="emoji_category_food_and_drink">食べ物＆飲み物</string>
+    <string name="emoji_category_travel_and_places">旅行と場所</string>
+    <string name="emoji_category_activities">活動</string>
+    <string name="emoji_category_objects">アイテム</string>
+    <string name="emoji_category_symbols">記号</string>
+    <string name="emoji_category_flags">旗</string>
+    <string name="emoji_category_recently_used">最近使用した絵文字</string>
 
     <!-- Bluesky Chat -->
     <string name="bs_delete_reaction_message">%s を削除しますか？</string>
@@ -1902,7 +1902,7 @@
     <string name="login_with_browser">ブラウザでログイン</string>
     <string name="next">次へ</string>
     <string name="skip">スキップ</string>
-    <string name="jump_to_first_page">"&lt;&lt; 最初に戻る"</string>
+    <string name="jump_to_first_page">&lt;&lt; 最初に戻る</string>
     <string name="login">ログイン</string>
     <string name="login_with_another_account">ログインと再認証(別アカウントでログイン)</string>
     <string name="login_to_taittsuu">タイッツーにログイン</string>
@@ -1916,8 +1916,8 @@
     <string name="trade_mark_info">「Twitter」は X Corp. の商標または登録商標です。</string>
     <string name="privacy_policy_agreement">&lt;a href="https://twitpane.com/terms_of_use/"&gt;利用規約&lt;/a&gt;、&lt;a href="https://twitpane.com/privacy_policy/"&gt;プライバシーポリシー&lt;/a&gt;に同意の上、&lt;br /&gt;ログインしてください</string>
 
-    <string name="trend_tweet_count">"%1$s ツイート"</string>
-    <string name="trend_post_count">"%1$s ポスト"</string>
+    <string name="trend_tweet_count">%1$s ツイート</string>
+    <string name="trend_post_count">%1$s ポスト</string>
     <string name="dm_not_allowed_and_re_authorize_confirm_message">ダイレクトメッセージのアクセス権限がX社の不具合により消えてしまいました。再度認証することでアクセス権限を取得することができます。再度認証しますか？</string>
     <string name="could_not_authenticate_you_re_authorize_confirm_message">アカウントの認証に失敗しました。ログイン画面から再度同じアカウントでログインし直してください。再度認証しますか？\n\n※このエラーが繰り返し表示される場合は何らかの障害が発生している可能性があります。公式サイトや公式アカウント(@TwitPane)で最新情報をご確認ください。</string>
     <string name="bluesky_invalid_token_re_authorize_confirm_message">認証の有効期限が切れました\n※Bluesky の OAuth の仕様のため定期的に再認証が必要です。\n再認証してください\n\n※このエラーが繰り返し表示される場合は何らかの障害が発生している可能性があります。公式サイトで最新情報をご確認ください。</string>
@@ -2007,7 +2007,7 @@
 
     <string name="event_log_delete_confirm_title">イベントログの削除</string>
     <string name="event_log_delete_confirm_message">このイベントを削除してもよろしいですか？\n※投稿データ自体は消えません</string>
-    <string name="event_log_information">"「投稿」や「新着通知」等のバックグラウンドで行われたイベントを確認できます。"</string>
+    <string name="event_log_information">「投稿」や「新着通知」等のバックグラウンドで行われたイベントを確認できます。</string>
 
 
     <!-- 自動更新 -->
@@ -2022,7 +2022,7 @@
     <string name="periodic_update_worker_updating_tabs">自動更新処理を開始します</string>
     <string name="periodic_update_worker_saving_event_logs">イベントログを保存しています</string>
     <string name="periodic_update_worker_set_notifications">通知を表示しています</string>
-    <string name="periodic_update_worker_fetching">"自動更新しています…\n%1$s"</string>
+    <string name="periodic_update_worker_fetching">自動更新しています…\n%1$s</string>
 
 
     <!-- Mastodon -->
@@ -2065,8 +2065,8 @@
 
     <string name="select_publish_service_type">投稿するSNSを選択してください</string>
     <string name="share_pattern_selector_title">共有形式を選択してください</string>
-    <string name="share_pattern_selector_full">"@ユーザー名(表示名) + 本文"</string>
-    <string name="share_pattern_selector_body_only">"本文のみ"</string>
+    <string name="share_pattern_selector_full">@ユーザー名(表示名) + 本文</string>
+    <string name="share_pattern_selector_body_only">本文のみ</string>
 
     <!-- Bluesky Threadgate -->
     <string name="threadgate_nobody">返信不可</string>
@@ -2099,11 +2099,11 @@
     <string name="translate">翻訳</string>
     <string name="cant_change_account_when_reply">返信先があるのでアカウント切替できません</string>
     <string name="config_design">デザイン調整</string>
-    <string name="twitpaneplus_end_of_development_notice">"TwitPane+の開発は終了しました"</string>
+    <string name="twitpaneplus_end_of_development_notice">TwitPane+の開発は終了しました</string>
     <string name="twitpaneplus_end_of_development_notice_message">TwitPane+の開発は終了しました。\n\n今後はZonePane(ぞーぺん)またはTwitPane無料版をご利用ください。</string>
     <string name="twitpaneresearch_end_of_development_notice">Playストア版は終了しました</string>
     <string name="twitpaneresearch_end_of_development_message">ついぺんリサーチ Playストア版の開発は終了しました。\nご利用ありがとうございました。</string>
-    <string name="twitpane_research_guide">"TwitPane の X(旧Twitter) 機能は利用できなくなりました。\n\nX (旧Twitter) の閲覧機能に特化した&lt;a href=\"https://play.google.com/store/apps/details?id=com.twitpane.search&amp;hl=ja/\">ついぺんリサーチR&lt;/a>をご利用ください。"</string>
+    <string name="twitpane_research_guide">TwitPane の X(旧Twitter) 機能は利用できなくなりました。\n\nX (旧Twitter) の閲覧機能に特化した&lt;a href=\"https://play.google.com/store/apps/details?id=com.twitpane.search&amp;hl=ja/\">ついぺんリサーチR&lt;/a>をご利用ください。</string>
     <string name="hide_ad">広告を消す</string>
     <string name="followed_by">%1$sがフォロー中</string>
     <string name="followed_by_and_one_other">%1$sおよび他1人がフォロー中</string>
@@ -2138,7 +2138,7 @@
     <string name="enter_username_or_mail_address">ユーザー名またはメールアドレスを入力してください</string>
     <string name="enter_username">ユーザー名を入力してください</string>
     <string name="enter_password">パスワードを入力してください</string>
-    <string name="logged_in_as">"@%1$s でログインしました"</string>
+    <string name="logged_in_as">@%1$s でログインしました</string>
     <string name="error_occurred">エラーが発生しました(%1$s)</string>
     <string name="review_confirm_message">レビューを書いて、%s を応援していただけますか？</string>
 
