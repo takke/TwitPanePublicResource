@@ -430,7 +430,7 @@
     <string name="drawer_close">關閉</string>
 
     <string name="search_around_tweets_not_found_message">沒有在 @%1$s 的時間軸中找到。</string>
-    <string name="search_around_toots_not_found_message">Not found in @%1$s's timeline.</string>
+    <string name="search_around_toots_not_found_message">Not found in @%1$s\'s timeline.</string>
 
     <!-- 固定ツイート -->
     <string name="pinned_post_tw">置頂推文</string>
@@ -1173,7 +1173,7 @@
     <string name="config_hide_my_numbers">Hide my numbers</string>
     <string name="config_hide_my_numbers_summary">Hide the number of likes, RTs, etc. of your posts.</string>
     <string name="config_hide_other_numbers">Hide other numbers</string>
-    <string name="config_hide_other_numbers_summary">Hide the likes, RTs and other values of other people's posts</string>
+    <string name="config_hide_other_numbers_summary">Hide the likes, RTs and other values of other people\'s posts</string>
     <string name="config_show_quote_count">顯示引用的推文計數</string>
     <string name="config_show_quote_count_summary">[默認：開]</string>
     <string name="config_change_link_area_thumbnail_size">更改鏈接照片大小</string>
