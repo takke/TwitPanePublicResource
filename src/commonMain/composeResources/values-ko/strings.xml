@@ -73,13 +73,13 @@
     <string name="pane_name_lists_memberships">목록의 구성원</string>
     <string name="pane_name_list_member">목록 멤버</string>
     <string name="pane_name_list_subscribers">목록 구독자</string>
-    <string name="pane_name_follow">%1$s '의 팔로우</string>
+    <string name="pane_name_follow">%1$s \'의 팔로우</string>
     <string name="pane_name_follower">%1$s 의 팔로워</string>
     <string name="pane_name_likes_of">%1$s 의 마음</string>
     <string name="pane_name_blocks">차단된 유저</string>
     <string name="pane_name_search_user">유저 검색</string>
     <string name="pane_name_feeds">피드</string>
-    
+
     <string name="showcase_start_title">TwitPane에 오신 것을 환영합니다!</string>
     <string name="showcase_start_summary">조금, 사용하는 법. \n \n 우선, 한 목록의 트윗이 중간에 나타날 것입니다. 물론 위아래로 스크롤할 수 있습니다!</string>
     <string name="showcase_center1_title">당신은 좌우로 밀어 탭을 이동할 수 있습니다!</string>
@@ -140,7 +140,7 @@
     <string name="reload_custom_emojis">리로드</string>
 
     <string name="load_another_locations">다른 지역</string>
-    
+
     <string name="color_edit_button">편집</string>
     <string name="restore_default_confirm">기본값을 복원?</string>
     <string name="import_confirm_message">이 디자인을 가져오시겠습니까?</string>
@@ -156,7 +156,7 @@
     <string name="view_date_minute_ago">%1$d 분 전</string>
     <string name="view_date_minutes_ago">%1$d 분 전</string>
     <string name="pager_more">더 많은 트윗을 읽기</string>
-    
+
     <string name="account_add">계정 추가</string>
     <string name="account_reorder">Reorder</string>
     <string name="account_delete">계정 삭제</string>
@@ -169,7 +169,7 @@
     <string name="mst_announcements">Announcements</string>
     <string name="changing_account_to">로 변경 %1$s</string>
     <string name="cannot_auth_account_via_official_twitter_app">공식 트위터 애플리케이션을 통한 로그인 과정에서 오류가 발생했습니다. \n\n(%1$s)\n\n브라우저를 통해 로그인합니다.</string>
-    
+
     <string name="profile_edit_button">프로필 수정</string>
     <string name="profile_edit_banner_image_button">배너를 선택</string>
     <string name="banner_menu">배너 메뉴</string>
@@ -279,10 +279,10 @@
     <string name="cannot_view_private_account_post">비공개 계정의 게시물을 볼 수 없습니다</string>
     <string name="cannot_retweet_duplicate_status">이미 리트윗되었습니다.</string>
     <string name="cannot_retweet_blocked_user">You have been blocked from retweeting this user\'s tweets at their request.</string>
-    
+
     <string name="image_size_errror">이미지 크기 오류</string>
     <string name="too_large_image_size_to_attach">너무 큰 이미지 크기</string>
-    
+
     <string name="block_user_confirm_message">정말로 차단하시겠습니까?</string>
     <string name="block_tweet_confirm_message">정말로 차단하시겠습니까?</string>
     <string name="block_post_confirm_message">이 게시물을 차단하시겠습니까?</string>
@@ -291,7 +291,7 @@
     <string name="user_reported_message">신고됨</string>
     <string name="destroy_block_user_confirm_message">정말로 차단을 해제하시겠습니까?</string>
     <string name="destroy_block_message">차단 해제됨</string>
-    
+
     <string name="following">팔로잉</string>
     <string name="follow">팔로우</string>
     <string name="you_are_followed">[당신을 팔로우합니다]</string>
@@ -342,7 +342,7 @@
 
     <string name="show_channel_notes">Show channel notes</string>
     <string name="exclude_channel_notes">Exclude channel notes</string>
-    
+
     <string name="twitter_error_network_issue">실패했습니다. 트위터 서버와 통신할 수 없습니다. 몇 분 후에 다시 시도하십시오.</string>
     <string name="twitter_error_resource_not_found">"실패했습니다. 리소스를 찾을 수 없습니다.</string>
     <string name="twitter_error_resource_not_found_post">실패했습니다. 리소스(게시물, DM 또는 기타)가 삭제되었을 수 있습니다</string>
@@ -365,11 +365,11 @@
     <string name="notification_new_reply_text_mastodon">당신을 위한 몇 가지 게시물이 있습니다.</string>
     <string name="notification_new_reply_text_misskey">당신을 위한 몇 가지 노트가 있습니다.</string>
     <string name="notification_new_reply_text_bluesky">당신을 위한 몇 가지 게시물이 있습니다.</string>
-    
+
     <string name="notification_new_dm_ticker">새 메시지를 받았습니다</string>
     <string name="notification_new_dm_text">새로운 직접 메시지</string>
     <string name="notification_new_dm_text_with_user">\@%1$s로부터의 메세지</string>
-    
+
     <string name="retweeted_by_user">%1$s에 의해 리트윗됨</string>
     <string name="boosted_by_user">%1$s님이 부스트했습니다</string>
     <string name="renoted_by_user">%1$s님이 리노트했습니다</string>
@@ -382,7 +382,7 @@
     <string name="compass_button">현재 위치를 확인</string>
 
     <string name="show_tweet_activity">트윗 활동 표시</string>
-    
+
     <!-- リスト作成・編集画面 -->
     <string name="list_name_text">목록 이름</string>
     <string name="list_description_text">설명</string>
@@ -395,7 +395,7 @@
     <string name="list_edited">저장됨</string>
     <string name="list_description_length_error">140자 이하의 설명 텍스트를 입력하십시오</string>
     <string name="no_list_name_error">목록이름을 입력해주세요</string>
-    
+
     <!-- リストメンバー編集 -->
     <string name="list_member_added">추가된 목록멤버</string>
     <string name="select_list_to_add_the_member">멤버를 추가할 목록을 선택하세요</string>
@@ -415,13 +415,13 @@
     <string name="profile_fields_misskey">Profile Fields</string>
     <string name="profile_banner_saved">저장됨, 몇 분 후에 유효화됩니다</string>
     <string name="profile_banner_removed">제거됨. 몇 분 후에 유효화됩니다</string>
-    
+
     <!-- レビューのお願い画面 -->
     <string name="review_dialog_title">부디...</string>
     <string name="review_dialog_message">TwitPane에 대해 어떻게 생각하십니까? \n 구글플레이에서 개발팀을 지원하시겠습니까?</string>
     <string name="review_dialog_later_button">나중에</string>
     <string name="review_dialog_review_button">확인</string>
-    
+
     <!-- お気に入り表示公式アプリ確認関連 -->
     <string name="need_official_app_title">Need official app</string>
     <string name="need_official_app_message">Install official app?</string>
@@ -429,8 +429,8 @@
 	<string name="drawer_open">열기</string>
 	<string name="drawer_close">닫기</string>
 
-    <string name="search_around_tweets_not_found_message">Not found in @%1$s's timeline…</string>
-    <string name="search_around_toots_not_found_message">Not found in @%1$s's timeline.</string>
+    <string name="search_around_tweets_not_found_message">Not found in @%1$s\'s timeline…</string>
+    <string name="search_around_toots_not_found_message">Not found in @%1$s\'s timeline.</string>
 
     <!-- 固定ツイート -->
     <string name="pinned_post_tw">메인 트윗</string>
@@ -486,7 +486,7 @@
     <string name="debug_mode_send_debug_log_confirm_title">디버그 로그 보내기</string>
     <string name="debug_mode_send_debug_log_confirm_message">"불편을 끼쳐 드려 죄송합니다.
 \n
-\n 트위터의 구체적 사항의 변경으로 인해 당신은 더 이상 이용이 불가능할 수 있습니다. 
+\n 트위터의 구체적 사항의 변경으로 인해 당신은 더 이상 이용이 불가능할 수 있습니다.
 \n 수정된 버전이 이미 발행되었을 수 있기 때문에 구글플레이 스토에서 업데이트를 확인해주세요.
 \n (대중에 발행되지 않은 경우 조금 기다려 주세요.)
 \n
@@ -506,7 +506,7 @@
     <string name="menu_page_config_category">탭 사용자조정</string>
     <string name="menu_page_config_category_summary"></string>
     <string name="add_tab">탭 추가</string>
-    
+
     <string name="menu_ok">확인</string>
     <string name="menu_cancel">취소</string>
     <string name="menu_restore_default">기본값</string>
@@ -529,12 +529,12 @@
     <string name="menu_start_userstream">UserStream를 시작</string>
     <string name="menu_enable_auto_scroll">자동 스크롤 활성화</string>
     <string name="menu_disable_auto_scroll">자동 스크롤 비활성화</string>
-    
+
     <string name="menu_add_search_tab_to_home">검색 탭 추가</string>
     <string name="add_search_tab_to_home_already_added">이미 추가됨..</string>
     <string name="add_search_tab_to_home_finish">추가</string>
     <string name="menu_open_saved_search">저장된 검색을 열기</string>
-    
+
     <string name="menu_show_image_only">이미지에 한정하여 보기</string>
     <string name="menu_cancel_image_only">이미지에 한정하여 취소</string>
 
@@ -579,13 +579,13 @@
     <string name="campaign_info_message">이 앱을 사용해 주셔서 감사합니다! \n\n 광고를 숨기고 싶으시면 이 앱을 광고트윗하실 수 있습니다.  (%1$d days)</string>
     <string name="campaign_info_tweet">트윗 입력</string>
     <string name="campaign_input_title">트윗을 입력해주세요</string>
-    <string name="campaign_input_alert">'TwitPane'을 포함한 입력트윗</string>
+    <string name="campaign_input_alert">\'TwitPane\'을 포함한 입력트윗</string>
     <string name="campaign_already_ad_hiding">이미 광고를 숨겼습니다..\n 정말로 광고를 복원하시겠습니까?</string>
     <string name="campaign_tweet_done_title">캠페인 트윗 완료</string>
     <string name="campaign_tweet_done_message">캠페인 트윗을 보냈습니다. 약 %1$d 일 동안 광고가 숨겨질 것입니다!</string>
     <string name="campaign_tweet_count_exceeded">PR 트윗으로 광고 제거를 수행한 횟수가 한도를 초과했습니다. 광고 취소 팩(구독) 또는 유료 버전을 고려하십시오.</string>
-    
-    
+
+
     <string name="menu_no_tap_ex_action">탭 작업 행동 없음 (기본값)</string>
     <string name="reply_button">답장</string>
     <string name="menu_reply">답장</string>
@@ -708,7 +708,7 @@
     <string name="unpinned_toot">Unpinned Toot</string>
     <string name="menu_open_with_official_app">공식 앱으로 열기</string>
     <string name="menu_import_design">디자인 들여오기</string>
-    
+
     <string name="menu_user_mute">이 사용자를 뮤트</string>
     <string name="menu_user_block">이 사용자 차단</string>
     <string name="menu_block_this_tweet">이 트윗 차단</string>
@@ -739,11 +739,11 @@
     <string name="menu_user_show_timeline">타임라인 보이기</string>
     <string name="menu_user_reply_to">회신</string>
     <string name="menu_user_send_message">에 메시지를 보내기</string>
-    
+
     <string name="menu_guide">튜토리얼 보이기</string>
     <string name="menu_auto_update_now">Start auto-update tabs now</string>
     <string name="menu_add_list">리스트에 추가하기</string>
-    
+
     <string name="menu_tweet_config">설정</string>
     <string name="menu_reply_to_other_post_tw">다른 트윗에 링크</string>
     <string name="menu_reply_to_other_post_taittsuu">다른 타이쓰에 연결</string>
@@ -838,7 +838,7 @@
 
     <string name="select_upload_plugin">업로드 플러그인 선택</string>
     <string name="upload_with_twitpane">TwitPane으로 업로드</string>
-    
+
     <string name="image_menu">이미지 메뉴</string>
     <string name="video_menu">비디오 메뉴</string>
     <string name="media_menu_preview">미리보기</string>
@@ -846,7 +846,7 @@
     <string name="image_menu_save">저장</string>
     <string name="image_menu_rotate">90도 회전</string>
     <string name="image_menu_edit_with_external_app">편집</string>
-    
+
     <string name="hashtag_menu_search">검색</string>
     <string name="url_search">URL 검색</string>
     <string name="hashtag_menu_tweet_tw">트윗</string>
@@ -856,10 +856,10 @@
     <string name="hashtag_menu_remember">기억하기</string>
     <string name="hashtag_menu_mute">음소거</string>
     <string name="hashtag_remembered">기억했습니다 (새 트윗 창에서 호출할 수 있습니다)</string>
-    
+
     <string name="menu_change_name">탭 이름 변경</string>
     <string name="menu_change_keyword">키워드 변경</string>
-    
+
     <!-- ================================================================================ -->
     <!-- 投稿画面 -->
     <!-- ================================================================================ -->
@@ -922,13 +922,13 @@
     <string name="publish_finish_save_discard">저장안함</string>
     <string name="publish_finish_save_cancel">취소</string>
     <string name="interstitial_ad_notice_message">Advertisements will appear on the next screen.\n
-- Only once a day, an ad will be displayed after posting.\n
-- Please note that sound may be emitted while displaying ads, so please pay attention to the volume and surrounding environment.\n
-- Ads can be removed by subscribing to the Ad-free Pack (Settings -> Subscription).</string>
+ - Only once a day, an ad will be displayed after posting.\n
+ - Please note that sound may be emitted while displaying ads, so please pay attention to the volume and surrounding environment.\n
+ - Ads can be removed by subscribing to the Ad-free Pack (Settings -> Subscription).</string>
     <string name="after_publish_ad_dialog_message">Submitting...</string>
     <string name="after_publish_ad_notice_message">Advertisements will appear on the next screen.\n
-- Please note that sound may be emitted while displaying ads, so please pay attention to the volume and surrounding environment.\n
-- Ads can be removed by subscribing to the Ad-free Pack (Settings -> Subscription).</string>
+ - Please note that sound may be emitted while displaying ads, so please pay attention to the volume and surrounding environment.\n
+ - Ads can be removed by subscribing to the Ad-free Pack (Settings -> Subscription).</string>
     <string name="no_drafts">초안이 없음</string>
     <string name="select_items_to_delete">삭제하려는 항목을 선택하십시오</string>
     <string name="drafts">임시보관함</string>
@@ -989,7 +989,7 @@
     <!-- ================================================================================ -->
     <!-- 内蔵ブラウザ -->
     <!-- ================================================================================ -->
-    
+
     <!-- ツールバーボタン -->
     <string name="browser_top_button">홈</string>
     <string name="browser_back_button">뒤로</string>
@@ -999,9 +999,9 @@
     <string name="browser_reload_button">리로드</string>
     <string name="browser_open_browser_button">브라우저로 열기</string>
     <string name="browser_exit_button">종료</string>
-    
+
     <string name="browser_cancel_text">취소</string>
-    
+
     <!-- その他 -->
     <string name="browser_share_by_browser_confirm_dialog_title">브라우저</string>
     <string name="browser_share_by_browser_confirm_dialog_message">이 페이지를 정말로 브라우저에서 여시겠습니까?</string>
@@ -1013,14 +1013,14 @@
     <string name="browser_share_menu">공유</string>
     <string name="browser_debug_menu">디버그 정보</string>
     <string name="browser_jb_copy_start_message">선택을 시작하기 위한 긴 탭 텍스트</string>
-    
+
     <!-- 終了確認 -->
     <string name="browser_exit_confirm_title">닫기</string>
     <string name="browser_exit_confirm_message">정말로 종료하시겠습니까?</string>
-    
+
     <!-- URL確認 -->
     <string name="browser_url_confirm_title">URL 확인f</string>
-    <string name="browser_url_confirm_message">%1$s \n\n '공유' 또는 '클립보드에 복사'</string>
+    <string name="browser_url_confirm_message">%1$s \n\n \'공유\' 또는 \'클립보드에 복사\'</string>
     <string name="browser_url_confirm_copy">복사</string>
     <string name="browser_url_confirm_copied">클립보드에 복사</string>
     <string name="browser_url_confirm_cancel">취소</string>
@@ -1029,15 +1029,15 @@
     <!-- 画像保存確認 -->
     <string name="browser_save_image_confirm_title">이미지 저장</string>
     <string name="browser_save_image_confirm_message">이미지를 저장?</string>
-    
+
     <!-- ブラウザのロングタップメニュー -->
     <string name="browser_long_click_menu_title">이 페이지를 열까요?</string>
     <string name="browser_long_click_menu_open">열기</string>
     <string name="browser_long_click_menu_open_browser">브라우저 열기</string>
     <string name="browser_long_click_menu_share">공유</string>
     <string name="browser_long_click_menu_cancel">취소</string>
-    
-    
+
+
     <!-- ================================================================================ -->
     <!-- Settings -->
     <!-- ================================================================================ -->
@@ -1172,7 +1172,7 @@
     <string name="config_hide_my_numbers">Hide my numbers</string>
     <string name="config_hide_my_numbers_summary">Hide the number of likes, RTs, etc. of your posts.</string>
     <string name="config_hide_other_numbers">Hide other numbers</string>
-    <string name="config_hide_other_numbers_summary">Hide the likes, RTs and other values of other people's posts</string>
+    <string name="config_hide_other_numbers_summary">Hide the likes, RTs and other values of other people\'s posts</string>
     <string name="config_show_quote_count">인용된 트윗 수 표시</string>
     <string name="config_show_quote_count_summary"></string>
     <string name="config_change_link_area_thumbnail_size">링크 사진 크기 변경</string>
@@ -1429,12 +1429,12 @@
     <string name="config_mute_no_users">음소거 사용자 없음</string>
     <string name="this_user_is_muted">이 사용자는 음소거되었습니다.</string>
     <string name="misskey_announcement_read">Okay!</string>
-    
+
     <string name="config_mute_clients">클라이언트</string>
     <string name="config_mute_clients_message">음소거 클라이언트 이름을 지정ㅅ</string>
     <string name="config_mute_clients_hint">클라이언트 이름</string>
     <string name="config_mute_no_clients">음소거 클라이언트가 없습니다</string>
-    
+
     <string name="config_mute_words">텍스트</string>
     <string name="config_mute_words_message">음소거 단어 지정</string>
     <string name="config_mute_words_hint">단어</string>
@@ -1463,7 +1463,7 @@
     <string name="config_show_auto_scroll_button_summary"></string>
     <string name="config_userstream_keep_screen_on">화면을 켠 상태로 유지</string>
     <string name="config_userstream_keep_screen_on_summary">자동 수면을 비활성화</string>
-    
+
     <string name="config_notification_category">자동 업데이트 및 알림</string>
     <string name="config_notification_category_summary"></string>
     <string name="config_notification_category_basic">Basic Settings</string>
@@ -1540,7 +1540,7 @@
     <string name="config_color_label">색상 레이블 설정</string>
     <string name="config_color_label_summary">Set the colors of the user labels</string>
     <string name="config_color_label_description">트윗을 쉽게 식별하기 위해 사용자에게 색상 레이블을 할당할 수 있습니다. 예를 들어, "뉴스", "연예인", "친구"로 분류하는 것이 유용합니다.</string>
-    
+
     <string name="config_search_category">검색 설정</string>
 	<string name="config_search_lang">검색 언어</string>
 	<string-array name="config_search_lang_entries">
@@ -1569,7 +1569,7 @@
     <string name="config_open_new_activity_for_trend_search_summary">트렌드로부터 검색을 표시할 때 새로운 창(활동)을 열기 [기본값 : ON]</string>
 
     <string name="config_image_viewer_settings_category">이미지 뷰어 설정</string>
-    <string name="config_image_viewer_back_on_tap_title">'뒤로'를 탭하여</string>
+    <string name="config_image_viewer_back_on_tap_title">\'뒤로\'를 탭하여</string>
     <string name="config_image_viewer_back_on_tap_summary"></string>
     <string name="config_image_viewer_vertical_swipe_to_close_title">닫으려면 스 와이프</string>
     <string name="config_image_viewer_vertical_swipe_to_close_summary"></string>
@@ -1676,7 +1676,7 @@
 	<string name="config_menu_icon_color_view">보기</string>
 	<string name="config_menu_icon_color_share">공유</string>
 	<string name="config_menu_icon_color_config">설정</string>
-					
+
 	<string name="config_twicca_plugin">twicca 플러그인 설정</string>
     <string name="twicca_plugin_not_found">twicca 플러그인을 찾을 수 없습니다</string>
 
@@ -1750,7 +1750,7 @@
     <string name="image_viewer_back_button">뒤로</string>
     <string name="browser_save_image_saved">저장됨 ( %1$s )</string>
     <string name="browser_save_image_cannot_save">이미지를 저장할 수 없습니다</string>
-    
+
     <!-- ================================================================================ -->
     <!-- Profile Fragment -->
     <!-- ================================================================================ -->
@@ -1765,7 +1765,7 @@
     <string name="place_activity_location_setting_dialog_message">정말로 위치 서비스 설정을 여시겠습니까?</string>
     <string name="place_activity_location_setting_dialog_yes">예</string>
     <string name="place_activity_location_setting_dialog_cancel">취소</string>
-    
+
     <string name="place_activity_location_not_found">현재 위치를 가져올 수 없습니다 ...</string>
     <string name="place_activity_location_use_last_location">최근 위치를 사용.</string>
 
@@ -1811,8 +1811,8 @@
     <string name="authorize">승인하다</string>
     <string name="failed_to_authorize_to_twitter_and_confirm_to_reauthorize">트위터 인증에 실패했습니다.\n참고: 북마크 인증 중이라면 다른 기기로 로그인 후 인증이 안될 수 있습니다. \n\n다음 화면에서 재인증을 해주세요.</string>
     <string name="authorized_account_not_match_to_current_account">인증된 계정이 현재 계정과 일치하지 않습니다.\n\n
-- 인증된 계정: @%1$s\n
-- 기존 계정: @%2$s\n
+ - 인증된 계정: @%1$s\n
+ - 기존 계정: @%2$s\n
 \n
 다음 화면에서 재인증하세요.</string>
 

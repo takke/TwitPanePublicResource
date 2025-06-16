@@ -429,8 +429,8 @@
     <string name="drawer_open">Abrir</string>
     <string name="drawer_close">Cerrar</string>
 
-    <string name="search_around_tweets_not_found_message">Not found in @%1$s's timeline…</string>
-    <string name="search_around_toots_not_found_message">Not found in @%1$s's timeline.</string>
+    <string name="search_around_tweets_not_found_message">Not found in @%1$s\'s timeline…</string>
+    <string name="search_around_toots_not_found_message">Not found in @%1$s\'s timeline.</string>
 
     <!-- 固定ツイート -->
     <string name="pinned_post_tw">Tweet fijado</string>
@@ -580,7 +580,7 @@
     <string name="campaign_info_message">¡Gracias por usar esta aplicación!\n\nSi deseas ocultar los anuncios, puedes tuitear el ad-tweet de esta aplicación. (%1$d days)</string>
     <string name="campaign_info_tweet">introducir tweet</string>
     <string name="campaign_input_title">Por favor, introduce tweet</string>
-    <string name="campaign_input_alert">Introduce tweet incluyendo 'TwitPane'</string>
+    <string name="campaign_input_alert">Introduce tweet incluyendo \'TwitPane\'</string>
     <string name="campaign_already_ad_hiding">Publicidad ya oculta ... \n¿Seguro que quieres restaurar la publicidad? ¿Aceptar?</string>
     <string name="campaign_tweet_done_title">Tweet de campaña hecho</string>
     <string name="campaign_tweet_done_message">Tweet de campaña enviado de modo que la publicidad se oculte %1$d días.</string>
@@ -1171,7 +1171,7 @@
     <string name="config_hide_my_numbers">Hide my numbers</string>
     <string name="config_hide_my_numbers_summary">Hide the number of likes, RTs, etc. of your posts.</string>
     <string name="config_hide_other_numbers">Hide other numbers</string>
-    <string name="config_hide_other_numbers_summary">Hide the likes, RTs and other values of other people's posts</string>
+    <string name="config_hide_other_numbers_summary">Hide the likes, RTs and other values of other people\'s posts</string>
     <string name="config_show_quote_count">Mostrar recuento de tweets citados</string>
     <string name="config_show_quote_count_summary"></string>
     <string name="config_change_link_area_thumbnail_size">Cambiar el tamaño de la foto del enlace</string>
