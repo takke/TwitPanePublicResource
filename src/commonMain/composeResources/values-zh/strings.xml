@@ -1,4 +1,4 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
+<resources>
 
     <string name="common_yes">是</string>
     <string name="common_no">否</string>
@@ -1913,7 +1913,7 @@
     <string name="fatal_authenticate_error_message">A fatal authentication error has occurred. If this error is displayed repeatedly, there may be some kind of failure. Please check the official website and official account (@TwitPane) for the latest information.</string>
     <string name="check_official_site">Check official site</string>
 
-    <string name="select_copy_content" tools:ignore="TypographyEllipsis">选择...</string>
+    <string name="select_copy_content">选择...</string>
     <string name="some_settings_applied_after_restarted">部分设置将在应用程序重新启动后生效。</string>
 
     <!-- イベントログ -->

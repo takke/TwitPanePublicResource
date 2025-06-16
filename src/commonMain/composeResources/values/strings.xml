@@ -1,4 +1,4 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
+<resources>
 
     <string name="common_yes">Yes</string>
     <string name="common_no">No</string>
@@ -1960,7 +1960,7 @@ Reauthenticate on the next screen.</string>
     <string name="check_official_site">Check official site</string>
 
     <string name="copy" translatable="false">Copy</string>
-    <string name="select_copy_content" tools:ignore="TypographyEllipsis">Select...</string>
+    <string name="select_copy_content">Select...</string>
     <string name="some_settings_applied_after_restarted">Some settings will be applied after the application is restarted.</string>
 
     <!-- サブスクリプションの案内画面 -->
