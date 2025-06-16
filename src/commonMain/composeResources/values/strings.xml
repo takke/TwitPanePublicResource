@@ -431,8 +431,8 @@
     <string name="drawer_open">Open</string>
     <string name="drawer_close">Close</string>
 
-    <string name="search_around_tweets_not_found_message">Not found in @%1$s's timeline…</string>
-    <string name="search_around_toots_not_found_message">Not found in @%1$s's timeline.</string>
+    <string name="search_around_tweets_not_found_message">Not found in @%1$s\'s timeline…</string>
+    <string name="search_around_toots_not_found_message">Not found in @%1$s\'s timeline.</string>
 
     <!-- 固定ツイート -->
     <string name="pinned_post_tw">Pinned Tweet</string>
@@ -486,16 +486,7 @@
     <string name="debug_mode_send_debug_log">Send debug log</string>
     <string name="debug_mode_send_debug_log_short">Send</string>
     <string name="debug_mode_send_debug_log_confirm_title">Send debug log</string>
-    <string name="debug_mode_send_debug_log_confirm_message">Sorry for the inconvenience.
-\n
-\nThere is a possibility that you are no longer available due to specification changes of Twitter.
-\n
-\nPlease check for updates in the Google Play Store because there is a possibility that a modified version has been published already.
-\n(Please wait for a while now to the public if it is not published.)
-\n
-\nIn addition, it is possible to cooperate to fix in a future version by sending to the author debug log.
-\nHowever, please note it may contain personal information in the log.
-\nIf you want to send the debug log, select \"Gmail\" on the next screen.</string>
+    <string name="debug_mode_send_debug_log_confirm_message">Sorry for the inconvenience.\n\nThere is a possibility that you are no longer available due to specification changes of Twitter.\n\nPlease check for updates in the Google Play Store because there is a possibility that a modified version has been published already.\n(Please wait for a while now to the public if it is not published.)\n\nIn addition, it is possible to cooperate to fix in a future version by sending to the author debug log.\nHowever, please note it may contain personal information in the log.\nIf you want to send the debug log, select \"Gmail\" on the next screen.</string>
     <string name="debug_mode_check_update">Check update</string>
     <string name="show_internal_cache">Show internal cache</string>
     <string name="show_debug_log">Show debug log</string>
@@ -925,14 +916,9 @@
     <string name="publish_finish_save">Save</string>
     <string name="publish_finish_save_discard">Discard</string>
     <string name="publish_finish_save_cancel">Cancel</string>
-    <string name="interstitial_ad_notice_message">Advertisements will appear on the next screen.\n
-- Only once a day, an ad will be displayed after posting.\n
-- Please note that sound may be emitted while displaying ads, so please pay attention to the volume and surrounding environment.\n
-- Ads can be removed by subscribing to the Ad-free Pack (Settings -> Subscription).</string>
+    <string name="interstitial_ad_notice_message">Advertisements will appear on the next screen.\n - Only once a day, an ad will be displayed after posting.\n - Please note that sound may be emitted while displaying ads, so please pay attention to the volume and surrounding environment.\n - Ads can be removed by subscribing to the Ad-free Pack (Settings -> Subscription).</string>
     <string name="after_publish_ad_dialog_message">Submitting...</string>
-    <string name="after_publish_ad_notice_message">Advertisements will appear on the next screen.\n
-- Please note that sound may be emitted while displaying ads, so please pay attention to the volume and surrounding environment.\n
-- Ads can be removed by subscribing to the Ad-free Pack (Settings -> Subscription).</string>
+    <string name="after_publish_ad_notice_message">Advertisements will appear on the next screen.\n - Please note that sound may be emitted while displaying ads, so please pay attention to the volume and surrounding environment.\n - Ads can be removed by subscribing to the Ad-free Pack (Settings -> Subscription).</string>
     <string name="no_drafts">No drafts</string>
     <string name="select_items_to_delete">Select the item you wish to delete</string>
     <string name="drafts">Drafts</string>
@@ -962,7 +948,7 @@
     <string name="publish_body_length_error">Please enter in %1$d characters or less text</string>
     <string name="publish_sensitive_warning_length_error">Please enter in %1$d characters or less text</string>
     <string name="publish_twitlonger_confirm">Over 140 characters. Do you want to post via TwitLonger?</string>
-    <string name="publish_twitter_dm_command_notice">It's DM command. OK?</string>
+    <string name="publish_twitter_dm_command_notice">It\'s DM command. OK?</string>
     <string name="publish_post_confirm_tw">Send new tweet. ok?</string>
     <string name="publish_post_confirm_mastodon">Send new post. ok?</string>
     <string name="publish_post_confirm_misskey">Send new note. ok?</string>
@@ -1177,7 +1163,7 @@
     <string name="config_hide_my_numbers">Hide my numbers</string>
     <string name="config_hide_my_numbers_summary">Hide the number of likes, RTs, etc. of your posts.</string>
     <string name="config_hide_other_numbers">Hide other numbers</string>
-    <string name="config_hide_other_numbers_summary">Hide the likes, RTs and other values of other people's posts</string>
+    <string name="config_hide_other_numbers_summary">Hide the likes, RTs and other values of other people\'s posts</string>
     <string name="config_show_quote_count">Show quote count</string>
     <string name="config_show_quote_count_summary">[default:ON]</string>
     <string name="config_change_link_area_thumbnail_size">Change link photo size</string>
@@ -1887,8 +1873,8 @@ If the account displayed in the next screen (browser) is different, please log o
     <string name="authorize">authorize</string>
     <string name="failed_to_authorize_to_twitter_and_confirm_to_reauthorize">Twitter authentication failed.\nnote: If you are authenticating bookmarks, you may not be able to authenticate after logging in with another device. \n\nPlease re-authenticate on the next screen.</string>
     <string name="authorized_account_not_match_to_current_account">The authenticated account did not match the current account.\n\n
-- Authenticated account: @%1$s\n
-- Current account: @%2$s\n
+ - Authenticated account: @%1$s\n
+ - Current account: @%2$s\n
 \n
 Reauthenticate on the next screen.</string>
     <string name="expiration_date_exceeded" translatable="false">Expiration date exceeded</string>
@@ -1922,7 +1908,7 @@ Reauthenticate on the next screen.</string>
     <!-- Google Translate -->
     <string name="translate_app_guide_dialog_title">Google Translate is not installed</string>
     <string name="translate_app_guide_dialog_message">You need the Google Translate app. Download from %1$s?</string>
-    <string name="daily_inline_translation_limit_is_exceeded">We have exceeded the number of executions of today's inline translation, so we will translate with the Google Translate app</string>
+    <string name="daily_inline_translation_limit_is_exceeded">We have exceeded the number of executions of today\'s inline translation, so we will translate with the Google Translate app</string>
     <string name="detail">Details</string>
     <string name="download_translation_ml_data_confirm_message">We need the machine learning data (about 30MB) for the language to be translated. Are you sure you want to download it?</string>
     <string name="inline_translation">About Inline-Translation</string>
