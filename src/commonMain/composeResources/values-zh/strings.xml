@@ -1,11 +1,11 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
 
-    <string name="common_yes">"是"</string>
-    <string name="common_no">"否"</string>
-    <string name="common_ok">"确定"</string>
-    <string name="common_cancel">"取消"</string>
+    <string name="common_yes">是</string>
+    <string name="common_no">否</string>
+    <string name="common_ok">确定</string>
+    <string name="common_cancel">取消</string>
 
-    <string name="menu_menu">"菜单"</string>
+    <string name="menu_menu">菜单</string>
 
     <string name="title_activity_config">TwitPane设置</string>
     <string name="title_activity_page_config">页面设置</string>
@@ -117,17 +117,17 @@
     <string name="label_search_query_guide_since">since:2023-12-17 Show posts since a specific date</string>
     <string name="label_search_query_guide_until">until:2024-11-01 Show posts until a specific date</string>
 
-    <string name="label_mastodon_search_query_guide_account">"@takke@fedibird.com 账号搜索"</string>
-    <string name="label_mastodon_search_query_guide_account_url">"https://fedibird.com/@takke 账号搜索"</string>
-    <string name="label_mastodon_search_query_guide_status_url">"https://fedibird.com/@takke/110886555530031419 帖子搜索"</string>
-    <string name="label_mastodon_search_query_guide_from">"from:takke@fedibird.com 显示特定用户的帖子"</string>
-    <string name="label_mastodon_search_query_guide_from_me">"from:me Show posts from yourself (Fedibird only)"</string>
-    <string name="label_mastodon_search_query_guide_to">"to:takke@fedibird.com 显示提及特定用户的帖子"</string>
-    <string name="label_mastodon_search_query_guide_domain">"domain:mastodon.social 域名搜索（仅限Fedibird）"</string>
-    <string name="label_mastodon_search_query_guide_has_image">"has:image 仅显示带图片的帖子"</string>
-    <string name="label_mastodon_search_query_guide_after">"after:2025-03-21 显示特定日期之后的帖子"</string>
-    <string name="label_mastodon_search_query_guide_before">"before:2025-03-21 显示特定日期之前的帖子"</string>
-    <string name="label_mastodon_search_query_guide_during">"during:2025-03-21 显示特定日期的帖子"</string>
+    <string name="label_mastodon_search_query_guide_account">@takke@fedibird.com 账号搜索</string>
+    <string name="label_mastodon_search_query_guide_account_url">https://fedibird.com/@takke 账号搜索</string>
+    <string name="label_mastodon_search_query_guide_status_url">https://fedibird.com/@takke/110886555530031419 帖子搜索</string>
+    <string name="label_mastodon_search_query_guide_from">from:takke@fedibird.com 显示特定用户的帖子</string>
+    <string name="label_mastodon_search_query_guide_from_me">from:me Show posts from yourself (Fedibird only)</string>
+    <string name="label_mastodon_search_query_guide_to">to:takke@fedibird.com 显示提及特定用户的帖子</string>
+    <string name="label_mastodon_search_query_guide_domain">domain:mastodon.social 域名搜索（仅限Fedibird）</string>
+    <string name="label_mastodon_search_query_guide_has_image">has:image 仅显示带图片的帖子</string>
+    <string name="label_mastodon_search_query_guide_after">after:2025-03-21 显示特定日期之后的帖子</string>
+    <string name="label_mastodon_search_query_guide_before">before:2025-03-21 显示特定日期之前的帖子</string>
+    <string name="label_mastodon_search_query_guide_during">during:2025-03-21 显示特定日期的帖子</string>
     <string name="label_mastodon_search_query_guide_notice">根据服务器的不同，某些搜索功能可能不可用</string>
 
     <string name="reload_button">重新加载</string>
@@ -350,7 +350,7 @@
     <string name="twitter_error_api_restricted_by_remote_control_of_twitpane">We are temporarily restricting the use of the API to avoid application outages from Twitter.</string>
     <string name="twitter_error_api_restricted_by_remote_control_of_twitpane_full">We are temporarily restricting the use of the API to avoid application outages from Twitter. \nWe apologize for the inconvenience, but please wait for a while until the restriction is lifted.</string>
 
-    <string name="rate_limit_list_does_not_include_api_v2" translatable="false">"此列表不包括Twitter API v2的速率限制。"</string>
+    <string name="rate_limit_list_does_not_include_api_v2" translatable="false">此列表不包括Twitter API v2的速率限制。</string>
     <string name="account_list">帐户列表</string>
     <string name="over_account_count_in_subscription">超过帐户数限制</string>
     <string name="over_account_count_not_subscription">超过帐户数限制：如果你订阅了，可以将限制提高到5个</string>
@@ -431,7 +431,7 @@
     <string name="drawer_close">关闭</string>
 
     <string name="search_around_tweets_not_found_message">没有在 @%1$s 的时间轴中找到。</string>
-    <string name="search_around_toots_not_found_message">"Not found in @%1$s's timeline."</string>
+    <string name="search_around_toots_not_found_message">Not found in @%1$s's timeline.</string>
 
     <!-- 固定ツイート -->
     <string name="pinned_post_tw">置顶推文</string>
@@ -439,14 +439,14 @@
     <string name="pinned_post_misskey">置顶笔记</string>
     <string name="pinned_post_bluesky">置顶帖子</string>
     <string name="config_show_pinned_tweet">显示置顶推文</string>
-    <string name="config_show_pinned_tweet_summary">"[默认:开]"</string>
+    <string name="config_show_pinned_tweet_summary">[默认:开]</string>
     <string name="no_pinned_toots">There are no pinned toots.</string>
     <string name="no_pinned_notes">There are no pinned notes.</string>
 
     <!-- サブスクリプション画面 -->
     <string name="continue_to_trial">Continue to trial\n(%1$s/month after the free period.)</string>
-    <string name="cloud_translation_subscription_title">"订阅"</string>
-    <string name="subscription_title">"订阅"</string>
+    <string name="cloud_translation_subscription_title">订阅</string>
+    <string name="subscription_title">订阅</string>
 
 
     <!-- ================================================================================ -->
@@ -1096,7 +1096,7 @@
     <string name="config_title_display_style_icon_account">图标 + @账户</string>
     <string name="config_title_display_style_icon_name">图标 + 名称</string>
     <string name="config_title_display_style_icon_only">仅图标</string>
-    <string name="config_title_display_style_account_name">"@账户 + 名称"</string>
+    <string name="config_title_display_style_account_name">@账户 + 名称</string>
     <string name="config_title_display_style_account_only">仅@账户</string>
     <string name="config_title_display_style_name_only">仅名称</string>
     <string name="config_title_display_style_none">全部隐藏</string>
@@ -1169,7 +1169,7 @@
     <string name="config_hide_my_numbers">Hide my numbers</string>
     <string name="config_hide_my_numbers_summary">Hide the number of likes, RTs, etc. of your posts.</string>
     <string name="config_hide_other_numbers">Hide other numbers</string>
-    <string name="config_hide_other_numbers_summary">"Hide the likes, RTs and other values of other people's posts"</string>
+    <string name="config_hide_other_numbers_summary">Hide the likes, RTs and other values of other people's posts</string>
     <string name="config_show_quote_count">显示引用的推文计数</string>
     <string name="config_show_quote_count_summary">[默认：开]</string>
     <string name="config_change_link_area_thumbnail_size">更改链接照片大小</string>
@@ -1536,7 +1536,7 @@
 
     <string name="config_color_label">彩色标签设置</string>
     <string name="config_color_label_summary">Set the colors of the user labels</string>
-    <string name="config_color_label_description">"Color labels can be assigned to users to make it easier to identify posts.For example, it is useful to categorize them as "News," "Celebrities," or "Friends"."</string>
+    <string name="config_color_label_description">Color labels can be assigned to users to make it easier to identify posts.For example, it is useful to categorize them as "News," "Celebrities," or "Friends".</string>
 
     <string name="config_search_category">搜索设置</string>
     <string name="config_search_lang">搜索语言</string>
@@ -1776,7 +1776,7 @@
     <string name="theme_preview_post_reposted_text_taipane">这是一个带有标签的帖子。已被转推。 #TaiPane</string>
     <string name="theme_preview_post_my_post">这是我的帖子。这是设计预览。\n实际显示效果如下。</string>
     <string name="theme_preview_post_others_post">这是他人的帖子。</string>
-    <string name="theme_preview_post_reply_to_me">"@takke 这是给我的回复。"</string>
+    <string name="theme_preview_post_reply_to_me">@takke 这是给我的回复。</string>
     <string name="theme_preview_post_attach_image">附加图像后会是这样。</string>
     <string name="theme_preview_post_attach_2_images">徽章和亚克力钥匙扣 #ZonePane</string>
 
@@ -1792,8 +1792,8 @@
     <!-- Profile Fragment -->
     <!-- ================================================================================ -->
     <string name="profile_tweets">推文</string>
-    <string name="profile_posts">"帖子"</string>
-    <string name="profile_toots">"嘟文"</string>
+    <string name="profile_posts">帖子</string>
+    <string name="profile_toots">嘟文</string>
     <string name="profile_follows">关注</string>
     <string name="profile_followers">关注者</string>
 
@@ -1859,18 +1859,18 @@
     <string name="emojipicker_guide_dialog_download">下载</string>
 
     <!-- Unicode Emoji Picker -->
-    <string name="emoji_add_reaction">"Add Reaction"</string>
-    <string name="emoji_add_reaction_dots">"Add Reaction…"</string>
-    <string name="emoji_category_smileys_and_emotion">"Smileys &amp; Emotion"</string>
-    <string name="emoji_category_people_and_body">"People &amp; Body"</string>
-    <string name="emoji_category_animals_and_nature">"Animals &amp; Nature"</string>
-    <string name="emoji_category_food_and_drink">"Food &amp; Drink"</string>
-    <string name="emoji_category_travel_and_places">"Travel &amp; Places"</string>
-    <string name="emoji_category_activities">"Activities"</string>
-    <string name="emoji_category_objects">"Objects"</string>
-    <string name="emoji_category_symbols">"Symbols"</string>
-    <string name="emoji_category_flags">"Flags"</string>
-    <string name="emoji_category_recently_used">"最近使用"</string>
+    <string name="emoji_add_reaction">Add Reaction</string>
+    <string name="emoji_add_reaction_dots">Add Reaction…</string>
+    <string name="emoji_category_smileys_and_emotion">Smileys &amp; Emotion</string>
+    <string name="emoji_category_people_and_body">People &amp; Body</string>
+    <string name="emoji_category_animals_and_nature">Animals &amp; Nature</string>
+    <string name="emoji_category_food_and_drink">Food &amp; Drink</string>
+    <string name="emoji_category_travel_and_places">Travel &amp; Places</string>
+    <string name="emoji_category_activities">Activities</string>
+    <string name="emoji_category_objects">Objects</string>
+    <string name="emoji_category_symbols">Symbols</string>
+    <string name="emoji_category_flags">Flags</string>
+    <string name="emoji_category_recently_used">最近使用</string>
 
     <!-- Bluesky Chat -->
     <string name="bs_delete_reaction_message">你想删除 %s 吗？</string>
@@ -1977,7 +1977,7 @@
     <string name="periodic_update_worker_updating_tabs">Tabs updating...</string>
     <string name="periodic_update_worker_saving_event_logs">Saving event logs...</string>
     <string name="periodic_update_worker_set_notifications">Set notifications</string>
-    <string name="periodic_update_worker_fetching">"Fetching...\n%1$s"</string>
+    <string name="periodic_update_worker_fetching">Fetching...\n%1$s</string>
 
 
     <!-- Mastodon -->
@@ -2019,8 +2019,8 @@
 
     <string name="select_publish_service_type">Choose service to compose</string>
     <string name="share_pattern_selector_title">Select share-pattern</string>
-    <string name="share_pattern_selector_full">"@username(display name) + body"</string>
-    <string name="share_pattern_selector_body_only">"body only"</string>
+    <string name="share_pattern_selector_full">@username(display name) + body</string>
+    <string name="share_pattern_selector_body_only">body only</string>
 
     <!-- Bluesky Threadgate -->
     <string name="threadgate_nobody">nobody</string>
@@ -2229,43 +2229,43 @@
     <!-- Color names -->
     <!-- ================================================================================ -->
     <string-array name="color_names">
-        <item>"白色1"</item>
-        <item>"白色2"</item>
-        <item>"黑色1"</item>
-        <item>"黑色2"</item>
-        <item>"红色1"</item>
-        <item>"红色2"</item>
-        <item>"红色3"</item>
-        <item>"橙色"</item>
-        <item>"黄色"</item>
-        <item>"浅绿色"</item>
-        <item>"绿色"</item>
-        <item>"天蓝色"</item>
-        <item>"藍色"</item>
-        <item>"紫色1"</item>
-        <item>"紫色2"</item>
-        <item>"深紫色"</item>
-        <item>"粉红色"</item>
+        <item>白色1</item>
+        <item>白色2</item>
+        <item>黑色1</item>
+        <item>黑色2</item>
+        <item>红色1</item>
+        <item>红色2</item>
+        <item>红色3</item>
+        <item>橙色</item>
+        <item>黄色</item>
+        <item>浅绿色</item>
+        <item>绿色</item>
+        <item>天蓝色</item>
+        <item>藍色</item>
+        <item>紫色1</item>
+        <item>紫色2</item>
+        <item>深紫色</item>
+        <item>粉红色</item>
         <item>Deep Pink</item>
         <item>Lime</item>
         <item>Indigo</item>
         <item>Deep Orange</item>
         <item>Brown</item>
     </string-array>
-    <string name="color_name_red">"红色"</string>
-    <string name="color_name_orange">"橙色"</string>
-    <string name="color_name_yellow">"黄色"</string>
-    <string name="color_name_lightgreen">"浅绿色"</string>
-    <string name="color_name_green">"绿色"</string>
-    <string name="color_name_skyblue">"天蓝色"</string>
-    <string name="color_name_blue">"藍色"</string>
-    <string name="color_name_purple">"紫色"</string>
-    <string name="color_name_pink">"粉红色"</string>
-    <string name="color_name_deeppink">"深粉红色"</string>
-    <string name="color_name_white1">"白色1"</string>
-    <string name="color_name_white2">"白色2"</string>
-    <string name="color_name_black1">"黑色1"</string>
-    <string name="color_name_black2">"黑色2"</string>
+    <string name="color_name_red">红色</string>
+    <string name="color_name_orange">橙色</string>
+    <string name="color_name_yellow">黄色</string>
+    <string name="color_name_lightgreen">浅绿色</string>
+    <string name="color_name_green">绿色</string>
+    <string name="color_name_skyblue">天蓝色</string>
+    <string name="color_name_blue">藍色</string>
+    <string name="color_name_purple">紫色</string>
+    <string name="color_name_pink">粉红色</string>
+    <string name="color_name_deeppink">深粉红色</string>
+    <string name="color_name_white1">白色1</string>
+    <string name="color_name_white2">白色2</string>
+    <string name="color_name_black1">黑色1</string>
+    <string name="color_name_black2">黑色2</string>
     <string name="color_name_lime">Lime</string>
     <string name="color_name_indigo">Indigo</string>
     <string name="color_name_deeporange">Deep Orange</string>
