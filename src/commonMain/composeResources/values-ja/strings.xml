@@ -2023,6 +2023,7 @@
     <string name="periodic_update_worker_saving_event_logs">イベントログを保存しています</string>
     <string name="periodic_update_worker_set_notifications">通知を表示しています</string>
     <string name="periodic_update_worker_fetching">自動更新しています…\n%1$s</string>
+    <string name="database_updating">データベースを更新しています...</string>
 
 
     <!-- Mastodon -->
