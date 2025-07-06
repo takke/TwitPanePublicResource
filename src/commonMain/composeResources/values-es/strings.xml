@@ -1941,6 +1941,7 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="periodic_update_worker_saving_event_logs">Saving event logs...</string>
     <string name="periodic_update_worker_set_notifications">Set notifications</string>
     <string name="periodic_update_worker_fetching">Fetching...\n%1$s</string>
+    <string name="database_updating">Actualizando base de datos...</string>
 
 
     <!-- Mastodon -->

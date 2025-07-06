@@ -1941,6 +1941,7 @@
     <string name="periodic_update_worker_saving_event_logs">Saving event logs...</string>
     <string name="periodic_update_worker_set_notifications">Set notifications</string>
     <string name="periodic_update_worker_fetching">Fetching...\n%1$s</string>
+    <string name="database_updating">데이터베이스 업데이트 중...</string>
 
 
     <!-- Mastodon -->
