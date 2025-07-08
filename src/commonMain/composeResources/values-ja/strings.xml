@@ -2039,6 +2039,7 @@
     <string name="notification_quoted">%1$sさんが引用しました</string>
     <string name="notification_quoted_your_post">%1$sさんが引用しました</string>
     <string name="notification_replied_your_post">%1$sさんが返信しました</string>
+    <string name="notification_subscribed_post">%1$sさんが投稿しました</string>
     <string name="notification_mentioned_your_post">%1$sさんがメンションしました</string>
     <string name="notification_followed">%1$sさんにフォローされました</string>
     <string name="notification_follow_requested">%1$sさんがフォローをリクエストしています</string>
