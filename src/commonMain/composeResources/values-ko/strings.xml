@@ -1958,6 +1958,8 @@
     <string name="notification_quoted_your_post">%1$s quoted your post</string>
     <string name="notification_replied_your_post">%1$s replied your post</string>
     <string name="notification_subscribed_post">%1$s님의 새 게시물</string>
+    <string name="notification_like_via_repost">%1$s님이 회원님의 리포스트를 좋아합니다</string>
+    <string name="notification_repost_via_repost">%1$s님이 회원님의 리포스트를 리포스트했습니다</string>
     <string name="notification_mentioned_your_post">%1$s mentioned you in a post</string>
     <string name="notification_followed">%1$s followed you</string>
     <string name="notification_follow_requested">%1$s requested to follow you</string>
