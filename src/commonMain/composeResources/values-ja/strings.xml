@@ -176,10 +176,10 @@
     <string name="banner_change">変更</string>
     <string name="banner_remove">削除</string>
     <string name="send_dm_button">メッセージを送信する</string>
-    <string name="send_mention_button_twitter">\@ツイートを送信する</string>
-    <string name="send_mention_button_mastodon">\@トゥートを送信する</string>
-    <string name="send_mention_button_misskey">\@ノートを送信する</string>
-    <string name="send_mention_button_bluesky">\@ポストを送信する</string>
+    <string name="send_mention_button_twitter">@ツイートを送信する</string>
+    <string name="send_mention_button_mastodon">@トゥートを送信する</string>
+    <string name="send_mention_button_misskey">@ノートを送信する</string>
+    <string name="send_mention_button_bluesky">@ポストを送信する</string>
     <string name="display_name">表示名</string>
 
     <string name="retweet_confirm_message">このツイートをフォロワーにリツイートしますか？</string>
