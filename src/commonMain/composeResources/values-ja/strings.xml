@@ -2217,7 +2217,7 @@
     <string name="bsky_skyblur_hide_text">Skyblurで伏せられたテキストを非表示</string>
 
     <!-- Bluesky Verification Strings -->
-    <string name="verified_user_title">%s が認証されました</string>
+    <string name="verified_user_title">%1$s が認証されました</string>
     <string name="verified_user_description">信頼できるソースによって検証されたため、このアカウントにはチェックマークが付いています。</string>
     <string name="verified_by">認証者：</string>
 

@@ -2247,7 +2247,7 @@ Reauthenticate on the next screen.</string>
     <string name="bsky_skyblur_hide_text">Hide text hidden by Skyblur</string>
 
     <!-- Bluesky Verification Strings -->
-    <string name="verified_user_title">%s is verified</string>
+    <string name="verified_user_title">%1$s is verified</string>
     <string name="verified_user_description">This account has a checkmark because it has been verified by a trusted source.</string>
     <string name="verified_by">Verified by:</string>
 

@@ -2131,7 +2131,7 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="bsky_skyblur_hide_text">Ocultar texto oculto por Skyblur</string>
 
     <!-- Bluesky Verification Strings -->
-    <string name="verified_user_title">%s está verificado</string>
+    <string name="verified_user_title">%1$s está verificado</string>
     <string name="verified_user_description">Esta cuenta tiene una marca de verificación porque ha sido verificada por una fuente confiable.</string>
     <string name="verified_by">Verificado por:</string>
 
