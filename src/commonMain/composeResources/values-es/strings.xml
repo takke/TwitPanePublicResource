@@ -1658,6 +1658,7 @@
     <string name="config_disable_image_hardware_rendering_summary"></string>
 
     <string name="config_adfree_category">Ocultar publicidad</string>
+    <string name="config_ad_display_settings">Configuración de visualización de anuncios</string>
     <string name="config_premium_title">Versión Premium</string>
     <string name="config_premium_summary">Puedes eliminar los anuncios con la versión Premium</string>
     <string name="config_adfree_pack_title">Paquete AdFree</string>

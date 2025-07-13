@@ -1698,6 +1698,7 @@
     <string name="config_disable_image_hardware_rendering_summary">画像表示のハードウェア描画を無効化することで、旧型端末で希に発生する不具合を回避します。通常はOFF(GPUレンダリング有効)でご利用ください【初期値：OFF】</string>
 
 	<string name="config_adfree_category">広告設定</string>
+    <string name="config_ad_display_settings">広告表示設定</string>
     <string name="config_premium_title">有料版で広告を解除する</string>
     <string name="config_premium_summary">Google Playストアで有料版(TwitPane+)を購入すると広告を解除できます。簡単に全ての設定を無料版から移行できます。</string>
     <string name="config_adfree_pack_title">広告解除パック(サブスクリプション)</string>

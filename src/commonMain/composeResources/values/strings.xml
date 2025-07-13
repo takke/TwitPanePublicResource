@@ -1719,6 +1719,7 @@
     <string name="config_disable_image_hardware_rendering_summary"></string>
 
     <string name="config_adfree_category">AdFree</string>
+    <string name="config_ad_display_settings">Ad Display Settings</string>
     <string name="config_premium_title">Premium Edition</string>
     <string name="config_premium_summary">You can remove ads with premium edition(TwitPane+)</string>
     <string name="config_adfree_pack_title">AdFree pack</string>

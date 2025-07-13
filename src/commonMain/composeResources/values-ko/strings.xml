@@ -1658,6 +1658,7 @@
     <string name="config_disable_image_hardware_rendering_summary"></string>
 
     <string name="config_adfree_category">AdFree</string>
+    <string name="config_ad_display_settings">광고 표시 설정</string>
     <string name="config_premium_title">프리미엄 에디션</string>
     <string name="config_premium_summary">당신은 프리미엄 에디션 광고를 제거 할 수 있습니다</string>
     <string name="config_adfree_pack_title">AdFree 팩</string>

@@ -1695,6 +1695,7 @@
     <string name="config_disable_image_hardware_rendering_summary"></string>
 
     <string name="config_adfree_category">无广告</string>
+    <string name="config_ad_display_settings">广告显示设置</string>
     <string name="config_premium_title">高级版</string>
     <string name="config_premium_summary">你可以使用高级版(TwitPane+)来移除广告。</string>
     <string name="config_adfree_pack_title">无广告包</string>
