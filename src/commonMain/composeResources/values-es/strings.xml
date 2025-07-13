@@ -1576,6 +1576,7 @@
     <string name="config_image_save_directory">Carpeta para guardar imágenes</string>
     <string name="config_reset_image_save_directory">Reset Image Save Directory</string>
     <string name="config_reset_image_save_directory_confirm">Reset OK?</string>
+    <string name="config_download_settings_category">Configuración de descarga</string>
     <string name="config_download_filename_type">Download Filename</string>
     <string name="config_download_filename_type_classic">Save time: 20240807-210300.jpeg</string>
     <string name="config_download_filename_type_with_screen_name">With username: "takke-20240807-151542-1.jpeg"</string>
