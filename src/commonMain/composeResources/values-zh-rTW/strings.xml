@@ -163,6 +163,7 @@
     <string name="account_delete_confirm">你確定要刪除這個賬戶嗎？</string>
     <string name="cannot_delete_current_account">不能刪除當前帳戶。</string>
     <string name="account_reauth">重新認證</string>
+    <string name="reauth">重新認證</string>
     <string name="menu_instance_info">Instance Info</string>
     <string name="menu_server_info">Server Info</string>
     <string name="menu_change_account_color">Change Account Color</string>

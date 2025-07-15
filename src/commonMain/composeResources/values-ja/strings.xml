@@ -163,6 +163,7 @@
     <string name="account_delete_confirm">アカウントを削除してもよろしいですか？</string>
     <string name="cannot_delete_current_account">現在のアカウントは削除できません</string>
     <string name="account_reauth">アカウントの再認証</string>
+    <string name="reauth">再認証</string>
     <string name="menu_instance_info">インスタンス情報</string>
     <string name="menu_server_info">サーバー情報</string>
     <string name="menu_change_account_color">アカウントカラーを変更</string>

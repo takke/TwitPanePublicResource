@@ -163,6 +163,7 @@
     <string name="account_delete_confirm">Are you sure you want to delete this account?</string>
     <string name="cannot_delete_current_account">Cannot delete current account.</string>
     <string name="account_reauth">Re-authentication</string>
+    <string name="reauth">Re-authenticate</string>
     <string name="menu_instance_info">Instance Info</string>
     <string name="menu_server_info">Server Info</string>
     <string name="menu_change_account_color">Change Account Color</string>
