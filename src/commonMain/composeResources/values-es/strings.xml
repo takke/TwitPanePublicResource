@@ -1054,6 +1054,9 @@
     <string name="config_initial_max_lines_of_body_text_summary_bluesky"></string>
     <string name="not_ellipsis">Not ellipsis</string>
     <string name="config_theme">Tema</string>
+    <string name="config_theme_category">Configuración de Tema</string>
+    <string name="config_selected_theme">Tema Seleccionado</string>
+    <string name="config_selected_theme_summary">Tema actual: %1$s</string>
     <string name="config_appearance">apariencia</string>
     <string name="config_timeline_publish_category">Línea de tiempo y composición</string>
     <string name="config_media_viewer_category">visor de medios</string>

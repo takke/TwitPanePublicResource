@@ -1055,6 +1055,9 @@
     <string name="config_initial_max_lines_of_body_text_summary_bluesky"></string>
     <string name="not_ellipsis">Not ellipsis</string>
     <string name="config_theme">테마</string>
+    <string name="config_theme_category">테마 설정</string>
+    <string name="config_selected_theme">선택된 테마</string>
+    <string name="config_selected_theme_summary">현재 테마: %1$s</string>
     <string name="config_appearance">외모</string>
     <string name="config_timeline_publish_category">타임라인 및 작성</string>
     <string name="config_media_viewer_category">미디어 뷰어</string>

@@ -1069,6 +1069,9 @@
     <string name="config_initial_max_lines_of_body_text_summary_bluesky">長い投稿を折りたたみ表示します。\n(Blueskyは未対応)</string>
     <string name="not_ellipsis">無効(折りたたまない)</string>
     <string name="config_theme">テーマとデザイン設定</string>
+    <string name="config_theme_category">テーマ設定</string>
+    <string name="config_selected_theme">選択中のテーマ</string>
+    <string name="config_selected_theme_summary">現在使用中のテーマ: %1$s</string>
     <string name="config_appearance">外観</string>
     <string name="config_timeline_publish_category">タイムラインと投稿</string>
     <string name="config_media_viewer_category">メディアビューア</string>

@@ -1056,6 +1056,9 @@
     <string name="config_initial_max_lines_of_body_text_summary_bluesky"></string>
     <string name="not_ellipsis">Not ellipsis</string>
     <string name="config_theme">主題</string>
+    <string name="config_theme_category">主題設置</string>
+    <string name="config_selected_theme">選中的主題</string>
+    <string name="config_selected_theme_summary">當前主題: %1$s</string>
     <string name="config_appearance">外觀</string>
     <string name="config_timeline_publish_category">時間軸和推文編寫</string>
     <string name="config_media_viewer_category">媒體查看器</string>
