@@ -1049,6 +1049,7 @@
     <string name="config_theme_category">Theme Settings</string>
     <string name="config_selected_theme">Selected Theme</string>
     <string name="config_selected_theme_summary">Current theme: %1$s</string>
+    <string name="config_theme_selection_dialog_title">Select Theme</string>
     <string name="config_appearance">Appearance</string>
     <string name="config_timeline_publish_category">Timeline and Compose</string>
     <string name="config_media_viewer_category">Media Viewer</string>

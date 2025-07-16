@@ -1060,6 +1060,7 @@
     <string name="config_theme_category">主題設定</string>
     <string name="config_selected_theme">已選擇的主題</string>
     <string name="config_selected_theme_summary">目前主題: %1$s</string>
+    <string name="config_theme_selection_dialog_title">選擇主題</string>
     <string name="config_appearance">外觀</string>
     <string name="config_timeline_publish_category">時間軸和推文編寫</string>
     <string name="config_media_viewer_category">媒體檢視器</string>

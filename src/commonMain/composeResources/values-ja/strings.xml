@@ -1072,6 +1072,7 @@
     <string name="config_theme_category">テーマ設定</string>
     <string name="config_selected_theme">選択中のテーマ</string>
     <string name="config_selected_theme_summary">現在使用中のテーマ: %1$s</string>
+    <string name="config_theme_selection_dialog_title">テーマ選択</string>
     <string name="config_appearance">外観</string>
     <string name="config_timeline_publish_category">タイムラインと投稿</string>
     <string name="config_media_viewer_category">メディアビューア</string>

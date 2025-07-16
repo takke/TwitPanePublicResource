@@ -1057,6 +1057,7 @@
     <string name="config_theme_category">主题设置</string>
     <string name="config_selected_theme">选中的主题</string>
     <string name="config_selected_theme_summary">当前主题: %1$s</string>
+    <string name="config_theme_selection_dialog_title">选择主题</string>
     <string name="config_appearance">外观</string>
     <string name="config_timeline_publish_category">时间轴和推文编写</string>
     <string name="config_media_viewer_category">媒体查看器</string>
