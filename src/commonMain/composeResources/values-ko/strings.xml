@@ -903,6 +903,11 @@
     <string name="publish_reply_to_failed_to_load">답글 게시물을 불러오지 못했습니다</string>
     <string name="publish_media_permission_warning">경고</string>
     <string name="publish_media_permission_open_settings">설정 열기</string>
+    <string name="publish_image_description_edit_title">대체 텍스트 편집</string>
+    <string name="publish_image_description_edit_description">이미지의 내용을 설명하는 텍스트를 입력하세요. 시각 장애인 등이 스크린 리더를 사용할 때 사용됩니다.</string>
+    <string name="publish_image_description_label">대체 텍스트</string>
+    <string name="publish_image_description_placeholder">이미지의 내용을 설명해주세요</string>
+    <string name="publish_confirm_button">확인</string>
     <string name="publish_submit_button">트윗</string>
     <string name="toot_button">Toot</string>
     <string name="publish_send_button">보내기</string>

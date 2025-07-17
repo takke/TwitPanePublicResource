@@ -905,6 +905,11 @@
     <string name="publish_reply_to_failed_to_load">無法載入回覆貼文</string>
     <string name="publish_media_permission_warning">警告</string>
     <string name="publish_media_permission_open_settings">開啟設定</string>
+    <string name="publish_image_description_edit_title">編輯替代文字</string>
+    <string name="publish_image_description_edit_description">請輸入描述圖像內容的文字。這將被螢幕閱讀器用於視障用戶。</string>
+    <string name="publish_image_description_label">替代文字</string>
+    <string name="publish_image_description_placeholder">請描述圖像的內容</string>
+    <string name="publish_confirm_button">確認</string>
     <string name="publish_submit_button">推文</string>
     <string name="toot_button">Toot</string>
     <string name="publish_send_button">傳送</string>

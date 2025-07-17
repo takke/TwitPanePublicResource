@@ -912,6 +912,11 @@
     <string name="publish_reply_to_failed_to_load">返信先ポストを読み込めませんでした</string>
     <string name="publish_media_permission_warning">警告</string>
     <string name="publish_media_permission_open_settings">設定を開く</string>
+    <string name="publish_image_description_edit_title">代替テキストを編集</string>
+    <string name="publish_image_description_edit_description">画像の内容を説明するテキストを入力してください。視覚障害者の方などがスクリーンリーダーで利用する際に使用されます。</string>
+    <string name="publish_image_description_label">代替テキスト</string>
+    <string name="publish_image_description_placeholder">画像の内容を説明してください</string>
+    <string name="publish_confirm_button">確定</string>
     <string name="publish_submit_button">ツイート</string>
     <string name="toot_button">投稿</string>
     <string name="publish_send_button">送信</string>

@@ -903,6 +903,11 @@
     <string name="publish_reply_to_failed_to_load">Error al cargar la publicación de respuesta</string>
     <string name="publish_media_permission_warning">Advertencia</string>
     <string name="publish_media_permission_open_settings">Abrir configuración</string>
+    <string name="publish_image_description_edit_title">Editar texto alternativo</string>
+    <string name="publish_image_description_edit_description">Ingresa texto para describir el contenido de la imagen. Será utilizado por lectores de pantalla para usuarios con discapacidad visual.</string>
+    <string name="publish_image_description_label">Texto alternativo</string>
+    <string name="publish_image_description_placeholder">Por favor describe el contenido de la imagen</string>
+    <string name="publish_confirm_button">Confirmar</string>
     <string name="publish_submit_button">Tweet</string>
     <string name="toot_button">Toot</string>
     <string name="publish_send_button">Enviar</string>

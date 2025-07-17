@@ -898,6 +898,11 @@
     <string name="publish_reply_to_failed_to_load">Failed to load reply post</string>
     <string name="publish_media_permission_warning">Warning</string>
     <string name="publish_media_permission_open_settings">Open Settings</string>
+    <string name="publish_image_description_edit_title">Edit alternative text</string>
+    <string name="publish_image_description_edit_description">Enter text to describe the content of the image. This will be used by screen readers for visually impaired users.</string>
+    <string name="publish_image_description_label">Alternative text</string>
+    <string name="publish_image_description_placeholder">Please describe the content of the image</string>
+    <string name="publish_confirm_button">Confirm</string>
     <string name="publish_submit_button">Tweet</string>
     <string name="toot_button">Toot</string>
     <string name="publish_send_button">Send</string>
