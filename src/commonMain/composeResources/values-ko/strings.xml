@@ -901,6 +901,8 @@
     <string name="publish_reply_to_label">답글 대상</string>
     <string name="publish_reply_to_cannot_display">답글 대상을 표시할 수 없습니다</string>
     <string name="publish_reply_to_failed_to_load">답글 게시물을 불러오지 못했습니다</string>
+    <string name="publish_media_permission_warning">경고</string>
+    <string name="publish_media_permission_open_settings">설정 열기</string>
     <string name="publish_submit_button">트윗</string>
     <string name="toot_button">Toot</string>
     <string name="publish_send_button">보내기</string>

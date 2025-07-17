@@ -900,6 +900,8 @@
     <string name="publish_reply_to_label">回复对象</string>
     <string name="publish_reply_to_cannot_display">无法显示回复对象</string>
     <string name="publish_reply_to_failed_to_load">无法加载回复帖子</string>
+    <string name="publish_media_permission_warning">警告</string>
+    <string name="publish_media_permission_open_settings">打开设置</string>
     <string name="publish_submit_button">推文</string>
     <string name="toot_button">Toot</string>
     <string name="publish_send_button">发送</string>

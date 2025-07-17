@@ -896,6 +896,8 @@
     <string name="publish_reply_to_label">Reply to</string>
     <string name="publish_reply_to_cannot_display">Cannot display reply destination</string>
     <string name="publish_reply_to_failed_to_load">Failed to load reply post</string>
+    <string name="publish_media_permission_warning">Warning</string>
+    <string name="publish_media_permission_open_settings">Open Settings</string>
     <string name="publish_submit_button">Tweet</string>
     <string name="toot_button">Toot</string>
     <string name="publish_send_button">Send</string>
