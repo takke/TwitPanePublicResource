@@ -898,6 +898,9 @@
     <string name="publish_body_label">¿Cuál es tu idea?</string>
     <string name="publish_exit_confirm_title">Descartar cambios</string>
     <string name="publish_exit_confirm_message">¿Desea salir de la edición?</string>
+    <string name="publish_reply_to_label">Responder a</string>
+    <string name="publish_reply_to_cannot_display">No se puede mostrar el destino de respuesta</string>
+    <string name="publish_reply_to_failed_to_load">Error al cargar la publicación de respuesta</string>
     <string name="publish_submit_button">Tweet</string>
     <string name="toot_button">Toot</string>
     <string name="publish_send_button">Enviar</string>

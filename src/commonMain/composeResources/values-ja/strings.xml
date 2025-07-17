@@ -907,6 +907,9 @@
     <string name="publish_body_label">いまどうしてる？</string>
     <string name="publish_exit_confirm_title">編集中の内容は破棄されます</string>
     <string name="publish_exit_confirm_message">編集を終了しますか？</string>
+    <string name="publish_reply_to_label">返信先</string>
+    <string name="publish_reply_to_cannot_display">返信先を表示できません</string>
+    <string name="publish_reply_to_failed_to_load">返信先ポストを読み込めませんでした</string>
     <string name="publish_submit_button">ツイート</string>
     <string name="toot_button">投稿</string>
     <string name="publish_send_button">送信</string>

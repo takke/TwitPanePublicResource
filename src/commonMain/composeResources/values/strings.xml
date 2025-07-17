@@ -893,6 +893,9 @@
     <string name="publish_body_label">What\'s your mind?</string>
     <string name="publish_exit_confirm_title">Discard changes</string>
     <string name="publish_exit_confirm_message">Do you want to exit editing?</string>
+    <string name="publish_reply_to_label">Reply to</string>
+    <string name="publish_reply_to_cannot_display">Cannot display reply destination</string>
+    <string name="publish_reply_to_failed_to_load">Failed to load reply post</string>
     <string name="publish_submit_button">Tweet</string>
     <string name="toot_button">Toot</string>
     <string name="publish_send_button">Send</string>

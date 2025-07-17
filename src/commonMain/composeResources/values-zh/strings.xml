@@ -897,6 +897,9 @@
     <string name="publish_body_label">你在想什么？</string>
     <string name="publish_exit_confirm_title">放弃更改</string>
     <string name="publish_exit_confirm_message">是否要退出编辑？</string>
+    <string name="publish_reply_to_label">回复对象</string>
+    <string name="publish_reply_to_cannot_display">无法显示回复对象</string>
+    <string name="publish_reply_to_failed_to_load">无法加载回复帖子</string>
     <string name="publish_submit_button">推文</string>
     <string name="toot_button">Toot</string>
     <string name="publish_send_button">发送</string>
