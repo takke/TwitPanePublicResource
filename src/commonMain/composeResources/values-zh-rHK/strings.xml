@@ -187,6 +187,7 @@
     <string name="retweet_confirm_message_taittsuu">确定要轉發此Taitsu嗎？</string>
     <string name="renote_confirm_message">轉發此筆記？</string>
     <string name="repost_confirm_message">轉發此帖文？</string>
+    <string name="choose_account_for_repost_bluesky">您要使用哪個帳戶轉發這個帖文？</string>
     <string name="renote_in_channel_confirm_message">Renote this note in the channel?</string>
     <string name="boost_confirm_message">Boost this toot?</string>
     <string name="retweeted_message">已轉推</string>
