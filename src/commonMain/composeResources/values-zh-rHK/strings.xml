@@ -213,6 +213,7 @@
     <string name="destroyed_favorite_message_favorite">已取消收藏</string>
     <string name="favorite_confirm_message_like">收藏此推文？</string>
     <string name="favorite_confirm_message_like_bluesky">喜歡這個帖文？</string>
+    <string name="choose_account_for_like_bluesky">您要使用哪個帳戶為這個帖文點讚？</string>
     <string name="favorite_confirm_message_like_taittsuu">對此Taitsu讚好？</string>
     <string name="created_favorite_message_like">已收藏</string>
     <string name="destroyed_favorite_message_like">已取消收藏</string>

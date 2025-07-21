@@ -214,6 +214,7 @@
     <string name="favorite_confirm_message_like">이 트윗을 좋아요 하시겠습니까?</string>
     <string name="favorite_confirm_message_like_taittsuu">이 타이쓰를 좋아요 하시겠습니까?</string>
     <string name="favorite_confirm_message_like_bluesky">이 게시물을 좋아요 하시겠습니까?</string>
+    <string name="choose_account_for_like_bluesky">어떤 계정으로 이 게시물을 좋아요 하시겠습니까?</string>
     <string name="created_favorite_message_like">마음</string>
     <string name="destroyed_favorite_message_like">마음 취소</string>
     <string name="cannot_favorite_duplicate_status_favorite">그것은 이미 즐겨 찾기에 추가 할 수 있습니다</string>

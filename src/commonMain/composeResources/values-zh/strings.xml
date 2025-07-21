@@ -214,6 +214,7 @@
     <string name="favorite_confirm_message_like">收藏此推文？</string>
     <string name="favorite_confirm_message_like_taittsuu">喜欢这条Taiitsu？</string>
     <string name="favorite_confirm_message_like_bluesky">喜欢这个帖子？</string>
+    <string name="choose_account_for_like_bluesky">您要使用哪个账户为这个帖子点赞？</string>
     <string name="created_favorite_message_like">已收藏</string>
     <string name="destroyed_favorite_message_like">已取消收藏</string>
     <string name="cannot_favorite_duplicate_status_favorite">可能已添加到您的收藏夹</string>
