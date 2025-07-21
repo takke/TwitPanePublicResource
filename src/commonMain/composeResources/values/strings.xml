@@ -214,6 +214,7 @@
     <string name="favorite_confirm_message_like">Like this tweet?</string>
     <string name="favorite_confirm_message_like_taittsuu">Like this taiitsu?</string>
     <string name="favorite_confirm_message_like_bluesky">Like this post?</string>
+    <string name="choose_account_for_like_bluesky">Which account would you like to use to like this post?</string>
     <string name="created_favorite_message_like">Liked</string>
     <string name="destroyed_favorite_message_like">Undone liked</string>
     <string name="cannot_favorite_duplicate_status_favorite">It may already favorited.</string>

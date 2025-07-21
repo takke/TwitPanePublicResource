@@ -213,6 +213,7 @@
     <string name="destroyed_favorite_message_favorite">Eliminado como favorito</string>
     <string name="favorite_confirm_message_like">¿Quieres recibir este tweet?</string>
     <string name="favorite_confirm_message_like_bluesky">¿Quieres dar me gusta a esta publicación?</string>
+    <string name="choose_account_for_like_bluesky">¿Desde qué cuenta quieres dar me gusta a esta publicación?</string>
     <string name="favorite_confirm_message_like_taittsuu">¿Te gusta este taiitsu?</string>
     <string name="created_favorite_message_like">Marcado como me gusta</string>
     <string name="destroyed_favorite_message_like">Eliminado como me gusta</string>

@@ -214,6 +214,7 @@
     <string name="favorite_confirm_message_like">このツイートをいいねしますか？</string>
     <string name="favorite_confirm_message_like_taittsuu">このタイーツをいいねしますか？</string>
     <string name="favorite_confirm_message_like_bluesky">この投稿をいいねしますか？</string>
+    <string name="choose_account_for_like_bluesky">どのアカウントからいいねしますか？</string>
     <string name="created_favorite_message_like">いいねしました</string>
     <string name="destroyed_favorite_message_like">いいねを取り消しました</string>
     <string name="cannot_favorite_duplicate_status_favorite">このツイートは既にお気に入り済みのようです</string>
