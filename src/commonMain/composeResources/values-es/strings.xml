@@ -276,6 +276,7 @@
     <string name="common_timeout_message">Timeout..., please try again after a few minutes.</string>
     <string name="common_delete">Eliminar</string>
     <string name="common_remember">Remember</string>
+    <string name="common_close">Cerrar</string>
     <string name="already_task_running">Ejecutándose, por favor, inténtelo de nuevo en unos minutos.</string>
     <string name="cannot_view_private_account_timeline">No se puede ver la cronología de la cuenta privada ...</string>
     <string name="cannot_view_private_account_tweet">No se puede ver el tweet de la cuenta privada ...</string>
@@ -664,6 +665,7 @@
     <string name="menu_show_rt_users_mastodon">Mostrar usuarios que han boosteado</string>
     <string name="menu_show_rt_users_misskey">Mostrar usuarios que han renoteado</string>
     <string name="menu_show_rt_users_bluesky">Mostrar usuarios que han reposteado</string>
+    <string name="reposted_users_dialog_title">Usuarios que repostearon</string>
     <string name="menu_show_quoted_tweets">tuits citados</string>
     <string name="menu_show_quoted_posts">Quoted posts</string>
     <string name="menu_show_favorite_users_favorite">Usuarios favoritos</string>
@@ -1178,6 +1180,7 @@
     <string name="config_display_all_images_as_blur">Display all images as blur</string>
     <string name="config_display_all_images_as_blur_summary">[default:OFF]</string>
     <string name="config_user_icon_thumbnail_category">User icon</string>
+    <string name="user_icon">Icono de usuario</string>
     <string name="config_use_rounded_thumbnail">Rounded Thumbnail</string>
     <string name="config_use_rounded_thumbnail_summary">Use rounded profile icon [default:ON]</string>
     <string name="config_link_area_category">Enlace</string>

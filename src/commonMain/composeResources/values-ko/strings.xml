@@ -276,6 +276,7 @@
     <string name="common_timeout_message">Timeout..., please try again after a few minutes.</string>
     <string name="common_delete">삭제</string>
     <string name="common_remember">Remember</string>
+    <string name="common_close">닫기</string>
     <string name="already_task_running">실행 중... 몇 분 후에 다시 시도하십시오</string>
     <string name="cannot_view_private_account_timeline">개인계정의 타임라인을 볼 수 없습니다 ...</string>
     <string name="cannot_view_private_account_tweet">개인계정의 트윗을 볼 수 없습니다 ...</string>
@@ -663,6 +664,7 @@
     <string name="menu_show_rt_users_mastodon">부스트한 사용자 표시</string>
     <string name="menu_show_rt_users_misskey">리노트한 사용자 표시</string>
     <string name="menu_show_rt_users_bluesky">리포스트한 사용자 표시</string>
+    <string name="reposted_users_dialog_title">리포스트한 사용자</string>
     <string name="menu_show_quoted_tweets">인용된 트윗</string>
     <string name="menu_show_quoted_posts">Quoted posts</string>
     <string name="menu_show_favorite_users_favorite">좋아하는 사용자</string>
@@ -1179,6 +1181,7 @@
     <string name="config_display_all_images_as_blur">Display all images as blur</string>
     <string name="config_display_all_images_as_blur_summary">[default:OFF]</string>
     <string name="config_user_icon_thumbnail_category">User icon</string>
+    <string name="user_icon">사용자 아이콘</string>
     <string name="config_use_rounded_thumbnail">Rounded Thumbnail</string>
     <string name="config_use_rounded_thumbnail_summary">Use rounded profile icon [default:ON]</string>
     <string name="config_link_area_category">링크</string>

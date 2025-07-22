@@ -276,6 +276,7 @@
     <string name="common_timeout_message">Timeout..., please try again after a few minutes.</string>
     <string name="common_delete">删除</string>
     <string name="common_remember">Remember</string>
+    <string name="common_close">关闭</string>
     <string name="already_task_running">正在运行，请在几分钟后重试。</string>
     <string name="cannot_view_private_account_timeline">无法查看私人帐户的推特...</string>
     <string name="cannot_view_private_account_tweet">无法查看私人帐户的推文...</string>
@@ -665,6 +666,7 @@
     <string name="menu_show_rt_users_mastodon">显示转嘟的用户</string>
     <string name="menu_show_rt_users_misskey">显示转笔记的用户</string>
     <string name="menu_show_rt_users_bluesky">显示转帖的用户</string>
+    <string name="reposted_users_dialog_title">转帖的用户</string>
     <string name="menu_show_quoted_tweets">引用的推文</string>
     <string name="menu_show_quoted_posts">Quoted posts</string>
     <string name="menu_show_favorite_users_favorite">收藏的用户</string>
@@ -1176,6 +1178,7 @@
     <string name="config_display_all_images_as_blur">Display all images as blur</string>
     <string name="config_display_all_images_as_blur_summary">[default:OFF]</string>
     <string name="config_user_icon_thumbnail_category">用户图标</string>
+    <string name="user_icon">用户图标</string>
     <string name="config_use_rounded_thumbnail">圆形的缩略图</string>
     <string name="config_use_rounded_thumbnail_summary">使用圆形的个人资料图标 [默认:开]</string>
     <string name="config_link_area_category">链接</string>
