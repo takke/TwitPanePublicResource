@@ -672,6 +672,7 @@
     <string name="no_liked_users">No liked users</string>
     <string name="no_reposted_users">No reposted users</string>
     <string name="no_blocking_users">No blocking users</string>
+    <string name="no_users">사용자가 없습니다</string>
     <string name="menu_show_profile">프로필 보기</string>
     <string name="menu_show_timeline">타임라인 보이기</string>
     <string name="show_tweets">타임라인 보이기</string>

@@ -681,6 +681,7 @@
     <string name="no_liked_users">いいねしたユーザーはいません</string>
     <string name="no_reposted_users">リポストしたユーザーはいません</string>
     <string name="no_blocking_users">ブロックしているユーザーはいません</string>
+    <string name="no_users">ユーザーはいません</string>
     <string name="menu_show_profile">プロフィールを表示する</string>
     <string name="menu_show_timeline">タイムラインを表示する</string>
     <string name="show_tweets">ツイートを表示</string>

@@ -667,6 +667,7 @@
     <string name="no_liked_users">No liked users</string>
     <string name="no_reposted_users">No reposted users</string>
     <string name="no_blocking_users">No blocking users</string>
+    <string name="no_users">No users</string>
     <string name="menu_show_profile">Show Profile</string>
     <string name="menu_show_timeline">Show Timeline</string>
     <string name="show_tweets">Show Tweets</string>

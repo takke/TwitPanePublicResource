@@ -674,6 +674,7 @@
     <string name="no_liked_users">No liked users</string>
     <string name="no_reposted_users">No reposted users</string>
     <string name="no_blocking_users">No blocking users</string>
+    <string name="no_users">沒有用户</string>
     <string name="menu_show_profile">顯示個人資料</string>
     <string name="menu_show_timeline">顯示時間軸</string>
     <string name="show_tweets">顯示時間軸</string>
