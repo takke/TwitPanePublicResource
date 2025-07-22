@@ -816,6 +816,7 @@
     <string name="menu_share_message">共有する</string>
     <string name="menu_share_lists">共有する</string>
     <string name="menu_copy">コピーする...</string>
+    <string name="copy_selection_dialog_title">何をコピーしますか？</string>
     <string name="menu_emoji_reaction">絵文字リアクション</string>
     <string name="menu_show_custom_emojis">絵文字を拡大表示</string>
     <string name="emoji_unreactioned">解除しました</string>

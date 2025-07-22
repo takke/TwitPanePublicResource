@@ -807,6 +807,7 @@
     <string name="menu_share_message">공유</string>
     <string name="menu_share_lists">공유</string>
     <string name="menu_copy">복사 ...</string>
+    <string name="copy_selection_dialog_title">무엇을 복사하시겠습니까?</string>
     <string name="menu_emoji_reaction">Emoji reaction</string>
     <string name="menu_show_custom_emojis">Show custom emojis</string>
     <string name="emoji_unreactioned">Removed.</string>

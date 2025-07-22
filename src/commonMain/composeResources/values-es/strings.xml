@@ -807,6 +807,7 @@
     <string name="menu_share_message">Compartir</string>
     <string name="menu_share_lists">Compartir</string>
     <string name="menu_copy">Copiar...</string>
+    <string name="copy_selection_dialog_title">¿Qué te gustaría copiar?</string>
     <string name="menu_emoji_reaction">Emoji reaction</string>
     <string name="menu_show_custom_emojis">Show custom emojis</string>
     <string name="emoji_unreactioned">Removed.</string>
