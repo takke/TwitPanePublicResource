@@ -809,6 +809,14 @@
     <string name="menu_share_lists">分享</string>
     <string name="menu_copy">複製...</string>
     <string name="copy_selection_dialog_title">您想要複製什麼？</string>
+    <string name="copy_option_display_name_or_handle">顯示名稱或用戶名</string>
+    <string name="copy_option_handle">@用戶名</string>
+    <string name="copy_option_handle_short">@用戶名（簡短）</string>
+    <string name="copy_option_body">正文</string>
+    <string name="copy_option_handle_with_body">@用戶名 + 正文</string>
+    <string name="copy_option_display_name_handle_with_body">顯示名稱 + @用戶名 + 正文</string>
+    <string name="copy_option_custom_selection">選擇...</string>
+    <string name="copy_option_custom_selection_preview">您可以自由選擇。也可以用選擇的部分進行搜索</string>
     <string name="menu_emoji_reaction">Emoji reaction</string>
     <string name="menu_show_custom_emojis">Show custom emojis</string>
     <string name="emoji_unreactioned">Removed.</string>

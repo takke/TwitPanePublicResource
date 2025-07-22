@@ -803,6 +803,14 @@
     <string name="menu_share_lists">Share</string>
     <string name="menu_copy">Copy...</string>
     <string name="copy_selection_dialog_title">What would you like to copy?</string>
+    <string name="copy_option_display_name_or_handle">Display name or handle</string>
+    <string name="copy_option_handle">@Handle</string>
+    <string name="copy_option_handle_short">@Handle (short)</string>
+    <string name="copy_option_body">Body</string>
+    <string name="copy_option_handle_with_body">@Handle + body</string>
+    <string name="copy_option_display_name_handle_with_body">Display name + @handle + body</string>
+    <string name="copy_option_custom_selection">Select...</string>
+    <string name="copy_option_custom_selection_preview">You can freely select. You can also search with the selected part</string>
     <string name="menu_emoji_reaction">Emoji reaction</string>
     <string name="menu_show_custom_emojis">Show custom emojis</string>
     <string name="emoji_unreactioned">Removed.</string>

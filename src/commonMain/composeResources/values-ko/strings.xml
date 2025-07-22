@@ -808,6 +808,14 @@
     <string name="menu_share_lists">공유</string>
     <string name="menu_copy">복사 ...</string>
     <string name="copy_selection_dialog_title">무엇을 복사하시겠습니까?</string>
+    <string name="copy_option_display_name_or_handle">표시 이름 또는 핸들</string>
+    <string name="copy_option_handle">@핸들</string>
+    <string name="copy_option_handle_short">@핸들 (짧음)</string>
+    <string name="copy_option_body">본문</string>
+    <string name="copy_option_handle_with_body">@핸들 + 본문</string>
+    <string name="copy_option_display_name_handle_with_body">표시 이름 + @핸들 + 본문</string>
+    <string name="copy_option_custom_selection">선택...</string>
+    <string name="copy_option_custom_selection_preview">자유롭게 선택할 수 있습니다. 선택한 부분으로 검색도 가능합니다</string>
     <string name="menu_emoji_reaction">Emoji reaction</string>
     <string name="menu_show_custom_emojis">Show custom emojis</string>
     <string name="emoji_unreactioned">Removed.</string>
