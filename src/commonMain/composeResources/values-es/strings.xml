@@ -666,6 +666,7 @@
     <string name="menu_show_rt_users_misskey">Mostrar usuarios que han renoteado</string>
     <string name="menu_show_rt_users_bluesky">Mostrar usuarios que han reposteado</string>
     <string name="reposted_users_dialog_title">Usuarios que repostearon</string>
+    <string name="liked_users_dialog_title">Usuarios que dieron me gusta</string>
     <string name="menu_show_quoted_tweets">tuits citados</string>
     <string name="menu_show_quoted_posts">Quoted posts</string>
     <string name="quoted_posts_dialog_title">Publicaciones citadas</string>
@@ -673,7 +674,7 @@
     <string name="no_posts">No hay publicaciones</string>
     <string name="menu_show_favorite_users_favorite">Usuarios favoritos</string>
     <string name="menu_show_favorite_users_like">Usuarios me gusta</string>
-    <string name="no_liked_users">No liked users</string>
+    <string name="no_liked_users">No hay usuarios que dieron me gusta</string>
     <string name="no_reposted_users">No reposted users</string>
     <string name="no_blocking_users">No blocking users</string>
     <string name="no_users">No hay usuarios</string>

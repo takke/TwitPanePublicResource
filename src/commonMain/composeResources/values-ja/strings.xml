@@ -674,6 +674,7 @@
     <string name="menu_show_rt_users_misskey">リノートしたユーザーを表示</string>
     <string name="menu_show_rt_users_bluesky">リポストしたユーザーを表示</string>
     <string name="reposted_users_dialog_title">リポストしたユーザー</string>
+    <string name="liked_users_dialog_title">いいねしたユーザー</string>
     <string name="menu_show_quoted_tweets">引用されたツイート一覧</string>
     <string name="menu_show_quoted_posts">引用されたポスト一覧</string>
     <string name="quoted_posts_dialog_title">引用されたポスト</string>

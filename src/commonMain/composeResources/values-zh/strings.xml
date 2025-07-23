@@ -667,6 +667,7 @@
     <string name="menu_show_rt_users_misskey">显示转笔记的用户</string>
     <string name="menu_show_rt_users_bluesky">显示转帖的用户</string>
     <string name="reposted_users_dialog_title">转帖的用户</string>
+    <string name="liked_users_dialog_title">点赞的用户</string>
     <string name="menu_show_quoted_tweets">引用的推文</string>
     <string name="menu_show_quoted_posts">Quoted posts</string>
     <string name="quoted_posts_dialog_title">引用的帖子</string>
@@ -674,7 +675,7 @@
     <string name="no_posts">没有帖子</string>
     <string name="menu_show_favorite_users_favorite">收藏的用户</string>
     <string name="menu_show_favorite_users_like">点赞的用户</string>
-    <string name="no_liked_users">No liked users</string>
+    <string name="no_liked_users">没有点赞的用户</string>
     <string name="no_reposted_users">No reposted users</string>
     <string name="no_blocking_users">No blocking users</string>
     <string name="no_users">没有用户</string>
