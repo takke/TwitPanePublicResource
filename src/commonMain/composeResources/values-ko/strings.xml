@@ -667,6 +667,9 @@
     <string name="reposted_users_dialog_title">리포스트한 사용자</string>
     <string name="menu_show_quoted_tweets">인용된 트윗</string>
     <string name="menu_show_quoted_posts">Quoted posts</string>
+    <string name="quoted_posts_dialog_title">인용된 게시물</string>
+    <string name="no_quoted_posts">인용된 게시물이 없습니다</string>
+    <string name="no_posts">게시물이 없습니다</string>
     <string name="menu_show_favorite_users_favorite">좋아하는 사용자</string>
     <string name="menu_show_favorite_users_like">마음 한 유저 보기</string>
     <string name="no_liked_users">No liked users</string>

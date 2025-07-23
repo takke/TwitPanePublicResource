@@ -670,6 +670,9 @@
     <string name="reposted_users_dialog_title">轉貼的使用者</string>
     <string name="menu_show_quoted_tweets">引用的推文</string>
     <string name="menu_show_quoted_posts">Quoted posts</string>
+    <string name="quoted_posts_dialog_title">引用的帖子</string>
+    <string name="no_quoted_posts">沒有引用的帖子</string>
+    <string name="no_posts">沒有帖子</string>
     <string name="menu_show_favorite_users_favorite">收藏的使用者</string>
     <string name="menu_show_favorite_users_like">點讚的使用者</string>
     <string name="no_liked_users">No liked users</string>
