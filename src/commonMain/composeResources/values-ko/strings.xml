@@ -659,6 +659,9 @@
     <string name="menu_search_around_posts_mastodon">전후 투트 검색</string>
     <string name="menu_search_around_posts_misskey">전후 노트 검색</string>
     <string name="menu_search_around_posts_bluesky">전후 포스트 검색</string>
+    <string name="search_around_posts_searching">검색 중...</string>
+    <string name="search_around_posts_progress">진행 상황: %1$d / %2$d</string>
+    <string name="search_around_posts_select_user">선택</string>
     <string name="found_new_reply_tweets">발견 새 트윗(%1$s)</string>
     <string name="menu_show_rt_users_tw">리트윗 한 유저 보기</string>
     <string name="menu_show_rt_users_mastodon">부스트한 사용자 표시</string>

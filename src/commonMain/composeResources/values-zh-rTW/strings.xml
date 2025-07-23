@@ -662,6 +662,9 @@
     <string name="menu_search_around_posts_mastodon">搜尋相關的嘟文</string>
     <string name="menu_search_around_posts_misskey">搜尋相關的筆記</string>
     <string name="menu_search_around_posts_bluesky">搜尋相關的帖子</string>
+    <string name="search_around_posts_searching">搜尋中...</string>
+    <string name="search_around_posts_progress">進度: %1$d / %2$d</string>
+    <string name="search_around_posts_select_user">選擇</string>
     <string name="found_new_reply_tweets">發現新的推文(%1$s)</string>
     <string name="menu_show_rt_users_tw">轉推使用者</string>
     <string name="menu_show_rt_users_mastodon">顯示轉嘟的使用者</string>

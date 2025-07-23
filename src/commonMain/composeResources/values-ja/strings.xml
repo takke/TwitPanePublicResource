@@ -668,6 +668,9 @@
     <string name="menu_search_around_posts_mastodon">前後の投稿を検索する</string>
     <string name="menu_search_around_posts_misskey">前後のノートを検索する</string>
     <string name="menu_search_around_posts_bluesky">前後の投稿を検索する</string>
+    <string name="search_around_posts_searching">検索中...</string>
+    <string name="search_around_posts_progress">進行状況: %1$d / %2$d</string>
+    <string name="search_around_posts_select_user">選択</string>
     <string name="found_new_reply_tweets">%1$s件の新着返信を取得しました</string>
     <string name="menu_show_rt_users_tw">リツイートしたユーザー一覧</string>
     <string name="menu_show_rt_users_mastodon">ブーストしたユーザーを表示</string>
