@@ -1094,6 +1094,7 @@
     <string name="config_color_label_label_name">라벨 이름</string>
     <string name="config_color_label_list_title">컬러 라벨 목록</string>
     <string name="config_color_label_select_color">색상을 선택하세요:</string>
+    <string name="config_color_label_select_from_palette">팔레트에서 선택</string>
     <string name="config_color_label_select_from_other">다른 색상에서 선택:</string>
     <string name="config_selected_theme">선택된 테마</string>
     <string name="config_selected_theme_summary">현재 테마: %1$s</string>

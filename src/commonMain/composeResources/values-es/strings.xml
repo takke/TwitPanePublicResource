@@ -1093,6 +1093,7 @@
     <string name="config_color_label_label_name">Nombre de etiqueta</string>
     <string name="config_color_label_list_title">Lista de etiquetas de color</string>
     <string name="config_color_label_select_color">Seleccione un color:</string>
+    <string name="config_color_label_select_from_palette">Seleccionar de la paleta</string>
     <string name="config_color_label_select_from_other">Seleccionar de otros colores:</string>
     <string name="config_selected_theme">Tema Seleccionado</string>
     <string name="config_selected_theme_summary">Tema actual: %1$s</string>

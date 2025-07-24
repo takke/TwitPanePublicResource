@@ -1093,6 +1093,7 @@
     <string name="config_color_label_label_name">标签名称</string>
     <string name="config_color_label_list_title">颜色标签列表</string>
     <string name="config_color_label_select_color">请选择颜色:</string>
+    <string name="config_color_label_select_from_palette">从调色板选择</string>
     <string name="config_color_label_select_from_other">从其他颜色中选择:</string>
     <string name="config_selected_theme">选中的主题</string>
     <string name="config_selected_theme_summary">当前主题: %1$s</string>

@@ -1085,6 +1085,7 @@
     <string name="config_color_label_label_name">Label Name</string>
     <string name="config_color_label_list_title">Color Label List</string>
     <string name="config_color_label_select_color">Select a color:</string>
+    <string name="config_color_label_select_from_palette">Select from palette</string>
     <string name="config_color_label_select_from_other">Select from other colors:</string>
     <string name="config_selected_theme">Selected Theme</string>
     <string name="config_selected_theme_summary">Current theme: %1$s</string>

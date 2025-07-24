@@ -1108,6 +1108,7 @@
     <string name="config_color_label_label_name">ラベル名</string>
     <string name="config_color_label_list_title">カラーラベル一覧</string>
     <string name="config_color_label_select_color">カラーを選択してください:</string>
+    <string name="config_color_label_select_from_palette">パレットから選択</string>
     <string name="config_color_label_select_from_other">他のカラーから選択:</string>
     <string name="config_selected_theme">選択中のテーマ</string>
     <string name="config_selected_theme_summary">現在使用中のテーマ: %1$s</string>
