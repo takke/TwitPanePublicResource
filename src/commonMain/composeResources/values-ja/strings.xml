@@ -931,6 +931,16 @@
     <string name="publish_reply_to_label">返信先</string>
     <string name="publish_reply_to_cannot_display">返信先を表示できません</string>
     <string name="publish_reply_to_failed_to_load">返信先ポストを読み込めませんでした</string>
+    <string name="publish_quote_to_label">引用</string>
+    <string name="publish_quote_to_cannot_display">引用対象を表示できません</string>
+    <string name="publish_quote_to_failed_to_load">引用対象ポストを読み込めませんでした</string>
+    <string name="publish_quote_post_title">引用投稿</string>
+    <string name="publish_reply_title">返信</string>
+    <string name="publish_post_title">投稿</string>
+    <string name="publish_quote_confirm_title">引用投稿確認</string>
+    <string name="publish_quote_failed_fallback">引用対象ポストの取得に失敗しました。通常投稿として投稿することができます。</string>
+    <string name="publish_quote_not_found">引用対象ポストが見つかりませんでした。削除されている可能性があります。</string>
+    <string name="publish_reply_not_found">返信先ポストが見つかりませんでした。削除されている可能性があります。</string>
     <string name="publish_media_permission_warning">警告</string>
     <string name="publish_media_permission_open_settings">設定を開く</string>
     <string name="publish_image_description_edit_title">代替テキストを編集</string>
@@ -1008,6 +1018,29 @@
     <string name="publish_post_confirm_misskey">ノートします。よろしいですか？</string>
     <string name="publish_post_confirm_bluesky">投稿します。よろしいですか？</string>
     <string name="publish_toot_edit_confirm">編集します。よろしいですか？</string>
+    <!-- ViewModelで使用するエラーメッセージ -->
+    <string name="publish_reply_post_not_found">返信先ポストが見つかりませんでした。削除されている可能性があります。</string>
+    <string name="publish_reply_post_fetch_failed">返信先ポストの取得に失敗しました: %1$s</string>
+    <string name="publish_quote_post_not_found">引用対象ポストが見つかりませんでした。削除されている可能性があります。</string>
+    <string name="publish_quote_post_fetch_failed">引用対象ポストの取得に失敗しました。通常投稿として投稿することができます。</string>
+    <string name="publish_content_required">投稿内容を入力してください</string>
+    <string name="publish_account_not_found">アカウント情報が取得できませんでした</string>
+    <string name="publish_bluesky_account_required">Blueskyアカウントが選択されていません</string>
+    <string name="publish_failed">投稿に失敗しました</string>
+    <string name="publish_preview_failed">プレビューの作成に失敗しました: %1$s</string>
+    <string name="publish_reply_confirm_title">返信確認</string>
+    <string name="publish_quote_confirm_title_2">引用投稿確認</string>
+    <string name="publish_post_confirm_title">投稿確認</string>
+    <!-- 画像添付関連エラーメッセージ -->
+    <string name="publish_image_max_count_error">画像は最大4枚まで添付できます</string>
+    <string name="publish_image_selection_unavailable">画像選択機能が利用できません</string>
+    <string name="publish_image_selection_failed">画像選択に失敗しました: %1$s</string>
+    <string name="publish_image_max_count_added">最大4枚まで添付できるため、%1$d枚を追加しました</string>
+    <string name="publish_settings_opening">設定画面を開いています...</string>
+    <string name="publish_settings_permission_required">設定画面で権限を許可してから再度お試しください</string>
+    <string name="publish_settings_open_failed">設定画面を開けませんでした</string>
+    <string name="publish_permission_required_retry">画像選択には権限が必要です。もう一度お試しください</string>
+    <string name="publish_permission_opening_settings">画像選択には権限が必要です。設定画面を開いています...</string>
     <string name="publish_attached_files">添付ファイル</string>
     <string name="publish_emoji_warning">絵文字はインスタンスによってはこのプレビュー通りに表示されない場合があります</string>
     <string name="publish_has_quote">引用あり</string>

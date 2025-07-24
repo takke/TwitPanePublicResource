@@ -922,6 +922,16 @@
     <string name="publish_reply_to_label">답글 대상</string>
     <string name="publish_reply_to_cannot_display">답글 대상을 표시할 수 없습니다</string>
     <string name="publish_reply_to_failed_to_load">답글 게시물을 불러오지 못했습니다</string>
+    <string name="publish_quote_to_label">인용</string>
+    <string name="publish_quote_to_cannot_display">인용 대상을 표시할 수 없습니다</string>
+    <string name="publish_quote_to_failed_to_load">인용된 게시물을 불러오지 못했습니다</string>
+    <string name="publish_quote_post_title">인용 게시물</string>
+    <string name="publish_reply_title">답글</string>
+    <string name="publish_post_title">게시물</string>
+    <string name="publish_quote_confirm_title">인용 게시물 확인</string>
+    <string name="publish_quote_failed_fallback">인용된 게시물을 불러오지 못했습니다. 일반 게시물로 게시할 수 있습니다.</string>
+    <string name="publish_quote_not_found">인용된 게시물을 찾을 수 없습니다. 삭제되었을 수 있습니다.</string>
+    <string name="publish_reply_not_found">답글 대상 게시물을 찾을 수 없습니다. 삭제되었을 수 있습니다.</string>
     <string name="publish_media_permission_warning">경고</string>
     <string name="publish_media_permission_open_settings">설정 열기</string>
     <string name="publish_image_description_edit_title">대체 텍스트 편집</string>
@@ -996,6 +1006,29 @@
     <string name="publish_post_confirm_misskey">새로운 노트를 보냅니다. 괜찮습니까?</string>
     <string name="publish_post_confirm_bluesky">새로운 게시물을 보냅니다. 괜찮습니까?</string>
     <string name="publish_toot_edit_confirm">Edit toot. ok?</string>
+    <!-- ViewModelで使用するエラーメッセージ -->
+    <string name="publish_reply_post_not_found">답글 게시물을 찾을 수 없습니다. 삭제되었을 수 있습니다.</string>
+    <string name="publish_reply_post_fetch_failed">답글 게시물을 가져오지 못했습니다: %1$s</string>
+    <string name="publish_quote_post_not_found">인용 대상 게시물을 찾을 수 없습니다. 삭제되었을 수 있습니다.</string>
+    <string name="publish_quote_post_fetch_failed">인용 대상 게시물을 가져오지 못했습니다. 일반 게시물로 게시할 수 있습니다.</string>
+    <string name="publish_content_required">게시물 내용을 입력해주세요</string>
+    <string name="publish_account_not_found">계정 정보를 가져올 수 없습니다</string>
+    <string name="publish_bluesky_account_required">Bluesky 계정이 선택되지 않았습니다</string>
+    <string name="publish_failed">게시에 실패했습니다</string>
+    <string name="publish_preview_failed">미리보기 생성에 실패했습니다: %1$s</string>
+    <string name="publish_reply_confirm_title">답글 확인</string>
+    <string name="publish_quote_confirm_title_2">인용 게시물 확인</string>
+    <string name="publish_post_confirm_title">게시물 확인</string>
+    <!-- 画像添付関連エラーメッセージ -->
+    <string name="publish_image_max_count_error">최대 4개의 이미지를 첨부할 수 있습니다</string>
+    <string name="publish_image_selection_unavailable">이미지 선택 기능을 사용할 수 없습니다</string>
+    <string name="publish_image_selection_failed">이미지 선택에 실패했습니다: %1$s</string>
+    <string name="publish_image_max_count_added">최대 4개까지 첨부할 수 있어 %1$d개를 추가했습니다</string>
+    <string name="publish_settings_opening">설정 화면을 열고 있습니다...</string>
+    <string name="publish_settings_permission_required">이미지 선택에는 권한이 필요합니다. 설정에서 권한을 허용한 후 다시 시도해주세요</string>
+    <string name="publish_settings_open_failed">설정 화면을 열 수 없습니다</string>
+    <string name="publish_permission_required_retry">이미지 선택에는 권한이 필요합니다. 다시 시도해주세요</string>
+    <string name="publish_permission_opening_settings">이미지 선택에는 권한이 필요합니다. 설정 화면을 열고 있습니다...</string>
     <string name="publish_attached_files">attached files</string>
     <string name="publish_emoji_warning">Emoji may not appear as shown in this preview in some instances</string>
     <string name="publish_has_quote">Has quote</string>

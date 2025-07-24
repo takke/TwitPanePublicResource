@@ -921,6 +921,16 @@
     <string name="publish_reply_to_label">回复对象</string>
     <string name="publish_reply_to_cannot_display">无法显示回复对象</string>
     <string name="publish_reply_to_failed_to_load">无法加载回复帖子</string>
+    <string name="publish_quote_to_label">引用</string>
+    <string name="publish_quote_to_cannot_display">无法显示引用对象</string>
+    <string name="publish_quote_to_failed_to_load">无法加载引用帖子</string>
+    <string name="publish_quote_post_title">引用帖子</string>
+    <string name="publish_reply_title">回复</string>
+    <string name="publish_post_title">发布</string>
+    <string name="publish_quote_confirm_title">引用帖子确认</string>
+    <string name="publish_quote_failed_fallback">无法加载引用帖子。仍可作为普通帖子发布。</string>
+    <string name="publish_quote_not_found">找不到引用帖子。可能已被删除。</string>
+    <string name="publish_reply_not_found">找不到回复对象帖子。可能已被删除。</string>
     <string name="publish_media_permission_warning">警告</string>
     <string name="publish_media_permission_open_settings">打开设置</string>
     <string name="publish_image_description_edit_title">编辑替代文本</string>
@@ -995,6 +1005,29 @@
     <string name="publish_post_confirm_misskey">发送新笔记吗？</string>
     <string name="publish_post_confirm_bluesky">发送新帖子吗？</string>
     <string name="publish_toot_edit_confirm">Edit toot. ok?</string>
+    <!-- ViewModelで使用するエラーメッセージ -->
+    <string name="publish_reply_post_not_found">找不到回复帖子。可能已被删除。</string>
+    <string name="publish_reply_post_fetch_failed">获取回复帖子失败：%1$s</string>
+    <string name="publish_quote_post_not_found">找不到引用对象帖子。可能已被删除。</string>
+    <string name="publish_quote_post_fetch_failed">获取引用对象帖子失败。仍可作为普通帖子发布。</string>
+    <string name="publish_content_required">请输入帖子内容</string>
+    <string name="publish_account_not_found">无法获取账户信息</string>
+    <string name="publish_bluesky_account_required">未选择Bluesky账户</string>
+    <string name="publish_failed">发布失败</string>
+    <string name="publish_preview_failed">创建预览失败：%1$s</string>
+    <string name="publish_reply_confirm_title">回复确认</string>
+    <string name="publish_quote_confirm_title_2">引用帖子确认</string>
+    <string name="publish_post_confirm_title">发布确认</string>
+    <!-- 画像添付関連エラーメッセージ -->
+    <string name="publish_image_max_count_error">最多可以添加4张图片</string>
+    <string name="publish_image_selection_unavailable">图片选择功能不可用</string>
+    <string name="publish_image_selection_failed">图片选择失败：%1$s</string>
+    <string name="publish_image_max_count_added">由于最多只能添加4张图片，已添加%1$d张</string>
+    <string name="publish_settings_opening">正在打开设置页面...</string>
+    <string name="publish_settings_permission_required">图片选择需要权限。请在设置中允许权限后重试</string>
+    <string name="publish_settings_open_failed">无法打开设置页面</string>
+    <string name="publish_permission_required_retry">图片选择需要权限。请重试</string>
+    <string name="publish_permission_opening_settings">图片选择需要权限。正在打开设置页面...</string>
     <string name="publish_attached_files">attached files</string>
     <string name="publish_emoji_warning">Emoji may not appear as shown in this preview in some instances</string>
     <string name="publish_has_quote">Has quote</string>

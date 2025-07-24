@@ -917,6 +917,16 @@
     <string name="publish_reply_to_label">Reply to</string>
     <string name="publish_reply_to_cannot_display">Cannot display reply destination</string>
     <string name="publish_reply_to_failed_to_load">Failed to load reply post</string>
+    <string name="publish_quote_to_label">Quote</string>
+    <string name="publish_quote_to_cannot_display">Cannot display quote target</string>
+    <string name="publish_quote_to_failed_to_load">Failed to load quoted post</string>
+    <string name="publish_quote_post_title">Quote Post</string>
+    <string name="publish_reply_title">Reply</string>
+    <string name="publish_post_title">Post</string>
+    <string name="publish_quote_confirm_title">Quote Post Confirmation</string>
+    <string name="publish_quote_failed_fallback">Failed to load quoted post. You can still post as a regular post.</string>
+    <string name="publish_quote_not_found">Quoted post not found. It may have been deleted.</string>
+    <string name="publish_reply_not_found">Reply target post not found. It may have been deleted.</string>
     <string name="publish_media_permission_warning">Warning</string>
     <string name="publish_media_permission_open_settings">Open Settings</string>
     <string name="publish_image_description_edit_title">Edit alternative text</string>
@@ -986,6 +996,29 @@
     <string name="publish_post_confirm_misskey">Send new note. ok?</string>
     <string name="publish_post_confirm_bluesky">Send new post. ok?</string>
     <string name="publish_toot_edit_confirm">Edit toot. ok?</string>
+    <!-- ViewModelで使用するエラーメッセージ -->
+    <string name="publish_reply_post_not_found">Reply post not found. It may have been deleted.</string>
+    <string name="publish_reply_post_fetch_failed">Failed to retrieve reply post: %1$s</string>
+    <string name="publish_quote_post_not_found">Quote target post not found. It may have been deleted.</string>
+    <string name="publish_quote_post_fetch_failed">Failed to retrieve quote target post. You can post as a regular post.</string>
+    <string name="publish_content_required">Please enter post content</string>
+    <string name="publish_account_not_found">Account information could not be retrieved</string>
+    <string name="publish_bluesky_account_required">Bluesky account is not selected</string>
+    <string name="publish_failed">Failed to post</string>
+    <string name="publish_preview_failed">Failed to create preview: %1$s</string>
+    <string name="publish_reply_confirm_title">Reply Confirmation</string>
+    <string name="publish_quote_confirm_title_2">Quote Post Confirmation</string>
+    <string name="publish_post_confirm_title">Post Confirmation</string>
+    <!-- 画像添付関連エラーメッセージ -->
+    <string name="publish_image_max_count_error">You can attach up to 4 images</string>
+    <string name="publish_image_selection_unavailable">Image selection feature is not available</string>
+    <string name="publish_image_selection_failed">Failed to select image: %1$s</string>
+    <string name="publish_image_max_count_added">Added %1$d images as you can attach up to 4 images</string>
+    <string name="publish_settings_opening">Opening settings screen...</string>
+    <string name="publish_settings_permission_required">Permission is required for image selection. Please allow it in settings and try again</string>
+    <string name="publish_settings_open_failed">Could not open settings screen</string>
+    <string name="publish_permission_required_retry">Permission is required for image selection. Please try again</string>
+    <string name="publish_permission_opening_settings">Permission is required for image selection. Opening settings screen...</string>
     <string name="publish_attached_files">attached files</string>
     <string name="publish_emoji_warning">Emoji may not appear as shown in this preview in some instances</string>
     <string name="publish_has_quote">Has quote</string>

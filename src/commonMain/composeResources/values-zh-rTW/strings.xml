@@ -924,6 +924,16 @@
     <string name="publish_reply_to_label">回覆對象</string>
     <string name="publish_reply_to_cannot_display">無法顯示回覆對象</string>
     <string name="publish_reply_to_failed_to_load">無法載入回覆貼文</string>
+    <string name="publish_quote_to_label">引用</string>
+    <string name="publish_quote_to_cannot_display">無法顯示引用對象</string>
+    <string name="publish_quote_to_failed_to_load">無法載入引用貼文</string>
+    <string name="publish_quote_post_title">引用貼文</string>
+    <string name="publish_reply_title">回覆</string>
+    <string name="publish_post_title">發布</string>
+    <string name="publish_quote_confirm_title">引用貼文確認</string>
+    <string name="publish_quote_failed_fallback">無法載入引用貼文。仍可作為普通貼文發布。</string>
+    <string name="publish_quote_not_found">找不到引用貼文。可能已被刪除。</string>
+    <string name="publish_reply_not_found">找不到回覆對象貼文。可能已被刪除。</string>
     <string name="publish_media_permission_warning">警告</string>
     <string name="publish_media_permission_open_settings">開啟設定</string>
     <string name="publish_image_description_edit_title">編輯替代文字</string>
@@ -998,6 +1008,29 @@
     <string name="publish_post_confirm_misskey">傳送新筆記嗎？</string>
     <string name="publish_post_confirm_bluesky">傳送新貼文嗎？</string>
     <string name="publish_toot_edit_confirm">Edit toot. ok?</string>
+    <!-- ViewModelで使用するエラーメッセージ -->
+    <string name="publish_reply_post_not_found">找不到回覆貼文。可能已被刪除。</string>
+    <string name="publish_reply_post_fetch_failed">獲取回覆貼文失敗：%1$s</string>
+    <string name="publish_quote_post_not_found">找不到引用對象貼文。可能已被刪除。</string>
+    <string name="publish_quote_post_fetch_failed">獲取引用對象貼文失敗。仍可作為普通貼文發布。</string>
+    <string name="publish_content_required">請輸入貼文內容</string>
+    <string name="publish_account_not_found">無法獲取帳戶資訊</string>
+    <string name="publish_bluesky_account_required">未選擇Bluesky帳戶</string>
+    <string name="publish_failed">發布失敗</string>
+    <string name="publish_preview_failed">建立預覽失敗：%1$s</string>
+    <string name="publish_reply_confirm_title">回覆確認</string>
+    <string name="publish_quote_confirm_title_2">引用貼文確認</string>
+    <string name="publish_post_confirm_title">發布確認</string>
+    <!-- 画像添付関連エラーメッセージ -->
+    <string name="publish_image_max_count_error">最多可以新增4張圖片</string>
+    <string name="publish_image_selection_unavailable">圖片選擇功能不可用</string>
+    <string name="publish_image_selection_failed">圖片選擇失敗：%1$s</string>
+    <string name="publish_image_max_count_added">由於最多只能新增4張圖片，已新增%1$d張</string>
+    <string name="publish_settings_opening">正在開啟設定頁面...</string>
+    <string name="publish_settings_permission_required">圖片選擇需要權限。請在設定中允許權限後重試</string>
+    <string name="publish_settings_open_failed">無法開啟設定頁面</string>
+    <string name="publish_permission_required_retry">圖片選擇需要權限。請重試</string>
+    <string name="publish_permission_opening_settings">圖片選擇需要權限。正在開啟設定頁面...</string>
     <string name="publish_attached_files">attached files</string>
     <string name="publish_emoji_warning">Emoji may not appear as shown in this preview in some instances</string>
     <string name="publish_has_quote">Has quote</string>

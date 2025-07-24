@@ -922,6 +922,16 @@
     <string name="publish_reply_to_label">Responder a</string>
     <string name="publish_reply_to_cannot_display">No se puede mostrar el destino de respuesta</string>
     <string name="publish_reply_to_failed_to_load">Error al cargar la publicación de respuesta</string>
+    <string name="publish_quote_to_label">Citar</string>
+    <string name="publish_quote_to_cannot_display">No se puede mostrar el objetivo de cita</string>
+    <string name="publish_quote_to_failed_to_load">Error al cargar publicación citada</string>
+    <string name="publish_quote_post_title">Publicación con cita</string>
+    <string name="publish_reply_title">Respuesta</string>
+    <string name="publish_post_title">Publicar</string>
+    <string name="publish_quote_confirm_title">Confirmación de publicación con cita</string>
+    <string name="publish_quote_failed_fallback">Error al cargar la publicación citada. Aún puedes publicar como una publicación normal.</string>
+    <string name="publish_quote_not_found">Publicación citada no encontrada. Puede haber sido eliminada.</string>
+    <string name="publish_reply_not_found">Publicación de respuesta no encontrada. Puede haber sido eliminada.</string>
     <string name="publish_media_permission_warning">Advertencia</string>
     <string name="publish_media_permission_open_settings">Abrir configuración</string>
     <string name="publish_image_description_edit_title">Editar texto alternativo</string>
@@ -996,6 +1006,29 @@
     <string name="publish_post_confirm_misskey">Enviar una nueva nota.¿Aceptar?</string>
     <string name="publish_post_confirm_bluesky">Enviar una nueva publicación.¿Aceptar?</string>
     <string name="publish_toot_edit_confirm">Edit toot. ok?</string>
+    <!-- ViewModelで使用するエラーメッセージ -->
+    <string name="publish_reply_post_not_found">Publicación de respuesta no encontrada. Puede haber sido eliminada.</string>
+    <string name="publish_reply_post_fetch_failed">Error al obtener la publicación de respuesta: %1$s</string>
+    <string name="publish_quote_post_not_found">Publicación citada no encontrada. Puede haber sido eliminada.</string>
+    <string name="publish_quote_post_fetch_failed">Error al obtener la publicación citada. Puedes publicar como una publicación normal.</string>
+    <string name="publish_content_required">Por favor ingresa el contenido de la publicación</string>
+    <string name="publish_account_not_found">No se pudo obtener la información de la cuenta</string>
+    <string name="publish_bluesky_account_required">La cuenta de Bluesky no está seleccionada</string>
+    <string name="publish_failed">Error al publicar</string>
+    <string name="publish_preview_failed">Error al crear la vista previa: %1$s</string>
+    <string name="publish_reply_confirm_title">Confirmación de respuesta</string>
+    <string name="publish_quote_confirm_title_2">Confirmación de publicación con cita</string>
+    <string name="publish_post_confirm_title">Confirmación de publicación</string>
+    <!-- 画像添付関連エラーメッセージ -->
+    <string name="publish_image_max_count_error">Puedes adjuntar hasta 4 imágenes</string>
+    <string name="publish_image_selection_unavailable">La función de selección de imágenes no está disponible</string>
+    <string name="publish_image_selection_failed">Error al seleccionar imagen: %1$s</string>
+    <string name="publish_image_max_count_added">Se agregaron %1$d imágenes ya que puedes adjuntar hasta 4 imágenes</string>
+    <string name="publish_settings_opening">Abriendo pantalla de configuración...</string>
+    <string name="publish_settings_permission_required">El permiso es requerido para la selección de imágenes. Por favor permite en configuración e intenta de nuevo</string>
+    <string name="publish_settings_open_failed">No se pudo abrir la pantalla de configuración</string>
+    <string name="publish_permission_required_retry">El permiso es requerido para la selección de imágenes. Por favor intenta de nuevo</string>
+    <string name="publish_permission_opening_settings">El permiso es requerido para la selección de imágenes. Abriendo pantalla de configuración...</string>
     <string name="publish_attached_files">attached files</string>
     <string name="publish_emoji_warning">Emoji may not appear as shown in this preview in some instances</string>
     <string name="publish_has_quote">Has quote</string>
