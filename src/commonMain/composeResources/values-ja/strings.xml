@@ -1101,6 +1101,10 @@
     <string name="not_ellipsis">無効(折りたたまない)</string>
     <string name="config_theme">テーマとデザイン設定</string>
     <string name="config_theme_category">テーマ設定</string>
+    <string name="config_color_label_category">カラーラベル設定</string>
+    <string name="config_color_label_name_edit">ラベル名変更</string>
+    <string name="config_color_label_color_edit">カラー変更</string>
+    <string name="config_color_label_reset_color">デフォルト色に戻す</string>
     <string name="config_selected_theme">選択中のテーマ</string>
     <string name="config_selected_theme_summary">現在使用中のテーマ: %1$s</string>
     <string name="config_theme_selection_dialog_title">テーマ選択</string>

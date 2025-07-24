@@ -1078,6 +1078,10 @@
     <string name="not_ellipsis">Not ellipsis</string>
     <string name="config_theme">Theme</string>
     <string name="config_theme_category">Theme Settings</string>
+    <string name="config_color_label_category">Color Label Settings</string>
+    <string name="config_color_label_name_edit">Edit Label Name</string>
+    <string name="config_color_label_color_edit">Change Color</string>
+    <string name="config_color_label_reset_color">Reset to Default Color</string>
     <string name="config_selected_theme">Selected Theme</string>
     <string name="config_selected_theme_summary">Current theme: %1$s</string>
     <string name="config_theme_selection_dialog_title">Select Theme</string>

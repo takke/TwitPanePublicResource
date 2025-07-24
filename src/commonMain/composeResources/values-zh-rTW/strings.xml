@@ -1089,6 +1089,10 @@
     <string name="not_ellipsis">Not ellipsis</string>
     <string name="config_theme">主題</string>
     <string name="config_theme_category">主題設定</string>
+    <string name="config_color_label_category">顏色標籤設定</string>
+    <string name="config_color_label_name_edit">編輯標籤名稱</string>
+    <string name="config_color_label_color_edit">變更顏色</string>
+    <string name="config_color_label_reset_color">重設為預設顏色</string>
     <string name="config_selected_theme">已選擇的主題</string>
     <string name="config_selected_theme_summary">目前主題: %1$s</string>
     <string name="config_theme_selection_dialog_title">選擇主題</string>
