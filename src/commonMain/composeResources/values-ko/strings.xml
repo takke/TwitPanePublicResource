@@ -819,6 +819,7 @@
     <string name="menu_share_message">공유</string>
     <string name="menu_share_lists">공유</string>
     <string name="menu_copy">복사 ...</string>
+    <string name="menu_translate">번역</string>
     <string name="copy_selection_dialog_title">무엇을 복사하시겠습니까?</string>
     <string name="copy_option_display_name_or_handle">표시 이름 또는 핸들</string>
     <string name="copy_option_handle">@핸들</string>
@@ -839,7 +840,6 @@
     <string name="delete_emoji_reaction">Delete</string>
     <string name="put_emoji_reaction_confirm">Put the emoji reaction?</string>
     <string name="put_emoji_reaction">Put</string>
-    <string name="menu_translate">번역</string>
     <string name="set_startup_pane">시작 프로그램 탭으로 설정</string>
 
     <string name="show_polls_result">이 설문 조사의 진행 상황을 볼 수 있습니다.</string>

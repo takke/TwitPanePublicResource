@@ -814,6 +814,7 @@
     <string name="menu_share_message">Share</string>
     <string name="menu_share_lists">Share</string>
     <string name="menu_copy">Copy...</string>
+    <string name="menu_translate">Translate</string>
     <string name="copy_selection_dialog_title">What would you like to copy?</string>
     <string name="copy_option_display_name_or_handle">Display name or handle</string>
     <string name="copy_option_handle">@Handle</string>
@@ -834,7 +835,6 @@
     <string name="delete_emoji_reaction">Delete</string>
     <string name="put_emoji_reaction_confirm">Put the emoji reaction?</string>
     <string name="put_emoji_reaction">Put</string>
-    <string name="menu_translate">Translate</string>
     <string name="set_startup_pane">Set as Startup Tab</string>
 
     <string name="show_polls_result">View the progress of this poll.</string>

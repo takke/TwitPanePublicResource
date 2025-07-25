@@ -828,6 +828,7 @@
     <string name="menu_share_message">共有する</string>
     <string name="menu_share_lists">共有する</string>
     <string name="menu_copy">コピーする...</string>
+    <string name="menu_translate">翻訳する</string>
     <string name="copy_selection_dialog_title">何をコピーしますか？</string>
     <string name="copy_option_display_name_or_handle">表示名またはハンドル</string>
     <string name="copy_option_handle">@ハンドル</string>
@@ -848,7 +849,6 @@
     <string name="delete_emoji_reaction">解除</string>
     <string name="put_emoji_reaction_confirm">絵文字リアクションしますか？</string>
     <string name="put_emoji_reaction">追加</string>
-    <string name="menu_translate">翻訳</string>
     <string name="set_startup_pane">起動タブに設定する</string>
 
     <string name="show_polls_result">アンケートの途中経過を表示する</string>

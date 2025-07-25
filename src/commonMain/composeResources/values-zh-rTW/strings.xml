@@ -821,6 +821,7 @@
     <string name="menu_share_message">分享</string>
     <string name="menu_share_lists">分享</string>
     <string name="menu_copy">複製...</string>
+    <string name="menu_translate">翻譯</string>
     <string name="copy_selection_dialog_title">您想要複製什麼？</string>
     <string name="copy_option_display_name_or_handle">顯示名稱或使用者名稱</string>
     <string name="copy_option_handle">@使用者名稱</string>
@@ -841,7 +842,6 @@
     <string name="delete_emoji_reaction">Delete</string>
     <string name="put_emoji_reaction_confirm">Put the emoji reaction?</string>
     <string name="put_emoji_reaction">Put</string>
-    <string name="menu_translate">翻譯</string>
     <string name="set_startup_pane">設定為啟動標籤</string>
 
     <string name="show_polls_result">檢視本次調查的進展情況。</string>
