@@ -542,6 +542,8 @@
     <string name="menu_add_search_tab_to_home">新增搜尋標籤</string>
     <string name="add_search_tab_to_home_already_added">已經新增..</string>
     <string name="add_search_tab_to_home_finish">已新增</string>
+    <string name="list_tab_added">清單標籤已新增</string>
+    <string name="list_tab_removed">清單標籤已刪除</string>
     <string name="menu_open_saved_search">開啟已儲存的搜尋</string>
 
     <string name="menu_show_image_only">僅顯示影象</string>

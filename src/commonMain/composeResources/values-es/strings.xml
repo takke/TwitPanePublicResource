@@ -540,6 +540,8 @@
     <string name="menu_add_search_tab_to_home">Añadir pestaña de búsqueda</string>
     <string name="add_search_tab_to_home_already_added">ya se ha añadido ...</string>
     <string name="add_search_tab_to_home_finish">añadido</string>
+    <string name="list_tab_added">Pestaña de lista añadida</string>
+    <string name="list_tab_removed">Pestaña de lista eliminada</string>
     <string name="menu_open_saved_search">Búsquedas guardadas</string>
 
     <string name="menu_show_image_only">Mostrar tweets con imágenes</string>

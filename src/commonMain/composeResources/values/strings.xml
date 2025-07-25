@@ -534,6 +534,8 @@
     <string name="menu_add_search_tab_to_home">Add Search Tab</string>
     <string name="add_search_tab_to_home_already_added">already added..</string>
     <string name="add_search_tab_to_home_finish">added</string>
+    <string name="list_tab_added">List tab added</string>
+    <string name="list_tab_removed">List tab removed</string>
     <string name="menu_open_saved_search">Open Saved Search</string>
 
     <string name="menu_show_image_only">Show Image Only</string>

@@ -542,6 +542,8 @@
     <string name="menu_add_search_tab_to_home">添加搜索标签</string>
     <string name="add_search_tab_to_home_already_added">已经添加..</string>
     <string name="add_search_tab_to_home_finish">已添加</string>
+    <string name="list_tab_added">列表标签已添加</string>
+    <string name="list_tab_removed">列表标签已删除</string>
     <string name="menu_open_saved_search">打开已保存的搜索</string>
 
     <string name="menu_show_image_only">仅显示图像</string>
