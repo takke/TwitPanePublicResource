@@ -1965,7 +1965,7 @@
 
     <!-- Google Translate -->
     <string name="translate_app_guide_dialog_title">Google翻訳がインストールされていません</string>
-    <string name="translate_app_guide_dialog_message">翻訳するにはGoogle翻訳アプリが必要です。\n%1$s からダウンロードしますか？</string>
+    <string name="translate_app_guide_dialog_message">翻訳するにはGoogle翻訳アプリが必要です。\n%1$s からインストールしますか？</string>
     <string name="daily_inline_translation_limit_is_exceeded">本日のインライン翻訳の実行回数を超過したのでGoogle翻訳アプリで翻訳します</string>
     <string name="detail">詳細</string>
     <string name="download_translation_ml_data_confirm_message">翻訳対象の言語の機械学習用データ(約30MB)が必要です。ダウンロードしてよろしいですか？</string>
