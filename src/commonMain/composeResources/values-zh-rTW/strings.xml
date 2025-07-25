@@ -295,6 +295,8 @@
     <string name="user_reported_message">已舉報</string>
     <string name="destroy_block_user_confirm_message">你確定要取消遮蔽嗎？</string>
     <string name="destroy_block_message">已取消遮蔽</string>
+    <string name="block_user_failed_message">遮蔽使用者失敗</string>
+    <string name="unblock_user_failed_message">取消遮蔽使用者失敗</string>
 
     <string name="following">正在關注</string>
     <string name="follow">關注</string>

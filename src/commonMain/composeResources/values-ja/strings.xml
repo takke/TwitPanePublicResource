@@ -295,6 +295,8 @@
     <string name="user_reported_message">ユーザーをスパム通報しました</string>
     <string name="destroy_block_user_confirm_message">本当にこのユーザーのブロックを解除しますか？</string>
     <string name="destroy_block_message">ユーザーのブロックを解除しました</string>
+    <string name="block_user_failed_message">ユーザーのブロックに失敗しました</string>
+    <string name="unblock_user_failed_message">ユーザーのブロック解除に失敗しました</string>
     
     <string name="following">フォロー中</string>
     <string name="follow">フォローする</string>

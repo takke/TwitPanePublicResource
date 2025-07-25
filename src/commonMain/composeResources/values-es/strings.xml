@@ -295,6 +295,8 @@
     <string name="user_reported_message">Señalado</string>
     <string name="destroy_block_user_confirm_message">¿Seguro que quieres eliminar el bloqueo?</string>
     <string name="destroy_block_message">Desbloqueado</string>
+    <string name="block_user_failed_message">Error al bloquear usuario</string>
+    <string name="unblock_user_failed_message">Error al desbloquear usuario</string>
 
     <string name="following">Siguiendo</string>
     <string name="follow">Seguir</string>

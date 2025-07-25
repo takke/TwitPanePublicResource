@@ -295,6 +295,8 @@
     <string name="user_reported_message">신고됨</string>
     <string name="destroy_block_user_confirm_message">정말로 차단을 해제하시겠습니까?</string>
     <string name="destroy_block_message">차단 해제됨</string>
+    <string name="block_user_failed_message">사용자 차단 실패</string>
+    <string name="unblock_user_failed_message">사용자 차단 해제 실패</string>
 
     <string name="following">팔로잉</string>
     <string name="follow">팔로우</string>

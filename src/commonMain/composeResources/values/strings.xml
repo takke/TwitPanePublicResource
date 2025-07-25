@@ -295,6 +295,8 @@
     <string name="user_reported_message">Reported</string>
     <string name="destroy_block_user_confirm_message">Are you sure you want to destroy blocking?</string>
     <string name="destroy_block_message">Unblocked</string>
+    <string name="block_user_failed_message">Failed to block user</string>
+    <string name="unblock_user_failed_message">Failed to unblock user</string>
 
     <string name="following">Following</string>
     <string name="follow">Follow</string>

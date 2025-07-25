@@ -295,6 +295,8 @@
     <string name="user_reported_message">已举报</string>
     <string name="destroy_block_user_confirm_message">你确定要取消屏蔽吗？</string>
     <string name="destroy_block_message">已取消屏蔽</string>
+    <string name="block_user_failed_message">屏蔽用户失败</string>
+    <string name="unblock_user_failed_message">取消屏蔽用户失败</string>
 
     <string name="following">正在关注</string>
     <string name="follow">关注</string>
