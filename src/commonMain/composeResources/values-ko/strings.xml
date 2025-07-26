@@ -465,6 +465,9 @@
     <string name="menu_create_list">목록 만들기</string>
     <string name="menu_list_edit">편집</string>
     <string name="menu_list_delete">삭제</string>
+    <string name="menu_open_list_bluesky">목록 열기</string>
+    <string name="menu_pin_to_tab_bluesky">탭에 고정</string>
+    <string name="menu_unpin_from_tab_bluesky">탭에서 고정 해제</string>
     <string name="menu_delete_list_member">멤버 삭제</string>
     <string name="menu_list_subscribe">구독</string>
     <string name="menu_list_unscribe">구독취소</string>

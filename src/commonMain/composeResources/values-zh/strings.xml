@@ -466,6 +466,9 @@
     <string name="menu_create_list">创建列表</string>
     <string name="menu_list_edit">编辑</string>
     <string name="menu_list_delete">删除</string>
+    <string name="menu_open_list_bluesky">打开列表</string>
+    <string name="menu_pin_to_tab_bluesky">固定到标签页</string>
+    <string name="menu_unpin_from_tab_bluesky">从标签页取消固定</string>
     <string name="menu_delete_list_member">删除成员</string>
     <string name="menu_list_subscribe">订阅</string>
     <string name="menu_list_unscribe">取消订阅</string>

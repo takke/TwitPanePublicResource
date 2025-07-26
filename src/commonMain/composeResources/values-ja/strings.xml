@@ -472,6 +472,9 @@
     <string name="menu_create_list">リスト作成</string>
     <string name="menu_list_edit">編集する</string>
     <string name="menu_list_delete">削除する</string>
+    <string name="menu_open_list_bluesky">リストを開く</string>
+    <string name="menu_pin_to_tab_bluesky">タブにピン留め</string>
+    <string name="menu_unpin_from_tab_bluesky">タブからピン留め解除</string>
     <string name="menu_delete_list_member">リストから削除</string>
     <string name="menu_list_subscribe">購読する</string>
     <string name="menu_list_unscribe">購読を解除する</string>

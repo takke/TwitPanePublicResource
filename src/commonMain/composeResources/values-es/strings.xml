@@ -465,6 +465,9 @@
     <string name="menu_create_list">Crear lista</string>
     <string name="menu_list_edit">Editar</string>
     <string name="menu_list_delete">Eliminar</string>
+    <string name="menu_open_list_bluesky">Abrir lista</string>
+    <string name="menu_pin_to_tab_bluesky">Anclar a pestaña</string>
+    <string name="menu_unpin_from_tab_bluesky">Desanclar de pestaña</string>
     <string name="menu_delete_list_member">Eliminar miembro de la lista</string>
     <string name="menu_list_subscribe">Suscribirse</string>
     <string name="menu_list_unscribe">Eliminar la suscripción</string>
