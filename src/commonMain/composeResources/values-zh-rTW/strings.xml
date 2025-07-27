@@ -259,6 +259,7 @@
     <string name="add_list_tab">新增列表選項卡</string>
     <string name="no_lists">No lists</string>
     <string name="no_lists_yet">No lists yet</string>
+    <string name="no_list_members">列表中沒有用戶</string>
     <string name="no_messages_yet">No messages yet</string>
     <string name="add_feed_tab">新增Feed選項卡</string>
     <string name="no_feeds">No feeds</string>
