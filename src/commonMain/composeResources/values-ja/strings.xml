@@ -553,6 +553,8 @@
     <string name="add_search_tab_to_home_finish">検索タブを追加しました</string>
     <string name="list_tab_added">リストタブを追加しました</string>
     <string name="list_tab_removed">リストタブを削除しました</string>
+    <string name="feed_tab_added">フィードタブを追加しました</string>
+    <string name="feed_tab_removed">フィードタブを削除しました</string>
     <string name="menu_open_saved_search">保存した検索を開く</string>
     
     <string name="menu_show_image_only">画像のみ表示</string>

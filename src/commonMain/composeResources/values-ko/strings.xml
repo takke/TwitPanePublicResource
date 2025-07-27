@@ -544,6 +544,8 @@
     <string name="add_search_tab_to_home_finish">추가</string>
     <string name="list_tab_added">리스트 탭 추가됨</string>
     <string name="list_tab_removed">리스트 탭 삭제됨</string>
+    <string name="feed_tab_added">피드 탭 추가됨</string>
+    <string name="feed_tab_removed">피드 탭 삭제됨</string>
     <string name="menu_open_saved_search">저장된 검색을 열기</string>
 
     <string name="menu_show_image_only">이미지에 한정하여 보기</string>

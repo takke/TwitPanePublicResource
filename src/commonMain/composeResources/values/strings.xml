@@ -539,6 +539,8 @@
     <string name="add_search_tab_to_home_finish">added</string>
     <string name="list_tab_added">List tab added</string>
     <string name="list_tab_removed">List tab removed</string>
+    <string name="feed_tab_added">Feed tab added</string>
+    <string name="feed_tab_removed">Feed tab removed</string>
     <string name="menu_open_saved_search">Open Saved Search</string>
 
     <string name="menu_show_image_only">Show Image Only</string>

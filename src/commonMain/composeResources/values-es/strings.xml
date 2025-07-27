@@ -545,6 +545,8 @@
     <string name="add_search_tab_to_home_finish">añadido</string>
     <string name="list_tab_added">Pestaña de lista añadida</string>
     <string name="list_tab_removed">Pestaña de lista eliminada</string>
+    <string name="feed_tab_added">Pestaña de feed añadida</string>
+    <string name="feed_tab_removed">Pestaña de feed eliminada</string>
     <string name="menu_open_saved_search">Búsquedas guardadas</string>
 
     <string name="menu_show_image_only">Mostrar tweets con imágenes</string>
