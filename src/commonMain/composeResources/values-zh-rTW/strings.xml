@@ -527,6 +527,7 @@
     <string name="menu_add">新增</string>
     <string name="menu_delete_tab">刪除標籤</string>
     <string name="tab_delete_confirm">你確定你要刪除標籤嗎？</string>
+    <string name="tab_delete_confirm_with">刪除"%1$s"？</string>
     <string name="menu_add_page_to_home">將頁面新增到頂部</string>
     <string name="add_user_page_to_home_already_added">已經新增..</string>
     <string name="add_user_page_to_home_finish">已新增</string>

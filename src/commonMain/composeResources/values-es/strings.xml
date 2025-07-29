@@ -525,6 +525,7 @@
     <string name="menu_add">Añadir</string>
     <string name="menu_delete_tab">Eliminar pestaña</string>
     <string name="tab_delete_confirm">Are you sure you want to delete tab ?</string>
+    <string name="tab_delete_confirm_with">¿Eliminar \"%1$s\"?</string>
     <string name="menu_add_page_to_home">Añadir página a la parte superior</string>
     <string name="add_user_page_to_home_already_added">ya se ha añadido ..</string>
     <string name="add_user_page_to_home_finish">añadido</string>

@@ -533,6 +533,7 @@
     
     <string name="menu_delete_tab">タブの削除</string>
     <string name="tab_delete_confirm">タブを削除してもよろしいですか？</string>
+    <string name="tab_delete_confirm_with">「%1$s」を削除しますか？</string>
     <string name="menu_add_page_to_home">ホームタブに追加</string>
     <string name="add_user_page_to_home_already_added">既に追加されています</string>
     <string name="add_user_page_to_home_finish">ホームタブに追加しました</string>
