@@ -262,6 +262,10 @@
     <string name="no_list_members">No hay miembros en la lista</string>
     <string name="no_messages_yet">No messages yet</string>
     <string name="add_feed_tab">Añadir pestaña de feed</string>
+    <string name="add_feed_title">Añadir feed</string>
+    <string name="loading_message">Cargando feeds...</string>
+    <string name="failed_to_load_with_message">Error al cargar feeds: %1$s</string>
+    <string name="no_feeds_found">No se encontraron feeds</string>
     <string name="no_feeds">No feeds</string>
     <string name="add_channel_tab">Add Channel Tab</string>
     <string name="no_channels">No Channels</string>
