@@ -262,6 +262,10 @@
     <string name="no_list_members">No list members</string>
     <string name="no_messages_yet">No messages yet</string>
     <string name="add_feed_tab">Add Feed Tab</string>
+    <string name="add_feed_title">Add Feed</string>
+    <string name="loading_message">Loading feeds...</string>
+    <string name="failed_to_load_with_message">Failed to load feeds: %1$s</string>
+    <string name="no_feeds_found">No feeds found</string>
     <string name="no_feeds">No feeds</string>
     <string name="add_channel_tab">Add Channel Tab</string>
     <string name="no_channels">No Channels</string>
