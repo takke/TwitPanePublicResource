@@ -264,8 +264,10 @@
     <string name="add_feed_tab">添加Feed選項卡</string>
     <string name="add_feed_title">添加Feed</string>
     <string name="add_list_title">添加列表</string>
+    <string name="add_antenna_title">添加天線</string>
     <string name="add_channel_title">添加頻道</string>
     <string name="no_lists_found">沒有找到列表</string>
+    <string name="no_antennas_found">沒有找到天線</string>
     <string name="no_channels_found">沒有找到頻道</string>
     <string name="loading_message">正在載入Feed...</string>
     <string name="failed_to_load_with_message">載入Feed失敗：%1$s</string>

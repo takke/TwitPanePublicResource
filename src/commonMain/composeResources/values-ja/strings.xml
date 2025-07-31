@@ -264,8 +264,10 @@
     <string name="add_feed_tab">フィードタブの追加</string>
     <string name="add_feed_title">フィードを追加</string>
     <string name="add_list_title">リストを追加</string>
+    <string name="add_antenna_title">アンテナを追加</string>
     <string name="add_channel_title">チャンネルを追加</string>
     <string name="no_lists_found">リストが見つかりませんでした</string>
+    <string name="no_antennas_found">アンテナが見つかりませんでした</string>
     <string name="no_channels_found">チャンネルが見つかりませんでした</string>
     <string name="loading_message">読み込み中...</string>
     <string name="failed_to_load_with_message">読み込みに失敗しました: %1$s</string>
