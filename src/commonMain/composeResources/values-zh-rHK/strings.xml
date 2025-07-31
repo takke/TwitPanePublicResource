@@ -518,6 +518,7 @@
     <string name="menu_page_config_category">自定義標籤</string>
     <string name="menu_page_config_category_summary"></string>
     <string name="add_tab">添加標籤</string>
+    <string name="add_tab_other_account">添加其他帳戶的標籤</string>
 
     <string name="menu_ok">確定</string>
     <string name="menu_cancel">取消</string>

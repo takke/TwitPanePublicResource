@@ -511,6 +511,7 @@
     <string name="menu_page_config_category">Tab Customize</string>
     <string name="menu_page_config_category_summary"></string>
     <string name="add_tab">Add Tab</string>
+    <string name="add_tab_other_account">Add tabs from other accounts</string>
 
     <string name="menu_ok">OK</string>
     <string name="menu_cancel">Cancel</string>
