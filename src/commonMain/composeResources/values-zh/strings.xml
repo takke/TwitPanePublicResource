@@ -263,6 +263,8 @@
     <string name="no_messages_yet">No messages yet</string>
     <string name="add_feed_tab">添加Feed选项卡</string>
     <string name="add_feed_title">添加Feed</string>
+    <string name="add_list_title">添加列表</string>
+    <string name="no_lists_found">未找到列表</string>
     <string name="loading_message">正在加载Feed...</string>
     <string name="failed_to_load_with_message">加载Feed失败：%1$s</string>
     <string name="no_feeds_found">未找到Feed</string>
