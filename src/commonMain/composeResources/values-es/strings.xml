@@ -518,6 +518,7 @@
     <string name="menu_page_config_category_summary"></string>
     <string name="add_tab">Agregar pestaña</string>
     <string name="add_tab_other_account">Agregar pestañas de otras cuentas</string>
+    <string name="add_tab_all_tabs_added">Todas las pestañas han sido agregadas</string>
 
     <string name="menu_ok">Aceptar</string>
     <string name="menu_cancel">Cancelar</string>

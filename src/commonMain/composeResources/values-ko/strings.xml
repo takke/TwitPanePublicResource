@@ -517,6 +517,7 @@
     <string name="menu_page_config_category_summary"></string>
     <string name="add_tab">탭 추가</string>
     <string name="add_tab_other_account">다른 계정의 탭 추가</string>
+    <string name="add_tab_all_tabs_added">모든 탭이 추가되었습니다</string>
 
     <string name="menu_ok">확인</string>
     <string name="menu_cancel">취소</string>

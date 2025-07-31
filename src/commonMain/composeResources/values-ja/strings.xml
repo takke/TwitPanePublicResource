@@ -525,6 +525,7 @@
     <string name="menu_page_config_category_summary">タブを追加、削除、並べ替えすることができます。例えば別アカウントのタイムラインを追加して並べるとスワイプのみで巡回できるようになりさらに便利になります。</string>
     <string name="add_tab">タブの追加</string>
     <string name="add_tab_other_account">他のアカウントのタブを追加</string>
+    <string name="add_tab_all_tabs_added">全てのタブが追加済みです</string>
     
     <string name="menu_ok">OK</string>
     <string name="menu_cancel">キャンセル</string>
