@@ -266,9 +266,11 @@
     <string name="add_list_title">Add List</string>
     <string name="add_antenna_title">Add Antenna</string>
     <string name="add_channel_title">Add Channel</string>
+    <string name="add_saved_search_title">Add Saved Search</string>
     <string name="no_lists_found">No lists found</string>
     <string name="no_antennas_found">No antennas found</string>
     <string name="no_channels_found">No channels found</string>
+    <string name="no_saved_search_found">No saved searches found</string>
     <string name="loading_message">Loading feeds...</string>
     <string name="failed_to_load_with_message">Failed to load feeds: %1$s</string>
     <string name="no_feeds_found">No feeds found</string>
