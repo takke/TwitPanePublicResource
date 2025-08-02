@@ -1942,7 +1942,7 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="emoji_category_recently_used">Usado recientemente</string>
 
     <!-- Bluesky Chat -->
-    <string name="bs_delete_reaction_message">¿Quieres eliminar %s?</string>
+    <string name="bs_delete_reaction_message">¿Quieres eliminar %1$s?</string>
     <string name="bs_reaction_added">Reacción añadida</string>
     <string name="bs_reaction_removed">Reacción eliminada</string>
     <string name="bs_too_many_reactions">No puedes añadir más reacciones</string>

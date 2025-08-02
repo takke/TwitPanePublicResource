@@ -1981,7 +1981,7 @@
     <string name="emoji_category_recently_used">最近使用した絵文字</string>
 
     <!-- Bluesky Chat -->
-    <string name="bs_delete_reaction_message">%s を削除しますか？</string>
+    <string name="bs_delete_reaction_message">%1$s を削除しますか？</string>
     <string name="bs_reaction_added">リアクションを追加しました</string>
     <string name="bs_reaction_removed">リアクションを削除しました</string>
     <string name="bs_too_many_reactions">これ以上リアクションを追加できません</string>

@@ -1979,7 +1979,7 @@
     <string name="emoji_category_recently_used">最近使用</string>
 
     <!-- Bluesky Chat -->
-    <string name="bs_delete_reaction_message">你想刪除 %s 嗎？</string>
+    <string name="bs_delete_reaction_message">你想刪除 %1$s 嗎？</string>
     <string name="bs_reaction_added">已添加反應</string>
     <string name="bs_reaction_removed">已移除反應</string>
     <string name="bs_too_many_reactions">無法添加更多反應</string>
