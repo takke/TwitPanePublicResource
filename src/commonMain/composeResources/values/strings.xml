@@ -1523,6 +1523,8 @@
     <string name="config_mute_sort_confirm_message">Are you sure you want to sort? (Cannot be reverted)</string>
     <string name="config_mute_edit">Edit</string>
     <string name="config_mute_delete">Delete</string>
+    <string name="config_mute_delete_confirm_title">Delete confirm</string>
+    <string name="config_mute_delete_confirm_message">Are you sure you want to delete?</string>
     <string name="cannot_include_comma_in_mute">Cannot include comma in mute text</string>
     <string name="confirm_to_add_mute_word">Add mute word, OK?</string>
     <string name="mute_word_added">Mute word added</string>

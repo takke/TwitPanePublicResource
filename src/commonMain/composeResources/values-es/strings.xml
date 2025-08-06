@@ -1520,6 +1520,8 @@
     <string name="config_mute_sort_confirm_message">¿Estás seguro de que quieres ordenar? (No se puede revertir)</string>
     <string name="config_mute_edit">Editar</string>
     <string name="config_mute_delete">Eliminar</string>
+    <string name="config_mute_delete_confirm_title">Confirmar eliminación</string>
+    <string name="config_mute_delete_confirm_message">¿Estás seguro de que quieres eliminarlo?</string>
     <string name="cannot_include_comma_in_mute">No se puede incluir la coma en el texto a silenciar</string>
     <string name="confirm_to_add_mute_word">Agregar palabra muda, ¿de acuerdo?</string>
     <string name="mute_word_added">Se agregó la palabra muda</string>
