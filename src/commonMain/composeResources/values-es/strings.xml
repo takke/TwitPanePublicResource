@@ -831,6 +831,8 @@
     <string name="menu_mute_user">Silenciar usuario</string>
     <string name="menu_mute_chat">Mute</string>
     <string name="menu_unmute_chat">Unmute</string>
+    <string name="snackbar_user_muted">Silenciado: @%1$s</string>
+    <string name="snackbar_user_unmuted">Desilenciado: @%1$s</string>
     <string name="menu_misc_block_mute">bloqueos, correo no deseado ...</string>
     <string name="menu_choose_tweets">Elegir varios tweets...</string>
     <string name="menu_choose_posts">Elegir varias publicaciones...</string>

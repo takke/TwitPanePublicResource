@@ -840,6 +840,8 @@
     <string name="menu_mute_user">ユーザーをミュート</string>
     <string name="menu_mute_chat">ミュート</string>
     <string name="menu_unmute_chat">ミュート解除</string>
+    <string name="snackbar_user_muted">ミュートしました: @%1$s</string>
+    <string name="snackbar_user_unmuted">ミュート解除しました: @%1$s</string>
     <string name="menu_misc_block_mute">ブロック・スパム通報...</string>
     <string name="menu_choose_tweets">複数ツイートの選択...</string>
     <string name="menu_choose_posts">複数ポストの選択...</string>

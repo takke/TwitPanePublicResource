@@ -826,6 +826,8 @@
     <string name="menu_mute_user">Mute user</string>
     <string name="menu_mute_chat">Mute</string>
     <string name="menu_unmute_chat">Unmute</string>
+    <string name="snackbar_user_muted">Muted: @%1$s</string>
+    <string name="snackbar_user_unmuted">Unmuted: @%1$s</string>
     <string name="menu_misc_block_mute">Block, Spam...</string>
     <string name="menu_choose_tweets">Choose multiple tweets...</string>
     <string name="menu_choose_posts">Choose multiple posts...</string>
