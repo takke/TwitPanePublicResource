@@ -499,6 +499,7 @@
     <string name="menu_about_zonepane">About</string>
     <string name="menu_about_bluepane">About</string>
     <string name="menu_debug">Debug</string>
+    <string name="menu_debug_dots">Debug...</string>
     <string name="debug_mode_confirm_title">Debug mode confirm</string>
     <string name="debug_mode_confirm_message">Are you sure you want to enter debug mode?</string>
     <string name="debug_mode_entered">Entered debug mode</string>

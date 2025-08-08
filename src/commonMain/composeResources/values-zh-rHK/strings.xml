@@ -497,6 +497,7 @@
     <string name="menu_about_zonepane">About</string>
     <string name="menu_about_bluepane">About</string>
     <string name="menu_debug">調試</string>
+    <string name="menu_debug_dots">調試...</string>
     <string name="debug_mode_confirm_title">調試模式確認</string>
     <string name="debug_mode_confirm_message">你確定要進入調試模式嗎？</string>
     <string name="debug_mode_entered">已進入調試模式</string>
