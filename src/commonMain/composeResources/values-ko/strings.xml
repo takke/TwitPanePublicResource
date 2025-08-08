@@ -827,6 +827,7 @@
     <string name="menu_scroll_to_top">맨 위로 스크롤</string>
     <string name="menu_move_to_top">맨 위로 이동</string>
     <string name="menu_scroll_to_bottom">아래로 스크롤</string>
+    <string name="menu_move_to_bottom">맨 아래로 이동</string>
     <string name="menu_move_up">이동</string>
     <string name="menu_move_down">아래로 이동</string>
     <string name="menu_mute">음소거 ...</string>

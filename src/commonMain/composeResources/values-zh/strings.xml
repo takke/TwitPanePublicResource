@@ -826,6 +826,7 @@
     <string name="menu_scroll_to_top">滚动到顶部</string>
     <string name="menu_move_to_top">移动到顶部</string>
     <string name="menu_scroll_to_bottom">滚动到底部</string>
+    <string name="menu_move_to_bottom">移动到底部</string>
     <string name="menu_move_up">上移</string>
     <string name="menu_move_down">下移</string>
     <string name="menu_mute">静音...</string>

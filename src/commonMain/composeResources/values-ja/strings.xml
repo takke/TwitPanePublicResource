@@ -836,6 +836,7 @@
     <string name="menu_scroll_to_top">一番上に移動</string>
     <string name="menu_move_to_top">一番上に移動</string>
     <string name="menu_scroll_to_bottom">一番下に移動</string>
+    <string name="menu_move_to_bottom">一番下に移動</string>
     <string name="menu_move_up">上に移動</string>
     <string name="menu_move_down">下に移動</string>
     <string name="menu_mute">ミュート...</string>
