@@ -504,6 +504,7 @@
     <string name="menu_about_zonepane">ZonePaneについて</string>
     <string name="menu_about_bluepane">BluePaneについて</string>
     <string name="menu_debug">デバッグ</string>
+    <string name="menu_debug_dots">デバッグ...</string>
     <string name="debug_mode_confirm_title">デバッグモード確認</string>
     <string name="debug_mode_confirm_message">デバッグモードを設定します。よろしいですか？</string>
     <string name="debug_mode_entered">デバッグモードを設定しました</string>
