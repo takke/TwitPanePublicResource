@@ -820,6 +820,7 @@
     <string name="menu_delete_user_from_list">Delete user from list...</string>
     <string name="menu_delete_from_block_list">Delete from block list...</string>
     <string name="menu_scroll_to_top">Scroll to top</string>
+    <string name="menu_move_to_top">Move to top</string>
     <string name="menu_scroll_to_bottom">Scroll to bottom</string>
     <string name="menu_move_up">Move up</string>
     <string name="menu_move_down">Move down</string>

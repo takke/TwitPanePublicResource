@@ -824,6 +824,7 @@
     <string name="menu_delete_user_from_list">从列表中删除用户...</string>
     <string name="menu_delete_from_block_list">从屏蔽列表中删除...</string>
     <string name="menu_scroll_to_top">滚动到顶部</string>
+    <string name="menu_move_to_top">移动到顶部</string>
     <string name="menu_scroll_to_bottom">滚动到底部</string>
     <string name="menu_move_up">上移</string>
     <string name="menu_move_down">下移</string>
