@@ -2196,6 +2196,25 @@
     <string name="zonepane_onboarding_page4_item2">자동 업데이트로 최신 게시물을 즉시 확인!</string>
     <string name="zonepane_onboarding_page4_item3">이미지 및 동영상을 쉽게 다운로드!</string>
 
+    <!-- ZonePane CMP Onboarding -->
+    <string name="zonepane_cmp_onboarding_page1_title">ZonePane에 오신 것을 환영합니다!</string>
+    <string name="zonepane_cmp_onboarding_page1_item1">ZonePane은 여러 소셜 네트워크를 하나의 앱에서 관리할 수 있는 클라이언트 앱입니다!</string>
+    <string name="zonepane_cmp_onboarding_page1_item2">소셜 미디어를 편안하게 즐길 수 있는 기능이 가득합니다!</string>
+
+    <string name="zonepane_cmp_onboarding_page2_title">여러 계정을 함께 관리</string>
+    <string name="zonepane_cmp_onboarding_page2_item1">각 계정의 타임라인과 리스트를 나란히 표시</string>
+    <string name="zonepane_cmp_onboarding_page2_item2">스와이프 제스처로 빠르게 전환</string>
+
+    <string name="zonepane_cmp_onboarding_page3_title">자유롭게 커스터마이징</string>
+    <string name="zonepane_cmp_onboarding_page3_item1">글꼴, 텍스트 크기 및 색상 변경</string>
+    <string name="zonepane_cmp_onboarding_page3_item2">레이아웃을 자유롭게 조정</string>
+    <string name="zonepane_cmp_onboarding_page3_item3">커스텀 이모지 완벽 지원!</string>
+
+    <string name="zonepane_cmp_onboarding_page4_title">더 많은 편리한 기능!</string>
+    <string name="zonepane_cmp_onboarding_page4_item1">읽은 위치 저장 → 마지막으로 읽은 곳부터 계속 읽기!</string>
+    <string name="zonepane_cmp_onboarding_page4_item2">자동 업데이트로 최신 게시물을 즉시 확인!</string>
+    <string name="zonepane_cmp_onboarding_page4_item3">이미지 및 동영상을 쉽게 다운로드!</string>
+
     <!-- BluePane Onboarding -->
     <string name="bluepane_onboarding_page1_title">BluePane에 오신 것을 환영합니다!</string>
     <string name="bluepane_onboarding_page1_item1">BluePane은 Bluesky 전용의 가볍고 기능이 풍부한 클라이언트 앱입니다.</string>

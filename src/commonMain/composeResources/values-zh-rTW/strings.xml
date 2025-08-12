@@ -2233,6 +2233,25 @@
     <string name="zonepane_onboarding_page4_item2">自動更新，立即查看最新帖子！</string>
     <string name="zonepane_onboarding_page4_item3">輕鬆下載圖片和視頻！</string>
 
+    <!-- ZonePane CMP Onboarding -->
+    <string name="zonepane_cmp_onboarding_page1_title">歡迎使用 ZonePane!</string>
+    <string name="zonepane_cmp_onboarding_page1_item1">ZonePane 是一款客戶端應用，讓您可以在一個應用中管理多個社交網絡！</string>
+    <string name="zonepane_cmp_onboarding_page1_item2">功能豐富，讓您舒適地享受社交媒體！</string>
+
+    <string name="zonepane_cmp_onboarding_page2_title">一起管理多個帳戶</string>
+    <string name="zonepane_cmp_onboarding_page2_item1">並排顯示每個帳戶的時間線和列表</string>
+    <string name="zonepane_cmp_onboarding_page2_item2">通過滑動手勢快速切換</string>
+
+    <string name="zonepane_cmp_onboarding_page3_title">自由定制</string>
+    <string name="zonepane_cmp_onboarding_page3_item1">更改字體、文字大小和顏色</string>
+    <string name="zonepane_cmp_onboarding_page3_item2">自由調整佈局</string>
+    <string name="zonepane_cmp_onboarding_page3_item3">完全支持自定義表情符號！</string>
+
+    <string name="zonepane_cmp_onboarding_page4_title">更多便捷功能！</string>
+    <string name="zonepane_cmp_onboarding_page4_item1">保存閱讀位置 → 從上次離開的地方繼續閱讀！</string>
+    <string name="zonepane_cmp_onboarding_page4_item2">自動更新，立即查看最新帖子！</string>
+    <string name="zonepane_cmp_onboarding_page4_item3">輕鬆下載圖片和視頻！</string>
+
     <!-- BluePane Onboarding -->
     <string name="bluepane_onboarding_page1_title">歡迎使用BluePane！</string>
     <string name="bluepane_onboarding_page1_item1">BluePane是一款輕量級、功能豐富的Bluesky專用客戶端應用。</string>

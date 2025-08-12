@@ -2312,6 +2312,25 @@ Reauthenticate on the next screen.</string>
     <string name="zonepane_onboarding_page4_item2">Auto-update to check the latest posts immediately!</string>
     <string name="zonepane_onboarding_page4_item3">Easily download images &amp; videos!</string>
 
+    <!-- ZonePane CMP Onboarding -->
+    <string name="zonepane_cmp_onboarding_page1_title">Welcome to ZonePane!</string>
+    <string name="zonepane_cmp_onboarding_page1_item1">ZonePane is a client app that lets you manage multiple social networks in one app!</string>
+    <string name="zonepane_cmp_onboarding_page1_item2">Packed with features to enjoy social media comfortably!</string>
+
+    <string name="zonepane_cmp_onboarding_page2_title">Manage Multiple Accounts Together</string>
+    <string name="zonepane_cmp_onboarding_page2_item1">Display timelines and lists from each account side by side</string>
+    <string name="zonepane_cmp_onboarding_page2_item2">Switch quickly with swipe gestures</string>
+
+    <string name="zonepane_cmp_onboarding_page3_title">Customize Freely</string>
+    <string name="zonepane_cmp_onboarding_page3_item1">Change fonts, text size, and colors</string>
+    <string name="zonepane_cmp_onboarding_page3_item2">Adjust layouts freely</string>
+    <string name="zonepane_cmp_onboarding_page3_item3">Full support for custom emojis!</string>
+
+    <string name="zonepane_cmp_onboarding_page4_title">More Convenient Features!</string>
+    <string name="zonepane_cmp_onboarding_page4_item1">Save read position → Continue reading from where you left off!</string>
+    <string name="zonepane_cmp_onboarding_page4_item2">Auto-update to check the latest posts immediately!</string>
+    <string name="zonepane_cmp_onboarding_page4_item3">Easily download images &amp; videos!</string>
+
     <!-- BluePane Onboarding -->
     <string name="bluepane_onboarding_page1_title">Welcome to BluePane!</string>
     <string name="bluepane_onboarding_page1_item1">BluePane is a lightweight, feature-rich client app exclusively for Bluesky.</string>
