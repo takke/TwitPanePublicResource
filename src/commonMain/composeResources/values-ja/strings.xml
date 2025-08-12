@@ -2192,6 +2192,7 @@
     <string name="threadgate_and">および</string>
     <string name="threadgate_mentioned_users">メンションされたユーザー</string>
     <string name="threadgate_users_followed_by">%1$sにフォローされているユーザー</string>
+    <string name="threadgate_users_following_to">%1$sをフォローしているユーザー</string>
     <string name="threadgate_list_members">%1$sのメンバー</string>
     <string name="threadgate_reply_restricted">このスレッドへの返信はできません</string>
     <string name="threadgate_everybody_can_reply">誰でも返信可能</string>

@@ -2145,6 +2145,7 @@
     <string name="threadgate_and">and</string>
     <string name="threadgate_mentioned_users">mentioned users</string>
     <string name="threadgate_users_followed_by">users followed by %1$s</string>
+    <string name="threadgate_users_following_to">關注 %1$s 的用戶</string>
     <string name="threadgate_list_members">%1$s members</string>
     <string name="threadgate_reply_restricted">Replies to this thread are disabled</string>
     <string name="threadgate_everybody_can_reply">Everybody can reply</string>
