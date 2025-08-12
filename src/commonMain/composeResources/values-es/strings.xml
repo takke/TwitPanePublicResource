@@ -2117,6 +2117,7 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="threadgate_some_people_can_reply">Some people can reply</string>
     <string name="threadgate_everybody">Everybody</string>
     <string name="threadgate_following_users">Following users</string>
+    <string name="threadgate_follower_users">usuarios seguidores</string>
     <string name="threadgate_users_in_list_of">Users in %1$s</string>
 
     <string name="postgate_quote_enabled">Quote: enabled</string>
