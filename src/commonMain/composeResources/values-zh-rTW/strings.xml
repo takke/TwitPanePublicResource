@@ -163,6 +163,7 @@
     <string name="account_reorder_failed_to_save">儲存帳戶順序失敗: %1$s</string>
     <string name="account_delete">刪除帳戶</string>
     <string name="account_delete_confirm">你確定要刪除這個賬戶嗎？</string>
+    <string name="account_load_error">載入錯誤</string>
     <string name="cannot_delete_current_account">不能刪除當前帳戶。</string>
     <string name="account_reauth">重新認證</string>
     <string name="reauth">重新認證</string>

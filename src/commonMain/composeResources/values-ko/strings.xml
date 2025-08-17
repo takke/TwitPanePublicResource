@@ -163,6 +163,7 @@
     <string name="account_reorder_failed_to_save">계정 순서 저장 실패: %1$s</string>
     <string name="account_delete">계정 삭제</string>
     <string name="account_delete_confirm">정말로 이 계정을 삭제하시겠습니까?</string>
+    <string name="account_load_error">로딩 오류</string>
     <string name="cannot_delete_current_account">현재의 계정을 삭제할 수 없습니다.</string>
     <string name="account_reauth">재 인증</string>
     <string name="reauth">재인증</string>

@@ -163,6 +163,7 @@
     <string name="account_reorder_failed_to_save">Error al guardar el orden de las cuentas: %1$s</string>
     <string name="account_delete">Borrar cuenta</string>
     <string name="account_delete_confirm">¿Seguro que quieres eliminar esta cuenta?</string>
+    <string name="account_load_error">Error de carga</string>
     <string name="cannot_delete_current_account">No se puede eliminar la cuenta actual.</string>
     <string name="account_reauth">re-autenticación</string>
     <string name="reauth">Re-autenticar</string>

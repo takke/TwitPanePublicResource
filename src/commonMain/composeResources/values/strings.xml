@@ -163,6 +163,7 @@
     <string name="account_reorder_failed_to_save">Failed to save reordered accounts: %1$s</string>
     <string name="account_delete">Delete account</string>
     <string name="account_delete_confirm">Are you sure you want to delete this account?</string>
+    <string name="account_load_error">Loading error</string>
     <string name="cannot_delete_current_account">Cannot delete current account.</string>
     <string name="account_reauth">Re-authentication</string>
     <string name="reauth">Re-authenticate</string>

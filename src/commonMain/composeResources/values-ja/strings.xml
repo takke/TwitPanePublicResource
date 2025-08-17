@@ -163,6 +163,7 @@
     <string name="account_reorder_failed_to_save">並び替えの保存に失敗しました: %1$s</string>
     <string name="account_delete">アカウントを削除</string>
     <string name="account_delete_confirm">アカウントを削除してもよろしいですか？</string>
+    <string name="account_load_error">読み込みエラー</string>
     <string name="cannot_delete_current_account">現在のアカウントは削除できません</string>
     <string name="account_reauth">アカウントの再認証</string>
     <string name="reauth">再認証</string>
