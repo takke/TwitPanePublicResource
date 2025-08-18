@@ -433,6 +433,8 @@
     <string name="profile_edit_url_label">URL</string>
     <string name="profile_edit_save_button">저장</string>
     <string name="profile_edit_saved">저장됨</string>
+    <string name="profile_edit_confirm_cancel_title">변경 사항을 취소하시겠습니까?</string>
+    <string name="profile_edit_confirm_cancel_message">저장되지 않은 모든 변경 사항이 손실됩니다.</string>
     <string name="profile_fields">Profile Fields</string>
     <string name="profile_fields_misskey">Profile Fields</string>
     <string name="profile_banner_saved">저장됨, 몇 분 후에 유효화됩니다</string>

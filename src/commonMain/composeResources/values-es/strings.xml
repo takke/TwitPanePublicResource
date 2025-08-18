@@ -433,6 +433,8 @@
     <string name="profile_edit_url_label">URL</string>
     <string name="profile_edit_save_button">Guardar</string>
     <string name="profile_edit_saved">Guardado</string>
+    <string name="profile_edit_confirm_cancel_title">¿Descartar cambios?</string>
+    <string name="profile_edit_confirm_cancel_message">Se perderán todos los cambios no guardados.</string>
     <string name="profile_fields">Profile Fields</string>
     <string name="profile_fields_misskey">Profile Fields</string>
     <string name="profile_banner_saved">Guardado, funciona en pocos minutos</string>

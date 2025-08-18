@@ -433,6 +433,8 @@
     <string name="profile_edit_url_label">鏈接</string>
     <string name="profile_edit_save_button">保存</string>
     <string name="profile_edit_saved">已保存</string>
+    <string name="profile_edit_confirm_cancel_title">要放棄更改嗎？</string>
+    <string name="profile_edit_confirm_cancel_message">所有未保存的更改都將丟失。</string>
     <string name="profile_fields">Profile Fields</string>
     <string name="profile_fields_misskey">Profile Fields</string>
     <string name="profile_banner_saved">已保存，將在幾分鐘內生效</string>
