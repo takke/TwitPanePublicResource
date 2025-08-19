@@ -624,6 +624,9 @@
 
 
     <string name="menu_no_tap_ex_action">沒有點擊擴展動作（默認）</string>
+    <string name="common_none">無</string>
+    <string name="common_invalid">無效</string>
+    <string name="common_unknown">未知</string>
     <string name="reply_button">回覆</string>
     <string name="menu_reply">回覆</string>
     <string name="menu_reply_all">全部回覆</string>

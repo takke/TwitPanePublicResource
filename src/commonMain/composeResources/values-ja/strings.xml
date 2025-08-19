@@ -631,6 +631,9 @@
     
     
     <string name="menu_no_tap_ex_action">TLタップ拡張なし(初期値)</string>
+    <string name="common_none">なし</string>
+    <string name="common_invalid">無効</string>
+    <string name="common_unknown">不明</string>
     <string name="reply_button">返信</string>
     <string name="menu_reply">返信する</string>
     <string name="menu_reply_all">全員に返信する</string>

@@ -617,6 +617,9 @@
 
 
     <string name="menu_no_tap_ex_action">no tap ex action(default)</string>
+    <string name="common_none">None</string>
+    <string name="common_invalid">Invalid</string>
+    <string name="common_unknown">Unknown</string>
     <string name="reply_button">Reply</string>
     <string name="menu_reply">Reply</string>
     <string name="menu_reply_all">Reply All</string>

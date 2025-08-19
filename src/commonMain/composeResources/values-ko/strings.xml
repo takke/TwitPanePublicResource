@@ -622,6 +622,9 @@
 
 
     <string name="menu_no_tap_ex_action">탭 작업 행동 없음 (기본값)</string>
+    <string name="common_none">없음</string>
+    <string name="common_invalid">유효하지 않음</string>
+    <string name="common_unknown">알 수 없음</string>
     <string name="reply_button">답장</string>
     <string name="menu_reply">답장</string>
     <string name="menu_reply_all">모두에게 응답</string>

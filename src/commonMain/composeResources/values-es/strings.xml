@@ -623,6 +623,9 @@
 
 
     <string name="menu_no_tap_ex_action">Sin función (por defecto)</string>
+    <string name="common_none">Ninguno</string>
+    <string name="common_invalid">Inválido</string>
+    <string name="common_unknown">Desconocido</string>
     <string name="reply_button">Responder</string>
     <string name="menu_reply">Responder</string>
     <string name="menu_reply_all">Responder a todo</string>
