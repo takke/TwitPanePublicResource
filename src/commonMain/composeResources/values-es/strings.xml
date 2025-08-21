@@ -1167,7 +1167,6 @@
     <string name="config_color_label_select_color">Seleccione un color:</string>
     <string name="config_color_label_select_from_palette">Seleccionar de la paleta</string>
     <string name="config_color_label_select_from_other">Seleccionar de otros colores:</string>
-    <string name="config_selected_theme">Tema Seleccionado</string>
     <string name="config_selected_theme_summary">Tema actual: %1$s</string>
     <string name="config_theme_selection_dialog_title">Seleccionar Tema</string>
     <string name="config_appearance">apariencia</string>

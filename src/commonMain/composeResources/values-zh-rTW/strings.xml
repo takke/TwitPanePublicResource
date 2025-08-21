@@ -1170,7 +1170,6 @@
     <string name="config_color_label_select_color">請選擇顏色:</string>
     <string name="config_color_label_select_from_palette">從調色盤選擇</string>
     <string name="config_color_label_select_from_other">從其他顏色中選擇:</string>
-    <string name="config_selected_theme">已選擇的主題</string>
     <string name="config_selected_theme_summary">目前主題: %1$s</string>
     <string name="config_theme_selection_dialog_title">選擇主題</string>
     <string name="config_appearance">外觀</string>
