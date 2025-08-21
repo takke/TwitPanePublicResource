@@ -1819,6 +1819,7 @@
     <string name="theme">테마</string>
     <string name="dark_theme">어둠의 테마</string>
     <string name="theme_change_bg">배경 </string>
+    <string name="theme_bg">배경색</string>
     <string name="theme_bg_reply_for_me">배경(나를 위한 응답)</string>
     <string name="theme_bg_rt_twitpane">배경(RT)</string>
     <string name="theme_bg_rt_bluepane">배경(Repost)</string>

@@ -1819,6 +1819,7 @@
     <string name="theme">Tema</string>
     <string name="dark_theme">tema oscuro</string>
     <string name="theme_change_bg">Fondo</string>
+    <string name="theme_bg">Color de Fondo</string>
     <string name="theme_bg_reply_for_me">Fondo(Respuesta para mí)</string>
     <string name="theme_bg_rt_twitpane">Fondo(RT)</string>
     <string name="theme_bg_rt_bluepane">Fondo(Repost)</string>

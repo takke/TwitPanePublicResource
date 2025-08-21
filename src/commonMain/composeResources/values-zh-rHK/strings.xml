@@ -1855,6 +1855,7 @@
     <string name="theme">主題</string>
     <string name="dark_theme">暗主題</string>
     <string name="theme_change_bg">背景</string>
+    <string name="theme_bg">背景顏色</string>
     <string name="theme_bg_reply_for_me">背景(回覆我)</string>
     <string name="theme_bg_rt_twitpane">背景(RT)</string>
     <string name="theme_bg_rt_bluepane">背景(Repost)</string>
