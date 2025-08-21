@@ -1887,7 +1887,7 @@
     <string name="theme_timeline">タイムライン</string>
     <string name="theme_default">初期値</string>
     <string name="dark_theme_same_as_light_theme">Lightテーマと同じ</string>
-    <string name="dark_theme_info">Android 10 以降のダークテーマを設定できます。\n\n・端末を「ダークテーマ」に設定したときに自動的に切り替えるテーマを指定できます。</string>
+    <string name="dark_theme_info_android">端末を「ダークモード」に設定したときに自動的に設定されるテーマを指定できます(Android 10 以降のみ)</string>
     <string name="item_selected">【選択中】</string>
     <string name="manage_imported_theme">テーマの管理</string>
     <string name="theme_manage_delete_imported_theme">インポートしたテーマを削除できます</string>

@@ -1847,7 +1847,7 @@
     <string name="theme_timeline">타임라인</string>
     <string name="theme_default">기본값</string>
     <string name="dark_theme_same_as_light_theme">빛 테마와 동일</string>
-    <string name="dark_theme_info">안드로이드 10 이상 장치에서 실행되는 설정 어두운 테마.</string>
+    <string name="dark_theme_info_android">안드로이드 10 이상 장치에서 실행되는 설정 어두운 테마.</string>
     <string name="item_selected">[선택됨]</string>
     <string name="manage_imported_theme">테마 관리</string>
     <string name="theme_manage_delete_imported_theme">가져온 테마를 삭제할 수 있습니다</string>

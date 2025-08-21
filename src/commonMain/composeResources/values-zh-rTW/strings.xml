@@ -1884,7 +1884,7 @@
     <string name="theme_timeline">時間軸</string>
     <string name="theme_default">預設</string>
     <string name="dark_theme_same_as_light_theme">與淺色主題相同</string>
-    <string name="dark_theme_info">設定執行在安卓10或更高版本裝置上的暗色主題。</string>
+    <string name="dark_theme_info_android">設定執行在安卓10或更高版本裝置上的暗色主題。</string>
     <string name="item_selected">[已選擇]</string>
     <string name="manage_imported_theme">管理主題</string>
     <string name="theme_manage_delete_imported_theme">可以刪除匯入的主題</string>
