@@ -1859,6 +1859,7 @@
     <string name="theme">テーマ</string>
     <string name="dark_theme">ダークテーマ</string>
     <string name="theme_change_bg">背景色を変更する</string>
+    <string name="theme_bg">背景色</string>
     <string name="theme_bg_reply_for_me">背景色(自分宛の返信)</string>
     <string name="theme_bg_rt_twitpane">背景色(RT)</string>
     <string name="theme_bg_rt_bluepane">背景色(リポスト)</string>
