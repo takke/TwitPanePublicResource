@@ -321,10 +321,10 @@
     <string name="blocking">正在屏蔽</string>
     <string name="follow_management">Follow Management</string>
     <string name="follow_confirm_title">关注</string>
-    <string name="follow_confirm_message">关注\@%1$s？</string>
+    <string name="follow_confirm_message">关注@%1$s？</string>
     <string name="follow_or_unfollow">关注 / 取消关注</string>
     <string name="unfollow_confirm_title">取消关注</string>
-    <string name="unfollow_confirm_message">停止关注\@%1$s？</string>
+    <string name="unfollow_confirm_message">停止关注@%1$s？</string>
     <string name="follow_done">已关注</string>
     <string name="unfollow_done">已取消关注</string>
     <string name="cannot_send_dm">你不能发送私信，因为该用户没有关注你</string>
@@ -339,8 +339,8 @@
     <string name="hide_retweet_misskey">隐藏转发</string>
     <string name="hide_retweet_bluesky">隐藏转帖</string>
 
-    <string name="hide_retweet_done">自\@%1$s的转推将不再出现在你的时间轴上</string>
-    <string name="show_retweet_done">自\@%1$s的转推将出现在你的时间轴上</string>
+    <string name="hide_retweet_done">自@%1$s的转推将不再出现在你的时间轴上</string>
+    <string name="show_retweet_done">自@%1$s的转推将出现在你的时间轴上</string>
     <string name="show_retweet_done_mastodon">显示%1$s的转发</string>
     <string name="hide_retweet_done_mastodon">隐藏%1$s的转发</string>
 
@@ -391,7 +391,7 @@
 
     <string name="notification_new_dm_ticker">你收到了一条新消息</string>
     <string name="notification_new_dm_text">新的私信</string>
-    <string name="notification_new_dm_text_with_user">来自\@%1$s的消息</string>
+    <string name="notification_new_dm_text_with_user">来自@%1$s的消息</string>
 
     <string name="retweeted_by_user">由%1$s转推</string>
     <string name="boosted_by_user">%1$s转嘟了</string>
@@ -653,7 +653,7 @@
     <string name="menu_quote_disabled">引用（禁用）</string>
     <string name="menu_quote_in_channel">Quote in Channel</string>
     <string name="menu_tweet_with_comment">带评论的推文（Twitter风格）</string>
-    <string name="menu_unofficial_retweet">转推 \@TwitPane: …</string>
+    <string name="menu_unofficial_retweet">转推 @TwitPane: …</string>
     <string name="cannot_retweet_protected_user_tweet">不能转推受保护的用户的推文</string>
     <string name="cannot_repost_protected_user_post">不能转发受保护用户的帖子</string>
     <string name="menu_remove_retweet">取消转推</string>
@@ -1078,7 +1078,7 @@
     <string name="publish_sending">Sending…</string>
     <string name="publish_restricted_who_can_reply_to_this_tweet">{errorMessage}</string>
     <string name="publish_convert_to_quote_tweet_config">你想把它转化为引用的推文吗？</string>
-    <string name="publish_dm_confirm">确定要向\@%1$s发送私信吗？</string>
+    <string name="publish_dm_confirm">确定要向@%1$s发送私信吗？</string>
     <string name="publish_sent_dm">已发送</string>
     <string name="publish_chars">字符</string>
     <string name="publish_cannot_get_photo_error">不能获取照片。请再次选择。</string>
@@ -1541,7 +1541,7 @@
 
     <string name="config_mute_users">用户</string>
     <string name="config_mute_users_message">指定静音用户的网名</string>
-    <string name="config_mute_users_hint">\@twitpane</string>
+    <string name="config_mute_users_hint">@twitpane</string>
     <string name="config_mute_no_users">没有静音用户</string>
     <string name="this_user_is_muted">此用户已静音</string>
     <string name="misskey_announcement_read">Okay!</string>
@@ -1873,7 +1873,7 @@
     <string name="theme_body_reply_for_me">正文（回复我）</string>
     <string name="theme_body_my_tweet">正文（我的推文）</string>
     <string name="theme_body_read">正文（阅读）</string>
-    <string name="theme_name_url_hashtag">\@name、URL、主题标签</string>
+    <string name="theme_name_url_hashtag">@name、URL、主题标签</string>
     <string name="theme_name_cw_button">CW按钮</string>
     <string name="theme_name_more_button">更多按钮</string>
     <string name="theme_tab">标签</string>

@@ -321,10 +321,10 @@
     <string name="blocking">Bloqueando</string>
     <string name="follow_management">Follow Management</string>
     <string name="follow_confirm_title">Seguir</string>
-    <string name="follow_confirm_message">¿Seguir a \@%1$s ?</string>
+    <string name="follow_confirm_message">¿Seguir a @%1$s ?</string>
     <string name="follow_or_unfollow">Seguir / Dejar de seguir</string>
     <string name="unfollow_confirm_title">Dejar de seguir</string>
-    <string name="unfollow_confirm_message">¿Dejar de seguir a \@%1$s ?</string>
+    <string name="unfollow_confirm_message">¿Dejar de seguir a @%1$s ?</string>
     <string name="follow_done">Seguir hecho</string>
     <string name="unfollow_done">Dejar de seguir hecho</string>
     <string name="cannot_send_dm">No puedes enviar un mensaje directo, porque el usuario no te sigue</string>
@@ -339,8 +339,8 @@
     <string name="hide_retweet_misskey">Ocultar renotes</string>
     <string name="hide_retweet_bluesky">Ocultar reposts</string>
 
-    <string name="hide_retweet_done">Los retweets de \@%1$s ya no aparecerán en tu cronología</string>
-    <string name="show_retweet_done">Los retweets de \@%1$s aparecerán en tu cronología</string>
+    <string name="hide_retweet_done">Los retweets de @%1$s ya no aparecerán en tu cronología</string>
+    <string name="show_retweet_done">Los retweets de @%1$s aparecerán en tu cronología</string>
     <string name="show_retweet_done_mastodon">Mostrar boosts de %1$s</string>
     <string name="hide_retweet_done_mastodon">Ocultar boosts de %1$s</string>
 
@@ -390,7 +390,7 @@
 
     <string name="notification_new_dm_ticker">Tienes un nuevo mensaje</string>
     <string name="notification_new_dm_text">Mensajes directos nuevos</string>
-    <string name="notification_new_dm_text_with_user">Mensaje de \@%1$s</string>
+    <string name="notification_new_dm_text_with_user">Mensaje de @%1$s</string>
 
     <string name="retweeted_by_user">Retwitteado por %1$s</string>
     <string name="boosted_by_user">Promocionado por %1$s</string>
@@ -651,7 +651,7 @@
     <string name="menu_quote_disabled">Citar (deshabilitado)</string>
     <string name="menu_quote_in_channel">Quote in Channel</string>
     <string name="menu_tweet_with_comment">Tweet con Comentario</string>
-    <string name="menu_unofficial_retweet">RT \@TwitPane: …</string>
+    <string name="menu_unofficial_retweet">RT @TwitPane: …</string>
     <string name="cannot_retweet_protected_user_tweet">No se puede retwittear el tweet de un usuario protegido</string>
     <string name="cannot_repost_protected_user_post">No se puede repostear la publicación de un usuario protegido</string>
     <string name="menu_remove_retweet">Quitar retweet</string>
@@ -1079,7 +1079,7 @@
     <string name="publish_sending">Sending…</string>
     <string name="publish_restricted_who_can_reply_to_this_tweet">{errorMessage}</string>
     <string name="publish_convert_to_quote_tweet_config">¿Quieres convertirlo en un tweet citado?</string>
-    <string name="publish_dm_confirm">Enviar MD a \@%1$s, ¿Aceptar?</string>
+    <string name="publish_dm_confirm">Enviar MD a @%1$s, ¿Aceptar?</string>
     <string name="publish_sent_dm">Enviado</string>
     <string name="publish_chars"> caracteres</string>
     <string name="publish_cannot_get_photo_error">No se puede obtener la foto. Por favor, elige otra vez.</string>
@@ -1544,7 +1544,7 @@
 
     <string name="config_mute_users">Usuarios</string>
     <string name="config_mute_users_message">especificar el nombre de pantalla del usuario a silenciar</string>
-    <string name="config_mute_users_hint">\@twitpane</string>
+    <string name="config_mute_users_hint">@twitpane</string>
     <string name="config_mute_no_users">Ningún miembro silenciado</string>
     <string name="this_user_is_muted">Este usuario está silenciado</string>
     <string name="misskey_announcement_read">Okay!</string>
@@ -1836,7 +1836,7 @@
     <string name="theme_body_reply_for_me">Cuerpo (Respuesta para mí)</string>
     <string name="theme_body_my_tweet">Cuerpo (Mi tweet)</string>
     <string name="theme_body_read">Cuerpo (Leer)</string>
-    <string name="theme_name_url_hashtag">\@nombre, URL, hashtag</string>
+    <string name="theme_name_url_hashtag">@nombre, URL, hashtag</string>
     <string name="theme_name_cw_button">Botón CW</string>
     <string name="theme_name_more_button">Botón Más</string>
     <string name="theme_tab">Pestaña.</string>

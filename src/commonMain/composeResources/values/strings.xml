@@ -321,10 +321,10 @@
     <string name="blocking">Blocking</string>
     <string name="follow_management">Follow Management</string>
     <string name="follow_confirm_title">Follow</string>
-    <string name="follow_confirm_message">Follow \@%1$s ?</string>
+    <string name="follow_confirm_message">Follow @%1$s ?</string>
     <string name="follow_or_unfollow">Follow / Unfollow</string>
     <string name="unfollow_confirm_title">Unfollow</string>
-    <string name="unfollow_confirm_message">Unfollow \@%1$s ?</string>
+    <string name="unfollow_confirm_message">Unfollow @%1$s ?</string>
     <string name="follow_done">Follow done</string>
     <string name="unfollow_done">Unfollow done</string>
     <string name="cannot_send_dm">You cannot dm, cause not followed from the user</string>
@@ -339,8 +339,8 @@
     <string name="hide_retweet_misskey">Hide renotes</string>
     <string name="hide_retweet_bluesky">Hide reposts</string>
 
-    <string name="hide_retweet_done">Retweets from \@%1$s will no longer appear in your timeline</string>
-    <string name="show_retweet_done">Retweets from \@%1$s will appear in your timeline</string>
+    <string name="hide_retweet_done">Retweets from @%1$s will no longer appear in your timeline</string>
+    <string name="show_retweet_done">Retweets from @%1$s will appear in your timeline</string>
     <string name="show_retweet_done_mastodon">Show boosts from %1$s</string>
     <string name="hide_retweet_done_mastodon">Hide boosts from %1$s</string>
 
@@ -392,7 +392,7 @@
 
     <string name="notification_new_dm_ticker">You got a new message</string>
     <string name="notification_new_dm_text">New direct messages</string>
-    <string name="notification_new_dm_text_with_user">Message from \@%1$s</string>
+    <string name="notification_new_dm_text_with_user">Message from @%1$s</string>
 
     <string name="retweeted_by_user">Retweeted by %1$s</string>
     <string name="boosted_by_user">Boosted by %1$s</string>
@@ -645,7 +645,7 @@
     <string name="menu_quote_disabled">Quote(Disabled)</string>
     <string name="menu_quote_in_channel">Quote in Channel</string>
     <string name="menu_tweet_with_comment">Tweet with Comment(Twitter Style)</string>
-    <string name="menu_unofficial_retweet">RT \@TwitPane: …</string>
+    <string name="menu_unofficial_retweet">RT @TwitPane: …</string>
     <string name="cannot_retweet_protected_user_tweet">Cannot retweet protected user\'s tweet</string>
     <string name="cannot_repost_protected_user_post">Cannot repost protected user\'s post</string>
     <string name="menu_remove_retweet">Remove retweet</string>
@@ -1070,7 +1070,7 @@
     <string name="publish_restricted_who_can_reply_to_this_tweet">{errorMessage}</string>
     <string name="publish_duplicate_content" translatable="false">Tweet is duplicated.\n({errorMessage})</string>
     <string name="publish_convert_to_quote_tweet_config">Do you want to convert it into a quoted tweet ?</string>
-    <string name="publish_dm_confirm">Send DM to \@%1$s, OK?</string>
+    <string name="publish_dm_confirm">Send DM to @%1$s, OK?</string>
     <string name="publish_sent_dm">Sent</string>
     <string name="publish_chars">chars</string>
     <string name="publish_cannot_get_photo_error">Cannot get photo. Please choose it again.</string>
@@ -1547,7 +1547,7 @@
 
     <string name="config_mute_users">Users</string>
     <string name="config_mute_users_message">specify mute user\'s screen name</string>
-    <string name="config_mute_users_hint">\@twitpane</string>
+    <string name="config_mute_users_hint">@twitpane</string>
     <string name="config_mute_no_users">No mute users</string>
     <string name="this_user_is_muted">This user is muted.</string>
     <string name="misskey_announcement_read">Okay!</string>
@@ -1897,7 +1897,7 @@
     <string name="theme_body_reply_for_me">Body(Reply for me)</string>
     <string name="theme_body_my_tweet">Body(My tweet)</string>
     <string name="theme_body_read">Body(Read)</string>
-    <string name="theme_name_url_hashtag">\@name, URL, hashtag</string>
+    <string name="theme_name_url_hashtag">@name, URL, hashtag</string>
     <string name="theme_name_cw_button">CW Button</string>
     <string name="theme_name_more_button">More Button</string>
     <string name="theme_tab">Tab</string>

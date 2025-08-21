@@ -321,10 +321,10 @@
     <string name="blocking">차단중</string>
     <string name="follow_management">Follow Management</string>
     <string name="follow_confirm_title">팔로우</string>
-    <string name="follow_confirm_message">\@%1$s을 팔로우?</string>
+    <string name="follow_confirm_message">@%1$s을 팔로우?</string>
     <string name="follow_or_unfollow">팔로우 / 언팔로우</string>
     <string name="unfollow_confirm_title">언팔로우</string>
-    <string name="unfollow_confirm_message">\@%1$s을 언팔로우?</string>
+    <string name="unfollow_confirm_message">@%1$s을 언팔로우?</string>
     <string name="follow_done">팔로우 완료</string>
     <string name="unfollow_done">언팔로우 완료</string>
     <string name="cannot_send_dm">유저로부터 팔로우되지 않아 dm할 수 없습니다</string>
@@ -339,8 +339,8 @@
     <string name="hide_retweet_misskey">리노트 숨기기</string>
     <string name="hide_retweet_bluesky">리포스트 숨기기</string>
 
-    <string name="hide_retweet_done">\@%1$s로부터의 리트윗이 더 이상 당신의 타임라인에 표시되지 않습니다</string>
-    <string name="show_retweet_done">\@%1$s로부터의 리트윗이 당신의 타임라인에 나타납니다</string>
+    <string name="hide_retweet_done">@%1$s로부터의 리트윗이 더 이상 당신의 타임라인에 표시되지 않습니다</string>
+    <string name="show_retweet_done">@%1$s로부터의 리트윗이 당신의 타임라인에 나타납니다</string>
     <string name="show_retweet_done_mastodon">%1$s의 부스트 표시</string>
     <string name="hide_retweet_done_mastodon">%1$s의 부스트 숨기기</string>
 
@@ -390,7 +390,7 @@
 
     <string name="notification_new_dm_ticker">새 메시지를 받았습니다</string>
     <string name="notification_new_dm_text">새로운 직접 메시지</string>
-    <string name="notification_new_dm_text_with_user">\@%1$s로부터의 메세지</string>
+    <string name="notification_new_dm_text_with_user">@%1$s로부터의 메세지</string>
 
     <string name="retweeted_by_user">%1$s에 의해 리트윗됨</string>
     <string name="boosted_by_user">%1$s님이 부스트했습니다</string>
@@ -650,7 +650,7 @@
     <string name="menu_quote_disabled">인용 불가능</string>
     <string name="menu_quote_in_channel">Quote in Channel</string>
     <string name="menu_tweet_with_comment">코멘트 트윗</string>
-    <string name="menu_unofficial_retweet">RT \@TwitPane: …</string>
+    <string name="menu_unofficial_retweet">RT @TwitPane: …</string>
     <string name="cannot_retweet_protected_user_tweet">보호된 사용자의 트윗을 리트윗할 수 없습니다</string>
     <string name="cannot_repost_protected_user_post">보호된 사용자의 게시물을 리포스트할 수 없습니다</string>
     <string name="menu_remove_retweet">리트윗 해제</string>
@@ -1079,7 +1079,7 @@
     <string name="publish_sending">Sending…</string>
     <string name="publish_restricted_who_can_reply_to_this_tweet">{errorMessage}</string>
     <string name="publish_convert_to_quote_tweet_config">당신이 인용 트윗로 변환 하시겠습니까?</string>
-    <string name="publish_dm_confirm">\@%1$s에게 DM을 보냅니다. 괜찮습니까?</string>
+    <string name="publish_dm_confirm">@%1$s에게 DM을 보냅니다. 괜찮습니까?</string>
     <string name="publish_sent_dm">발신완료</string>
     <string name="publish_chars">문자</string>
     <string name="publish_cannot_get_photo_error">사진을 가져올 수 없습니다. 다시 선택하십시오.</string>
@@ -1544,7 +1544,7 @@
 
     <string name="config_mute_users">사용자</string>
     <string name="config_mute_users_message">음소거 사용자의 화면이름을 지정</string>
-    <string name="config_mute_users_hint">\@twitpane</string>
+    <string name="config_mute_users_hint">@twitpane</string>
     <string name="config_mute_no_users">음소거 사용자 없음</string>
     <string name="this_user_is_muted">이 사용자는 음소거되었습니다.</string>
     <string name="misskey_announcement_read">Okay!</string>
@@ -1836,7 +1836,7 @@
     <string name="theme_body_reply_for_me">본문 (나를 위한 응답)</string>
     <string name="theme_body_my_tweet">본문 (내 트윗)</string>
     <string name="theme_body_read">본문 (읽기)</string>
-    <string name="theme_name_url_hashtag">\@ 이름, URL, 해시태그</string>
+    <string name="theme_name_url_hashtag">@ 이름, URL, 해시태그</string>
     <string name="theme_name_cw_button">CW 버튼</string>
     <string name="theme_name_more_button">더보기 버튼</string>
     <string name="theme_tab">탭</string>
