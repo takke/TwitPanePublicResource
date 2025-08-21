@@ -1848,6 +1848,7 @@
     <string name="theme_default">por defecto</string>
     <string name="dark_theme_same_as_light_theme">Igual que el tema de la luz</string>
     <string name="dark_theme_info_android">Conjunto tema oscuro que se ejecuta en Android 10 o dispositivos posteriores.</string>
+    <string name="dark_theme_info_ios">Puedes especificar el tema que se aplicará automáticamente cuando el dispositivo esté configurado en modo oscuro.</string>
     <string name="item_selected">[Seleccionado]</string>
     <string name="manage_imported_theme">Administrar temas</string>
     <string name="theme_manage_delete_imported_theme">Los temas importados pueden ser eliminados</string>

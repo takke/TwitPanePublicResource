@@ -1909,6 +1909,7 @@
     <string name="theme_default">default</string>
     <string name="dark_theme_same_as_light_theme">Same as light theme</string>
     <string name="dark_theme_info_android">Set dark theme running on Android 10 or later devices.</string>
+    <string name="dark_theme_info_ios">You can specify the theme that will be automatically applied when the device is set to Dark Mode.</string>
     <string name="item_selected">[Selected]</string>
     <string name="manage_imported_theme">Manage Themes</string>
     <string name="theme_manage_delete_imported_theme">Imported themes can be deleted</string>
