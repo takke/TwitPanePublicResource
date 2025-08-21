@@ -1159,6 +1159,7 @@
     <string name="not_ellipsis">Not ellipsis</string>
     <string name="config_theme">테마</string>
     <string name="config_theme_category">테마 설정</string>
+    <string name="config_theme_design">디자인 설정</string>
     <string name="config_color_label_category">컬러 라벨 설정</string>
     <string name="config_color_label_name_edit">라벨 이름 편집</string>
     <string name="config_color_label_color_edit">색상 변경</string>

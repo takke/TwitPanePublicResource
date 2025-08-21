@@ -1158,6 +1158,7 @@
     <string name="not_ellipsis">Not ellipsis</string>
     <string name="config_theme">Tema</string>
     <string name="config_theme_category">Configuración de Tema</string>
+    <string name="config_theme_design">Configuración de Diseño</string>
     <string name="config_color_label_category">Configuración de etiquetas de color</string>
     <string name="config_color_label_name_edit">Editar nombre de etiqueta</string>
     <string name="config_color_label_color_edit">Cambiar color</string>

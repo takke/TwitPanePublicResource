@@ -1158,6 +1158,7 @@
     <string name="not_ellipsis">Not ellipsis</string>
     <string name="config_theme">主题</string>
     <string name="config_theme_category">主题设置</string>
+    <string name="config_theme_design">设计设置</string>
     <string name="config_color_label_category">颜色标签设置</string>
     <string name="config_color_label_name_edit">编辑标签名称</string>
     <string name="config_color_label_color_edit">更改颜色</string>
