@@ -1409,7 +1409,7 @@
     <string name="config_bluesky_replies_filter_desc">・返信を表示するかどうかを設定できます。\n・自分がフォローしているユーザー宛の返信のみに設定できます。\n・さらに、いいね数が一定数以上の返信のみを表示するように設定できます。</string>
     <string name="config_bluesky_replies_filter_followed_only">フォローしているユーザー宛の返信のみ</string>
     <string name="config_bluesky_replies_filter_show_all">フォローしていないユーザー宛の返信も表示</string>
-    <string name="config_bluesky_replies_filter_like_threshold">いいね数の下限を変更する(現在の値=%d)</string>
+    <string name="config_bluesky_replies_filter_like_threshold">いいね数の下限を変更する(現在の値=%1$d)</string>
     <string name="config_bluesky_replies_filter_like_condition">いいね数の条件</string>
     <string name="config_bluesky_replies_filter_show_all_replies">全ての返信を表示する</string>
     <string name="config_bluesky_replies_filter_like_n_or_more">いいね %d 以上</string>
