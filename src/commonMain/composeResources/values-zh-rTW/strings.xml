@@ -1391,10 +1391,10 @@
     <string name="config_bluesky_replies_filter_desc">• You can configure whether to display replies.\n• You can set to display only replies to users you follow.\n• Additionally, you can set to display only replies with a certain number of likes or more.</string>
     <string name="config_bluesky_replies_filter_followed_only">Only replies to users you follow</string>
     <string name="config_bluesky_replies_filter_show_all">Also show replies to users you don\'t follow</string>
-    <string name="config_bluesky_replies_filter_like_threshold">Change likes threshold (current value=%d)</string>
+    <string name="config_bluesky_replies_filter_like_threshold">Change likes threshold (current value=%1$d)</string>
     <string name="config_bluesky_replies_filter_like_condition">Likes condition</string>
     <string name="config_bluesky_replies_filter_show_all_replies">Show all replies</string>
-    <string name="config_bluesky_replies_filter_like_n_or_more">%d likes or more</string>
+    <string name="config_bluesky_replies_filter_like_n_or_more">%1$d likes or more</string>
     <string name="hide_replies_by_unfollowed">hide replies by unfollowed</string>
     <string name="hide_read_reposts">Hide read reposts</string>
     <string name="hide_read_reposts_desc">Reposts seen once can be collapsed and displayed in abbreviated form</string>
