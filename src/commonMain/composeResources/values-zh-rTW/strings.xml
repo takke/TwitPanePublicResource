@@ -1399,6 +1399,8 @@
     <string name="hide_reposts_hide">hide</string>
     <string name="hide_reposts_fold">fold</string>
     <string name="hide_reposts_show">show</string>
+    <string name="config_bluesky_hide_reposts">Hide Read Reposts Settings</string>
+    <string name="config_bluesky_hide_reposts_desc">Configure how to display reposts you have already seen</string>
     <string name="config_auto_pager">自動頁面載入</string>
     <string name="config_auto_pager_summary">當滾動位置在列表的底部時，獲取下一頁</string>
     <string name="config_scroll_pos_after_acquired_gap_ついぺん">設定間隙後的滾動位置</string>

@@ -1417,6 +1417,8 @@
     <string name="hide_reposts_hide">非表示(ミュート)</string>
     <string name="hide_reposts_fold">折りたたむ</string>
     <string name="hide_reposts_show">表示</string>
+    <string name="config_bluesky_hide_reposts">一度見たリポストの表示設定</string>
+    <string name="config_bluesky_hide_reposts_desc">一度見たリポストをどのように表示するかを設定できます</string>
     <string name="config_auto_pager">オートページャ</string>
     <string name="config_auto_pager_summary">リストの下までスクロールした際に自動的に次のページを取得します【初期値：ON】 (Blueskyは未対応)</string>
     <string name="config_scroll_pos_after_acquired_gap_ついぺん">中間投稿取得後の位置</string>

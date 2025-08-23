@@ -1397,6 +1397,8 @@
     <string name="hide_reposts_hide">hide</string>
     <string name="hide_reposts_fold">fold</string>
     <string name="hide_reposts_show">show</string>
+    <string name="config_bluesky_hide_reposts">Hide Read Reposts Settings</string>
+    <string name="config_bluesky_hide_reposts_desc">Configure how to display reposts you have already seen</string>
     <string name="config_auto_pager">Autopaginación</string>
     <string name="config_auto_pager_summary">Pasa a la página siguiente cuando la posición de desplazamiento esté en la parte inferior de la lista</string>
     <string name="config_scroll_pos_after_acquired_gap_ついぺん">Scroll Position After Loading Gap Tweets</string>

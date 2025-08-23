@@ -1397,6 +1397,8 @@
     <string name="hide_reposts_hide">hide</string>
     <string name="hide_reposts_fold">fold</string>
     <string name="hide_reposts_show">show</string>
+    <string name="config_bluesky_hide_reposts">Hide Read Reposts Settings</string>
+    <string name="config_bluesky_hide_reposts_desc">Configure how to display reposts you have already seen</string>
     <string name="config_auto_pager">자동 호출기</string>
     <string name="config_auto_pager_summary">스크롤 위치가 목록의 하단에 있을 때 다음페이지로 가세요</string>
     <string name="config_scroll_pos_after_acquired_gap_ついぺん">중간 트윗 로드 후 스크롤 위치</string>
