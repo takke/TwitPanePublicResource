@@ -293,6 +293,9 @@
     <string name="common_delete">삭제</string>
     <string name="common_remember">Remember</string>
     <string name="common_close">닫기</string>
+    <string name="error_dialog_title">Error occurred</string>
+    <string name="error_dialog_unknown_error">Unknown error occurred</string>
+    <string name="error_dialog_details">Details:</string>
     <string name="already_task_running">실행 중... 몇 분 후에 다시 시도하십시오</string>
     <string name="cannot_view_private_account_timeline">개인계정의 타임라인을 볼 수 없습니다 ...</string>
     <string name="cannot_view_private_account_tweet">개인계정의 트윗을 볼 수 없습니다 ...</string>

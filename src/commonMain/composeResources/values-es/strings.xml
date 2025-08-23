@@ -293,6 +293,9 @@
     <string name="common_delete">Eliminar</string>
     <string name="common_remember">Remember</string>
     <string name="common_close">Cerrar</string>
+    <string name="error_dialog_title">Error occurred</string>
+    <string name="error_dialog_unknown_error">Unknown error occurred</string>
+    <string name="error_dialog_details">Details:</string>
     <string name="already_task_running">Ejecutándose, por favor, inténtelo de nuevo en unos minutos.</string>
     <string name="cannot_view_private_account_timeline">No se puede ver la cronología de la cuenta privada ...</string>
     <string name="cannot_view_private_account_tweet">No se puede ver el tweet de la cuenta privada ...</string>
