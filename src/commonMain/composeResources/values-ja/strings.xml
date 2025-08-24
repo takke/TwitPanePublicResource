@@ -1858,7 +1858,7 @@
     <string name="config_debug_ads_auto">自動選択</string>
 
     <!-- Tap Menu Config -->
-    <string name="config_tap_menu_title">タップメニューボタン設定</string>
+    <string name="config_tap_menu_title">ショートカットボタンの設定</string>
     <string name="config_tap_menu_change_function">機能変更</string>
     <string name="config_tap_menu_move_to_left">左に移動</string>
     <string name="config_tap_menu_move_to_right">右に移動</string>
