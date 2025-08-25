@@ -1824,6 +1824,7 @@
     <string name="config_tap_menu_move_to_right">오른쪽으로 이동</string>
     <string name="config_tap_menu_remove">버튼 삭제</string>
     <string name="config_tap_menu_add">버튼 추가</string>
+    <string name="config_tap_menu_bottom_shortcut_customize_info">탭 메뉴 하단의 바로 가기 버튼을 사용자 정의할 수 있습니다.\n바로 가기 버튼은 Bluesky, Mastodon 등 각 서비스별로 사용자 정의할 수 있습니다.\n아래 버튼을 눌러 기능을 변경하거나 삭제할 수 있습니다.\n또한 드래그 앤 드롭으로 순서를 변경할 수 있습니다.</string>
 
     <!-- ================================================================================ -->
     <!-- Theme Config -->

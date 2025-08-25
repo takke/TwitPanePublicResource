@@ -1864,6 +1864,7 @@
     <string name="config_tap_menu_move_to_right">右に移動</string>
     <string name="config_tap_menu_remove">ボタン削除</string>
     <string name="config_tap_menu_add">ボタン追加</string>
+    <string name="config_tap_menu_bottom_shortcut_customize_info">タップメニューの下部のショートカットボタンをカスタマイズできます。\nショートカットボタンはBlueskyやMastodonなどのサービス毎にカスタマイズできます。\n下記のボタンを押して、機能変更、削除をすることができます。\nまた、ドラッグ&amp;ドロップで並び順を変更できます。</string>
 
     <!-- ================================================================================ -->
     <!-- Theme Config -->

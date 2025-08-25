@@ -1824,6 +1824,7 @@
     <string name="config_tap_menu_move_to_right">Mover a la derecha</string>
     <string name="config_tap_menu_remove">Botón Eliminar</string>
     <string name="config_tap_menu_add">Añadir Button</string>
+    <string name="config_tap_menu_bottom_shortcut_customize_info">Puede personalizar los botones de acceso directo en la parte inferior del menú táctil.\nLos botones de acceso directo se pueden personalizar para cada servicio como Bluesky y Mastodon.\nPresione los botones a continuación para cambiar funciones o eliminarlos.\nTambién puede cambiar el orden arrastrando y soltando.</string>
 
     <!-- ================================================================================ -->
     <!-- Theme Config -->

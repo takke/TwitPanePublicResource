@@ -1885,6 +1885,7 @@
     <string name="config_tap_menu_move_to_right">Move To Right</string>
     <string name="config_tap_menu_remove">Delete Button</string>
     <string name="config_tap_menu_add">Add Button</string>
+    <string name="config_tap_menu_bottom_shortcut_customize_info">You can customize the shortcut buttons at the bottom of the tap menu.\nShortcut buttons can be customized for each service such as Bluesky and Mastodon.\nPress the buttons below to change functions or delete them.\nYou can also change the order by drag and drop.</string>
 
     <!-- ================================================================================ -->
     <!-- Theme Config -->
