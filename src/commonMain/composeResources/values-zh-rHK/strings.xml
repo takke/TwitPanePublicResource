@@ -1861,6 +1861,7 @@
     <string name="config_tap_menu_remove">刪除按鈕</string>
     <string name="config_tap_menu_add">添加按鈕</string>
     <string name="config_tap_menu_bottom_shortcut_customize_info">您可以自定義點擊菜單底部的快捷按鈕。\n快捷按鈕可以為每個服務（如Bluesky和Mastodon）進行自定義。\n按下面的按鈕來更改功能或刪除它們。\n您還可以通過拖放來更改順序。</string>
+    <string name="config_tap_menu_shortcut_button_edit">編輯快捷按鈕</string>
 
     <!-- ================================================================================ -->
     <!-- Theme Config -->
