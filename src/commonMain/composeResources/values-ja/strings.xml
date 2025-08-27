@@ -835,6 +835,8 @@
     <string name="report_as_spam_confirm_message_post">本当にこのポストをスパムとしてマークしますか？</string>
     <string name="reported_as_spam_done_message_tweet">ツイートをスパム通報しました</string>
     <string name="reported_as_spam_done_message_post">ポストをスパム通報しました</string>
+    <string name="user_reported_message_bluesky">ユーザーを報告しました</string>
+    <string name="post_reported_message_bluesky">投稿を報告しました</string>
     <string name="edited_tweet">編集履歴</string>
     <string name="edited">編集済み</string>
     <string name="there_is_a_new_version_of_this_tweet">このツイートには新しいバージョンがあります</string>

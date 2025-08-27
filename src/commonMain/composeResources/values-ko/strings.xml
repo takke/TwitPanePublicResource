@@ -826,6 +826,8 @@
     <string name="report_as_spam_confirm_message_post">이 게시물을 스팸으로 표시하시겠습니까?</string>
     <string name="reported_as_spam_done_message_tweet">Reported</string>
     <string name="reported_as_spam_done_message_post">Reported</string>
+    <string name="user_reported_message_bluesky">사용자를 신고했습니다</string>
+    <string name="post_reported_message_bluesky">게시물을 신고했습니다</string>
     <string name="edited_tweet">Edited history</string>
     <string name="edited">수정됨</string>
     <string name="there_is_a_new_version_of_this_tweet">이 트윗의 새 버전이 있습니다.</string>
