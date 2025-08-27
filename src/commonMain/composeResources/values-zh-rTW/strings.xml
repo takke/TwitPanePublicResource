@@ -836,6 +836,15 @@
     <string name="report_reason_violation_bluesky">違反條款</string>
     <string name="report_reason_rude_bluesky">粗魯或侮辱</string>
     <string name="report_reason_other_bluesky">其他</string>
+    <string name="report_user_bluesky">舉報使用者</string>
+    <string name="report_post_bluesky">舉報帖子</string>
+    <string name="report_content_bluesky">舉報內容</string>
+    <string name="report_submit_bluesky">舉報</string>
+    <string name="report_inappropriate_description_bluesky">請選擇此內容不適合的原因。</string>
+    <string name="report_select_reason_bluesky">請選擇舉報理由:</string>
+    <string name="report_details_required_bluesky">請提供詳細資訊（必須）:</string>
+    <string name="report_details_optional_bluesky">額外資訊（可選）:</string>
+    <string name="report_additional_info_placeholder_bluesky">輸入額外資訊...</string>
     <string name="edited_tweet">編輯歷史</string>
     <string name="edited">已編輯</string>
     <string name="there_is_a_new_version_of_this_tweet">這條推文有一個新版本。</string>

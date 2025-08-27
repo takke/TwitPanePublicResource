@@ -833,6 +833,15 @@
     <string name="report_reason_violation_bluesky">违反条款</string>
     <string name="report_reason_rude_bluesky">粗鲁或侮辱</string>
     <string name="report_reason_other_bluesky">其他</string>
+    <string name="report_user_bluesky">举报用户</string>
+    <string name="report_post_bluesky">举报帖子</string>
+    <string name="report_content_bluesky">举报内容</string>
+    <string name="report_submit_bluesky">举报</string>
+    <string name="report_inappropriate_description_bluesky">请选择此内容不合适的原因。</string>
+    <string name="report_select_reason_bluesky">请选择举报理由:</string>
+    <string name="report_details_required_bluesky">请提供详细信息（必须）:</string>
+    <string name="report_details_optional_bluesky">附加信息（可选）:</string>
+    <string name="report_additional_info_placeholder_bluesky">输入附加信息...</string>
     <string name="edited_tweet">编辑历史</string>
     <string name="edited">已编辑</string>
     <string name="there_is_a_new_version_of_this_tweet">这条推文有一个新版本。</string>

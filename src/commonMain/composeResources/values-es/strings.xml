@@ -834,6 +834,15 @@
     <string name="report_reason_violation_bluesky">Violación de términos</string>
     <string name="report_reason_rude_bluesky">Grosero o insultante</string>
     <string name="report_reason_other_bluesky">Otro</string>
+    <string name="report_user_bluesky">Reportar usuario</string>
+    <string name="report_post_bluesky">Reportar publicación</string>
+    <string name="report_content_bluesky">Reportar contenido</string>
+    <string name="report_submit_bluesky">Reportar</string>
+    <string name="report_inappropriate_description_bluesky">Por favor, seleccione la razón por la que este contenido es inapropiado.</string>
+    <string name="report_select_reason_bluesky">Por favor, seleccione un motivo para reportar:</string>
+    <string name="report_details_required_bluesky">Por favor, proporcione detalles (requerido):</string>
+    <string name="report_details_optional_bluesky">Información adicional (opcional):</string>
+    <string name="report_additional_info_placeholder_bluesky">Ingrese información adicional...</string>
     <string name="edited_tweet">Edited history</string>
     <string name="edited">editado</string>
     <string name="there_is_a_new_version_of_this_tweet">Hay una nueva versión de este Tweet.</string>

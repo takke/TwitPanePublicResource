@@ -843,6 +843,15 @@
     <string name="report_reason_violation_bluesky">規約違反</string>
     <string name="report_reason_rude_bluesky">失礼・侮辱的</string>
     <string name="report_reason_other_bluesky">その他</string>
+    <string name="report_user_bluesky">ユーザーを報告</string>
+    <string name="report_post_bluesky">投稿を報告</string>
+    <string name="report_content_bluesky">コンテンツを報告</string>
+    <string name="report_submit_bluesky">報告する</string>
+    <string name="report_inappropriate_description_bluesky">このコンテンツが不適切である理由を選択してください。</string>
+    <string name="report_select_reason_bluesky">報告理由を選択してください:</string>
+    <string name="report_details_required_bluesky">詳細を記入してください（必須）:</string>
+    <string name="report_details_optional_bluesky">詳細情報（任意）:</string>
+    <string name="report_additional_info_placeholder_bluesky">追加情報を入力...</string>
     <string name="edited_tweet">編集履歴</string>
     <string name="edited">編集済み</string>
     <string name="there_is_a_new_version_of_this_tweet">このツイートには新しいバージョンがあります</string>

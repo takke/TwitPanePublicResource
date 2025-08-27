@@ -834,6 +834,15 @@
     <string name="report_reason_violation_bluesky">약관 위반</string>
     <string name="report_reason_rude_bluesky">무례하거나 모욕적</string>
     <string name="report_reason_other_bluesky">기타</string>
+    <string name="report_user_bluesky">사용자 신고</string>
+    <string name="report_post_bluesky">게시물 신고</string>
+    <string name="report_content_bluesky">컨텐츠 신고</string>
+    <string name="report_submit_bluesky">신고</string>
+    <string name="report_inappropriate_description_bluesky">이 컨텐츠가 부적절한 이유를 선택해 주세요.</string>
+    <string name="report_select_reason_bluesky">신고 이유를 선택해 주세요:</string>
+    <string name="report_details_required_bluesky">상세 정보를 입력해 주세요(필수):</string>
+    <string name="report_details_optional_bluesky">추가 정보(선택):</string>
+    <string name="report_additional_info_placeholder_bluesky">추가 정보를 입력...</string>
     <string name="edited_tweet">Edited history</string>
     <string name="edited">수정됨</string>
     <string name="there_is_a_new_version_of_this_tweet">이 트윗의 새 버전이 있습니다.</string>
