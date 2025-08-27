@@ -837,6 +837,12 @@
     <string name="reported_as_spam_done_message_post">ポストをスパム通報しました</string>
     <string name="user_reported_message_bluesky">ユーザーを報告しました</string>
     <string name="post_reported_message_bluesky">投稿を報告しました</string>
+    <string name="report_reason_misleading_bluesky">誤解を招く内容</string>
+    <string name="report_reason_spam_bluesky">スパム</string>
+    <string name="report_reason_sexual_bluesky">性的なコンテンツ</string>
+    <string name="report_reason_violation_bluesky">規約違反</string>
+    <string name="report_reason_rude_bluesky">失礼・侮辱的</string>
+    <string name="report_reason_other_bluesky">その他</string>
     <string name="edited_tweet">編集履歴</string>
     <string name="edited">編集済み</string>
     <string name="there_is_a_new_version_of_this_tweet">このツイートには新しいバージョンがあります</string>

@@ -828,6 +828,12 @@
     <string name="reported_as_spam_done_message_post">Reported</string>
     <string name="user_reported_message_bluesky">Usuario reportado</string>
     <string name="post_reported_message_bluesky">Publicación reportada</string>
+    <string name="report_reason_misleading_bluesky">Contenido engañoso</string>
+    <string name="report_reason_spam_bluesky">Spam</string>
+    <string name="report_reason_sexual_bluesky">Contenido sexual</string>
+    <string name="report_reason_violation_bluesky">Violación de términos</string>
+    <string name="report_reason_rude_bluesky">Grosero o insultante</string>
+    <string name="report_reason_other_bluesky">Otro</string>
     <string name="edited_tweet">Edited history</string>
     <string name="edited">editado</string>
     <string name="there_is_a_new_version_of_this_tweet">Hay una nueva versión de este Tweet.</string>

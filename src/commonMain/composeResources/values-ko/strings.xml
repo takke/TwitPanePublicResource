@@ -828,6 +828,12 @@
     <string name="reported_as_spam_done_message_post">Reported</string>
     <string name="user_reported_message_bluesky">사용자를 신고했습니다</string>
     <string name="post_reported_message_bluesky">게시물을 신고했습니다</string>
+    <string name="report_reason_misleading_bluesky">오해를 불러일으키는 컨텐츠</string>
+    <string name="report_reason_spam_bluesky">스팸</string>
+    <string name="report_reason_sexual_bluesky">성적 컨텐츠</string>
+    <string name="report_reason_violation_bluesky">약관 위반</string>
+    <string name="report_reason_rude_bluesky">무례하거나 모욕적</string>
+    <string name="report_reason_other_bluesky">기타</string>
     <string name="edited_tweet">Edited history</string>
     <string name="edited">수정됨</string>
     <string name="there_is_a_new_version_of_this_tweet">이 트윗의 새 버전이 있습니다.</string>

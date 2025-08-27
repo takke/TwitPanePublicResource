@@ -827,6 +827,12 @@
     <string name="reported_as_spam_done_message_post">已举报</string>
     <string name="user_reported_message_bluesky">已举报用户</string>
     <string name="post_reported_message_bluesky">已举报帖子</string>
+    <string name="report_reason_misleading_bluesky">误导内容</string>
+    <string name="report_reason_spam_bluesky">垃圾信息</string>
+    <string name="report_reason_sexual_bluesky">性内容</string>
+    <string name="report_reason_violation_bluesky">违反条款</string>
+    <string name="report_reason_rude_bluesky">粗鲁或侮辱</string>
+    <string name="report_reason_other_bluesky">其他</string>
     <string name="edited_tweet">编辑历史</string>
     <string name="edited">已编辑</string>
     <string name="there_is_a_new_version_of_this_tweet">这条推文有一个新版本。</string>

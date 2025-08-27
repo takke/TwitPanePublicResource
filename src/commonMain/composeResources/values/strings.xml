@@ -823,6 +823,12 @@
     <string name="reported_as_spam_done_message_post">Reported</string>
     <string name="user_reported_message_bluesky">User reported</string>
     <string name="post_reported_message_bluesky">Post reported</string>
+    <string name="report_reason_misleading_bluesky">Misleading content</string>
+    <string name="report_reason_spam_bluesky">Spam</string>
+    <string name="report_reason_sexual_bluesky">Sexual content</string>
+    <string name="report_reason_violation_bluesky">Violation of terms</string>
+    <string name="report_reason_rude_bluesky">Rude or insulting</string>
+    <string name="report_reason_other_bluesky">Other</string>
     <string name="edited_tweet">Edited history</string>
     <string name="edited">Edited</string>
     <string name="there_is_a_new_version_of_this_tweet">There\'s a new version of this Tweet.</string>
