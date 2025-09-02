@@ -1997,6 +1997,7 @@
 \n
 如果下一個畫面（瀏覽器）中顯示的帳號是不同的，請退出並重新登錄。</string>
     <string name="add_account_without_login_message">Add account without login(use current account on the browser), ok?</string>
+    <string name="title_add_account">新增帳戶</string>
     <string name="require_authorization_for_bookmark">需要額外授權才能查看書籤</string>
     <string name="authorize">授權</string>
     <string name="failed_to_authorize_to_twitter_and_confirm_to_reauthorize">Twitter 身份驗證失敗。\n注意：如果您正在對書籤進行身份認證，則在使用其他設備登錄後可能無法進行身份認證。 \n\n請在下一個屏幕上重新認證。</string>

@@ -1961,6 +1961,7 @@ Por favor, identifíquese de nuevo en la siguiente pantalla. \n
 \n
 Si la cuenta que se muestra en la siguiente pantalla (navegador) es diferente, por favor cierre la sesión y volver a iniciar sesión."</string>
     <string name="add_account_without_login_message">Añadir cuenta sin identificarse (usar la cuenta actual en el navegador), ok?</string>
+    <string name="title_add_account">Añadir cuenta</string>
     <string name="require_authorization_for_bookmark">Se requiere autorización adicional para ver los marcadores</string>
     <string name="authorize">autorizar</string>
     <string name="failed_to_authorize_to_twitter_and_confirm_to_reauthorize">La autenticación de Twitter falló.\nnota: si está autenticando marcadores, es posible que no pueda autenticarse después de iniciar sesión con otro dispositivo. \n\nVuelva a autenticarse en la siguiente pantalla.</string>

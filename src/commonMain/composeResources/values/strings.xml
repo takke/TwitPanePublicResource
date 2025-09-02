@@ -2023,6 +2023,7 @@ Please authenticate again on the next screen. \n
 If the account displayed in the next screen (browser) is different, please log out and log in again.
 </string>
     <string name="add_account_without_login_message">Add account without login(use current account on the browser), ok?</string>
+    <string name="title_add_account">Add Account</string>
     <string name="require_authorization_for_bookmark">Additional authorization is required to view bookmarks</string>
     <string name="authorize">authorize</string>
     <string name="failed_to_authorize_to_twitter_and_confirm_to_reauthorize">Twitter authentication failed.\nnote: If you are authenticating bookmarks, you may not be able to authenticate after logging in with another device. \n\nPlease re-authenticate on the next screen.</string>

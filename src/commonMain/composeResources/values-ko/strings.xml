@@ -1961,6 +1961,7 @@
 \n
 다음 화면 (브라우저)에 표시되는 계정이 다른 경우, 로그 아웃하고 다시 로그인하시기 바랍니다.</string>
     <string name="add_account_without_login_message">Add account without login(use current account on the browser), ok?</string>
+    <string name="title_add_account">계정 추가</string>
     <string name="require_authorization_for_bookmark">북마크를 보려면 추가 승인이 필요합니다.</string>
     <string name="authorize">승인하다</string>
     <string name="failed_to_authorize_to_twitter_and_confirm_to_reauthorize">트위터 인증에 실패했습니다.\n참고: 북마크 인증 중이라면 다른 기기로 로그인 후 인증이 안될 수 있습니다. \n\n다음 화면에서 재인증을 해주세요.</string>

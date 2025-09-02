@@ -1997,6 +1997,7 @@
     <string name="account_reauth_title">アカウント再認証について</string>
     <string name="account_reauth_message">設定をインポートした場合、Twitter側が管理するアプリケーションが異なるため再認証する必要があります。\n\n・次の画面でもう一度認証してください。\n・次の画面(ブラウザ)で表示されるアカウントが異なる場合は一度ログアウトしてからログインし直してください。</string>
     <string name="add_account_without_login_message">ブラウザで再ログインせずにアカウントを追加しますか？\n(ブラウザでログイン済みのアカウントを引き継ぎます)</string>
+    <string name="title_add_account">アカウント追加</string>
     <string name="require_authorization_for_bookmark">ブックマーク機能には追加の認証が必要です</string>
     <string name="authorize">認証する</string>
     <string name="failed_to_authorize_to_twitter_and_confirm_to_reauthorize">Twitter の認証に失敗しました。\n※ブックマークの認証の場合、他の端末でログインすると認証できなくなる場合があります。\n\n次の画面で再認証してください。</string>

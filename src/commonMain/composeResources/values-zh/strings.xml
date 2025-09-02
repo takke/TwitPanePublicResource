@@ -1998,6 +1998,7 @@
 \n
 如果下一个画面（浏览器）中显示的帐号是不同的，请退出并重新登录。</string>
     <string name="add_account_without_login_message">Add account without login(use current account on the browser), ok?</string>
+    <string name="title_add_account">添加账户</string>
     <string name="require_authorization_for_bookmark">需要额外授权才能查看书签</string>
     <string name="authorize">授权</string>
     <string name="failed_to_authorize_to_twitter_and_confirm_to_reauthorize">Twitter 身份验证失败。\n注意：如果您正在对书签进行身份认证，则在使用其他设备登录后可能无法进行身份认证。 \n\n请在下一个屏幕上重新认证。</string>
