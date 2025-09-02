@@ -165,6 +165,8 @@
     <string name="account_delete_confirm">你确定要删除这个账户吗？</string>
     <string name="account_load_error">加载错误</string>
     <string name="cannot_delete_current_account">不能删除当前帐户。</string>
+    <string name="account_delete_success">账户已删除</string>
+    <string name="account_delete_failed">删除账户失败</string>
     <string name="account_reauth">重新认证</string>
     <string name="reauth">重新认证</string>
     <string name="menu_instance_info">Instance Info</string>
