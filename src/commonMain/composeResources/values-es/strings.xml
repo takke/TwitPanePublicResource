@@ -1578,6 +1578,13 @@
     <string name="config_mute_users_hint">@twitpane</string>
     <string name="config_mute_no_users">Ningún miembro silenciado</string>
     <string name="this_user_is_muted">Este usuario está silenciado</string>
+    
+    <!-- ミュート理由表示 -->
+    <string name="mute_reason_by_user">(Silenciado por usuario)</string>
+    <string name="mute_reason_by_word">(Silenciado por palabra)</string>
+    <string name="mute_reason_by_app">(Silenciado por aplicación)</string>
+    <string name="mute_reason_generic">(Silenciado)</string>
+    
     <string name="misskey_announcement_read">Okay!</string>
 
     <string name="config_mute_clients">Clientes</string>

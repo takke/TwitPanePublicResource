@@ -1600,6 +1600,13 @@
     <string name="config_mute_users_hint">@username</string>
     <string name="config_mute_no_users">ミュートユーザーはありません</string>
     <string name="this_user_is_muted">このユーザーはミュートしています</string>
+    
+    <!-- ミュート理由表示 -->
+    <string name="mute_reason_by_user">(ユーザーでミュート)</string>
+    <string name="mute_reason_by_word">(ワードでミュート)</string>
+    <string name="mute_reason_by_app">(アプリでミュート)</string>
+    <string name="mute_reason_generic">(ミュート)</string>
+    
     <string name="misskey_announcement_read">わかった</string>
 
     <string name="config_mute_clients">アプリ</string>

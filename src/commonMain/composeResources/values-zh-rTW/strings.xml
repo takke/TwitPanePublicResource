@@ -1575,6 +1575,13 @@
     <string name="config_mute_users_hint">@twitpane</string>
     <string name="config_mute_no_users">沒有靜音使用者</string>
     <string name="this_user_is_muted">此使用者已靜音</string>
+    
+    <!-- ミュート理由表示 -->
+    <string name="mute_reason_by_user">(使用者靜音)</string>
+    <string name="mute_reason_by_word">(關鍵字靜音)</string>
+    <string name="mute_reason_by_app">(應用程式靜音)</string>
+    <string name="mute_reason_generic">(靜音)</string>
+    
     <string name="misskey_announcement_read">Okay!</string>
 
     <string name="config_mute_clients">客戶端</string>
