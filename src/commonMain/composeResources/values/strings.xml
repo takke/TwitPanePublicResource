@@ -237,6 +237,8 @@
     <string name="destroyed_favorite_message_favorite_mst">Removed from favorites</string>
     <string name="bookmarked_message">Bookmarked</string>
     <string name="unbookmarked_message">Bookmark removed</string>
+    <string name="bookmarked_message_bluesky">Added to bookmarks</string>
+    <string name="unbookmarked_message_bluesky">Removed from bookmarks</string>
     <string name="added_note_to_clip_message">Added note to clip</string>
     <string name="removed_note_from_clip_message">Removed note from clip</string>
     <string name="delete_confirm_message_tw">Are you sure you want to delete this Tweet?</string>

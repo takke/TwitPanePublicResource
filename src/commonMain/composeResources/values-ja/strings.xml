@@ -237,6 +237,8 @@
     <string name="destroyed_favorite_message_favorite_mst">お気に入りから削除しました</string>
     <string name="bookmarked_message">ブックマークしました</string>
     <string name="unbookmarked_message">ブックマークを外しました</string>
+    <string name="bookmarked_message_bluesky">ブックマークに追加しました</string>
+    <string name="unbookmarked_message_bluesky">ブックマークから削除しました</string>
     <string name="added_note_to_clip_message">ノートをクリップに追加しました</string>
     <string name="removed_note_from_clip_message">ノートをクリップから削除しました</string>
     <string name="delete_confirm_message_tw">このツイートを削除しますか？</string>

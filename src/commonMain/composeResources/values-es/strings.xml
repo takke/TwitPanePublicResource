@@ -237,6 +237,8 @@
     <string name="destroyed_favorite_message_favorite_mst">Eliminado de favoritos</string>
     <string name="bookmarked_message">Marcado</string>
     <string name="unbookmarked_message">marcador eliminado.</string>
+    <string name="bookmarked_message_bluesky">Añadido a marcadores</string>
+    <string name="unbookmarked_message_bluesky">Eliminado de marcadores</string>
     <string name="added_note_to_clip_message">Nota añadida al clip</string>
     <string name="removed_note_from_clip_message">Nota eliminada del clip</string>
     <string name="delete_confirm_message_tw">¿Está seguro que desea eliminar este tweet?</string>

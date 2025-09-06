@@ -237,6 +237,8 @@
     <string name="destroyed_favorite_message_favorite_mst">已从收藏中移除</string>
     <string name="bookmarked_message">已收藏</string>
     <string name="unbookmarked_message">书签已删除</string>
+    <string name="bookmarked_message_bluesky">已添加到书签</string>
+    <string name="unbookmarked_message_bluesky">已从书签中删除</string>
     <string name="added_note_to_clip_message">已将笔记添加到剪辑</string>
     <string name="removed_note_from_clip_message">已从剪辑中删除笔记</string>
     <string name="delete_confirm_message_tw">确定要删除这个推文吗？</string>
