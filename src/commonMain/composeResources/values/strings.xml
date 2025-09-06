@@ -205,6 +205,8 @@
     <string name="remove_repost_confirm_message">Remove repost?</string>
     <string name="remove_renote_confirm_message">Remove renote?</string>
     <string name="remove_boost_confirm_message">Remove boost?</string>
+    <string name="bookmark_confirm_message_bluesky">Bookmark this post?</string>
+    <string name="remove_bookmark_confirm_message_bluesky">Remove bookmark?</string>
     <string name="remove_retweeted_message">Removed</string>
     <string name="remove_renoted_message">Removed</string>
     <string name="removed_boost_message">Removed</string>
@@ -221,6 +223,7 @@
     <string name="favorite_confirm_message_like_taittsuu">Like this taiitsu?</string>
     <string name="favorite_confirm_message_like_bluesky">Like this post?</string>
     <string name="choose_account_for_like_bluesky">Which account would you like to use to like this post?</string>
+    <string name="choose_account_for_bookmark_bluesky">Which account would you like to use to bookmark this post?</string>
     <string name="created_favorite_message_like">Liked</string>
     <string name="destroyed_favorite_message_like">Undone liked</string>
     <string name="cannot_favorite_duplicate_status_favorite">It may already favorited.</string>

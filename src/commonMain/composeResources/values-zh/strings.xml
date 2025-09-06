@@ -205,6 +205,8 @@
     <string name="remove_repost_confirm_message">移除转发？</string>
     <string name="remove_renote_confirm_message">移除转发？</string>
     <string name="remove_boost_confirm_message">Remove boost?</string>
+    <string name="bookmark_confirm_message_bluesky">将此帖子添加到书签？</string>
+    <string name="remove_bookmark_confirm_message_bluesky">从书签中删除？</string>
     <string name="remove_retweeted_message">已移除</string>
     <string name="remove_renoted_message">已移除</string>
     <string name="removed_boost_message">Removed</string>
@@ -221,6 +223,7 @@
     <string name="favorite_confirm_message_like_taittsuu">喜欢这条Taiitsu？</string>
     <string name="favorite_confirm_message_like_bluesky">喜欢这个帖子？</string>
     <string name="choose_account_for_like_bluesky">您要使用哪个账户为这个帖子点赞？</string>
+    <string name="choose_account_for_bookmark_bluesky">您要使用哪个账户为此帖子添加书签？</string>
     <string name="created_favorite_message_like">已收藏</string>
     <string name="destroyed_favorite_message_like">已取消收藏</string>
     <string name="cannot_favorite_duplicate_status_favorite">可能已添加到您的收藏夹</string>

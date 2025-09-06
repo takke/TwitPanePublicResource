@@ -205,6 +205,8 @@
     <string name="remove_repost_confirm_message">¿Eliminar republicación?</string>
     <string name="remove_renote_confirm_message">¿Eliminar renote?</string>
     <string name="remove_boost_confirm_message">Remove boost?</string>
+    <string name="bookmark_confirm_message_bluesky">¿Guardar esta publicación en marcadores?</string>
+    <string name="remove_bookmark_confirm_message_bluesky">¿Eliminar de marcadores?</string>
     <string name="remove_retweeted_message">Eliminado</string>
     <string name="remove_renoted_message">Eliminado</string>
     <string name="removed_boost_message">Removed</string>
@@ -220,6 +222,7 @@
     <string name="favorite_confirm_message_like">¿Quieres recibir este tweet?</string>
     <string name="favorite_confirm_message_like_bluesky">¿Quieres dar me gusta a esta publicación?</string>
     <string name="choose_account_for_like_bluesky">¿Desde qué cuenta quieres dar me gusta a esta publicación?</string>
+    <string name="choose_account_for_bookmark_bluesky">¿Desde qué cuenta quieres guardar esta publicación en marcadores?</string>
     <string name="favorite_confirm_message_like_taittsuu">¿Te gusta este taiitsu?</string>
     <string name="created_favorite_message_like">Marcado como me gusta</string>
     <string name="destroyed_favorite_message_like">Eliminado como me gusta</string>

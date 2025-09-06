@@ -205,6 +205,8 @@
     <string name="remove_repost_confirm_message">リポストを解除しますか？</string>
     <string name="remove_renote_confirm_message">リノートを解除しますか？</string>
     <string name="remove_boost_confirm_message">ブーストを解除しますか？</string>
+    <string name="bookmark_confirm_message_bluesky">この投稿をブックマークに追加しますか？</string>
+    <string name="remove_bookmark_confirm_message_bluesky">ブックマークから削除しますか？</string>
     <string name="remove_retweeted_message">リツイートを解除しました</string>
     <string name="remove_renoted_message">リノートを解除しました</string>
     <string name="removed_boost_message">ブーストを解除しました</string>
@@ -221,6 +223,7 @@
     <string name="favorite_confirm_message_like_taittsuu">このタイーツをいいねしますか？</string>
     <string name="favorite_confirm_message_like_bluesky">この投稿をいいねしますか？</string>
     <string name="choose_account_for_like_bluesky">どのアカウントからいいねしますか？</string>
+    <string name="choose_account_for_bookmark_bluesky">どのアカウントからブックマークしますか？</string>
     <string name="created_favorite_message_like">いいねしました</string>
     <string name="destroyed_favorite_message_like">いいねを取り消しました</string>
     <string name="cannot_favorite_duplicate_status_favorite">このツイートは既にお気に入り済みのようです</string>

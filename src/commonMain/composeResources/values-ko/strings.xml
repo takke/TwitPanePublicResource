@@ -205,6 +205,8 @@
     <string name="remove_repost_confirm_message">리포스트를 취소하시겠습니까?</string>
     <string name="remove_renote_confirm_message">리노트를 삭제하시겠습니까?</string>
     <string name="remove_boost_confirm_message">Remove boost?</string>
+    <string name="bookmark_confirm_message_bluesky">이 게시물을 북마크에 추가하시겠습니까?</string>
+    <string name="remove_bookmark_confirm_message_bluesky">북마크에서 삭제하시겠습니까?</string>
     <string name="remove_retweeted_message">제거됨</string>
     <string name="remove_renoted_message">제거됨</string>
     <string name="removed_boost_message">Removed</string>
@@ -221,6 +223,7 @@
     <string name="favorite_confirm_message_like_taittsuu">이 타이쓰를 좋아요 하시겠습니까?</string>
     <string name="favorite_confirm_message_like_bluesky">이 게시물을 좋아요 하시겠습니까?</string>
     <string name="choose_account_for_like_bluesky">어떤 계정으로 이 게시물을 좋아요 하시겠습니까?</string>
+    <string name="choose_account_for_bookmark_bluesky">어떤 계정으로 북마크하시겠습니까?</string>
     <string name="created_favorite_message_like">마음</string>
     <string name="destroyed_favorite_message_like">마음 취소</string>
     <string name="cannot_favorite_duplicate_status_favorite">그것은 이미 즐겨 찾기에 추가 할 수 있습니다</string>
