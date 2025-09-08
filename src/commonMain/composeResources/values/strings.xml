@@ -1172,7 +1172,7 @@
     <string name="config_font_size">Font Size</string>
     <string name="config_line_spacing">Line Spacing</string>
     <string name="config_initial_max_lines_of_body_text">Max lines of text</string>
-    <string name="config_initial_max_lines_of_body_text_summary"></string>
+    <string name="config_initial_max_lines_of_body_text_summary">Fold long posts for display.</string>
     <string name="not_ellipsis">Not ellipsis</string>
     <string name="config_theme">Theme</string>
     <string name="config_theme_category">Theme Settings</string>
