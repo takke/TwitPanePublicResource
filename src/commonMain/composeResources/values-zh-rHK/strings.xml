@@ -1183,7 +1183,6 @@
     <string name="config_line_spacing">行距</string>
     <string name="config_initial_max_lines_of_body_text">Max lines of text</string>
     <string name="config_initial_max_lines_of_body_text_summary"></string>
-    <string name="config_initial_max_lines_of_body_text_summary_bluesky"></string>
     <string name="not_ellipsis">Not ellipsis</string>
     <string name="config_theme">主題</string>
     <string name="config_theme_category">主題設置</string>

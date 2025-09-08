@@ -1181,7 +1181,6 @@
     <string name="config_line_spacing">Interlineado</string>
     <string name="config_initial_max_lines_of_body_text">Max lines of text</string>
     <string name="config_initial_max_lines_of_body_text_summary"></string>
-    <string name="config_initial_max_lines_of_body_text_summary_bluesky"></string>
     <string name="not_ellipsis">Not ellipsis</string>
     <string name="config_theme">Tema</string>
     <string name="config_theme_category">Configuración de Tema</string>
