@@ -282,6 +282,7 @@
     <string name="no_channels_found">沒有找到頻道</string>
     <string name="no_saved_search_found">沒有找到已儲存的搜尋</string>
     <string name="loading_message">正在載入Feed...</string>
+    <string name="searching_user">正在搜尋用戶...</string>
     <string name="failed_to_load_with_message">載入Feed失敗：%1$s</string>
     <string name="no_feeds_found">沒有找到Feed</string>
     <string name="no_feeds">No feeds</string>

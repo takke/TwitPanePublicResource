@@ -282,6 +282,7 @@
     <string name="no_channels_found">채널을 찾을 수 없습니다</string>
     <string name="no_saved_search_found">저장된 검색을 찾을 수 없습니다</string>
     <string name="loading_message">피드를 불러오는 중...</string>
+    <string name="searching_user">사용자 검색 중...</string>
     <string name="failed_to_load_with_message">피드 로드 실패: %1$s</string>
     <string name="no_feeds_found">피드를 찾을 수 없습니다</string>
     <string name="no_feeds">No feeds</string>
