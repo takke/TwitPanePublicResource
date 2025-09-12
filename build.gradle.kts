@@ -108,6 +108,8 @@ afterEvaluate {
     "generateReleaseRFile",
     "generateReleaseResources",
     "extractDeepLinksForAarRelease",
+    "processDebugNavigationResources",
+    "processReleaseNavigationResources",
   )
 
   tasksNeedingRes.forEach { name ->
