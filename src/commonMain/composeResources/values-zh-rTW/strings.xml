@@ -96,6 +96,7 @@
 
     <string name="search_button">搜尋</string>
     <string name="search_edit_hint">搜尋...</string>
+    <string name="search_input_text_prompt">請輸入搜尋文字</string>
     <string name="saved_search">儲存的搜尋</string>
     <string name="search_save_button">儲存此搜尋</string>
     <string name="search_save_to_tab_button">Save to tab</string>

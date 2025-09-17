@@ -96,6 +96,7 @@
 
     <string name="search_button">検索</string>
     <string name="search_edit_hint">検索...</string>
+    <string name="search_input_text_prompt">検索文字列を入力してください</string>
     <string name="saved_search">保存した検索</string>
     <string name="search_save_button">この検索を保存</string>
     <string name="search_save_to_tab_button">タブに保存</string>
