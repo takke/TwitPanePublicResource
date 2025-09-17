@@ -131,6 +131,8 @@
     <string name="label_mastodon_search_query_guide_during">during:2025-03-21 특정 날짜의 게시물 표시</string>
     <string name="label_mastodon_search_query_guide_notice">서버에 따라 이러한 검색 기능을 사용할 수 없는 경우가 있습니다</string>
 
+    <string name="no_local_timeline_on_fedibird">fedibird にはローカルタイムラインがありません</string>
+
     <string name="reload_button">리로드</string>
     <string name="reload_with_new_emojis">새로운 이모지로 리로드</string>
     <string name="load_from_latest">Load from latest</string>

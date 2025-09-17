@@ -131,6 +131,8 @@
     <string name="label_mastodon_search_query_guide_during">during:2025-03-21 Mostrar publicaciones de un día específico</string>
     <string name="label_mastodon_search_query_guide_notice">Algunas de estas funciones de búsqueda pueden no estar disponibles según el servidor</string>
 
+    <string name="no_local_timeline_on_fedibird">fedibird にはローカルタイムラインがありません</string>
+
     <string name="reload_button">Recargar</string>
     <string name="reload_with_new_emojis">Recargar con nuevos emojis</string>
     <string name="load_from_latest">Load from latest</string>

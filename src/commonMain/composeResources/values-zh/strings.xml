@@ -131,6 +131,8 @@
     <string name="label_mastodon_search_query_guide_during">during:2025-03-21 显示特定日期的帖子</string>
     <string name="label_mastodon_search_query_guide_notice">根据服务器的不同，某些搜索功能可能不可用</string>
 
+    <string name="no_local_timeline_on_fedibird">fedibird にはローカルタイムラインがありません</string>
+
     <string name="reload_button">重新加载</string>
     <string name="reload_with_new_emojis">重新加载</string>
     <string name="load_from_latest">Load from latest</string>
