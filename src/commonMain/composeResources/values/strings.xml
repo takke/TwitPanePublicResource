@@ -694,6 +694,7 @@
     <string name="clip_name">Clip Name</string>
     <string name="clip_description">Description (optional)</string>
     <string name="menu_show_conversation">Conversation</string>
+    <string name="menu_show_conversation_mastodon">Show conversation</string>
     <string name="menu_open_by_other_account">Open by other account</string>
     <string name="note_not_found_on_server">Note not found on %1$s</string>
     <string name="toot_not_found_on_instance">Toot not found on %1$s</string>

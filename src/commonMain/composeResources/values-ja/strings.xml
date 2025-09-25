@@ -708,6 +708,7 @@
     <string name="clip_name">名前</string>
     <string name="clip_description">説明（任意）</string>
     <string name="menu_show_conversation">会話を表示する</string>
+    <string name="menu_show_conversation_mastodon">会話を表示</string>
     <string name="menu_open_by_other_account">他のアカウントで開く</string>
     <string name="note_not_found_on_server">%1$s で対象のノートを取得できませんでしたよう</string>
     <string name="toot_not_found_on_instance">%1$s で対象の投稿を取得できませんでしたよう</string>
