@@ -1364,6 +1364,11 @@
     <string name="bottom_toolbar_auto_hide_when_scrolling_down">向下滚动时隐藏</string>
     <string name="change_function">更改动作</string>
     <string name="toolbar_button_tutorial1">点击按钮来更改功能。 \n长按按钮来改变按钮的颜色。</string>
+    <string name="toolbar_preview">工具栏预览</string>
+    <string name="button_order_change">更改按钮顺序</string>
+    <string name="rotate_left">向左旋转</string>
+    <string name="rotate_right">向右旋转</string>
+    <string name="button_color">按钮颜色</string>
     <string name="toolbar_button_move_to_left_or_right" translatable="false">◀▶</string>
 
     <string name="config_translation_settings_category">翻译设置</string>

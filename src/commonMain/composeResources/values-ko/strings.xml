@@ -1368,6 +1368,11 @@
     <string name="change_function">변경 조치</string>
     <string name="toolbar_button_tutorial1">"기능을 변경하기 위해 버튼을 탭하세요.
 \n 버튼의 색상을 변경하려면 버튼을 탭하세요"</string>
+    <string name="toolbar_preview">툴바 미리보기</string>
+    <string name="button_order_change">버튼 순서 변경</string>
+    <string name="rotate_left">왼쪽 회전</string>
+    <string name="rotate_right">오른쪽 회전</string>
+    <string name="button_color">버튼 색상</string>
 
     <string name="config_translation_settings_category">번역 설정</string>
     <string name="config_show_translation_link_tweet">\'번역\' 링크 표시</string>

@@ -1367,6 +1367,11 @@
     <string name="change_function">Cambiar acción</string>
     <string name="toolbar_button_tutorial1">"Pulsa el botón para cambiar la función.
 \nMantén pulsado el botón para cambiar el color del botón."</string>
+    <string name="toolbar_preview">Vista previa de la barra de herramientas</string>
+    <string name="button_order_change">Cambiar orden de botones</string>
+    <string name="rotate_left">Rotar a la izquierda</string>
+    <string name="rotate_right">Rotar a la derecha</string>
+    <string name="button_color">Color del botón</string>
 
     <string name="config_translation_settings_category">Configuración de traducción</string>
     <string name="config_show_translation_link_tweet">Mostrar enlace `traducir\'</string>
