@@ -1361,6 +1361,11 @@
     <string name="change_function">Change Action</string>
     <string name="toolbar_button_tutorial1">Tap button to change function.
 \nLong tap button to change color of button.</string>
+    <string name="toolbar_preview">Toolbar Preview</string>
+    <string name="button_order_change">Change Button Order</string>
+    <string name="rotate_left">Rotate Left</string>
+    <string name="rotate_right">Rotate Right</string>
+    <string name="button_color">Button Color</string>
     <string name="toolbar_button_move_to_left_or_right" translatable="false">◀▶</string>
 
     <string name="config_translation_settings_category">Translation Settings</string>
