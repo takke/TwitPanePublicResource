@@ -1363,6 +1363,7 @@
     <string name="config_toolbar_height_change">변경</string>
 	<string name="transparent_toolbar">투명 툴바</string>
     <string name="bottom_toolbar_auto_hide">도구 모음 자동 숨기기</string>
+    <string name="bottom_toolbar_auto_hide_summary">스크롤 시 자동 표시/숨기기. 아래에 광고가 있을 때는 비활성화됨</string>
     <string name="bottom_toolbar_auto_hide_when_scrolling_down">아래로 스크롤 할 때 숨기기</string>
     <string name="change_function">변경 조치</string>
     <string name="toolbar_button_tutorial1">"기능을 변경하기 위해 버튼을 탭하세요.

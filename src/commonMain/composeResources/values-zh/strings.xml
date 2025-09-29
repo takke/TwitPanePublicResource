@@ -1360,6 +1360,7 @@
     <string name="config_toolbar_height_change">更改</string>
     <string name="transparent_toolbar">透明工具栏</string>
     <string name="bottom_toolbar_auto_hide">自动隐藏工具栏</string>
+    <string name="bottom_toolbar_auto_hide_summary">滚动时自动显示/隐藏。下方有广告时禁用</string>
     <string name="bottom_toolbar_auto_hide_when_scrolling_down">向下滚动时隐藏</string>
     <string name="change_function">更改动作</string>
     <string name="toolbar_button_tutorial1">点击按钮来更改功能。 \n长按按钮来改变按钮的颜色。</string>

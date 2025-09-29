@@ -1362,6 +1362,7 @@
     <string name="config_toolbar_height_change">Cambiar</string>
     <string name="transparent_toolbar">Barra de herramientas transparente</string>
     <string name="bottom_toolbar_auto_hide">Ocultar la barra de herramientas de forma automática</string>
+    <string name="bottom_toolbar_auto_hide_summary">Mostrar/ocultar automáticamente al desplazarse. Deshabilitado cuando se muestran anuncios abajo</string>
     <string name="bottom_toolbar_auto_hide_when_scrolling_down">Ocultar al desplazarse hacia abajo</string>
     <string name="change_function">Cambiar acción</string>
     <string name="toolbar_button_tutorial1">"Pulsa el botón para cambiar la función.

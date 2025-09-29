@@ -1356,6 +1356,7 @@
     <string name="config_toolbar_height_change">Change</string>
     <string name="transparent_toolbar">Transparent Toolbar</string>
     <string name="bottom_toolbar_auto_hide">Hide Toolbar Automatically</string>
+    <string name="bottom_toolbar_auto_hide_summary">Auto show/hide on scroll. Disabled when ads are shown below</string>
     <string name="bottom_toolbar_auto_hide_when_scrolling_down">Hide when scrolling down</string>
     <string name="change_function">Change Action</string>
     <string name="toolbar_button_tutorial1">Tap button to change function.
