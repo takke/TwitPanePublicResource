@@ -1379,7 +1379,7 @@
     <string name="config_toolbar_height_change">変更</string>
     <string name="transparent_toolbar">透過ツールバー</string>
     <string name="bottom_toolbar_auto_hide">ツールバー自動開閉</string>
-    <string name="bottom_toolbar_auto_hide_summary">スクロールでツールバーを自動開閉します。下に広告がある場合は無効です。【初期値：OFF】</string>
+    <string name="bottom_toolbar_auto_hide_summary">スクロールでツールバーを自動開閉します。下に広告がある場合は無効です。また、MastodonやBlueskyでは非対応です。【初期値：ON】</string>
     <string name="bottom_toolbar_auto_hide_when_scrolling_down">下にスクロールしたときに閉じる(Offの場合、上にスクロールしたときに閉じる)</string>
     <string name="change_function">機能変更</string>
     <string name="toolbar_button_tutorial1">ボタンをタップすると機能を変更できます。\nまた、長押しするとボタンのカラーを変更できます。</string>
