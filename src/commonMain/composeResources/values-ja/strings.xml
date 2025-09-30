@@ -4,6 +4,7 @@
     <string name="common_no">いいえ</string>
     <string name="common_ok">OK</string>
     <string name="common_cancel">キャンセル</string>
+    <string name="common_stop">停止</string>
 
     <string name="menu_menu">メニュー</string>
     

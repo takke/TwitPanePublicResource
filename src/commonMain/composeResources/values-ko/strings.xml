@@ -4,6 +4,7 @@
     <string name="common_no">아니오</string>
     <string name="common_ok">확인</string>
     <string name="common_cancel">취소</string>
+    <string name="common_stop">정지</string>
 
     <string name="menu_menu">메뉴</string>
 
