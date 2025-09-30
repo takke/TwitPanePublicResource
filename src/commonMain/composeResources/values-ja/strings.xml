@@ -1969,7 +1969,7 @@
     <string name="image_viewer_save_image">画像を保存する</string>
     <string name="image_viewer_back_button">戻る</string>
     <string name="browser_save_image_saved">保存しました  (%1$s)</string>
-    <string name="browser_save_image_cannot_save">保存できませんでした。ストレージの空き容量などをご確認ください。</string>
+    <string name="browser_save_image_cannot_save">保存できませんでした。メディアの保存先設定やストレージの空き容量をご確認ください。</string>
     
     <!-- ================================================================================ -->
     <!-- Profile Fragment -->
