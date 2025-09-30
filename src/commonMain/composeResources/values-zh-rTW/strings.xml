@@ -1088,6 +1088,7 @@
     <string name="publish_account_not_found">無法獲取帳戶資訊</string>
     <string name="publish_bluesky_account_required">未選擇Bluesky帳戶</string>
     <string name="publish_failed">發布失敗</string>
+    <string name="publish_auth_error_title">認證錯誤</string>
     <string name="publish_preview_failed">建立預覽失敗：%1$s</string>
     <string name="publish_reply_confirm_title">回覆確認</string>
     <string name="publish_quote_confirm_title_2">引用貼文確認</string>

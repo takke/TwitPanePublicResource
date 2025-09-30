@@ -1085,6 +1085,7 @@
     <string name="publish_account_not_found">无法获取账户信息</string>
     <string name="publish_bluesky_account_required">未选择Bluesky账户</string>
     <string name="publish_failed">发布失败</string>
+    <string name="publish_auth_error_title">认证错误</string>
     <string name="publish_preview_failed">创建预览失败：%1$s</string>
     <string name="publish_reply_confirm_title">回复确认</string>
     <string name="publish_quote_confirm_title_2">引用帖子确认</string>
