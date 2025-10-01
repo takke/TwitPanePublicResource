@@ -1168,6 +1168,8 @@
     <!-- 畫像保存確認 -->
     <string name="browser_save_image_confirm_title">保存圖像</string>
     <string name="browser_save_image_confirm_message">保存圖像？</string>
+    <string name="browser_save_image_already_exists_title">文件已存在</string>
+    <string name="browser_save_image_already_exists_message">%1$s 已下載。\n再次下載？</string>
 
     <!-- ブラウザのロングタップメニュー -->
     <string name="browser_long_click_menu_title">打開此頁面？</string>

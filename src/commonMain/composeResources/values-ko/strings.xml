@@ -1167,6 +1167,8 @@
     <!-- 画像保存確認 -->
     <string name="browser_save_image_confirm_title">이미지 저장</string>
     <string name="browser_save_image_confirm_message">이미지를 저장?</string>
+    <string name="browser_save_image_already_exists_title">파일이 이미 존재합니다</string>
+    <string name="browser_save_image_already_exists_message">%1$s은(는) 이미 다운로드되었습니다.\n다시 다운로드하시겠습니까?</string>
 
     <!-- ブラウザのロングタップメニュー -->
     <string name="browser_long_click_menu_title">이 페이지를 열까요?</string>

@@ -1181,7 +1181,9 @@
     <!-- 画像保存確認 -->
     <string name="browser_save_image_confirm_title">画像の保存確認</string>
     <string name="browser_save_image_confirm_message">画像を保存しますか？</string>
-    
+    <string name="browser_save_image_already_exists_title">ファイルが既に存在します</string>
+    <string name="browser_save_image_already_exists_message">%1$s は既にダウンロード済みです。\n再度ダウンロードしますか？</string>
+
     <!-- ブラウザのロングタップメニュー -->
     <string name="browser_long_click_menu_title">このURLを開きますか？</string>
     <string name="browser_long_click_menu_open">開く</string>

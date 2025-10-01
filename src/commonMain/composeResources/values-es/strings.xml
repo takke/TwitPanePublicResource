@@ -1166,6 +1166,8 @@
     <!-- 画像保存確認 -->
     <string name="browser_save_image_confirm_title">Guardar imagen</string>
     <string name="browser_save_image_confirm_message">¿Guardar imagen?</string>
+    <string name="browser_save_image_already_exists_title">El archivo ya existe</string>
+    <string name="browser_save_image_already_exists_message">%1$s ya se ha descargado.\n¿Descargar de nuevo?</string>
 
     <!-- ブラウザのロングタップメニュー -->
     <string name="browser_long_click_menu_title">¿Abrir esta página?</string>

@@ -1169,6 +1169,8 @@
     <!-- 畫像儲存確認 -->
     <string name="browser_save_image_confirm_title">儲存影象</string>
     <string name="browser_save_image_confirm_message">儲存影象？</string>
+    <string name="browser_save_image_already_exists_title">檔案已存在</string>
+    <string name="browser_save_image_already_exists_message">%1$s 已下載。\n再次下載？</string>
 
     <!-- ブラウザのロングタップメニュー -->
     <string name="browser_long_click_menu_title">開啟此頁面？</string>

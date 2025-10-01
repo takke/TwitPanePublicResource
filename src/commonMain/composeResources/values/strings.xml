@@ -1158,6 +1158,8 @@
     <!-- 画像保存確認 -->
     <string name="browser_save_image_confirm_title">Save image</string>
     <string name="browser_save_image_confirm_message">Save image ?</string>
+    <string name="browser_save_image_already_exists_title">File already exists</string>
+    <string name="browser_save_image_already_exists_message">%1$s has already been downloaded.\nDownload again?</string>
 
     <!-- ブラウザのロングタップメニュー -->
     <string name="browser_long_click_menu_title">Open this page?</string>
