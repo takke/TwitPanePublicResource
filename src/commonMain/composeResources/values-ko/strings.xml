@@ -726,6 +726,8 @@
     <string name="no_posts">게시물이 없습니다</string>
     <string name="menu_show_favorite_users_favorite">좋아하는 사용자</string>
     <string name="menu_show_favorite_users_like">마음 한 유저 보기</string>
+    <string name="favorited_users_dialog_title_mastodon">Favorited Users</string>
+    <string name="no_favorited_users_mastodon">No favorited users</string>
     <string name="no_liked_users">좋아요한 사용자가 없습니다</string>
     <string name="no_reposted_users">No reposted users</string>
     <string name="no_blocking_users">No blocking users</string>
