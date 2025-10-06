@@ -737,6 +737,8 @@
     <string name="menu_show_favorite_users_like">いいねしたユーザー一覧</string>
     <string name="favorited_users_dialog_title_mastodon">お気に入りに追加したユーザー</string>
     <string name="no_favorited_users_mastodon">お気に入りに追加したユーザーはいません</string>
+    <string name="boosted_users_dialog_title_mastodon">ブーストしたユーザー</string>
+    <string name="no_boosted_users_mastodon">ブーストしたユーザーはいません</string>
     <string name="no_liked_users">いいねしたユーザーはいません</string>
     <string name="no_reposted_users">リポストしたユーザーはいません</string>
     <string name="no_blocking_users">ブロックしているユーザーはいません</string>

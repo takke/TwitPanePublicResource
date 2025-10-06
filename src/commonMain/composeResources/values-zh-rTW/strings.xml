@@ -731,6 +731,8 @@
     <string name="menu_show_favorite_users_like">點讚的使用者</string>
     <string name="favorited_users_dialog_title_mastodon">Favorited Users</string>
     <string name="no_favorited_users_mastodon">No favorited users</string>
+    <string name="boosted_users_dialog_title_mastodon">Boosted Users</string>
+    <string name="no_boosted_users_mastodon">No boosted users</string>
     <string name="no_liked_users">沒有按讚的使用者</string>
     <string name="no_reposted_users">No reposted users</string>
     <string name="no_blocking_users">No blocking users</string>
