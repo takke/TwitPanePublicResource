@@ -197,6 +197,7 @@
     <string name="renote_confirm_message">转发此笔记？</string>
     <string name="repost_confirm_message">转发此帖子？</string>
     <string name="choose_account_for_repost_bluesky">您要使用哪个账户转发这个帖子？</string>
+    <string name="choose_account_for_boost_mastodon">您要使用哪个账户转发这个帖子？</string>
     <string name="renote_in_channel_confirm_message">Renote this note in the channel?</string>
     <string name="boost_confirm_message">Boost this toot?</string>
     <string name="retweeted_message">已转推</string>

@@ -197,6 +197,7 @@
     <string name="renote_confirm_message">Renote this note?</string>
     <string name="repost_confirm_message">Repost this post?</string>
     <string name="choose_account_for_repost_bluesky">Which account would you like to use to repost this post?</string>
+    <string name="choose_account_for_boost_mastodon">Which account would you like to use to boost this post?</string>
     <string name="renote_in_channel_confirm_message">Renote this note in the channel?</string>
     <string name="boost_confirm_message">Boost this toot?</string>
     <string name="retweeted_message">Retweeted</string>

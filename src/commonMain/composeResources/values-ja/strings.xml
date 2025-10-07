@@ -197,6 +197,7 @@
     <string name="renote_confirm_message">このノートをフォロワーにリノートしますか？</string>
     <string name="repost_confirm_message">この投稿をフォロワーにリポストしますか？</string>
     <string name="choose_account_for_repost_bluesky">どのアカウントからリポストしますか？</string>
+    <string name="choose_account_for_boost_mastodon">どのアカウントからブーストしますか？</string>
     <string name="renote_in_channel_confirm_message">このノートをチャンネル内にリノートしますか？</string>
     <string name="boost_confirm_message">この投稿をフォロワーにブーストしますか？</string>
     <string name="retweeted_message">リツイートしました</string>
