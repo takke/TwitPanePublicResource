@@ -440,6 +440,7 @@
     <string name="list_member_added">Added list member</string>
     <string name="select_list_to_add_the_member">Select a list to add the member</string>
     <string name="cannot_add_list_member_because_not_following_follow_confirm">Cannot add list member, because not following. Follow this user ?</string>
+    <string name="follow_requested_cannot_add_to_list">Follow request sent. You can add this user to list after the request is approved.</string>
     <string name="remove_from_list_confirm">@%1$s is already member of %2$s, remove ?</string>
 
     <!-- プロフィール編集画面 -->

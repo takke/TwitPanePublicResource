@@ -439,6 +439,7 @@
     <string name="list_member_added">已添加列表成员</string>
     <string name="select_list_to_add_the_member">选择一个列表来添加成员</string>
     <string name="cannot_add_list_member_because_not_following_follow_confirm">Cannot add list member, because not following. Follow this user ?</string>
+    <string name="follow_requested_cannot_add_to_list">已发送关注请求。请求获批后，您可以将此用户添加到列表中。</string>
     <string name="remove_from_list_confirm">@%1$s 已经是 %2$s 的成员， 要删除吗？</string>
 
     <!-- プロフィール編集画面 -->

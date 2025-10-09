@@ -438,6 +438,7 @@
     <string name="list_member_added">已添加列表成員</string>
     <string name="select_list_to_add_the_member">選擇一個列表來添加成員</string>
     <string name="cannot_add_list_member_because_not_following_follow_confirm">Cannot add list member, because not following. Follow this user ?</string>
+    <string name="follow_requested_cannot_add_to_list">已發送關注請求。請求獲批後，您可以將此用戶添加到列表中。</string>
     <string name="remove_from_list_confirm">@%1$s 已經是 %2$s 的成員， 要刪除嗎？</string>
 
     <!-- プロフィール編集畫面 -->
