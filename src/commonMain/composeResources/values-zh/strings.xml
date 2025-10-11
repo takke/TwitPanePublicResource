@@ -908,6 +908,10 @@
     <string name="menu_show_custom_emojis">Show custom emojis</string>
     <string name="emoji_unreactioned">Removed.</string>
     <string name="emoji_reactioned">Added.</string>
+    <string name="emoji_reaction_adding_mastodon">添加反应中...</string>
+    <string name="emoji_reaction_removing_mastodon">移除反应中...</string>
+    <string name="emoji_reaction_added_mastodon">已添加表情反应</string>
+    <string name="emoji_reaction_removed_mastodon">已移除表情反应</string>
     <string name="already_emoji_reactioned">Already added.</string>
     <string name="cannot_add_remote_emoji_reaction">Cannot add remote emoji reaction.</string>
     <string name="menu_emoji_reaction_add">Add...</string>

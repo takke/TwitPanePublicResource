@@ -904,6 +904,10 @@
     <string name="menu_show_custom_emojis">Show custom emojis</string>
     <string name="emoji_unreactioned">Removed.</string>
     <string name="emoji_reactioned">Added.</string>
+    <string name="emoji_reaction_adding_mastodon">Adding reaction...</string>
+    <string name="emoji_reaction_removing_mastodon">Removing reaction...</string>
+    <string name="emoji_reaction_added_mastodon">Emoji reaction added</string>
+    <string name="emoji_reaction_removed_mastodon">Emoji reaction removed</string>
     <string name="already_emoji_reactioned">Already added.</string>
     <string name="cannot_add_remote_emoji_reaction">Cannot add remote emoji reaction.</string>
     <string name="menu_emoji_reaction_add">Add...</string>

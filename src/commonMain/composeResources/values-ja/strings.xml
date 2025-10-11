@@ -918,6 +918,10 @@
     <string name="menu_show_custom_emojis">絵文字を拡大表示</string>
     <string name="emoji_unreactioned">解除しました</string>
     <string name="emoji_reactioned">リアクションしました</string>
+    <string name="emoji_reaction_adding_mastodon">リアクション追加中...</string>
+    <string name="emoji_reaction_removing_mastodon">リアクション削除中...</string>
+    <string name="emoji_reaction_added_mastodon">絵文字リアクションを追加しました</string>
+    <string name="emoji_reaction_removed_mastodon">絵文字リアクションを削除しました</string>
     <string name="already_emoji_reactioned">リアクション済みなので追加できません</string>
     <string name="cannot_add_remote_emoji_reaction">リモートの絵文字リアクションは追加できません</string>
     <string name="menu_emoji_reaction_add">追加...</string>
