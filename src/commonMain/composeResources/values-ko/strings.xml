@@ -1833,6 +1833,7 @@
     <string name="config_prefs_clear_font">Clear Font Settings</string>
     <string name="config_prefs_clear">설정 지우기</string>
     <string name="config_prefs_clear_confirm_message">모든 설정을 삭제 하시겠습니까? (경고! 모든 계정 설정이 제거됩니다!)</string>
+    <string name="config_prefs_cleared">모든 설정이 삭제되었습니다</string>
     <string name="config_prefer_protocol">HTTP/2.0 지원</string>
     <string name="config_prefer_protocol_summary">프로토콜 선택</string>
     <string name="config_prefer_ipv4_address">IPv4 선호</string>

@@ -1870,6 +1870,7 @@
     <string name="config_prefs_clear_font">Clear Font Settings</string>
     <string name="config_prefs_clear">清除设置</string>
     <string name="config_prefs_clear_confirm_message">你确定你要清除所有的设置吗？(警告！！所有账户设置将被删除！！)</string>
+    <string name="config_prefs_cleared">所有设置已清除</string>
     <string name="config_prefer_protocol">支持HTTP/2.0</string>
     <string name="config_prefer_protocol_summary">选择协议</string>
     <string name="config_prefer_ipv4_address">首选IPv4</string>

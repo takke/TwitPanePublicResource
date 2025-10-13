@@ -1894,6 +1894,7 @@
     <string name="config_prefs_clear_font">Clear Font Settings</string>
     <string name="config_prefs_clear">Clear Settings</string>
     <string name="config_prefs_clear_confirm_message">Are you sure you want to CLEAR all settings? (WARNING!! ALL ACCOUNT SETTINGS WILL BE REMOVED!!)</string>
+    <string name="config_prefs_cleared">All settings have been cleared</string>
     <string name="config_prefer_protocol">HTTP/2.0 support</string>
     <string name="config_prefer_protocol_summary">Select protocol</string>
     <string name="config_prefer_ipv4_address">Prefer IPv4</string>
