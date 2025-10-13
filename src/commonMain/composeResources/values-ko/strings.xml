@@ -878,7 +878,6 @@
     <string name="menu_move_up">이동</string>
     <string name="menu_move_down">아래로 이동</string>
     <string name="menu_mute">음소거 ...</string>
-    <string name="menu_mute_user">사용자 음소거</string>
     <string name="menu_mute_chat">Mute</string>
     <string name="menu_unmute_chat">Unmute</string>
     <string name="snackbar_user_muted">음소거됨: @%1$s</string>

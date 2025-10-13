@@ -887,7 +887,6 @@
     <string name="menu_move_up">上に移動</string>
     <string name="menu_move_down">下に移動</string>
     <string name="menu_mute">ミュート...</string>
-    <string name="menu_mute_user">ユーザーをミュート</string>
     <string name="menu_mute_chat">ミュート</string>
     <string name="menu_unmute_chat">ミュート解除</string>
     <string name="snackbar_user_muted">ミュートしました: @%1$s</string>
