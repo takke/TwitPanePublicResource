@@ -2105,6 +2105,7 @@
     <string name="fatal_authenticate_error_message">A fatal authentication error has occurred. If this error is displayed repeatedly, there may be some kind of failure. Please check the official website and official account (@TwitPane) for the latest information.</string>
     <string name="check_official_site">Check official site</string>
 
+    <string name="copy">複製</string>
     <string name="select_copy_content">選擇...</string>
     <string name="some_settings_applied_after_restarted">部分設置將在應用程序重新啓動後生效。</string>
 
