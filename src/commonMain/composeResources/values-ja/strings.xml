@@ -912,7 +912,7 @@
     <string name="copy_option_handle_with_body">@ハンドル + 本文</string>
     <string name="copy_option_display_name_handle_with_body">表示名 + @ハンドル + 本文</string>
     <string name="copy_option_custom_selection">選択...</string>
-    <string name="copy_option_custom_selection_preview">自由に選択できます。選択した部分で検索もできます</string>
+    <string name="copy_option_custom_selection_preview">自由に選択できます。選択した部分で検索やミュートワード登録もできます</string>
     <string name="menu_emoji_reaction">絵文字リアクション</string>
     <string name="menu_show_custom_emojis">絵文字を拡大表示</string>
     <string name="emoji_unreactioned">解除しました</string>
