@@ -458,6 +458,8 @@
     <string name="profile_edit_fields_label">プロフィール補足情報</string>
     <string name="profile_edit_field_name">項目名</string>
     <string name="profile_edit_field_value">項目の値</string>
+    <string name="profile_edit_error_title">エラー</string>
+    <string name="profile_edit_error_field_name_required">項目の値が指定されている場合は項目名が必要です</string>
     <string name="profile_fields">プロフィール補足情報</string>
     <string name="profile_fields_misskey">プロフィール追加情報</string>
     <string name="profile_banner_saved">保存しました。反映されるまでしばらく時間がかかる場合があります</string>

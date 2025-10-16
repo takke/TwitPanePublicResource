@@ -455,6 +455,8 @@
     <string name="profile_edit_fields_label">Campos de perfil</string>
     <string name="profile_edit_field_name">Nombre del campo</string>
     <string name="profile_edit_field_value">Valor del campo</string>
+    <string name="profile_edit_error_title">Error</string>
+    <string name="profile_edit_error_field_name_required">El nombre del campo es obligatorio cuando se especifica el valor del campo</string>
     <string name="profile_fields">Profile Fields</string>
     <string name="profile_fields_misskey">Profile Fields</string>
     <string name="profile_banner_saved">Guardado, funciona en pocos minutos</string>

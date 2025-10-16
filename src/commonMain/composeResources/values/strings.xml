@@ -457,6 +457,8 @@
     <string name="profile_edit_fields_label">Profile Fields</string>
     <string name="profile_edit_field_name">Field Name</string>
     <string name="profile_edit_field_value">Field Value</string>
+    <string name="profile_edit_error_title">Error</string>
+    <string name="profile_edit_error_field_name_required">Field name is required when field value is specified</string>
     <string name="profile_fields">Profile Fields</string>
     <string name="profile_fields_misskey">Profile Fields</string>
     <string name="profile_banner_saved">Saved, and affects in a few minutes</string>
