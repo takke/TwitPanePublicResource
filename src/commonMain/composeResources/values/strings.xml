@@ -454,6 +454,9 @@
     <string name="profile_edit_saved">Saved</string>
     <string name="profile_edit_confirm_cancel_title">Discard changes?</string>
     <string name="profile_edit_confirm_cancel_message">Any unsaved changes will be lost.</string>
+    <string name="profile_edit_fields_label">Profile Fields</string>
+    <string name="profile_edit_field_name">Field Name</string>
+    <string name="profile_edit_field_value">Field Value</string>
     <string name="profile_fields">Profile Fields</string>
     <string name="profile_fields_misskey">Profile Fields</string>
     <string name="profile_banner_saved">Saved, and affects in a few minutes</string>

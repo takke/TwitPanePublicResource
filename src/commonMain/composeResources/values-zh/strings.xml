@@ -453,6 +453,9 @@
     <string name="profile_edit_saved">已保存</string>
     <string name="profile_edit_confirm_cancel_title">要放弃更改吗？</string>
     <string name="profile_edit_confirm_cancel_message">所有未保存的更改都将丢失。</string>
+    <string name="profile_edit_fields_label">个人资料字段</string>
+    <string name="profile_edit_field_name">字段名称</string>
+    <string name="profile_edit_field_value">字段值</string>
     <string name="profile_fields">Profile Fields</string>
     <string name="profile_fields_misskey">Profile Fields</string>
     <string name="profile_banner_saved">已保存，将在几分钟内生效</string>
