@@ -2473,6 +2473,7 @@
     <string name="cross_post_publish_cancelled">投稿処理がキャンセルされました</string>
     <string name="cross_post_publish_error">一部の投稿でエラーが発生しました</string>
     <string name="cross_post_publish_completed">すべての投稿が完了しました</string>
+    <string name="publish_completed">投稿が完了しました</string>
     <string name="cross_post_error_detail">エラー詳細</string>
     <string name="cross_post_status_waiting">待機中</string>
     <string name="cross_post_status_publishing">投稿中...</string>

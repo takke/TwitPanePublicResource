@@ -2387,6 +2387,7 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="cross_post_publish_cancelled">El proceso de publicación fue cancelado</string>
     <string name="cross_post_publish_error">Algunos posts encontraron errores</string>
     <string name="cross_post_publish_completed">Todos los posts completados</string>
+    <string name="publish_completed">Publicación completada</string>
     <string name="cross_post_error_detail">Detalle del Error</string>
     <string name="cross_post_status_waiting">Esperando</string>
     <string name="cross_post_status_publishing">Publicando...</string>

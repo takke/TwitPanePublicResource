@@ -2387,6 +2387,7 @@
     <string name="cross_post_publish_cancelled">게시 처리가 취소되었습니다</string>
     <string name="cross_post_publish_error">일부 게시물에서 오류가 발생했습니다</string>
     <string name="cross_post_publish_completed">모든 게시물이 완료되었습니다</string>
+    <string name="publish_completed">게시가 완료되었습니다</string>
     <string name="cross_post_error_detail">오류 상세</string>
     <string name="cross_post_status_waiting">대기 중</string>
     <string name="cross_post_status_publishing">게시 중...</string>

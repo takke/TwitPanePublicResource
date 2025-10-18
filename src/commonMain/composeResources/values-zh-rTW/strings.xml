@@ -2424,6 +2424,7 @@
     <string name="cross_post_publish_cancelled">發佈過程已取消</string>
     <string name="cross_post_publish_error">部分貼文遇到錯誤</string>
     <string name="cross_post_publish_completed">所有貼文已完成</string>
+    <string name="publish_completed">發佈已完成</string>
     <string name="cross_post_error_detail">錯誤詳情</string>
     <string name="cross_post_status_waiting">等待中</string>
     <string name="cross_post_status_publishing">發佈中...</string>

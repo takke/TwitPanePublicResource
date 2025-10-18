@@ -2502,6 +2502,7 @@ Reauthenticate on the next screen.</string>
     <string name="cross_post_publish_cancelled">Publishing process was cancelled</string>
     <string name="cross_post_publish_error">Some posts encountered errors</string>
     <string name="cross_post_publish_completed">All posts completed</string>
+    <string name="publish_completed">Post completed</string>
     <string name="cross_post_error_detail">Error Detail</string>
     <string name="cross_post_status_waiting">Waiting</string>
     <string name="cross_post_status_publishing">Publishing...</string>
