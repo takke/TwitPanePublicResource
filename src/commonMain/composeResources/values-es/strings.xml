@@ -1091,6 +1091,8 @@
     <string name="publish_post_confirm_mastodon">Enviar una nueva publicación.¿Aceptar?</string>
     <string name="publish_post_confirm_misskey">Enviar una nueva nota.¿Aceptar?</string>
     <string name="publish_post_confirm_bluesky">Enviar una nueva publicación.¿Aceptar?</string>
+    <string name="publish_button_posting">Publicando...</string>
+    <string name="publish_button_post">Publicar</string>
     <string name="publish_toot_edit_confirm">Edit toot. ok?</string>
     <!-- ViewModelで使用するエラーメッセージ -->
     <string name="publish_reply_post_not_found">Publicación de respuesta no encontrada. Puede haber sido eliminada.</string>

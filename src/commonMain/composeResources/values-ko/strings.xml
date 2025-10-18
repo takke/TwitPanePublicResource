@@ -1091,6 +1091,8 @@
     <string name="publish_post_confirm_mastodon">새로운 게시물을 보냅니다. 괜찮습니까?</string>
     <string name="publish_post_confirm_misskey">새로운 노트를 보냅니다. 괜찮습니까?</string>
     <string name="publish_post_confirm_bluesky">새로운 게시물을 보냅니다. 괜찮습니까?</string>
+    <string name="publish_button_posting">게시 중...</string>
+    <string name="publish_button_post">게시</string>
     <string name="publish_toot_edit_confirm">Edit toot. ok?</string>
     <!-- ViewModelで使用するエラーメッセージ -->
     <string name="publish_reply_post_not_found">답글 게시물을 찾을 수 없습니다. 삭제되었을 수 있습니다.</string>

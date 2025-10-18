@@ -1092,6 +1092,8 @@
     <string name="publish_post_confirm_mastodon">發送新貼文嗎？</string>
     <string name="publish_post_confirm_misskey">發送新筆記嗎？</string>
     <string name="publish_post_confirm_bluesky">發送新貼文嗎？</string>
+    <string name="publish_button_posting">發布中...</string>
+    <string name="publish_button_post">發布</string>
     <string name="publish_toot_edit_confirm">Edit toot. ok?</string>
     <!-- ViewModelで使用するエラーメッセージ -->
     <string name="publish_reply_post_not_found">找不到回覆帖子。可能已被刪除。</string>
