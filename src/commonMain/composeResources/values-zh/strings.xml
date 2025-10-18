@@ -1092,6 +1092,7 @@
     <string name="publish_post_confirm_bluesky">发送新帖子吗？</string>
     <string name="publish_button_posting">发布中...</string>
     <string name="publish_button_post">发布</string>
+    <string name="publish_preview_description">要发布以下内容吗？</string>
     <string name="publish_toot_edit_confirm">Edit toot. ok?</string>
     <!-- ViewModelで使用するエラーメッセージ -->
     <string name="publish_reply_post_not_found">找不到回复帖子。可能已被删除。</string>

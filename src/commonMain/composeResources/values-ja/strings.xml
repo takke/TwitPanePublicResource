@@ -1105,6 +1105,7 @@
     <string name="publish_post_confirm_bluesky">投稿します。よろしいですか？</string>
     <string name="publish_button_posting">投稿中...</string>
     <string name="publish_button_post">投稿</string>
+    <string name="publish_preview_description">以下の内容で投稿しますか？</string>
     <string name="publish_toot_edit_confirm">編集します。よろしいですか？</string>
     <!-- ViewModelで使用するエラーメッセージ -->
     <string name="publish_reply_post_not_found">返信先ポストが見つかりませんでした。削除されている可能性があります。</string>

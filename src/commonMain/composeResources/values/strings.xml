@@ -1083,6 +1083,7 @@
     <string name="publish_post_confirm_bluesky">Send new post. ok?</string>
     <string name="publish_button_posting">Posting...</string>
     <string name="publish_button_post">Post</string>
+    <string name="publish_preview_description">Do you want to post the following content?</string>
     <string name="publish_toot_edit_confirm">Edit toot. ok?</string>
     <!-- ViewModelで使用するエラーメッセージ -->
     <string name="publish_reply_post_not_found">Reply post not found. It may have been deleted.</string>
