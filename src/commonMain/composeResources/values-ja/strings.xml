@@ -2544,4 +2544,30 @@
     <string name="color_name_deeporange">ディープオレンジ</string>
     <string name="color_name_brown">ブラウン</string>
 
+    <!-- Mastodon CMP版投稿機能用文字列リソース -->
+    <!-- 公開範囲関連 -->
+    <string name="label_visibility">公開範囲</string>
+    <string name="visibility_type_public">公開</string>
+    <string name="visibility_type_unlisted">未収載</string>
+    <string name="visibility_type_private">非公開</string>
+    <string name="visibility_type_direct">ダイレクト</string>
+    <string name="visibility_type_public_unlisted">ローカル公開</string>
+    <string name="visibility_type_personal">自分限定</string>
+
+    <!-- CW関連 -->
+    <string name="label_content_warning">コンテンツ警告 (CW)</string>
+    <string name="hint_content_warning">警告テキストを入力</string>
+    <string name="button_toggle_cw">CW</string>
+
+    <!-- NSFW関連 -->
+    <string name="label_sensitive">閲覧注意 (NSFW)</string>
+    <string name="button_toggle_sensitive">NSFW</string>
+
+    <!-- 編集関連 -->
+    <string name="title_edit_post">投稿を編集</string>
+
+    <!-- エラーメッセージ -->
+    <string name="error_post_too_long">投稿が長すぎます (最大 %d 文字)</string>
+    <string name="error_cw_too_long">CWが長すぎます</string>
+
 </resources>

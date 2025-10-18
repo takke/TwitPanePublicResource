@@ -2495,4 +2495,30 @@
     <string name="color_name_deeporange">Deep Orange</string>
     <string name="color_name_brown">Brown</string>
 
+    <!-- Mastodon CMP Publishing Strings -->
+    <!-- Visibility -->
+    <string name="label_visibility">可见性</string>
+    <string name="visibility_type_public">公开</string>
+    <string name="visibility_type_unlisted">不公开</string>
+    <string name="visibility_type_private">私密</string>
+    <string name="visibility_type_direct">私信</string>
+    <string name="visibility_type_public_unlisted">本地公开</string>
+    <string name="visibility_type_personal">仅自己</string>
+
+    <!-- Content Warning -->
+    <string name="label_content_warning">内容警告 (CW)</string>
+    <string name="hint_content_warning">输入警告文本</string>
+    <string name="button_toggle_cw">CW</string>
+
+    <!-- Sensitive/NSFW -->
+    <string name="label_sensitive">敏感内容 (NSFW)</string>
+    <string name="button_toggle_sensitive">NSFW</string>
+
+    <!-- Edit -->
+    <string name="title_edit_post">编辑帖子</string>
+
+    <!-- Error Messages -->
+    <string name="error_post_too_long">帖子过长（最多 %d 个字符）</string>
+    <string name="error_cw_too_long">内容警告过长</string>
+
 </resources>
