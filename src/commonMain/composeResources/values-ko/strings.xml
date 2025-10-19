@@ -2489,4 +2489,14 @@
     <string name="error_post_too_long">게시물이 너무 깁니다 (최대 %d자)</string>
     <string name="error_cw_too_long">콘텐츠 경고가 너무 깁니다</string>
 
+    <!-- Toolbar -->
+    <string name="tooltip_attach_media">미디어 첨부</string>
+    <string name="tooltip_toggle_cw">콘텐츠 경고</string>
+    <string name="tooltip_visibility">공개 범위</string>
+    <string name="tooltip_insert_hashtag">해시태그</string>
+    <string name="tooltip_insert_mention">멘션</string>
+    <string name="tooltip_insert_emoji">이모지</string>
+    <string name="tooltip_draft">임시 저장</string>
+    <string name="tooltip_more_options">더 많은 옵션</string>
+
 </resources>

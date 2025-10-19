@@ -2525,4 +2525,14 @@
     <string name="error_post_too_long">帖子過長（最多 %d 個字符）</string>
     <string name="error_cw_too_long">內容警告過長</string>
 
+    <!-- Toolbar -->
+    <string name="tooltip_attach_media">附加媒體</string>
+    <string name="tooltip_toggle_cw">內容警告</string>
+    <string name="tooltip_visibility">可見性</string>
+    <string name="tooltip_insert_hashtag">話題標籤</string>
+    <string name="tooltip_insert_mention">提及</string>
+    <string name="tooltip_insert_emoji">表情符號</string>
+    <string name="tooltip_draft">草稿</string>
+    <string name="tooltip_more_options">更多選項</string>
+
 </resources>

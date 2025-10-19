@@ -2489,4 +2489,14 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="error_post_too_long">La publicación es demasiado larga (máx. %d caracteres)</string>
     <string name="error_cw_too_long">La advertencia de contenido es demasiado larga</string>
 
+    <!-- Toolbar -->
+    <string name="tooltip_attach_media">Adjuntar medios</string>
+    <string name="tooltip_toggle_cw">Advertencia de contenido</string>
+    <string name="tooltip_visibility">Visibilidad</string>
+    <string name="tooltip_insert_hashtag">Hashtag</string>
+    <string name="tooltip_insert_mention">Mención</string>
+    <string name="tooltip_insert_emoji">Emoji</string>
+    <string name="tooltip_draft">Borrador</string>
+    <string name="tooltip_more_options">Más opciones</string>
+
 </resources>

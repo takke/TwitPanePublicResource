@@ -2604,4 +2604,14 @@ Reauthenticate on the next screen.</string>
     <string name="error_post_too_long">Post is too long (max %d characters)</string>
     <string name="error_cw_too_long">Content warning is too long</string>
 
+    <!-- Toolbar -->
+    <string name="tooltip_attach_media">Attach media</string>
+    <string name="tooltip_toggle_cw">Content warning</string>
+    <string name="tooltip_visibility">Visibility</string>
+    <string name="tooltip_insert_hashtag">Hashtag</string>
+    <string name="tooltip_insert_mention">Mention</string>
+    <string name="tooltip_insert_emoji">Emoji</string>
+    <string name="tooltip_draft">Draft</string>
+    <string name="tooltip_more_options">More options</string>
+
 </resources>

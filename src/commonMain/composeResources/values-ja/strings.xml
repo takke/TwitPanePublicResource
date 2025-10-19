@@ -2575,4 +2575,14 @@
     <string name="error_post_too_long">投稿が長すぎます (最大 %d 文字)</string>
     <string name="error_cw_too_long">CWが長すぎます</string>
 
+    <!-- ツールバー関連 -->
+    <string name="tooltip_attach_media">画像・動画を添付</string>
+    <string name="tooltip_toggle_cw">コンテンツ警告</string>
+    <string name="tooltip_visibility">公開範囲</string>
+    <string name="tooltip_insert_hashtag">ハッシュタグ</string>
+    <string name="tooltip_insert_mention">メンション</string>
+    <string name="tooltip_insert_emoji">絵文字</string>
+    <string name="tooltip_draft">下書き</string>
+    <string name="tooltip_more_options">その他のオプション</string>
+
 </resources>
