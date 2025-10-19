@@ -1118,6 +1118,7 @@
     <string name="publish_settings_opening">설정 화면을 열고 있습니다...</string>
     <string name="publish_settings_permission_required">이미지 선택에는 권한이 필요합니다. 설정에서 권한을 허용한 후 다시 시도해주세요</string>
     <string name="publish_settings_open_failed">설정 화면을 열 수 없습니다</string>
+    <string name="publish_sensitive_media_description">이미지와 동영상에 민감한 콘텐츠 플래그가 설정됩니다</string>
     <string name="publish_permission_required_retry">이미지 선택에는 권한이 필요합니다. 다시 시도해주세요</string>
     <string name="publish_permission_opening_settings">이미지 선택에는 권한이 필요합니다. 설정 화면을 열고 있습니다...</string>
     <string name="publish_attached_files">attached files</string>

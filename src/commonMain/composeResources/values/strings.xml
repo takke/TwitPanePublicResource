@@ -1108,6 +1108,7 @@
     <string name="publish_settings_opening">Opening settings screen...</string>
     <string name="publish_settings_permission_required">Permission is required for image selection. Please allow it in settings and try again</string>
     <string name="publish_settings_open_failed">Could not open settings screen</string>
+    <string name="publish_sensitive_media_description">Images and videos will be marked as sensitive</string>
     <string name="publish_permission_required_retry">Permission is required for image selection. Please try again</string>
     <string name="publish_permission_opening_settings">Permission is required for image selection. Opening settings screen...</string>
     <string name="publish_attached_files">attached files</string>

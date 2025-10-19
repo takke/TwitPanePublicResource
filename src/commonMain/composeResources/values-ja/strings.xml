@@ -1130,6 +1130,7 @@
     <string name="publish_settings_opening">設定画面を開いています...</string>
     <string name="publish_settings_permission_required">設定画面で権限を許可してから再度お試しください</string>
     <string name="publish_settings_open_failed">設定画面を開けませんでした</string>
+    <string name="publish_sensitive_media_description">画像・動画に閲覧注意フラグが設定されます</string>
     <string name="publish_permission_required_retry">画像選択には権限が必要です。もう一度お試しください</string>
     <string name="publish_permission_opening_settings">画像選択には権限が必要です。設定画面を開いています...</string>
     <string name="publish_attached_files">添付ファイル</string>

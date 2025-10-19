@@ -1118,6 +1118,7 @@
     <string name="publish_settings_opening">Abriendo pantalla de configuración...</string>
     <string name="publish_settings_permission_required">El permiso es requerido para la selección de imágenes. Por favor permite en configuración e intenta de nuevo</string>
     <string name="publish_settings_open_failed">No se pudo abrir la pantalla de configuración</string>
+    <string name="publish_sensitive_media_description">Las imágenes y videos se marcarán como contenido sensible</string>
     <string name="publish_permission_required_retry">El permiso es requerido para la selección de imágenes. Por favor intenta de nuevo</string>
     <string name="publish_permission_opening_settings">El permiso es requerido para la selección de imágenes. Abriendo pantalla de configuración...</string>
     <string name="publish_attached_files">attached files</string>

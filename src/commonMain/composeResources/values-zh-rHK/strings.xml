@@ -1119,6 +1119,7 @@
     <string name="publish_settings_opening">正在開啟設定頁面...</string>
     <string name="publish_settings_permission_required">圖片選擇需要權限。請在設定中允許權限後重試</string>
     <string name="publish_settings_open_failed">無法開啟設定頁面</string>
+    <string name="publish_sensitive_media_description">圖片和影片將被標記為敏感內容</string>
     <string name="publish_permission_required_retry">圖片選擇需要權限。請重試</string>
     <string name="publish_permission_opening_settings">圖片選擇需要權限。正在開啟設定頁面...</string>
     <string name="publish_attached_files">attached files</string>
