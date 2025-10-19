@@ -1105,6 +1105,7 @@
     <string name="publish_content_required">請輸入貼文內容</string>
     <string name="publish_account_not_found">無法獲取帳戶資訊</string>
     <string name="publish_bluesky_account_required">未選擇Bluesky帳戶</string>
+    <string name="publish_mastodon_account_required">未選擇Mastodon帳戶</string>
     <string name="publish_failed">發布失敗</string>
     <string name="publish_auth_error_title">認證錯誤</string>
     <string name="publish_preview_failed">建立預覽失敗：%1$s</string>

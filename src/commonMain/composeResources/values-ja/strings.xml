@@ -1115,6 +1115,7 @@
     <string name="publish_content_required">投稿内容を入力してください</string>
     <string name="publish_account_not_found">アカウント情報が取得できませんでした</string>
     <string name="publish_bluesky_account_required">Blueskyアカウントが選択されていません</string>
+    <string name="publish_mastodon_account_required">Mastodonアカウントが選択されていません</string>
     <string name="publish_failed">投稿に失敗しました</string>
     <string name="publish_auth_error_title">認証エラー</string>
     <string name="publish_preview_failed">プレビューの作成に失敗しました: %1$s</string>

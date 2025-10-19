@@ -1093,6 +1093,7 @@
     <string name="publish_content_required">Please enter post content</string>
     <string name="publish_account_not_found">Account information could not be retrieved</string>
     <string name="publish_bluesky_account_required">Bluesky account is not selected</string>
+    <string name="publish_mastodon_account_required">Mastodon account is not selected</string>
     <string name="publish_failed">Failed to post</string>
     <string name="publish_auth_error_title">Authentication Error</string>
     <string name="publish_preview_failed">Failed to create preview: %1$s</string>

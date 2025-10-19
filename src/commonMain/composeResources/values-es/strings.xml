@@ -1103,6 +1103,7 @@
     <string name="publish_content_required">Por favor ingresa el contenido de la publicación</string>
     <string name="publish_account_not_found">No se pudo obtener la información de la cuenta</string>
     <string name="publish_bluesky_account_required">La cuenta de Bluesky no está seleccionada</string>
+    <string name="publish_mastodon_account_required">La cuenta de Mastodon no está seleccionada</string>
     <string name="publish_failed">Error al publicar</string>
     <string name="publish_auth_error_title">Error de autenticación</string>
     <string name="publish_preview_failed">Error al crear la vista previa: %1$s</string>
