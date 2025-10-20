@@ -1034,6 +1034,9 @@
     <string name="publish_image_description_label">代替テキスト</string>
     <string name="publish_image_description_placeholder">画像の内容を説明してください</string>
     <string name="publish_confirm_button">確定</string>
+    <string name="publish_nsfw_enabled_mastodon">NSFW: 有効</string>
+    <string name="publish_attached_files_mastodon">添付ファイル: %d件</string>
+    <string name="publish_link_mastodon">リンク: %s</string>
     <string name="publish_submit_button">ツイート</string>
     <string name="toot_button">投稿</string>
     <string name="publish_send_button">送信</string>
