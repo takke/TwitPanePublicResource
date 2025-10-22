@@ -2605,7 +2605,7 @@ Reauthenticate on the next screen.</string>
     <string name="title_edit_post">Edit Post</string>
 
     <!-- Error Messages -->
-    <string name="error_post_too_long">Post is too long (max %d characters)</string>
+    <string name="error_post_too_long">Post is too long (max %1$d characters)</string>
     <string name="error_cw_too_long">Content warning is too long</string>
 
     <!-- Toolbar -->

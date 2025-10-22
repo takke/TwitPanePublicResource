@@ -2576,7 +2576,7 @@
     <string name="title_edit_post">投稿を編集</string>
 
     <!-- エラーメッセージ -->
-    <string name="error_post_too_long">投稿が長すぎます (最大 %d 文字)</string>
+    <string name="error_post_too_long">投稿が長すぎます (最大 %1$d 文字)</string>
     <string name="error_cw_too_long">CWが長すぎます</string>
 
     <!-- ツールバー関連 -->

@@ -2526,7 +2526,7 @@
     <string name="title_edit_post">編輯帖子</string>
 
     <!-- Error Messages -->
-    <string name="error_post_too_long">帖子過長（最多 %d 個字符）</string>
+    <string name="error_post_too_long">帖子過長（最多 %1$d 個字符）</string>
     <string name="error_cw_too_long">內容警告過長</string>
 
     <!-- Toolbar -->
