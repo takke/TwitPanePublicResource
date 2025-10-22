@@ -1027,8 +1027,8 @@
     <string name="publish_image_description_placeholder">請描述圖像的內容</string>
     <string name="publish_confirm_button">確認</string>
     <string name="publish_nsfw_enabled_mastodon">NSFW: 已啟用</string>
-    <string name="publish_attached_files_mastodon">附件: %d個</string>
-    <string name="publish_link_mastodon">連結: %s</string>
+    <string name="publish_attached_files_mastodon">附件: %1$d個</string>
+    <string name="publish_link_mastodon">連結: %1$s</string>
     <string name="publish_submit_button">推文</string>
     <string name="toot_button">Toot</string>
     <string name="publish_send_button">發送</string>

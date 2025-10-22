@@ -1026,8 +1026,8 @@
     <string name="publish_image_description_placeholder">Por favor describe el contenido de la imagen</string>
     <string name="publish_confirm_button">Confirmar</string>
     <string name="publish_nsfw_enabled_mastodon">NSFW: Activado</string>
-    <string name="publish_attached_files_mastodon">Archivos adjuntos: %d</string>
-    <string name="publish_link_mastodon">Enlace: %s</string>
+    <string name="publish_attached_files_mastodon">Archivos adjuntos: %1$d</string>
+    <string name="publish_link_mastodon">Enlace: %1$s</string>
     <string name="publish_submit_button">Tweet</string>
     <string name="toot_button">Toot</string>
     <string name="publish_send_button">Enviar</string>
