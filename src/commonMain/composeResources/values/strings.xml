@@ -2133,7 +2133,7 @@ Reauthenticate on the next screen.</string>
     <string name="login_with_another_account">Login with another account</string>
     <string name="login_to_taittsuu">Login to Taittsuu</string>
     <string name="login_to_mastodon">Login to Mastodon</string>
-    <string name="login_to_mastodon_instruction">Mastodon consists of a variety of servers. Please select the server you wish to log in to. If you do not see your server in the list, please enter the URL directly.</string>
+    <string name="login_to_mastodon_instruction">Mastodon consists of a variety of servers. Please select the server you wish to log in to. If you do not see your server in the list, please enter the URL directly.\nNote: Chrome browser is recommended for login.</string>
     <string name="login_to_misskey">Login to Misskey</string>
     <string name="login_to_misskey_instruction">Misskey consists of a variety of servers. Please select the server you wish to log in to. If you do not see your server in the list, please enter the URL directly.</string>
     <string name="login_to_bluesky">Login to Bluesky</string>
