@@ -1384,7 +1384,8 @@
     <string name="config_custom_emoji_picker_deck_edit_mode">デッキ編集モード</string>
     <string name="custom_emoji_no_new_emojis">ここには新しく追加された絵文字が表示されます。\n数日おきに自動的に更新されますが、引っ張って更新するか右上のメニューからリロードするとすぐに新着絵文字があるか確認できます。</string>
     <string name="emoji_property">絵文字プロパティ</string>
-    <string name="unpin_emoji">ピン留め解除</string>
+    <string name="deck_add_emoji">デッキに追加する</string>
+    <string name="deck_remove_emoji">デッキから解除する</string>
     <string name="custom_emoji_picker_select">選択</string>
     <string name="custom_emoji_picker_delete">履歴から削除</string>
     <string-array name="config_emoji_size_entries">

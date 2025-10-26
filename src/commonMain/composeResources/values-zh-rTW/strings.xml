@@ -1370,7 +1370,8 @@
     <string name="config_custom_emoji_picker_deck_edit_mode">Deck Edit Mode</string>
     <string name="custom_emoji_no_new_emojis">Newly added emojis will be displayed here.</string>
     <string name="emoji_property">Emoji Property</string>
-    <string name="unpin_emoji">Unpin Emoji</string>
+    <string name="deck_add_emoji">添加到牌組</string>
+    <string name="deck_remove_emoji">從牌組移除</string>
     <string name="custom_emoji_picker_select">Select</string>
     <string name="custom_emoji_picker_delete">Delete</string>
     <string-array name="config_emoji_size_entries">
