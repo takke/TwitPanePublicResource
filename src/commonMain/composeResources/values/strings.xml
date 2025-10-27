@@ -4,6 +4,7 @@
     <string name="common_no">No</string>
     <string name="common_ok">OK</string>
     <string name="common_cancel">Cancel</string>
+    <string name="common_undo">Undo</string>
     <string name="common_stop">Stop</string>
 
     <string name="menu_menu">Menu</string>
@@ -1365,6 +1366,7 @@
     <string name="deck_remove_emoji">Remove from Deck</string>
     <string name="custom_emoji_picker_select">Select</string>
     <string name="custom_emoji_picker_delete">Delete</string>
+    <string name="custom_emoji_picker_deck_deleted">Removed from Deck</string>
     <string-array name="config_emoji_size_entries">
         <item>Device Font</item>
         <item>Twitter Emoji(Small)</item>

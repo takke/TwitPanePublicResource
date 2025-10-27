@@ -4,6 +4,7 @@
     <string name="common_no">아니오</string>
     <string name="common_ok">확인</string>
     <string name="common_cancel">취소</string>
+    <string name="common_undo">실행 취소</string>
     <string name="common_stop">정지</string>
 
     <string name="menu_menu">메뉴</string>
@@ -1372,6 +1373,7 @@
     <string name="deck_remove_emoji">덱에서 제거</string>
     <string name="custom_emoji_picker_select">Select</string>
     <string name="custom_emoji_picker_delete">Delete</string>
+    <string name="custom_emoji_picker_deck_deleted">덱에서 제거됨</string>
     <string-array name="config_emoji_size_entries">
         <item>장치 글꼴</item>
         <item>Twitter Emoji(작은)</item>

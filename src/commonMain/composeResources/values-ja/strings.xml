@@ -4,6 +4,7 @@
     <string name="common_no">いいえ</string>
     <string name="common_ok">OK</string>
     <string name="common_cancel">キャンセル</string>
+    <string name="common_undo">元に戻す</string>
     <string name="common_stop">停止</string>
 
     <string name="menu_menu">メニュー</string>
@@ -1388,6 +1389,7 @@
     <string name="deck_remove_emoji">デッキから解除する</string>
     <string name="custom_emoji_picker_select">選択</string>
     <string name="custom_emoji_picker_delete">履歴から削除</string>
+    <string name="custom_emoji_picker_deck_deleted">デッキから削除しました</string>
     <string-array name="config_emoji_size_entries">
         <item>端末の絵文字</item>
         <item>Twitter絵文字(小)</item>

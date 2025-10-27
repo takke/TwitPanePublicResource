@@ -4,6 +4,7 @@
     <string name="common_no">No</string>
     <string name="common_ok">Aceptar</string>
     <string name="common_cancel">Cancelar</string>
+    <string name="common_undo">Deshacer</string>
     <string name="common_stop">Detener</string>
 
     <string name="menu_menu">Menú</string>
@@ -1371,6 +1372,7 @@
     <string name="deck_remove_emoji">Eliminar del mazo</string>
     <string name="custom_emoji_picker_select">Select</string>
     <string name="custom_emoji_picker_delete">Delete</string>
+    <string name="custom_emoji_picker_deck_deleted">Eliminado del mazo</string>
     <string-array name="config_emoji_size_entries">
         <item>Fuente del dispositivo</item>
         <item>Twitter Emoji(pequeño)</item>
