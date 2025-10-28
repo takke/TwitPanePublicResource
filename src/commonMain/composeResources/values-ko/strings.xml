@@ -978,6 +978,7 @@
     <string name="mastodon_publish_activity_title_edit">Edit</string>
     <string name="misskey_publish_activity_title">Note</string>
     <string name="custom_emoji_picker_activity_title">CustomEmojiPicker</string>
+    <string name="menu_unicode_emoji_picker">유니코드 이모지 선택기</string>
     <string name="publish_spoiler_label">Content warning</string>
     <string name="publish_sensitive">Sensitive</string>
     <string name="sensitive_label">Content Warning</string>
