@@ -1048,6 +1048,7 @@
     <string name="reload_screen_name_list_confirm_title">重新加載確認</string>
     <string name="reload_screen_name_list_confirm_message">要重新加載關注用户和關注者的名單嗎？</string>
     <string name="reload_fediverse_screen_name_list_confirm_message">要重新加載關注用户和關注者的名單嗎？</string>
+    <string name="user_select_placeholder">輸入用户名</string>
     <string name="call_twicca_plugin">插件</string>
     <string name="publish_finish_confirm_title">確認</string>
     <string name="publish_finish_confirm_message">你確定要關閉嗎？</string>
