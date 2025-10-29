@@ -1930,6 +1930,7 @@
     <string name="config_premium_summary">You can remove ads with premium edition(TwitPane+)</string>
     <string name="config_adfree_pack_title">AdFree pack</string>
     <string name="config_adfree_pack_summary">Please subscribe ad-free pack on google play store to remove ads</string>
+    <string name="config_adfree_pack_summary_ios">Please subscribe ad-free pack on App Store to remove ads</string>
     <string name="config_adfree_pack_already_bought">Already bought, thanks!</string>
     <string name="config_adfree_pr_title">AdFree Post</string>
     <string name="config_adfree_pr_summary">You can remove ads by posting PR of TwitPane</string>

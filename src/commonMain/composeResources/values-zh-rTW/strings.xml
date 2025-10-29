@@ -1906,6 +1906,7 @@
     <string name="config_premium_summary">你可以使用高階版(TwitPane+)來移除廣告。</string>
     <string name="config_adfree_pack_title">無廣告包</string>
     <string name="config_adfree_pack_summary">請在google play商店訂閱無廣告包來去除廣告</string>
+    <string name="config_adfree_pack_summary_ios">請在App Store訂閱無廣告包來去除廣告</string>
     <string name="config_adfree_pack_already_bought">已購買，謝謝！</string>
     <string name="config_adfree_pr_title">無廣告推文</string>
     <string name="config_adfree_pr_summary">你可以透過傳送TwitPane的PR推文來移除廣告</string>

@@ -1869,6 +1869,7 @@
     <string name="config_premium_summary">Puedes eliminar los anuncios con la versión Premium</string>
     <string name="config_adfree_pack_title">Paquete AdFree</string>
     <string name="config_adfree_pack_summary">Por favor, suscríbete al paquete adfree en Google Play Store para eliminar los anuncios</string>
+    <string name="config_adfree_pack_summary_ios">Por favor, suscríbete al paquete adfree en App Store para eliminar los anuncios</string>
     <string name="config_adfree_pack_already_bought">Ya está comprado, gracias.</string>
     <string name="config_adfree_pr_title">Tuitea sobre Twitpane</string>
     <string name="config_adfree_pr_summary">Puedes eliminar la publicidad tuiteando sobre TwitPane</string>

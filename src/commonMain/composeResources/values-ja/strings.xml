@@ -1909,6 +1909,7 @@
     <string name="config_premium_summary">Google Playストアで有料版(TwitPane+)を購入すると広告を解除できます。簡単に全ての設定を無料版から移行できます。</string>
     <string name="config_adfree_pack_title">広告解除パック(サブスクリプション)</string>
 	<string name="config_adfree_pack_summary">Google Playストアで広告解除パック(サブスクリプション)を購入すると広告を消すことができます</string>
+	<string name="config_adfree_pack_summary_ios">App Storeで広告解除パック(サブスクリプション)を購入すると広告を消すことができます</string>
     <string name="config_adfree_pack_already_bought">購入済みです。ご購読ありがとうございます。</string>
     <string name="config_adfree_pr_title">PR投稿をして広告を解除する(お試し)</string>
 	<string name="config_adfree_pr_summary">TwitPaneのPR投稿により数日間広告を解除できます。有料版のお試し用です</string>
