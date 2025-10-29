@@ -1650,6 +1650,8 @@
     <string name="config_mute_to_messages_summary"></string>
 
     <string name="config_subscription_settings_category">Suscripción</string>
+    <string name="config_ad_and_subscription_settings_category">Anuncios y suscripción</string>
+    <string name="config_ad_and_subscription_settings_category_summary">Gestionar la eliminación de anuncios mediante suscripción y configurar ajustes de anuncios</string>
     <string name="config_manage_subscriptions">Administrar suscripción</string>
     <string name="config_subscription_via_s_zonepane">(Bluesky)Set via as %1$s/S</string>
     <string name="config_subscription_via_s_bluepane">Set via as %1$s/S</string>

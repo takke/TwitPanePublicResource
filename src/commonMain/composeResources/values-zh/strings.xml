@@ -1647,6 +1647,8 @@
     <string name="config_mute_to_messages_summary"></string>
 
     <string name="config_subscription_settings_category">订阅</string>
+    <string name="config_ad_and_subscription_settings_category">广告和订阅</string>
+    <string name="config_ad_and_subscription_settings_category_summary">通过订阅管理广告移除并配置广告设置</string>
     <string name="config_manage_subscriptions">管理订阅</string>
     <string name="config_subscription_via_s_zonepane">(Bluesky)Set via as %1$s/S</string>
     <string name="config_subscription_via_s_bluepane">Set via as %1$s/S</string>

@@ -1650,6 +1650,8 @@
     <string name="config_mute_to_messages_summary"></string>
 
     <string name="config_subscription_settings_category">신청</string>
+    <string name="config_ad_and_subscription_settings_category">광고 및 구독</string>
+    <string name="config_ad_and_subscription_settings_category_summary">구독을 통한 광고 제거 및 광고 설정을 관리할 수 있습니다</string>
     <string name="config_manage_subscriptions">구독 관리</string>
     <string name="config_subscription_via_s_zonepane">(Bluesky)Set via as %1$s/S</string>
     <string name="config_subscription_via_s_bluepane">Set via as %1$s/S</string>
