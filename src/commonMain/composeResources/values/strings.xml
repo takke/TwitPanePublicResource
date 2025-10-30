@@ -2183,6 +2183,8 @@ Reauthenticate on the next screen.</string>
     <string name="subs_guide_item_premium_more_accounts_message" translatable="false">You can increase the number of accounts you can register to 10.</string>
     <string name="subs_guide_item_zonepane_more_accounts" translatable="false">✔ Increased account limit to 10!</string>
     <string name="subs_guide_item_zonepane_more_accounts_message" translatable="false">You can increase the number of accounts you can register to 10.</string>
+    <string name="subs_guide_item_zonepane_ios_more_accounts" translatable="false">✔ Increased account limit to 5!</string>
+    <string name="subs_guide_item_zonepane_ios_more_accounts_message" translatable="false">You can increase the number of accounts you can register to 5.</string>
     <string name="subs_guide_item_research_more_accounts" translatable="false">✔ Increased account limit to 10!</string>
     <string name="subs_guide_item_research_more_accounts_message" translatable="false">You can increase the number of accounts you can register to 10.</string>
     <string name="subs_guide_item_liked_order_likes" translatable="false">✔ Liked ordered likes</string>

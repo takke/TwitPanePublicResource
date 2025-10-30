@@ -2094,6 +2094,41 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="select_copy_content">Seleccione...</string>
     <string name="some_settings_applied_after_restarted">Algunas configuraciones se aplicarán después de reiniciar la aplicación.</string>
 
+    <!-- サブスクリプションの案内画面 -->
+    <string name="subs_guide_cloud_translation_top_message">La calidad de la traducción se puede mejorar utilizando un servicio de Google llamado Cloud Translation.\n\nComo esta traducción en la nube es un servicio de pago, le pedimos que se suscriba para continuar desarrollando y manteniendo esta aplicación.</string>
+    <string name="subs_guide_try_7days_for_free">Prueba 7 días GRATIS (solo para personas que se registran por primera vez)</string>
+    <string name="subs_guide_other_subscription_privileges">Otros privilegios de suscripción:</string>
+    <string name="subs_guide_subscription_privileges">Privilegios de suscripción:</string>
+    <string name="subs_guide_item_cloud_translation">✔ Traducción en la nube</string>
+    <string name="subs_guide_item_cloud_translation_message">Los resultados de la traducción serán más naturales y de alta calidad.</string>
+    <string name="subs_guide_item_timeline_limit">✔ Sin límite de línea de tiempo</string>
+    <string name="subs_guide_item_timeline_limit_message">Puede obtener más tweets que la versión gratuita</string>
+    <string name="subs_guide_item_no_ads">✔ Sin anuncios</string>
+    <string name="subs_guide_item_no_top_ads_message">Puede borrar los anuncios de banner en la parte superior de la pantalla y los anuncios que se muestran después de publicar.</string>
+    <string name="subs_guide_item_no_bottom_ads_message">Puede borrar los anuncios de banner en la parte inferior de la pantalla y los anuncios que se muestran después de publicar</string>
+    <string name="subs_guide_item_free_more_accounts">✔ ¡Límite de cuenta aumentado a 5!</string>
+    <string name="subs_guide_item_free_more_accounts_message">Puede aumentar el número de cuentas que puede registrar a 5.</string>
+    <string name="subs_guide_item_bluepane_more_accounts">✔ ¡Límite de cuenta aumentado a 5!</string>
+    <string name="subs_guide_item_bluepane_more_accounts_message">Puede aumentar el número de cuentas que puede registrar a 5.</string>
+    <string name="subs_guide_item_premium_more_accounts">✔ ¡Límite de cuenta aumentado a 10!</string>
+    <string name="subs_guide_item_premium_more_accounts_message">Puede aumentar el número de cuentas que puede registrar a 10.</string>
+    <string name="subs_guide_item_zonepane_more_accounts">✔ ¡Límite de cuenta aumentado a 10!</string>
+    <string name="subs_guide_item_zonepane_more_accounts_message">Puede aumentar el número de cuentas que puede registrar a 10.</string>
+    <string name="subs_guide_item_zonepane_ios_more_accounts">✔ ¡Límite de cuenta aumentado a 5!</string>
+    <string name="subs_guide_item_zonepane_ios_more_accounts_message">Puede aumentar el número de cuentas que puede registrar a 5.</string>
+    <string name="subs_guide_item_research_more_accounts">✔ ¡Límite de cuenta aumentado a 10!</string>
+    <string name="subs_guide_item_research_more_accounts_message">Puede aumentar el número de cuentas que puede registrar a 10.</string>
+    <string name="subs_guide_item_liked_order_likes">✔ Me gusta ordenados por me gusta</string>
+    <string name="subs_guide_item_liked_order_likes_message"></string>
+    <string name="subs_guide_item_view_quoted_tweets">✔ Ver tweets citados</string>
+    <string name="subs_guide_item_view_quoted_tweets_message">Puede ver las publicaciones citadas de una publicación</string>
+    <string name="subs_guide_item_cross_post_limit_relaxed">✔ Límite de publicación cruzada relajado</string>
+    <string name="subs_guide_item_cross_post_limit_relaxed_message">Puede compartir en hasta 5 cuentas simultáneamente y publicación ilimitada en redes sociales externas</string>
+    <string name="liked_order_likes">Me gusta ordenados por me gusta</string>
+    <string name="config_use_liked_order_likes_summary">Solo disponible para usuarios con suscripciones debido al límite de tweets de Twitter, que es un límite estricto en la cantidad de tweets que se pueden recuperar.</string>
+    <string name="subs_guide_bottom_notice">Si ya ha probado una suscripción, no es elegible para la suscripción gratuita de 7 días. \nDespués de la fecha límite de cancelación de 6 días después de su primer registro gratuito, se le cobrará automáticamente %1$s cada mes hasta que cancele en Google Play Store. \nPuede cancelar su suscripción a través de la configuración de suscripción en Google Play Store. \nTenga en cuenta que su pago anterior no se reembolsará al cancelar a menos que lo exija la ley.</string>
+    <string name="subs_guide_bottom_notice_cloud_translation">Hay un límite en la cantidad de veces que puede usar Cloud Translation por día.</string>
+
     <!-- イベントログ -->
     <string name="event_log_message_publish_success_twitter">Tweets publicados.</string>
     <string name="event_log_message_publish_failed_twitter">No se pudo publicar el tuit.</string>

@@ -2131,6 +2131,41 @@
     <string name="select_copy_content">選擇...</string>
     <string name="some_settings_applied_after_restarted">部分設定將在應用程式重新啟動後生效。</string>
 
+    <!-- サブスクリプションの案内画面 -->
+    <string name="subs_guide_cloud_translation_top_message">可以使用Google的Cloud Translation服務來提高翻譯質量。\n\n由於雲端翻譯是付費服務，我們要求您訂閱以繼續開發和維護此應用程式。</string>
+    <string name="subs_guide_try_7days_for_free">免費試用7天（僅限首次註冊者）</string>
+    <string name="subs_guide_other_subscription_privileges">其他訂閱特權：</string>
+    <string name="subs_guide_subscription_privileges">訂閱特權：</string>
+    <string name="subs_guide_item_cloud_translation">✔ 雲端翻譯</string>
+    <string name="subs_guide_item_cloud_translation_message">翻譯結果將更自然且高質量。</string>
+    <string name="subs_guide_item_timeline_limit">✔ 無時間軸限制</string>
+    <string name="subs_guide_item_timeline_limit_message">您可以獲取比免費版本更多的推文</string>
+    <string name="subs_guide_item_no_ads">✔ 無廣告</string>
+    <string name="subs_guide_item_no_top_ads_message">您可以刪除螢幕頂部的橫幅廣告和釋出後顯示的廣告。</string>
+    <string name="subs_guide_item_no_bottom_ads_message">您可以刪除螢幕底部的橫幅廣告和釋出後顯示的廣告</string>
+    <string name="subs_guide_item_free_more_accounts">✔ 帳戶限制增加至5個！</string>
+    <string name="subs_guide_item_free_more_accounts_message">您可以將註冊的帳戶數量增加至5個。</string>
+    <string name="subs_guide_item_bluepane_more_accounts">✔ 帳戶限制增加至5個！</string>
+    <string name="subs_guide_item_bluepane_more_accounts_message">您可以將註冊的帳戶數量增加至5個。</string>
+    <string name="subs_guide_item_premium_more_accounts">✔ 帳戶限制增加至10個！</string>
+    <string name="subs_guide_item_premium_more_accounts_message">您可以將註冊的帳戶數量增加至10個。</string>
+    <string name="subs_guide_item_zonepane_more_accounts">✔ 帳戶限制增加至10個！</string>
+    <string name="subs_guide_item_zonepane_more_accounts_message">您可以將註冊的帳戶數量增加至10個。</string>
+    <string name="subs_guide_item_zonepane_ios_more_accounts">✔ 帳戶限制增加至5個！</string>
+    <string name="subs_guide_item_zonepane_ios_more_accounts_message">您可以將註冊的帳戶數量增加至5個。</string>
+    <string name="subs_guide_item_research_more_accounts">✔ 帳戶限制增加至10個！</string>
+    <string name="subs_guide_item_research_more_accounts_message">您可以將註冊的帳戶數量增加至10個。</string>
+    <string name="subs_guide_item_liked_order_likes">✔ 按讚順序排列的讚</string>
+    <string name="subs_guide_item_liked_order_likes_message"></string>
+    <string name="subs_guide_item_view_quoted_tweets">✔ 檢視引用的推文</string>
+    <string name="subs_guide_item_view_quoted_tweets_message">您可以檢視帖子的引用帖子</string>
+    <string name="subs_guide_item_cross_post_limit_relaxed">✔ 跨釋出限制放寬</string>
+    <string name="subs_guide_item_cross_post_limit_relaxed_message">您可以同時共享到最多5個帳戶，無限制外部SNS釋出</string>
+    <string name="liked_order_likes">按讚順序排列的讚</string>
+    <string name="config_use_liked_order_likes_summary">由於Twitter的Tweet cap（嚴格限制可檢索的推文數量），僅對訂閱使用者開放。</string>
+    <string name="subs_guide_bottom_notice">如果您已經嘗試過訂閱，則不符合7天免費訂閱的條件。\n在首次免費註冊後6天的取消截止日期之後，每月將自動收取%1$s，直到您在Google Play商店取消為止。\n您可以透過Google Play商店的訂閱設定取消訂閱。\n除非法律要求，否則取消時不會退還之前的付款。</string>
+    <string name="subs_guide_bottom_notice_cloud_translation">雲端翻譯每天的使用次數有限制。</string>
+
     <!-- イベントログ -->
     <string name="event_log_message_publish_success_twitter">推文釋出成功</string>
     <string name="event_log_message_publish_failed_twitter">無法釋出推文</string>

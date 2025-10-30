@@ -2094,6 +2094,41 @@
     <string name="select_copy_content">고르다...</string>
     <string name="some_settings_applied_after_restarted">일부 설정은 응용 프로그램을 다시 시작한 후에 적용됩니다.</string>
 
+    <!-- サブスクリプションの案内画面 -->
+    <string name="subs_guide_cloud_translation_top_message">Cloud Translation이라는 Google 서비스를 사용하여 번역 품질을 향상시킬 수 있습니다.\n\n이 클라우드 번역은 유료 서비스이므로 이 앱의 지속적인 개발 및 유지 관리를 위해 구독을 요청합니다.</string>
+    <string name="subs_guide_try_7days_for_free">7일 무료 체험 (처음 등록하는 사람만)</string>
+    <string name="subs_guide_other_subscription_privileges">기타 구독 특전:</string>
+    <string name="subs_guide_subscription_privileges">구독 특전:</string>
+    <string name="subs_guide_item_cloud_translation">✔ 클라우드 번역</string>
+    <string name="subs_guide_item_cloud_translation_message">번역 결과가 더 자연스럽고 고품질입니다.</string>
+    <string name="subs_guide_item_timeline_limit">✔ 타임라인 제한 없음</string>
+    <string name="subs_guide_item_timeline_limit_message">무료 버전보다 더 많은 트윗을 가져올 수 있습니다</string>
+    <string name="subs_guide_item_no_ads">✔ 광고 없음</string>
+    <string name="subs_guide_item_no_top_ads_message">화면 상단의 배너 광고와 게시 후 표시되는 광고를 지울 수 있습니다.</string>
+    <string name="subs_guide_item_no_bottom_ads_message">화면 하단의 배너 광고와 게시 후 표시되는 광고를 지울 수 있습니다</string>
+    <string name="subs_guide_item_free_more_accounts">✔ 계정 제한이 5개로 증가!</string>
+    <string name="subs_guide_item_free_more_accounts_message">등록할 수 있는 계정 수를 5개까지 늘릴 수 있습니다.</string>
+    <string name="subs_guide_item_bluepane_more_accounts">✔ 계정 제한이 5개로 증가!</string>
+    <string name="subs_guide_item_bluepane_more_accounts_message">등록할 수 있는 계정 수를 5개까지 늘릴 수 있습니다.</string>
+    <string name="subs_guide_item_premium_more_accounts">✔ 계정 제한이 10개로 증가!</string>
+    <string name="subs_guide_item_premium_more_accounts_message">등록할 수 있는 계정 수를 10개까지 늘릴 수 있습니다.</string>
+    <string name="subs_guide_item_zonepane_more_accounts">✔ 계정 제한이 10개로 증가!</string>
+    <string name="subs_guide_item_zonepane_more_accounts_message">등록할 수 있는 계정 수를 10개까지 늘릴 수 있습니다.</string>
+    <string name="subs_guide_item_zonepane_ios_more_accounts">✔ 계정 제한이 5개로 증가!</string>
+    <string name="subs_guide_item_zonepane_ios_more_accounts_message">등록할 수 있는 계정 수를 5개까지 늘릴 수 있습니다.</string>
+    <string name="subs_guide_item_research_more_accounts">✔ 계정 제한이 10개로 증가!</string>
+    <string name="subs_guide_item_research_more_accounts_message">등록할 수 있는 계정 수를 10개까지 늘릴 수 있습니다.</string>
+    <string name="subs_guide_item_liked_order_likes">✔ 좋아요 순서대로 좋아요</string>
+    <string name="subs_guide_item_liked_order_likes_message"></string>
+    <string name="subs_guide_item_view_quoted_tweets">✔ 인용된 트윗 보기</string>
+    <string name="subs_guide_item_view_quoted_tweets_message">게시물의 인용된 게시물을 볼 수 있습니다</string>
+    <string name="subs_guide_item_cross_post_limit_relaxed">✔ 크로스 포스트 제한 완화</string>
+    <string name="subs_guide_item_cross_post_limit_relaxed_message">최대 5개 계정에 동시에 공유할 수 있으며 외부 SNS 게시는 무제한</string>
+    <string name="liked_order_likes">좋아요 순서대로 좋아요</string>
+    <string name="config_use_liked_order_likes_summary">트윗 캡(Tweet cap)이라는 엄격한 트윗 검색 수 제한으로 인해 구독 사용자만 사용할 수 있습니다.</string>
+    <string name="subs_guide_bottom_notice">이미 구독을 시도한 경우 7일 무료 구독 대상이 아닙니다. \n첫 무료 등록 후 6일 후 취소 기한이 지나면 Google Play 스토어에서 취소할 때까지 매월 %1$s가 자동으로 청구됩니다. \nGoogle Play 스토어의 구독 설정을 통해 구독을 취소할 수 있습니다. \n법률에서 요구하지 않는 한 취소 시 이전 결제 금액은 환불되지 않습니다.</string>
+    <string name="subs_guide_bottom_notice_cloud_translation">클라우드 번역은 하루당 사용 횟수에 제한이 있습니다.</string>
+
     <!-- イベントログ -->
     <string name="event_log_message_publish_success_twitter">트윗이 게시되었습니다.</string>
     <string name="event_log_message_publish_failed_twitter">트윗을 게시하지 못했습니다.</string>
