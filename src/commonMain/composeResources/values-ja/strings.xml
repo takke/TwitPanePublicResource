@@ -2165,6 +2165,16 @@
     <string name="subs_guide_item_zonepane_more_accounts_message">登録できるアカウント数を10個までに増やすことができます</string>
     <string name="subs_guide_item_zonepane_ios_more_accounts">・アカウント上限を5に拡大！</string>
     <string name="subs_guide_item_zonepane_ios_more_accounts_message">登録できるアカウント数を5個までに増やすことができます</string>
+
+    <!-- iOS版サブスクリプションガイド専用 -->
+    <string name="subs_guide_ios_product_load_failed">商品情報の取得に失敗しました</string>
+    <string name="subs_guide_ios_monthly_price">月額 %1$s</string>
+    <string name="subs_guide_ios_processing">処理中...</string>
+    <string name="subs_guide_ios_try_for_free">無料で試す</string>
+    <string name="subs_guide_ios_no_purchase_to_restore">復元可能な購入が見つかりませんでした</string>
+    <string name="subs_guide_ios_restore_purchase">購入を復元</string>
+    <string name="subs_guide_ios_subscription_details">無料トライアル期間終了後、自動的に有料プランに移行します。登録すると、利用規約とプライバシーポリシーに同意されたものとみなします。プランは自動的に更新されます。次の更新日の少なくとも24時間前に解約することで、その後の請求を避けることができます。設定アプリ &gt; Apple ID &gt; サブスクリプションから、いつでもキャンセルできます。\n\n・[利用規約](https://twitpane.com/terms_of_use/)\n・[プライバシーポリシー](https://twitpane.com/privacy_policy/)</string>
+
     <string name="subs_guide_item_research_more_accounts">・アカウント上限を10に拡大！</string>
     <string name="subs_guide_item_research_more_accounts_message">登録できるアカウント数を10個までに増やすことができます</string>
     <string name="subs_guide_item_liked_order_likes" translatable="false">・いいねした順のいいね</string>

@@ -2116,6 +2116,16 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="subs_guide_item_zonepane_more_accounts_message">Puede aumentar el número de cuentas que puede registrar a 10.</string>
     <string name="subs_guide_item_zonepane_ios_more_accounts">✔ ¡Límite de cuenta aumentado a 5!</string>
     <string name="subs_guide_item_zonepane_ios_more_accounts_message">Puede aumentar el número de cuentas que puede registrar a 5.</string>
+
+    <!-- iOS Subscription Guide -->
+    <string name="subs_guide_ios_product_load_failed">Error al cargar la información del producto</string>
+    <string name="subs_guide_ios_monthly_price">Mensual %1$s</string>
+    <string name="subs_guide_ios_processing">Procesando...</string>
+    <string name="subs_guide_ios_try_for_free">Pruébalo gratis</string>
+    <string name="subs_guide_ios_no_purchase_to_restore">No hay compras disponibles para restaurar</string>
+    <string name="subs_guide_ios_restore_purchase">Restaurar compra</string>
+    <string name="subs_guide_ios_subscription_details">Después de que finalice el período de prueba gratuito, se le trasladará automáticamente a un plan de pago. Al suscribirse, acepta los Términos de uso y la Política de privacidad. El plan se renovará automáticamente. Puede evitar cargos posteriores cancelando al menos 24 horas antes de la siguiente fecha de renovación. Puede cancelar en cualquier momento desde Configuración &gt; ID de Apple &gt; Suscripciones.\n\n・[Términos de uso](https://twitpane.com/terms_of_use/)\n・[Política de privacidad](https://twitpane.com/privacy_policy/)</string>
+
     <string name="subs_guide_item_research_more_accounts">✔ ¡Límite de cuenta aumentado a 10!</string>
     <string name="subs_guide_item_research_more_accounts_message">Puede aumentar el número de cuentas que puede registrar a 10.</string>
     <string name="subs_guide_item_liked_order_likes">✔ Me gusta ordenados por me gusta</string>

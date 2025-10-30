@@ -2116,6 +2116,16 @@
     <string name="subs_guide_item_zonepane_more_accounts_message">등록할 수 있는 계정 수를 10개까지 늘릴 수 있습니다.</string>
     <string name="subs_guide_item_zonepane_ios_more_accounts">✔ 계정 제한이 5개로 증가!</string>
     <string name="subs_guide_item_zonepane_ios_more_accounts_message">등록할 수 있는 계정 수를 5개까지 늘릴 수 있습니다.</string>
+
+    <!-- iOS Subscription Guide -->
+    <string name="subs_guide_ios_product_load_failed">제품 정보를 불러오지 못했습니다</string>
+    <string name="subs_guide_ios_monthly_price">월 %1$s</string>
+    <string name="subs_guide_ios_processing">처리 중...</string>
+    <string name="subs_guide_ios_try_for_free">무료로 사용해 보기</string>
+    <string name="subs_guide_ios_no_purchase_to_restore">복원할 구매 항목이 없습니다</string>
+    <string name="subs_guide_ios_restore_purchase">구매 복원</string>
+    <string name="subs_guide_ios_subscription_details">무료 체험 기간이 종료되면 자동으로 유료 요금제로 전환됩니다. 구독하면 이용 약관 및 개인정보 보호정책에 동의하는 것으로 간주됩니다. 요금제는 자동으로 갱신됩니다. 다음 갱신일 최소 24시간 전에 취소하면 이후 요금 청구를 피할 수 있습니다. 설정 &gt; Apple ID &gt; 구독에서 언제든지 취소할 수 있습니다.\n\n・[이용 약관](https://twitpane.com/terms_of_use/)\n・[개인정보 보호정책](https://twitpane.com/privacy_policy/)</string>
+
     <string name="subs_guide_item_research_more_accounts">✔ 계정 제한이 10개로 증가!</string>
     <string name="subs_guide_item_research_more_accounts_message">등록할 수 있는 계정 수를 10개까지 늘릴 수 있습니다.</string>
     <string name="subs_guide_item_liked_order_likes">✔ 좋아요 순서대로 좋아요</string>

@@ -2153,6 +2153,16 @@
     <string name="subs_guide_item_zonepane_more_accounts_message">您可以将注册的账户数量增加到10个。</string>
     <string name="subs_guide_item_zonepane_ios_more_accounts">✔ 账户限制增加到5个！</string>
     <string name="subs_guide_item_zonepane_ios_more_accounts_message">您可以将注册的账户数量增加到5个。</string>
+
+    <!-- iOS Subscription Guide -->
+    <string name="subs_guide_ios_product_load_failed">无法加载产品信息</string>
+    <string name="subs_guide_ios_monthly_price">每月 %1$s</string>
+    <string name="subs_guide_ios_processing">处理中...</string>
+    <string name="subs_guide_ios_try_for_free">免费试用</string>
+    <string name="subs_guide_ios_no_purchase_to_restore">没有可恢复的购买</string>
+    <string name="subs_guide_ios_restore_purchase">恢复购买</string>
+    <string name="subs_guide_ios_subscription_details">免费试用期结束后，您将自动转为付费计划。订阅即表示您同意使用条款和隐私政策。计划将自动续订。您可以在下次续订日期前至少24小时取消，以避免后续收费。您可以随时从设置 &gt; Apple ID &gt; 订阅中取消。\n\n・[使用条款](https://twitpane.com/terms_of_use/)\n・[隐私政策](https://twitpane.com/privacy_policy/)</string>
+
     <string name="subs_guide_item_research_more_accounts">✔ 账户限制增加到10个！</string>
     <string name="subs_guide_item_research_more_accounts_message">您可以将注册的账户数量增加到10个。</string>
     <string name="subs_guide_item_liked_order_likes">✔ 按赞顺序排列的赞</string>
