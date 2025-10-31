@@ -2162,6 +2162,14 @@
     <string name="subs_guide_ios_restore_purchase">恢復購買</string>
     <string name="subs_guide_ios_subscription_details">免費試用期結束後，您將自動轉為付費計劃。訂閱即表示您同意使用條款和私隱政策。計劃將自動續訂。您可以在下次續訂日期前至少24小時取消，以避免後續收費。您可以隨時從設定 &gt; Apple ID &gt; 訂閱中取消。\n\n・[使用條款](https://twitpane.com/terms_of_use/)\n・[私隱政策](https://twitpane.com/privacy_policy/)</string>
 
+    <!-- iOS訂閱購買錯誤訊息 -->
+    <string name="subs_guide_ios_error_product_not_found">找不到產品</string>
+    <string name="subs_guide_ios_error_user_cancelled">用戶已取消購買</string>
+    <string name="subs_guide_ios_error_payment_pending">付款待處理</string>
+    <string name="subs_guide_ios_error_verification_failed">無法驗證交易</string>
+    <string name="subs_guide_ios_error_purchase_failed">購買失敗</string>
+    <string name="subs_guide_ios_error_purchase_failed_with_reason">購買失敗：%1$s</string>
+
     <string name="subs_guide_item_research_more_accounts">✔ 帳戶限制增加至10個！</string>
     <string name="subs_guide_item_research_more_accounts_message">您可以將註冊的帳戶數量增加至10個。</string>
     <string name="subs_guide_item_liked_order_likes">✔ 按讚順序排列的讚</string>

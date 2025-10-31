@@ -2126,6 +2126,14 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="subs_guide_ios_restore_purchase">Restaurar compra</string>
     <string name="subs_guide_ios_subscription_details">Después de que finalice el período de prueba gratuito, se le trasladará automáticamente a un plan de pago. Al suscribirse, acepta los Términos de uso y la Política de privacidad. El plan se renovará automáticamente. Puede evitar cargos posteriores cancelando al menos 24 horas antes de la siguiente fecha de renovación. Puede cancelar en cualquier momento desde Configuración &gt; ID de Apple &gt; Suscripciones.\n\n・[Términos de uso](https://twitpane.com/terms_of_use/)\n・[Política de privacidad](https://twitpane.com/privacy_policy/)</string>
 
+    <!-- Mensajes de error de compra de suscripción de iOS -->
+    <string name="subs_guide_ios_error_product_not_found">Producto no encontrado</string>
+    <string name="subs_guide_ios_error_user_cancelled">Compra cancelada por el usuario</string>
+    <string name="subs_guide_ios_error_payment_pending">El pago está pendiente</string>
+    <string name="subs_guide_ios_error_verification_failed">No se pudo verificar la transacción</string>
+    <string name="subs_guide_ios_error_purchase_failed">La compra falló</string>
+    <string name="subs_guide_ios_error_purchase_failed_with_reason">La compra falló: %1$s</string>
+
     <string name="subs_guide_item_research_more_accounts">✔ ¡Límite de cuenta aumentado a 10!</string>
     <string name="subs_guide_item_research_more_accounts_message">Puede aumentar el número de cuentas que puede registrar a 10.</string>
     <string name="subs_guide_item_liked_order_likes">✔ Me gusta ordenados por me gusta</string>

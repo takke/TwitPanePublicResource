@@ -2126,6 +2126,14 @@
     <string name="subs_guide_ios_restore_purchase">구매 복원</string>
     <string name="subs_guide_ios_subscription_details">무료 체험 기간이 종료되면 자동으로 유료 요금제로 전환됩니다. 구독하면 이용 약관 및 개인정보 보호정책에 동의하는 것으로 간주됩니다. 요금제는 자동으로 갱신됩니다. 다음 갱신일 최소 24시간 전에 취소하면 이후 요금 청구를 피할 수 있습니다. 설정 &gt; Apple ID &gt; 구독에서 언제든지 취소할 수 있습니다.\n\n・[이용 약관](https://twitpane.com/terms_of_use/)\n・[개인정보 보호정책](https://twitpane.com/privacy_policy/)</string>
 
+    <!-- iOS 구독 구매 오류 메시지 -->
+    <string name="subs_guide_ios_error_product_not_found">상품을 찾을 수 없습니다</string>
+    <string name="subs_guide_ios_error_user_cancelled">사용자가 취소했습니다</string>
+    <string name="subs_guide_ios_error_payment_pending">결제가 보류 중입니다</string>
+    <string name="subs_guide_ios_error_verification_failed">거래 확인에 실패했습니다</string>
+    <string name="subs_guide_ios_error_purchase_failed">구매에 실패했습니다</string>
+    <string name="subs_guide_ios_error_purchase_failed_with_reason">구매에 실패했습니다: %1$s</string>
+
     <string name="subs_guide_item_research_more_accounts">✔ 계정 제한이 10개로 증가!</string>
     <string name="subs_guide_item_research_more_accounts_message">등록할 수 있는 계정 수를 10개까지 늘릴 수 있습니다.</string>
     <string name="subs_guide_item_liked_order_likes">✔ 좋아요 순서대로 좋아요</string>

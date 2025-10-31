@@ -2175,6 +2175,14 @@
     <string name="subs_guide_ios_restore_purchase">購入を復元</string>
     <string name="subs_guide_ios_subscription_details">無料トライアル期間終了後、自動的に有料プランに移行します。登録すると、利用規約とプライバシーポリシーに同意されたものとみなします。プランは自動的に更新されます。次の更新日の少なくとも24時間前に解約することで、その後の請求を避けることができます。設定アプリ &gt; Apple ID &gt; サブスクリプションから、いつでもキャンセルできます。\n\n・[利用規約](https://twitpane.com/terms_of_use/)\n・[プライバシーポリシー](https://twitpane.com/privacy_policy/)</string>
 
+    <!-- iOS版サブスクリプション購入エラーメッセージ -->
+    <string name="subs_guide_ios_error_product_not_found">商品が見つかりません</string>
+    <string name="subs_guide_ios_error_user_cancelled">ユーザーがキャンセルしました</string>
+    <string name="subs_guide_ios_error_payment_pending">支払いが保留中です</string>
+    <string name="subs_guide_ios_error_verification_failed">トランザクションの検証に失敗しました</string>
+    <string name="subs_guide_ios_error_purchase_failed">購入に失敗しました</string>
+    <string name="subs_guide_ios_error_purchase_failed_with_reason">購入に失敗しました: %1$s</string>
+
     <string name="subs_guide_item_research_more_accounts">・アカウント上限を10に拡大！</string>
     <string name="subs_guide_item_research_more_accounts_message">登録できるアカウント数を10個までに増やすことができます</string>
     <string name="subs_guide_item_liked_order_likes" translatable="false">・いいねした順のいいね</string>
