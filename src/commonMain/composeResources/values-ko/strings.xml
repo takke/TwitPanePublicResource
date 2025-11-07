@@ -1053,6 +1053,7 @@
     <string name="publish_finish_confirm_message">정말로 종료하시겠습니까?</string>
     <string name="publish_finish_save_confirm_message">임시보관함에 저장하시겠습니까?</string>
     <string name="publish_save_draft_discard">저장하지 않고 종료</string>
+    <string name="publish_save_draft_failed">임시보관 저장 실패</string>
     <string name="publish_finish_save">저장</string>
     <string name="publish_finish_save_discard">저장안함</string>
     <string name="publish_finish_save_cancel">취소</string>

@@ -1052,6 +1052,7 @@
     <string name="publish_finish_confirm_message">你确定要关闭吗？</string>
     <string name="publish_finish_save_confirm_message">保存到草稿？</string>
     <string name="publish_save_draft_discard">不保存并退出</string>
+    <string name="publish_save_draft_failed">保存草稿失败</string>
     <string name="publish_finish_save">保存</string>
     <string name="publish_finish_save_discard">丢弃</string>
     <string name="publish_finish_save_cancel">取消</string>
