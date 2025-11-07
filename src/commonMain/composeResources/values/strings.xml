@@ -1047,6 +1047,7 @@
     <string name="publish_finish_confirm_title">Confirm</string>
     <string name="publish_finish_confirm_message">Are you sure you want to close?</string>
     <string name="publish_finish_save_confirm_message">Save to drafts?</string>
+    <string name="publish_save_draft_discard">Discard without saving</string>
     <string name="publish_finish_save">Save</string>
     <string name="publish_finish_save_discard">Discard</string>
     <string name="publish_finish_save_cancel">Cancel</string>

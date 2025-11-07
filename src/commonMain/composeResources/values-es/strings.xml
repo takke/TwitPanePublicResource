@@ -1052,6 +1052,7 @@
     <string name="publish_finish_confirm_title">Confirmar</string>
     <string name="publish_finish_confirm_message">¿Seguro que deseas cerrar?</string>
     <string name="publish_finish_save_confirm_message">¿Guardar en borradores?</string>
+    <string name="publish_save_draft_discard">Descartar sin guardar</string>
     <string name="publish_finish_save">Guardar</string>
     <string name="publish_finish_save_discard">Descartar</string>
     <string name="publish_finish_save_cancel">Cancelar</string>

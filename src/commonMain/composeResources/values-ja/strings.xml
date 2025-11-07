@@ -1063,6 +1063,7 @@
     <string name="publish_finish_confirm_title">確認</string>
     <string name="publish_finish_confirm_message">この画面を閉じてよろしいですか？</string>
     <string name="publish_finish_save_confirm_message">下書きに保存しますか？</string>
+    <string name="publish_save_draft_discard">保存せずに終了</string>
     <string name="publish_finish_save">保存</string>
     <string name="publish_finish_save_discard">破棄</string>
     <string name="publish_finish_save_cancel">キャンセル</string>
