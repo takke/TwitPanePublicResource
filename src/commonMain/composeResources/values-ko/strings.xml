@@ -2540,6 +2540,7 @@
     <string name="visibility_type_direct">다이렉트</string>
     <string name="visibility_type_public_unlisted">로컬 공개</string>
     <string name="visibility_type_personal">개인</string>
+    <string name="visibility_type_circle">Circle</string>
 
     <!-- Content Warning -->
     <string name="label_content_warning">콘텐츠 경고 (CW)</string>

@@ -2622,6 +2622,7 @@ Reauthenticate on the next screen.</string>
     <string name="visibility_type_direct">Direct</string>
     <string name="visibility_type_public_unlisted">Local Public</string>
     <string name="visibility_type_personal">Personal</string>
+    <string name="visibility_type_circle">Circle</string>
 
     <!-- Content Warning -->
     <string name="label_content_warning">Content Warning (CW)</string>

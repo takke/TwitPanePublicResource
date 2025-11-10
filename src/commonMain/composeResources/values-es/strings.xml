@@ -2540,6 +2540,7 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="visibility_type_direct">Directo</string>
     <string name="visibility_type_public_unlisted">Público local</string>
     <string name="visibility_type_personal">Personal</string>
+    <string name="visibility_type_circle">Circle</string>
 
     <!-- Content Warning -->
     <string name="label_content_warning">Advertencia de contenido (CW)</string>

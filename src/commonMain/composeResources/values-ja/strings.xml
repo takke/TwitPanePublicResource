@@ -2593,6 +2593,7 @@
     <string name="visibility_type_direct">ダイレクト</string>
     <string name="visibility_type_public_unlisted">ローカル公開</string>
     <string name="visibility_type_personal">自分限定</string>
+    <string name="visibility_type_circle">サークル</string>
 
     <!-- CW関連 -->
     <string name="label_content_warning">コンテンツ警告 (CW)</string>

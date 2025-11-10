@@ -2577,6 +2577,7 @@
     <string name="visibility_type_direct">私信</string>
     <string name="visibility_type_public_unlisted">本地公开</string>
     <string name="visibility_type_personal">仅自己</string>
+    <string name="visibility_type_circle">Circle</string>
 
     <!-- Content Warning -->
     <string name="label_content_warning">内容警告 (CW)</string>
