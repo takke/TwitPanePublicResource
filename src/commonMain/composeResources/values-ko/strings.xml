@@ -174,10 +174,11 @@
     <string name="account_delete_failed">계정 삭제에 실패했습니다</string>
     <string name="account_reauth">재 인증</string>
     <string name="reauth">재인증</string>
-    <string name="menu_instance_info">Instance Info</string>
-    <string name="menu_server_info">Server Info</string>
-    <string name="menu_change_account_color">Change Account Color</string>
-    <string name="mst_announcements">Announcements</string>
+    <string name="menu_instance_info">인스턴스 정보</string>
+    <string name="menu_server_info">서버 정보</string>
+    <string name="menu_change_account_color">계정 색상 변경</string>
+    <string name="mst_announcements">공지사항</string>
+    <string name="mst_no_announcements">공지사항이 없습니다</string>
     <string name="changing_account_to">로 변경 %1$s</string>
     <string name="cannot_auth_account_via_official_twitter_app">공식 트위터 애플리케이션을 통한 로그인 과정에서 오류가 발생했습니다. \n\n(%1$s)\n\n브라우저를 통해 로그인합니다.</string>
 

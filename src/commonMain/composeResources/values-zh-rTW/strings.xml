@@ -174,10 +174,11 @@
     <string name="account_delete_failed">刪除帳戶失敗</string>
     <string name="account_reauth">重新認證</string>
     <string name="reauth">重新認證</string>
-    <string name="menu_instance_info">Instance Info</string>
-    <string name="menu_server_info">Server Info</string>
-    <string name="menu_change_account_color">Change Account Color</string>
-    <string name="mst_announcements">Announcements</string>
+    <string name="menu_instance_info">實例資訊</string>
+    <string name="menu_server_info">伺服器資訊</string>
+    <string name="menu_change_account_color">更改帳戶顏色</string>
+    <string name="mst_announcements">公告</string>
+    <string name="mst_no_announcements">沒有公告</string>
     <string name="changing_account_to">改變為%1$s</string>
     <string name="cannot_auth_account_via_official_twitter_app">透過官方 Twitter 應用程式登入過程中發生錯誤。 \n\n(%1$s)\n\n透過瀏覽器登入。</string>
 
