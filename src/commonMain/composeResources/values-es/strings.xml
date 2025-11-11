@@ -1004,6 +1004,7 @@
     <string name="set_local_only_message">Do you want local only?\nIf you choose local only, your posts will not be private. In most cases, you do not need to go "local only".</string>
     <string name="set_local_only">set local only</string>
     <string name="cant_change_visibility_when_edit">Can\'t change visibility when editing.</string>
+    <string name="circle_reply_notice">Esta publicación se enviará solo a los usuarios del círculo.</string>
     <string name="edit_file_attached_toot_warning">Editing posts with attachments may possibly degrade attachments.</string>
     <string name="cant_edit_toot_with_polls">Not supported to edit posts with polls.</string>
     <string name="publish_body_label">¿Cuál es tu idea?</string>
