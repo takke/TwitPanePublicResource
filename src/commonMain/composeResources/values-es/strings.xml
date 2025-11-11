@@ -178,6 +178,7 @@
     <string name="menu_server_info">Información del servidor</string>
     <string name="menu_change_account_color">Cambiar color de cuenta</string>
     <string name="mst_announcements">Anuncios</string>
+    <string name="mst_announcements_mark_all_as_read">Marcar todos como leídos</string>
     <string name="mst_no_announcements">No hay anuncios</string>
     <string name="changing_account_to">Cambiar a %1$s</string>
     <string name="cannot_auth_account_via_official_twitter_app">Ocurrió un error durante el proceso de inicio de sesión a través de la aplicación oficial de Twitter. \n\n(%1$s)\n\nInicie sesión a través del navegador.</string>
