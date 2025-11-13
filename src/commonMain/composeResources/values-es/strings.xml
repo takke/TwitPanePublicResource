@@ -1377,6 +1377,9 @@
     <string name="emoji_property">Emoji Property</string>
     <string name="deck_add_emoji">Agregar al mazo</string>
     <string name="deck_remove_emoji">Eliminar del mazo</string>
+    <string name="deck_add_emoji_short">Agregar</string>
+    <string name="deck_remove_emoji_short">Eliminar</string>
+    <string name="config_custom_emoji_picker_deck_edit_mode_short">Editar</string>
     <string name="custom_emoji_picker_select">Select</string>
     <string name="custom_emoji_picker_delete">Delete</string>
     <string name="custom_emoji_picker_deck_deleted">Eliminado del mazo</string>

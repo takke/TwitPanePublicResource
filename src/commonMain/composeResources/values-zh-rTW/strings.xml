@@ -1380,6 +1380,9 @@
     <string name="emoji_property">Emoji Property</string>
     <string name="deck_add_emoji">添加到牌組</string>
     <string name="deck_remove_emoji">從牌組移除</string>
+    <string name="deck_add_emoji_short">添加</string>
+    <string name="deck_remove_emoji_short">移除</string>
+    <string name="config_custom_emoji_picker_deck_edit_mode_short">編輯</string>
     <string name="custom_emoji_picker_select">Select</string>
     <string name="custom_emoji_picker_delete">Delete</string>
     <string name="custom_emoji_picker_deck_deleted">已從牌組移除</string>

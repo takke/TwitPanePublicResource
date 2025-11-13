@@ -1378,6 +1378,9 @@
     <string name="emoji_property">Emoji Property</string>
     <string name="deck_add_emoji">덱에 추가</string>
     <string name="deck_remove_emoji">덱에서 제거</string>
+    <string name="deck_add_emoji_short">추가</string>
+    <string name="deck_remove_emoji_short">제거</string>
+    <string name="config_custom_emoji_picker_deck_edit_mode_short">편집</string>
     <string name="custom_emoji_picker_select">Select</string>
     <string name="custom_emoji_picker_delete">Delete</string>
     <string name="custom_emoji_picker_deck_deleted">덱에서 제거됨</string>
