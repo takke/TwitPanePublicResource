@@ -1010,6 +1010,7 @@
     <string name="publish_reply_to_failed_to_load">Failed to load reply post</string>
     <string name="publish_quote_to_label">Quote</string>
     <string name="publish_quote_to_cannot_display">Cannot display quote target</string>
+    <string name="quote_not_allowed_by_author">This post cannot be quoted as the author has disabled quoting</string>
     <string name="publish_quote_to_failed_to_load">Failed to load quoted post</string>
     <string name="publish_quote_post_title">Quote Post</string>
     <string name="publish_reply_title">Reply</string>

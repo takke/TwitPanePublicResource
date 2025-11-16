@@ -1015,6 +1015,7 @@
     <string name="publish_reply_to_failed_to_load">Error al cargar la publicación de respuesta</string>
     <string name="publish_quote_to_label">Citar</string>
     <string name="publish_quote_to_cannot_display">No se puede mostrar el objetivo de cita</string>
+    <string name="quote_not_allowed_by_author">Esta publicación no se puede citar porque el autor ha desactivado las citas</string>
     <string name="publish_quote_to_failed_to_load">Error al cargar publicación citada</string>
     <string name="publish_quote_post_title">Publicación con cita</string>
     <string name="publish_reply_title">Respuesta</string>

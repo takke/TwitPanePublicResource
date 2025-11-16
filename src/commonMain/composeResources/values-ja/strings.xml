@@ -1024,6 +1024,7 @@
     <string name="publish_reply_to_failed_to_load">返信先ポストを読み込めませんでした</string>
     <string name="publish_quote_to_label">引用</string>
     <string name="publish_quote_to_cannot_display">引用対象を表示できません</string>
+    <string name="quote_not_allowed_by_author">このポストは投稿者により引用が許可されていません</string>
     <string name="publish_quote_to_failed_to_load">引用対象ポストを読み込めませんでした</string>
     <string name="publish_quote_post_title">引用投稿</string>
     <string name="publish_reply_title">返信</string>

@@ -1016,6 +1016,7 @@
     <string name="publish_reply_to_failed_to_load">無法載入回覆帖子</string>
     <string name="publish_quote_to_label">引用</string>
     <string name="publish_quote_to_cannot_display">無法顯示引用對象</string>
+    <string name="quote_not_allowed_by_author">此帖子的作者已禁用引用功能</string>
     <string name="publish_quote_to_failed_to_load">無法載入引用帖子</string>
     <string name="publish_quote_post_title">引用帖子</string>
     <string name="publish_reply_title">回覆</string>

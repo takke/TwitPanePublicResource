@@ -1015,6 +1015,7 @@
     <string name="publish_reply_to_failed_to_load">답글 게시물을 불러오지 못했습니다</string>
     <string name="publish_quote_to_label">인용</string>
     <string name="publish_quote_to_cannot_display">인용 대상을 표시할 수 없습니다</string>
+    <string name="quote_not_allowed_by_author">이 게시물은 작성자가 인용을 비활성화하여 인용할 수 없습니다</string>
     <string name="publish_quote_to_failed_to_load">인용된 게시물을 불러오지 못했습니다</string>
     <string name="publish_quote_post_title">인용 게시물</string>
     <string name="publish_reply_title">답글</string>
