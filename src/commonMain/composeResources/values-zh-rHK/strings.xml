@@ -2280,6 +2280,8 @@
     <string name="notification_follow_accepted">%1$s accepted your follow request</string>
     <string name="notification_achievement">Got achievement: %1$s</string>
     <string name="notification_referenced">%1$s referenced your status</string>
+    <string name="notification_quoted_mastodon">%1$s引用咗你嘅帖文</string>
+    <string name="notification_quoted_update_mastodon">引用嘅帖文已更新</string>
     <string name="spoiler_less">SHOW LESS</string>
     <string name="spoiler_more">SHOW MORE</string>
     <string name="same_language_only">Same language only</string>

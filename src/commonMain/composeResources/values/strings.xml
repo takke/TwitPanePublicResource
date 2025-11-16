@@ -2313,6 +2313,8 @@ Reauthenticate on the next screen.</string>
     <string name="notification_follow_accepted">%1$s accepted your follow request</string>
     <string name="notification_achievement">Got achievement: %1$s</string>
     <string name="notification_referenced">%1$s referenced your status</string>
+    <string name="notification_quoted_mastodon">%1$s quoted your post</string>
+    <string name="notification_quoted_update_mastodon">The quoted post has been updated</string>
     <string name="spoiler_less">SHOW LESS</string>
     <string name="spoiler_more">SHOW MORE</string>
     <string name="same_language_only">Same language only</string>

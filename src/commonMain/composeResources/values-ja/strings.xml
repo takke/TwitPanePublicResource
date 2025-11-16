@@ -2293,6 +2293,8 @@
     <string name="notification_follow_accepted">%1$sさんへのフォローが承認されました</string>
     <string name="notification_achievement">実績を獲得！(%1$s)</string>
     <string name="notification_referenced">%1$sさんがあなたの投稿を参照しました</string>
+    <string name="notification_quoted_mastodon">%1$sさんがあなたの投稿を引用しました</string>
+    <string name="notification_quoted_update_mastodon">引用した投稿が更新されました</string>
     <string name="spoiler_less">隠す</string>
     <string name="spoiler_more">もっと見る</string>
     <string name="same_language_only">同一言語のみ</string>
