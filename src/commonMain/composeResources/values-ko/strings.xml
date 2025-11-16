@@ -2287,6 +2287,11 @@
 
     <string name="postgate_quote_enabled">Quote: enabled</string>
     <string name="postgate_quote_disabled">Quote: disabled</string>
+    <string name="quote_approval_policy_title">인용 승인 정책</string>
+    <string name="quote_approval_policy_default">기본값</string>
+    <string name="quote_approval_policy_public">누구나 인용 가능</string>
+    <string name="quote_approval_policy_followers">팔로워만 인용 가능</string>
+    <string name="quote_approval_policy_nobody">인용 불가</string>
 
     <string name="new_chat">New Chat</string>
     <string name="cannot_send_message_to">cannot send message to %1$s</string>

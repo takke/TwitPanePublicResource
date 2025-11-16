@@ -2287,6 +2287,11 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
 
     <string name="postgate_quote_enabled">Quote: enabled</string>
     <string name="postgate_quote_disabled">Quote: disabled</string>
+    <string name="quote_approval_policy_title">Política de aprobación de citas</string>
+    <string name="quote_approval_policy_default">Predeterminado</string>
+    <string name="quote_approval_policy_public">Cualquiera puede citar</string>
+    <string name="quote_approval_policy_followers">Solo seguidores pueden citar</string>
+    <string name="quote_approval_policy_nobody">Nadie puede citar</string>
 
     <string name="new_chat">New Chat</string>
     <string name="cannot_send_message_to">cannot send message to %1$s</string>
