@@ -2360,7 +2360,7 @@ Reauthenticate on the next screen.</string>
     <string name="quote_approval_policy_default">Default (follow server settings)</string>
     <string name="quote_approval_policy_public">Anyone can quote</string>
     <string name="quote_approval_policy_followers">Only followers can quote</string>
-    <string name="quote_approval_policy_nobody">No one can quote</string>
+    <string name="quote_approval_policy_nobody">No one can quote (only me)</string>
     <string name="quote_approval_policy_default_short">Quote: Default</string>
     <string name="quote_approval_policy_public_short">Quote allowed</string>
     <string name="quote_approval_policy_followers_short">Quote: Followers only</string>

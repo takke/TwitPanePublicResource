@@ -2328,7 +2328,7 @@
     <string name="quote_approval_policy_default">默认(遵循服务器设置)</string>
     <string name="quote_approval_policy_public">任何人可引用</string>
     <string name="quote_approval_policy_followers">仅关注者可引用</string>
-    <string name="quote_approval_policy_nobody">禁止引用</string>
+    <string name="quote_approval_policy_nobody">禁止引用(仅自己)</string>
     <string name="quote_approval_policy_default_short">引用:默认</string>
     <string name="quote_approval_policy_public_short">可引用</string>
     <string name="quote_approval_policy_followers_short">引用:仅关注者</string>

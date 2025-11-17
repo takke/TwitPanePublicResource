@@ -2291,7 +2291,7 @@
     <string name="quote_approval_policy_default">기본값 (서버 설정 따름)</string>
     <string name="quote_approval_policy_public">누구나 인용 가능</string>
     <string name="quote_approval_policy_followers">팔로워만 인용 가능</string>
-    <string name="quote_approval_policy_nobody">인용 불가</string>
+    <string name="quote_approval_policy_nobody">인용 불가 (자신만)</string>
     <string name="quote_approval_policy_default_short">인용: 기본값</string>
     <string name="quote_approval_policy_public_short">인용 가능</string>
     <string name="quote_approval_policy_followers_short">인용: 팔로워만</string>

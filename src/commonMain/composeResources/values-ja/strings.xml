@@ -2341,7 +2341,7 @@
     <string name="quote_approval_policy_default">デフォルト(サーバ設定に従う)</string>
     <string name="quote_approval_policy_public">誰でも引用可</string>
     <string name="quote_approval_policy_followers">フォロワーのみ引用可</string>
-    <string name="quote_approval_policy_nobody">引用不可</string>
+    <string name="quote_approval_policy_nobody">引用不可(自分のみ)</string>
     <string name="quote_approval_policy_default_short">引用:デフォルト</string>
     <string name="quote_approval_policy_public_short">引用可</string>
     <string name="quote_approval_policy_followers_short">引用:フォロワーのみ</string>
