@@ -2357,10 +2357,14 @@ Reauthenticate on the next screen.</string>
     <string name="postgate_quote_enabled">Quote: enabled</string>
     <string name="postgate_quote_disabled">Quote: disabled</string>
     <string name="quote_approval_policy_title">Quote Approval Policy</string>
-    <string name="quote_approval_policy_default">Default</string>
+    <string name="quote_approval_policy_default">Default (follow server settings)</string>
     <string name="quote_approval_policy_public">Anyone can quote</string>
     <string name="quote_approval_policy_followers">Only followers can quote</string>
     <string name="quote_approval_policy_nobody">No one can quote</string>
+    <string name="quote_approval_policy_default_short">Quote: Default</string>
+    <string name="quote_approval_policy_public_short">Quote allowed</string>
+    <string name="quote_approval_policy_followers_short">Quote: Followers only</string>
+    <string name="quote_approval_policy_nobody_short">Quote not allowed</string>
 
     <string name="new_chat">New Chat</string>
     <string name="cannot_send_message_to">cannot send message to %1$s</string>

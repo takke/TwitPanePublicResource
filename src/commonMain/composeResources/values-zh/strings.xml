@@ -2325,10 +2325,14 @@
     <string name="postgate_quote_enabled">Quote: enabled</string>
     <string name="postgate_quote_disabled">Quote: disabled</string>
     <string name="quote_approval_policy_title">引用审批策略</string>
-    <string name="quote_approval_policy_default">默认</string>
+    <string name="quote_approval_policy_default">默认(遵循服务器设置)</string>
     <string name="quote_approval_policy_public">任何人可引用</string>
     <string name="quote_approval_policy_followers">仅关注者可引用</string>
     <string name="quote_approval_policy_nobody">禁止引用</string>
+    <string name="quote_approval_policy_default_short">引用:默认</string>
+    <string name="quote_approval_policy_public_short">可引用</string>
+    <string name="quote_approval_policy_followers_short">引用:仅关注者</string>
+    <string name="quote_approval_policy_nobody_short">禁止引用</string>
 
     <string name="new_chat">New Chat</string>
     <string name="cannot_send_message_to">cannot send message to %1$s</string>

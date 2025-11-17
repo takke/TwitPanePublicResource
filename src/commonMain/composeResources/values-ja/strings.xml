@@ -2338,10 +2338,14 @@
     <string name="postgate_quote_enabled">引用可</string>
     <string name="postgate_quote_disabled">引用不可</string>
     <string name="quote_approval_policy_title">引用設定</string>
-    <string name="quote_approval_policy_default">デフォルト</string>
+    <string name="quote_approval_policy_default">デフォルト(サーバ設定に従う)</string>
     <string name="quote_approval_policy_public">誰でも引用可</string>
     <string name="quote_approval_policy_followers">フォロワーのみ引用可</string>
     <string name="quote_approval_policy_nobody">引用不可</string>
+    <string name="quote_approval_policy_default_short">引用:デフォルト</string>
+    <string name="quote_approval_policy_public_short">引用可</string>
+    <string name="quote_approval_policy_followers_short">引用:フォロワーのみ</string>
+    <string name="quote_approval_policy_nobody_short">引用不可</string>
 
     <string name="new_chat">新しいチャット</string>
     <string name="cannot_send_message_to">%1$s にメッセージを送れません</string>

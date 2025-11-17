@@ -2288,10 +2288,14 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="postgate_quote_enabled">Quote: enabled</string>
     <string name="postgate_quote_disabled">Quote: disabled</string>
     <string name="quote_approval_policy_title">Política de aprobación de citas</string>
-    <string name="quote_approval_policy_default">Predeterminado</string>
+    <string name="quote_approval_policy_default">Predeterminado (seguir configuración del servidor)</string>
     <string name="quote_approval_policy_public">Cualquiera puede citar</string>
     <string name="quote_approval_policy_followers">Solo seguidores pueden citar</string>
     <string name="quote_approval_policy_nobody">Nadie puede citar</string>
+    <string name="quote_approval_policy_default_short">Cita: Predeterminado</string>
+    <string name="quote_approval_policy_public_short">Cita permitida</string>
+    <string name="quote_approval_policy_followers_short">Cita: Solo seguidores</string>
+    <string name="quote_approval_policy_nobody_short">Cita no permitida</string>
 
     <string name="new_chat">New Chat</string>
     <string name="cannot_send_message_to">cannot send message to %1$s</string>
