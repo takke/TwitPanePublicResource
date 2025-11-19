@@ -2496,6 +2496,7 @@
     <string name="cross_post_guide_dont_show_again">다시 표시하지 않기</string>
     <string name="cross_post_share_limit_title">공유 횟수 제한에 대하여</string>
     <string name="cross_post_share_limit_message">외부 SNS 게시는 모든 SNS를 합쳐서 1회로 제한됩니다. 구독하시면 외부 SNS에 2회 이상 게시할 수 있습니다.</string>
+    <string name="cross_post_share_media_not_supported">*미디어 파일은 전송되지 않습니다. 대상 앱에서 파일을 다시 선택하세요.</string>
     <string name="cross_post_subscription_button">구독</string>
     <string name="share_to_other_services">다른 서비스에 공유</string>
     <string name="share_file_attach_not_supported">%s는 파일 첨부를 지원하지 않습니다. 텍스트만 공유합니다.</string>

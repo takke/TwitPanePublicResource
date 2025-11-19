@@ -2496,6 +2496,7 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="cross_post_guide_dont_show_again">No mostrar esto otra vez</string>
     <string name="cross_post_share_limit_title">Acerca del límite de compartir</string>
     <string name="cross_post_share_limit_message">La publicación en SNS externos está limitada a una vez por todas las SNS combinadas. Al suscribirse, puede publicar en SNS externos más de dos veces.</string>
+    <string name="cross_post_share_media_not_supported">*Los archivos multimedia no se transfieren. Vuelva a seleccionar los archivos en la aplicación de destino.</string>
     <string name="cross_post_subscription_button">Suscribirse</string>
     <string name="share_to_other_services">Compartir en otros servicios</string>
     <string name="share_file_attach_not_supported">%s no admite archivos adjuntos. Compartiendo solo texto.</string>

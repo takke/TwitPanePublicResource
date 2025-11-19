@@ -2533,6 +2533,7 @@
     <string name="cross_post_guide_dont_show_again">不再显示此内容</string>
     <string name="cross_post_share_limit_title">关于分享次数限制</string>
     <string name="cross_post_share_limit_message">外部SNS发布限制为所有SNS合计一次。通过订阅，您可以向外部SNS发布超过两次。</string>
+    <string name="cross_post_share_media_not_supported">*媒体文件不会转移。请在目标应用中重新选择文件。</string>
     <string name="cross_post_subscription_button">订阅</string>
     <string name="share_to_other_services">分享到其他服务</string>
     <string name="share_file_attach_not_supported">%s不支持文件附件。只分享文本。</string>

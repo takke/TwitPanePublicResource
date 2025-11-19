@@ -2538,6 +2538,7 @@
     <string name="share_file_attach_not_supported">%s不支援檔案附件。只分享文字。</string>
     <string name="share_app_not_found">找不到%s應用程式</string>
     <string name="share_file_requires_android10">檔案分享需要Android 10或更高版本。</string>
+    <string name="cross_post_share_media_not_supported">*媒體檔案不會轉移。請在目標應用程式中重新選擇檔案。</string>
 
     <!-- ================================================================================ -->
     <!-- Color names -->
