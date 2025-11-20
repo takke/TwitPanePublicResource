@@ -1663,7 +1663,7 @@
 
     <string name="config_subscription_settings_category">Subscription</string>
     <string name="config_ad_and_subscription_settings_category">Ads and Subscription</string>
-    <string name="config_ad_and_subscription_settings_category_summary">Manage ad removal via subscription and configure ad settings</string>
+    <string name="config_ad_and_subscription_settings_category_summary">Remove ads for a better experience. Manage subscriptions and ad settings</string>
     <string name="config_manage_subscriptions">Manage Subscription</string>
     <string name="config_subscription_via_s_zonepane">(Bluesky)Set via as %1$s/S</string>
     <string name="config_subscription_via_s_bluepane">Set via as %1$s/S</string>

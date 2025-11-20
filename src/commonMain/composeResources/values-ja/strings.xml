@@ -1682,7 +1682,7 @@
 
     <string name="config_subscription_settings_category">定期購入</string>
     <string name="config_ad_and_subscription_settings_category">広告と定期購入設定</string>
-    <string name="config_ad_and_subscription_settings_category_summary">サブスクリプションによる広告解除や広告の設定を行うことができます</string>
+    <string name="config_ad_and_subscription_settings_category_summary">広告を非表示にして、より快適に使えます。\nサブスクリプションと広告設定を管理できます</string>
     <string name="config_manage_subscriptions">定期購入の管理</string>
     <string name="config_subscription_via_s_zonepane">(Bluesky)via を %1$s/S にする</string>
     <string name="config_subscription_via_s_bluepane">via を %1$s/S にする</string>
