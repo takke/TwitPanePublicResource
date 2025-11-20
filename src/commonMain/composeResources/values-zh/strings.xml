@@ -2524,7 +2524,7 @@
     <string name="cross_post_process_interrupted">发布过程被中断</string>
     <string name="cross_post_all_posts_completed">所有帖子已完成</string>
     <string name="cross_post_max_account_limit">最多可选择 %1$d 个账户</string>
-    <string name="cross_post_max_account_limit_with_subscription">最多可选择 %1$d 个账户\n订阅后最多可选择 %2$d 个账户</string>
+    <string name="cross_post_max_account_limit_with_subscription">免费版最多可选择 %1$d 个账户。订阅后最多可选择 %2$d 个账户。</string>
     <string name="cross_post_process_cancelled">发布过程已取消</string>
     <string name="cross_post_retry_incomplete_posts">重试错误和未完成的帖子</string>
     <string name="cross_post_option_message">请为每个账户配置隐私设置</string>

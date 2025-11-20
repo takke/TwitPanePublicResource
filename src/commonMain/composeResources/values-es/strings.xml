@@ -2487,7 +2487,7 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="cross_post_process_interrupted">El proceso de publicación fue interrumpido</string>
     <string name="cross_post_all_posts_completed">Todas las publicaciones completadas</string>
     <string name="cross_post_max_account_limit">Puedes seleccionar hasta %1$d cuentas</string>
-    <string name="cross_post_max_account_limit_with_subscription">Puedes seleccionar hasta %1$d cuentas\nCon suscripción, puedes seleccionar hasta %2$d cuentas</string>
+    <string name="cross_post_max_account_limit_with_subscription">La versión gratuita permite hasta %1$d cuentas. Con suscripción, puedes seleccionar hasta %2$d cuentas.</string>
     <string name="cross_post_process_cancelled">Proceso de publicación cancelado</string>
     <string name="cross_post_retry_incomplete_posts">Reintentar publicaciones con error e incompletas</string>
     <string name="cross_post_option_message">Por favor configure la configuración de privacidad para cada cuenta</string>

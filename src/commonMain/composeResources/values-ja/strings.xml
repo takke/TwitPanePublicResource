@@ -2540,7 +2540,7 @@
     <string name="cross_post_process_interrupted">投稿処理が中断されました</string>
     <string name="cross_post_all_posts_completed">全ての投稿が完了しました</string>
     <string name="cross_post_max_account_limit">アカウントは %1$d 件まで選択できます</string>
-    <string name="cross_post_max_account_limit_with_subscription">アカウントは %1$d 件まで選択できます\nサブスク購入すると最大%2$dアカウントまで選択できます</string>
+    <string name="cross_post_max_account_limit_with_subscription">無料版では%1$dアカウントまで選択できます。サブスクリプションに加入すると%2$dアカウントまで選択できます。</string>
     <string name="cross_post_process_cancelled">投稿処理をキャンセルしました</string>
     <string name="cross_post_retry_incomplete_posts">エラー、未完了の投稿を再実行します</string>
     <string name="cross_post_option_message">アカウント毎の公開範囲等を設定してください</string>

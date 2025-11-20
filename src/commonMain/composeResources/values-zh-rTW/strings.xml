@@ -2524,7 +2524,7 @@
     <string name="cross_post_process_interrupted">發佈過程被中斷</string>
     <string name="cross_post_all_posts_completed">所有貼文已完成</string>
     <string name="cross_post_max_account_limit">最多可選擇 %1$d 個帳戶</string>
-    <string name="cross_post_max_account_limit_with_subscription">最多可選擇 %1$d 個帳戶\n訂閱後最多可選擇 %2$d 個帳戶</string>
+    <string name="cross_post_max_account_limit_with_subscription">免費版最多可選擇 %1$d 個帳戶。訂閱後最多可選擇 %2$d 個帳戶。</string>
     <string name="cross_post_process_cancelled">發佈過程已取消</string>
     <string name="cross_post_retry_incomplete_posts">重試錯誤和未完成的貼文</string>
     <string name="cross_post_option_message">請為每個帳戶配置隱私設定</string>
