@@ -1994,7 +1994,7 @@
     <string name="theme_manage_delete_imported_theme">インポートしたテーマを削除できます</string>
     <string name="theme_manage_theme_import_message">新しいテーマを<a href="https://twitpane.com/d/">テーマデザイナー(Web)</a>で作成し、インポートすることができます。\nテーマデザイナー(Web)はPCのブラウザで開くと快適にテーマを作成できておすすめです。</string>
     <string name="theme_delete_confirm_title">テーマの削除</string>
-    <string name="theme_delete_confirm_message">%s を削除しますか？</string>
+    <string name="theme_delete_confirm_message">%1$s を削除しますか？</string>
     <string name="theme_preview_post_reposted_text_twitpane">ハッシュタグを含む投稿です。リツイートされています。 #TwitPane</string>
     <string name="theme_preview_post_reposted_text_zonepane">ハッシュタグを含む投稿です。ブーストされています。 #ZonePane</string>
     <string name="theme_preview_post_reposted_text_bluepane">ハッシュタグを含む投稿です。リポストされています。 #BluePane</string>
