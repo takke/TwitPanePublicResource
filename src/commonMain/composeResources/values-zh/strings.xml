@@ -149,9 +149,9 @@
     <string name="color_edit_button">编辑</string>
     <string name="restore_default_confirm">恢复默认值？</string>
     <string name="import_confirm_message">你确定要导入这个设计吗？</string>
-    <string name="import_restart_message">* 导入后重新启动%s</string>
-    <string name="import_theme_name_message">* 导入目标主题名称: %s</string>
-    <string name="import_theme_color_overwrite_warning">* 请注意，%s主题中设置的颜色数据将被覆盖</string>
+    <string name="import_restart_message">* 导入后重新启动%1$s</string>
+    <string name="import_theme_name_message">* 导入目标主题名称: %1$s</string>
+    <string name="import_theme_color_overwrite_warning">* 请注意，%1$s主题中设置的颜色数据将被覆盖</string>
 
     <!-- ================================================================================ -->
     <!-- Others -->
