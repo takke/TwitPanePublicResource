@@ -2668,4 +2668,11 @@ Reauthenticate on the next screen.</string>
     <string name="tooltip_draft">Draft</string>
     <string name="tooltip_more_options">More options</string>
 
+    <!-- Delete and redraft -->
+    <string name="delete_and_redraft_media_will_be_redownloaded">Attached media will be redownloaded</string>
+    <string name="progress_deleting">Deleting…</string>
+    <string name="error_failed_to_delete">Failed to delete</string>
+    <string name="progress_downloading_media">Downloading media…</string>
+    <string name="error_failed_to_download_media">Failed to download media</string>
+
 </resources>

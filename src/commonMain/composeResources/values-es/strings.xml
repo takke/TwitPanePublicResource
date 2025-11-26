@@ -2586,4 +2586,11 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="tooltip_draft">Borrador</string>
     <string name="tooltip_more_options">Más opciones</string>
 
+    <!-- Eliminar y volver a borrador -->
+    <string name="delete_and_redraft_media_will_be_redownloaded">Los medios adjuntos se volverán a descargar</string>
+    <string name="progress_deleting">Eliminando…</string>
+    <string name="error_failed_to_delete">Error al eliminar</string>
+    <string name="progress_downloading_media">Descargando medios…</string>
+    <string name="error_failed_to_download_media">Error al descargar medios</string>
+
 </resources>

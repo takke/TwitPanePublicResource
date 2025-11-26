@@ -2623,4 +2623,11 @@
     <string name="tooltip_draft">草稿</string>
     <string name="tooltip_more_options">更多選項</string>
 
+    <!-- 刪除並重新編輯 -->
+    <string name="delete_and_redraft_media_will_be_redownloaded">附加的媒體將重新下載</string>
+    <string name="progress_deleting">正在刪除…</string>
+    <string name="error_failed_to_delete">刪除失敗</string>
+    <string name="progress_downloading_media">正在下載媒體…</string>
+    <string name="error_failed_to_download_media">媒體下載失敗</string>
+
 </resources>

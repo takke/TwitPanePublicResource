@@ -2639,4 +2639,11 @@
     <string name="tooltip_draft">下書き</string>
     <string name="tooltip_more_options">その他のオプション</string>
 
+    <!-- 削除して下書きに戻す -->
+    <string name="delete_and_redraft_media_will_be_redownloaded">添付メディアは再ダウンロードされます</string>
+    <string name="progress_deleting">削除中…</string>
+    <string name="error_failed_to_delete">削除に失敗しました</string>
+    <string name="progress_downloading_media">メディアをダウンロード中…</string>
+    <string name="error_failed_to_download_media">メディアのダウンロードに失敗しました</string>
+
 </resources>
