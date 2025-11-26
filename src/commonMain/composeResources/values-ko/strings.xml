@@ -1034,6 +1034,10 @@
     <string name="publish_nsfw_enabled_mastodon">NSFW: 활성화됨</string>
     <string name="publish_attached_files_mastodon">첨부 파일: %1$d개</string>
     <string name="publish_link_mastodon">링크: %1$s</string>
+    <string name="publish_mentions_bluesky">멘션: </string>
+    <string name="publish_attached_files_bluesky">첨부 파일: %1$d개</string>
+    <string name="publish_links_bluesky">링크: </string>
+    <string name="publish_hashtags_bluesky">해시태그: </string>
     <string name="publish_submit_button">트윗</string>
     <string name="toot_button">Toot</string>
     <string name="publish_send_button">보내기</string>

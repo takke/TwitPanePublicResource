@@ -1033,6 +1033,10 @@
     <string name="publish_nsfw_enabled_mastodon">NSFW: 已启用</string>
     <string name="publish_attached_files_mastodon">附件: %1$d个</string>
     <string name="publish_link_mastodon">链接: %1$s</string>
+    <string name="publish_mentions_bluesky">提及: </string>
+    <string name="publish_attached_files_bluesky">附件: %1$d个</string>
+    <string name="publish_links_bluesky">链接: </string>
+    <string name="publish_hashtags_bluesky">标签: </string>
     <string name="publish_submit_button">推文</string>
     <string name="toot_button">Toot</string>
     <string name="publish_send_button">发送</string>

@@ -1029,6 +1029,10 @@
     <string name="publish_nsfw_enabled_mastodon">NSFW: Enabled</string>
     <string name="publish_attached_files_mastodon">Attached files: %1$d</string>
     <string name="publish_link_mastodon">Link: %1$s</string>
+    <string name="publish_mentions_bluesky">Mentions: </string>
+    <string name="publish_attached_files_bluesky">Attached files: %1$d</string>
+    <string name="publish_links_bluesky">Links: </string>
+    <string name="publish_hashtags_bluesky">Hashtags: </string>
     <string name="publish_submit_button">Tweet</string>
     <string name="toot_button">Toot</string>
     <string name="publish_send_button">Send</string>

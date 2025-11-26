@@ -1043,6 +1043,10 @@
     <string name="publish_nsfw_enabled_mastodon">NSFW: 有効</string>
     <string name="publish_attached_files_mastodon">添付ファイル: %1$d件</string>
     <string name="publish_link_mastodon">リンク: %1$s</string>
+    <string name="publish_mentions_bluesky">メンション: </string>
+    <string name="publish_attached_files_bluesky">添付ファイル: %1$d件</string>
+    <string name="publish_links_bluesky">リンク: </string>
+    <string name="publish_hashtags_bluesky">ハッシュタグ: </string>
     <string name="publish_submit_button">ツイート</string>
     <string name="toot_button">投稿</string>
     <string name="publish_send_button">送信</string>
