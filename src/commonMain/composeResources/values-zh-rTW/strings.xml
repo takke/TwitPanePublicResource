@@ -2284,6 +2284,7 @@
     <string name="notification_reactioned">%1$s reactioned</string>
     <string name="notification_follow_accepted">%1$s accepted your follow request</string>
     <string name="notification_achievement">Got achievement: %1$s</string>
+    <string name="notification_create_token">已建立存取權杖。\n如果您不記得有這個動作，請透過「管理存取權杖」撤銷權杖。</string>
     <string name="notification_referenced">%1$s referenced your status</string>
     <string name="notification_quoted_mastodon">%1$s引用了您的貼文</string>
     <string name="notification_quoted_update_mastodon">引用的貼文已更新</string>

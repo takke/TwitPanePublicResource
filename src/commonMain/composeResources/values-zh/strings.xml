@@ -2284,6 +2284,7 @@
     <string name="notification_reactioned">%1$s reactioned</string>
     <string name="notification_follow_accepted">%1$s accepted your follow request</string>
     <string name="notification_achievement">Got achievement: %1$s</string>
+    <string name="notification_create_token">已创建访问令牌。\n如果您不知道这是怎么回事，请通过"管理访问令牌"删除该令牌。</string>
     <string name="notification_referenced">%1$s referenced your status</string>
     <string name="notification_quoted_mastodon">%1$s引用了您的帖子</string>
     <string name="notification_quoted_update_mastodon">引用的帖子已更新</string>

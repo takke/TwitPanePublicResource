@@ -2247,6 +2247,7 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="notification_reactioned">%1$s reactioned</string>
     <string name="notification_follow_accepted">%1$s accepted your follow request</string>
     <string name="notification_achievement">Got achievement: %1$s</string>
+    <string name="notification_create_token">Se ha creado un token de acceso.\nSi no reconoce esta acción, revoque el token a través de "Gestionar tokens de acceso".</string>
     <string name="notification_referenced">%1$s referenced your status</string>
     <string name="notification_quoted_mastodon">%1$s citó tu publicación</string>
     <string name="notification_quoted_update_mastodon">La publicación citada ha sido actualizada</string>

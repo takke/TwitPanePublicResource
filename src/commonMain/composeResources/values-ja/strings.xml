@@ -2296,6 +2296,7 @@
     <string name="notification_reactioned">%1$sさんがリアクションしました</string>
     <string name="notification_follow_accepted">%1$sさんへのフォローが承認されました</string>
     <string name="notification_achievement">実績を獲得！(%1$s)</string>
+    <string name="notification_create_token">アクセストークンが作成されました。\n心当たりがない場合は「アクセストークンの管理」を通じてアクセストークンを削除してください。</string>
     <string name="notification_referenced">%1$sさんがあなたの投稿を参照しました</string>
     <string name="notification_quoted_mastodon">%1$sさんがあなたの投稿を引用しました</string>
     <string name="notification_quoted_update_mastodon">引用した投稿が更新されました</string>

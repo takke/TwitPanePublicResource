@@ -2247,6 +2247,7 @@
     <string name="notification_reactioned">%1$s reactioned</string>
     <string name="notification_follow_accepted">%1$s accepted your follow request</string>
     <string name="notification_achievement">Got achievement: %1$s</string>
+    <string name="notification_create_token">액세스 토큰이 생성되었습니다.\n본인이 한 것이 아니라면 "액세스 토큰 관리"에서 토큰을 삭제해 주세요.</string>
     <string name="notification_referenced">%1$s referenced your status</string>
     <string name="notification_quoted_mastodon">%1$s님이 당신의 게시물을 인용했습니다</string>
     <string name="notification_quoted_update_mastodon">인용한 게시물이 업데이트되었습니다</string>

@@ -2316,6 +2316,7 @@ Reauthenticate on the next screen.</string>
     <string name="notification_reactioned">%1$s reactioned</string>
     <string name="notification_follow_accepted">%1$s accepted your follow request</string>
     <string name="notification_achievement">Got achievement: %1$s</string>
+    <string name="notification_create_token">An access token has been created.\nIf you don\'t recognize this action, please revoke the token via "Manage access tokens".</string>
     <string name="notification_referenced">%1$s referenced your status</string>
     <string name="notification_quoted_mastodon">%1$s quoted your post</string>
     <string name="notification_quoted_update_mastodon">The quoted post has been updated</string>
