@@ -37,8 +37,8 @@ kotlin {
   sourceSets {
     commonMain {
       dependencies {
-        implementation(compose.runtime)
-        implementation(compose.components.resources)
+        implementation("org.jetbrains.compose.runtime:runtime:1.10.0-rc01")
+        implementation("org.jetbrains.compose.components:components-resources:1.10.0-rc01")
       }
     }
   }
