@@ -1585,6 +1585,8 @@
     <string name="config_show_actionbar_tweet_button_summary_ついぺん">在選單中顯示發推按鈕</string>
     <string name="config_show_actionbar_tweet_button_summary_ぞーぺん">在選單中顯示發文按鈕</string>
     <string name="config_show_actionbar_tweet_button_summary_たいぺん">在選單中顯示Taiitsu按鈕</string>
+    <string name="config_publish_button_on_bottom">將發布按鈕放在底部</string>
+    <string name="config_publish_button_on_bottom_summary">將發布按鈕放置在底部工具列 [預設值: 開啟]</string>
     <string name="config_hide_publish_reply_area_by_default_title">隱藏回覆區域</string>
     <string name="config_hide_publish_reply_area_by_default_summary"></string>
     <string name="config_show_after_published_banner_ad_title">Always display ads after posting</string>

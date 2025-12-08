@@ -1588,6 +1588,8 @@
     <string name="config_show_actionbar_tweet_button_summary_ついぺん">Mostrar botón de tuit en el menú</string>
     <string name="config_show_actionbar_tweet_button_summary_ぞーぺん">Mostrar botón de publicación en el menú</string>
     <string name="config_show_actionbar_tweet_button_summary_たいぺん">Mostrar botón de taiitsu en el menú</string>
+    <string name="config_publish_button_on_bottom">Colocar botón de publicación abajo</string>
+    <string name="config_publish_button_on_bottom_summary">Colocar botón de publicación en la barra de herramientas inferior [Valor predeterminado: Activado]</string>
     <string name="config_hide_publish_reply_area_by_default_title">área de respuesta Ocultar</string>
     <string name="config_hide_publish_reply_area_by_default_summary"></string>
     <string name="config_show_after_published_banner_ad_title">Always display ads after posting</string>

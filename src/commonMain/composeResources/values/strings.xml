@@ -1590,6 +1590,8 @@
     <string name="config_show_actionbar_tweet_button_summary_ついぺん">Show tweet button on menu</string>
     <string name="config_show_actionbar_tweet_button_summary_ぞーぺん">Show post button in menu</string>
     <string name="config_show_actionbar_tweet_button_summary_たいぺん">Show taiitsu button in menu</string>
+    <string name="config_publish_button_on_bottom">Place post button on bottom</string>
+    <string name="config_publish_button_on_bottom_summary">Place post button in bottom toolbar [Default: ON]</string>
     <!--	<string name="config_show_emoji_ime_title">Emoji input support</string>-->
     <!--	<string name="config_show_emoji_ime_summary">Enable emoji-input feature of IME if supported</string>-->
     <string name="config_hide_publish_reply_area_by_default_title">Hide reply area</string>

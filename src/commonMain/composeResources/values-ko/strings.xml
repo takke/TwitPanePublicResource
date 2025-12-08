@@ -1588,6 +1588,8 @@
     <string name="config_show_actionbar_tweet_button_summary_ついぺん">메뉴에 트윗 버튼 표시</string>
     <string name="config_show_actionbar_tweet_button_summary_ぞーぺん">메뉴에 게시 버튼 표시</string>
     <string name="config_show_actionbar_tweet_button_summary_たいぺん">메뉴에 타이츠 버튼 표시</string>
+    <string name="config_publish_button_on_bottom">게시 버튼을 아래에 배치</string>
+    <string name="config_publish_button_on_bottom_summary">게시 버튼을 하단 도구 모음에 배치합니다 [기본값: ON]</string>
     <string name="config_hide_publish_reply_area_by_default_title">숨기기 응답 영역</string>
     <string name="config_hide_publish_reply_area_by_default_summary"></string>
     <string name="config_show_after_published_banner_ad_title">Always display ads after posting</string>
