@@ -930,6 +930,7 @@
     <string name="polls_until">until %1$s</string>
     <string name="polls_final_results">Final results</string>
     <string name="voted">Voted</string>
+    <string name="already_voted">It seems you have already voted</string>
     <string name="choose_where_to_vote">Please choose where to vote</string>
 
     <string name="change_account">Change Account</string>

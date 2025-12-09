@@ -944,6 +944,7 @@
     <string name="polls_until">%1$s まで</string>
     <string name="polls_final_results">最終結果</string>
     <string name="voted">投票しました</string>
+    <string name="already_voted">投票済みのようです</string>
     <string name="choose_where_to_vote">投票先を選んでください</string>
 
     <string name="change_account">アカウント変更</string>

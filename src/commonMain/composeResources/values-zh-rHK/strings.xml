@@ -935,6 +935,7 @@
     <string name="polls_until">直到 %1$s</string>
     <string name="polls_final_results">最終結果</string>
     <string name="voted">Voted</string>
+    <string name="already_voted">您似乎已經投過票了</string>
     <string name="choose_where_to_vote">Please choose where to vote</string>
 
     <string name="change_account">更改帳户</string>
