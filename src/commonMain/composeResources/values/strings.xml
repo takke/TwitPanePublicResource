@@ -133,6 +133,10 @@
     <string name="label_mastodon_search_query_guide_during">during:2025-03-21 Show posts from a specific day</string>
     <string name="label_mastodon_search_query_guide_notice">Some of these search features may not be available depending on the server</string>
 
+    <string name="label_misskey_search_query_guide_hashtag">#hashtag Hashtag search</string>
+    <string name="label_misskey_search_query_guide_user_url">https://misskey.io/@takke User search</string>
+    <string name="label_misskey_search_query_guide_note_url">https://misskey.io/notes/abc123 Note search</string>
+
     <string name="no_local_timeline_on_fedibird">fedibird にはローカルタイムラインがありません</string>
 
     <string name="reload_button">Reload</string>

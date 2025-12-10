@@ -133,6 +133,10 @@
     <string name="label_mastodon_search_query_guide_during">during:2025-03-21 顯示特定日期的貼文</string>
     <string name="label_mastodon_search_query_guide_notice">根據伺服器的不同，某些搜尋功能可能無法使用</string>
 
+    <string name="label_misskey_search_query_guide_hashtag">#標籤 標籤搜尋</string>
+    <string name="label_misskey_search_query_guide_user_url">https://misskey.io/@takke 用戶搜尋</string>
+    <string name="label_misskey_search_query_guide_note_url">https://misskey.io/notes/abc123 筆記搜尋</string>
+
     <string name="no_local_timeline_on_fedibird">fedibird にはローカルタイムラインがありません</string>
 
     <string name="reload_button">重新加載</string>
