@@ -741,6 +741,8 @@
     <string name="no_favorited_users_mastodon">No favorited users</string>
     <string name="boosted_users_dialog_title_mastodon">Boosted Users</string>
     <string name="no_boosted_users_mastodon">No boosted users</string>
+    <string name="renoted_users_dialog_title_misskey">Usuarios que renotaron</string>
+    <string name="no_renoted_users_misskey">No hay usuarios que renotaron</string>
     <string name="no_liked_users">No hay usuarios que dieron me gusta</string>
     <string name="no_reposted_users">No reposted users</string>
     <string name="no_blocking_users">No blocking users</string>

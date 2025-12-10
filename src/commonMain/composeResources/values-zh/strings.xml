@@ -742,6 +742,8 @@
     <string name="no_favorited_users_mastodon">No favorited users</string>
     <string name="boosted_users_dialog_title_mastodon">Boosted Users</string>
     <string name="no_boosted_users_mastodon">No boosted users</string>
+    <string name="renoted_users_dialog_title_misskey">转发的用户</string>
+    <string name="no_renoted_users_misskey">没有转发的用户</string>
     <string name="no_liked_users">没有点赞的用户</string>
     <string name="no_reposted_users">No reposted users</string>
     <string name="no_blocking_users">No blocking users</string>
