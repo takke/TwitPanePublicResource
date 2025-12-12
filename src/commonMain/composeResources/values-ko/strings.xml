@@ -793,6 +793,7 @@
     <string name="menu_import_design">디자인 들여오기</string>
 
     <string name="menu_user_mute">이 사용자를 뮤트</string>
+    <string name="menu_user_unmute">뮤트 해제</string>
     <string name="menu_user_block">이 사용자 차단</string>
     <string name="menu_block_this_tweet">이 트윗 차단</string>
     <string name="show_blocked_tweets">차단된 트윗 표시</string>

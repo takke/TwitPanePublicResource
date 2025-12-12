@@ -794,6 +794,7 @@
     <string name="menu_import_design">导入设计</string>
 
     <string name="menu_user_mute">将用户静音</string>
+    <string name="menu_user_unmute">取消静音此用户</string>
     <string name="menu_user_block">屏蔽此用户</string>
     <string name="menu_block_this_tweet">屏蔽这条推文</string>
     <string name="show_blocked_tweets">显示被屏蔽的推文</string>

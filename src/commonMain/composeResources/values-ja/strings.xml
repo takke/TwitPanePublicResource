@@ -803,6 +803,7 @@
     <string name="menu_import_design">このデザインをインポートする</string>
     
     <string name="menu_user_mute">このユーザーをミュート...</string>
+    <string name="menu_user_unmute">ミュートを解除...</string>
     <string name="menu_user_block">このユーザーをブロック...</string>
     <string name="menu_block_this_tweet">この投稿をブロック...</string>
     <string name="show_blocked_tweets">ブロックツイート一覧</string>

@@ -789,6 +789,7 @@
     <string name="menu_import_design">Import Design</string>
 
     <string name="menu_user_mute">Mute this user</string>
+    <string name="menu_user_unmute">Unmute this user</string>
     <string name="menu_user_block">Block this user</string>
     <string name="menu_block_this_tweet">Block this tweet</string>
     <string name="show_blocked_tweets">Blocked tweets</string>
