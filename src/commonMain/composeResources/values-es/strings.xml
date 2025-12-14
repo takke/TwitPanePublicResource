@@ -190,6 +190,7 @@
     <string name="profile_edit_button">editar perfil</string>
     <string name="profile_edit_banner_image_button">Selecciona banner</string>
     <string name="banner_menu">Menú del banner</string>
+    <string name="profile_edit_banner_setting">Configuración de imagen de banner</string>
     <string name="banner_change">Cambiar</string>
     <string name="banner_remove">Eliminar</string>
     <string name="send_dm_button">nuevo mensaje</string>

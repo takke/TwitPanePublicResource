@@ -190,6 +190,7 @@
     <string name="profile_edit_button">编辑个人资料</string>
     <string name="profile_edit_banner_image_button">选择横幅</string>
     <string name="banner_menu">横幅菜单</string>
+    <string name="profile_edit_banner_setting">横幅图片设置</string>
     <string name="banner_change">修改</string>
     <string name="banner_remove">移除</string>
     <string name="send_dm_button">新消息</string>

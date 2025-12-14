@@ -190,6 +190,7 @@
     <string name="profile_edit_button">プロフィールを編集</string>
     <string name="profile_edit_banner_image_button">ヘッダー画像設定</string>
     <string name="banner_menu">ヘッダー画像設定</string>
+    <string name="profile_edit_banner_setting">ヘッダー画像設定</string>
     <string name="banner_change">変更</string>
     <string name="banner_remove">削除</string>
     <string name="send_dm_button">メッセージを送信する</string>
