@@ -1995,6 +1995,7 @@
     <string name="profile_tweets">Tweets</string>
     <string name="profile_posts">Publicaciones</string>
     <string name="profile_toots">Publicaciones</string>
+    <string name="profile_notes">Notas</string>
     <string name="profile_follows">Sigue a</string>
     <string name="profile_followers">Seguidores</string>
 
