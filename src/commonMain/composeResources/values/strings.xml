@@ -1046,6 +1046,7 @@
     <string name="publish_hashtags_bluesky">Hashtags: </string>
     <string name="publish_submit_button">Tweet</string>
     <string name="toot_button">Toot</string>
+    <string name="note_button">Note</string>
     <string name="publish_send_button">Send</string>
     <string name="picture1_select_button">Photo</string>
     <string name="mush_button_text">Mushroom</string>

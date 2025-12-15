@@ -1060,6 +1060,7 @@
     <string name="publish_hashtags_bluesky">ハッシュタグ: </string>
     <string name="publish_submit_button">ツイート</string>
     <string name="toot_button">投稿</string>
+    <string name="note_button">ノート</string>
     <string name="publish_send_button">送信</string>
     <string name="picture1_select_button">写真</string>
     <string name="mush_button_text">絵文字ピッカー</string>

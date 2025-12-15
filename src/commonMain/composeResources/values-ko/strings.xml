@@ -1050,6 +1050,7 @@
     <string name="publish_hashtags_bluesky">해시태그: </string>
     <string name="publish_submit_button">트윗</string>
     <string name="toot_button">Toot</string>
+    <string name="note_button">노트</string>
     <string name="publish_send_button">보내기</string>
     <string name="picture1_select_button">사진</string>
     <string name="mush_button_text">버섯</string>

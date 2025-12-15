@@ -1050,6 +1050,7 @@
     <string name="publish_hashtags_bluesky">Hashtags: </string>
     <string name="publish_submit_button">Tweet</string>
     <string name="toot_button">Toot</string>
+    <string name="note_button">Note</string>
     <string name="publish_send_button">Enviar</string>
     <string name="picture1_select_button">Foto</string>
     <string name="mush_button_text">Botón tipo seta</string>

@@ -1052,6 +1052,7 @@
     <string name="publish_hashtags_bluesky">標籤: </string>
     <string name="publish_submit_button">推文</string>
     <string name="toot_button">Toot</string>
+    <string name="note_button">筆記</string>
     <string name="publish_send_button">傳送</string>
     <string name="picture1_select_button">照片</string>
     <string name="mush_button_text">蘑菇</string>
