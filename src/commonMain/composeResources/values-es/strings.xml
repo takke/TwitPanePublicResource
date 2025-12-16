@@ -673,6 +673,7 @@
     <string name="menu_boost_renote_repost">Boost/Renote/Repost</string>
     <string name="menu_retaiitsu">Retaiitsu</string>
     <string name="menu_renote">Renote</string>
+    <string name="menu_renote_dm_disabled">Renote (Los DMs no se pueden renotear)</string>
     <string name="menu_repost">Repost</string>
     <string name="menu_renote_in_channel">Renote in Channel</string>
     <string name="menu_boost">Boost</string>

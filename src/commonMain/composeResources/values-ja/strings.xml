@@ -682,6 +682,7 @@
     <string name="menu_boost_renote_repost">ブースト/リノート/リポスト</string>
     <string name="menu_retaiitsu">リタイーツ</string>
     <string name="menu_renote">リノート</string>
+    <string name="menu_renote_dm_disabled">リノート(DMなのでリノートできません)</string>
     <string name="menu_repost">リポスト</string>
     <string name="menu_renote_in_channel">チャンネル内リノート</string>
     <string name="menu_boost">ブースト</string>

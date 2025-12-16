@@ -674,6 +674,7 @@
     <string name="menu_boost_renote_repost">Boost/Renote/Repost</string>
     <string name="menu_retaiitsu">轉發</string>
     <string name="menu_renote">轉發</string>
+    <string name="menu_renote_dm_disabled">轉發(私訊無法轉發)</string>
     <string name="menu_repost">轉帖</string>
     <string name="menu_renote_in_channel">Renote in Channel</string>
     <string name="menu_boost">Boost</string>
