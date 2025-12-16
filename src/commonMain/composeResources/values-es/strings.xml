@@ -203,6 +203,7 @@
     <string name="retweet_confirm_message">¿Retuitear este tweet?</string>
     <string name="retweet_confirm_message_taittsuu">¿Retaiitsu este taiitsu?</string>
     <string name="renote_confirm_message">¿Renotar esta nota?</string>
+    <string name="renote_confirm_message_in_channel">¿Renotar en el canal \"%1$s\"?</string>
     <string name="repost_confirm_message">¿Republicar esta publicación?</string>
     <string name="choose_account_for_repost_bluesky">¿Desde qué cuenta quieres republicar esta publicación?</string>
     <string name="choose_account_for_boost_mastodon">¿Desde qué cuenta quieres impulsar esta publicación?</string>

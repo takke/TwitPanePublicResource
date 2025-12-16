@@ -203,6 +203,7 @@
     <string name="retweet_confirm_message">转推此推文？</string>
     <string name="retweet_confirm_message_taittsuu">转发这条Taiitsu？</string>
     <string name="renote_confirm_message">转发此笔记？</string>
+    <string name="renote_confirm_message_in_channel">要转发到频道"%1$s"吗？</string>
     <string name="repost_confirm_message">转发此帖子？</string>
     <string name="choose_account_for_repost_bluesky">您要使用哪个账户转发这个帖子？</string>
     <string name="choose_account_for_boost_mastodon">您要使用哪个账户转发这个帖子？</string>

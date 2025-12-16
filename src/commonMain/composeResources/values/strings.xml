@@ -203,6 +203,7 @@
     <string name="retweet_confirm_message">Retweet this tweet?</string>
     <string name="retweet_confirm_message_taittsuu">Retaiitsu this taiitsu?</string>
     <string name="renote_confirm_message">Renote this note?</string>
+    <string name="renote_confirm_message_in_channel">Renote to channel \"%1$s\"?</string>
     <string name="repost_confirm_message">Repost this post?</string>
     <string name="choose_account_for_repost_bluesky">Which account would you like to use to repost this post?</string>
     <string name="choose_account_for_boost_mastodon">Which account would you like to use to boost this post?</string>

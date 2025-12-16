@@ -203,6 +203,7 @@
     <string name="retweet_confirm_message">このツイートをフォロワーにリツイートしますか？</string>
     <string name="retweet_confirm_message_taittsuu">このタイーツをリタイーツしますか？</string>
     <string name="renote_confirm_message">このノートをフォロワーにリノートしますか？</string>
+    <string name="renote_confirm_message_in_channel">チャンネル「%1$s」にリノートしますか？</string>
     <string name="repost_confirm_message">この投稿をフォロワーにリポストしますか？</string>
     <string name="choose_account_for_repost_bluesky">どのアカウントからリポストしますか？</string>
     <string name="choose_account_for_boost_mastodon">どのアカウントからブーストしますか？</string>
