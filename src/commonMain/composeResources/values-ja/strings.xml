@@ -701,11 +701,11 @@
     <string name="menu_remove_repost">リポストを解除</string>
     <string name="menu_create_favorite_favorite_tw">お気に入りに追加する</string>
     <string name="menu_create_favorite_favorite_mastodon">お気に入り</string>
-    <string name="menu_create_favorite_favorite_misskey">いいね</string>
+    <string name="menu_create_favorite_favorite_misskey">お気に入りに追加</string>
     <string name="menu_create_favorite_favorite_bluesky">いいね</string>
     <string name="menu_remove_favorite_favorite_tw">お気に入りから削除する</string>
     <string name="menu_remove_favorite_favorite_mastodon">お気に入りを解除</string>
-    <string name="menu_remove_favorite_favorite_misskey">いいねを解除</string>
+    <string name="menu_remove_favorite_favorite_misskey">お気に入りを解除</string>
     <string name="menu_remove_favorite_favorite_bluesky">いいねを解除</string>
     <string name="menu_create_favorite_like">いいね</string>
     <string name="confirm_create_like_with_official_app">公式アプリのいいね画面を開きます。\n\n公式アプリでログイン済みのアカウントで実行されるのでアカウント誤りにご注意ください。\n\n※「記憶する」ボタンを押すと次回から1日程度、この画面を表示せずにすぐに公式アプリを開きます。</string>
