@@ -1493,6 +1493,10 @@
     <string name="hide_reposts_show">show</string>
     <string name="config_bluesky_hide_reposts">Hide Read Reposts Settings</string>
     <string name="config_bluesky_hide_reposts_desc">Configure how to display reposts you have already seen</string>
+    <string name="hide_read_renotes_misskey">이미 본 리노트 숨기기</string>
+    <string name="already_read_renote_misskey">이미 읽은 RN</string>
+    <string name="config_misskey_hide_renotes">이미 본 리노트 숨기기</string>
+    <string name="config_misskey_hide_renotes_desc">이미 본 리노트를 표시하는 방법을 설정합니다</string>
     <string name="config_auto_pager">자동 호출기</string>
     <string name="config_auto_pager_summary">스크롤 위치가 목록의 하단에 있을 때 다음페이지로 가세요</string>
     <string name="config_scroll_pos_after_acquired_gap_ついぺん">중간 트윗 로드 후 스크롤 위치</string>

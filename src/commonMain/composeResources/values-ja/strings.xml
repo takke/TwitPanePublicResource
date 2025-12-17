@@ -1514,6 +1514,10 @@
     <string name="hide_reposts_show">表示</string>
     <string name="config_bluesky_hide_reposts">一度見たリポストの表示設定</string>
     <string name="config_bluesky_hide_reposts_desc">一度見たリポストをどのように表示するかを設定できます</string>
+    <string name="hide_read_renotes_misskey">一度見たリノート</string>
+    <string name="already_read_renote_misskey">既読のリノート</string>
+    <string name="config_misskey_hide_renotes">一度見たリノート</string>
+    <string name="config_misskey_hide_renotes_desc">一度見たリノートをどのように表示するかを設定できます</string>
     <string name="config_auto_pager">オートページャ</string>
     <string name="config_auto_pager_summary">リストの下までスクロールした際に自動的に次のページを取得します【初期値：ON】 (Blueskyは未対応)</string>
     <string name="config_scroll_pos_after_acquired_gap_ついぺん">中間投稿取得後の位置</string>

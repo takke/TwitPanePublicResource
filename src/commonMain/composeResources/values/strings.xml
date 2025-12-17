@@ -1493,6 +1493,10 @@
     <string name="hide_reposts_show">show</string>
     <string name="config_bluesky_hide_reposts">Hide Read Reposts Settings</string>
     <string name="config_bluesky_hide_reposts_desc">Configure how to display reposts you have already seen</string>
+    <string name="hide_read_renotes_misskey">Hide read renotes</string>
+    <string name="already_read_renote_misskey">Already read RN</string>
+    <string name="config_misskey_hide_renotes">Hide read renotes</string>
+    <string name="config_misskey_hide_renotes_desc">Configure how to display renotes you have already seen</string>
     <string name="config_auto_pager">Auto pager</string>
     <string name="config_auto_pager_summary">Get next page when the scrolling position is bottom of the list</string>
     <string name="config_scroll_pos_after_acquired_gap_ついぺん">Scroll Position After Loading Gap Tweets</string>

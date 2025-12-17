@@ -1494,6 +1494,10 @@
     <string name="hide_reposts_show">show</string>
     <string name="config_bluesky_hide_reposts">Hide Read Reposts Settings</string>
     <string name="config_bluesky_hide_reposts_desc">Configure how to display reposts you have already seen</string>
+    <string name="hide_read_renotes_misskey">隱藏已讀轉發</string>
+    <string name="already_read_renote_misskey">已讀嘅 RN</string>
+    <string name="config_misskey_hide_renotes">隱藏已讀轉發</string>
+    <string name="config_misskey_hide_renotes_desc">設定如何顯示您已經睇過嘅轉發</string>
     <string name="config_auto_pager">自動頁面加載</string>
     <string name="config_auto_pager_summary">當滾動位置在列表的底部時，獲取下一頁</string>
     <string name="config_scroll_pos_after_acquired_gap_ついぺん">載入中間推文後的捲動位置</string>
