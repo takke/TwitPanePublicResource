@@ -947,6 +947,7 @@
     <string name="delete_emoji_reaction_confirm">絵文字リアクションを解除しますか？</string>
     <string name="delete_emoji_reaction">解除</string>
     <string name="put_emoji_reaction_confirm">絵文字リアクションしますか？</string>
+    <string name="put_emoji_reaction_local_alternative_confirm">ローカル版の絵文字でリアクションしますか？</string>
     <string name="put_emoji_reaction">追加</string>
     <string name="set_startup_pane">起動タブに設定する</string>
 

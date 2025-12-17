@@ -937,6 +937,7 @@
     <string name="delete_emoji_reaction_confirm">Delete the emoji reaction?</string>
     <string name="delete_emoji_reaction">Delete</string>
     <string name="put_emoji_reaction_confirm">Put the emoji reaction?</string>
+    <string name="put_emoji_reaction_local_alternative_confirm">로컬 버전의 이모지로 리액션하시겠습니까?</string>
     <string name="put_emoji_reaction">Put</string>
     <string name="set_startup_pane">시작 프로그램 탭으로 설정</string>
 
