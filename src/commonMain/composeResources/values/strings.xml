@@ -2666,6 +2666,7 @@ Reauthenticate on the next screen.</string>
     <!-- Mastodon CMP Publishing Strings -->
     <!-- Visibility -->
     <string name="label_visibility">Visibility</string>
+    <string name="label_channel_posting">Posting to channel "%1$s"</string>
     <string name="visibility_type_public">Public</string>
     <string name="visibility_type_unlisted">Unlisted</string>
     <string name="visibility_type_private">Private</string>

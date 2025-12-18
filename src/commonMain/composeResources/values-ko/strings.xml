@@ -2583,6 +2583,7 @@
     <!-- Mastodon CMP Publishing Strings -->
     <!-- Visibility -->
     <string name="label_visibility">공개 범위</string>
+    <string name="label_channel_posting">채널 "%1$s"에 게시</string>
     <string name="visibility_type_public">공개</string>
     <string name="visibility_type_unlisted">목록에 없음</string>
     <string name="visibility_type_private">비공개</string>

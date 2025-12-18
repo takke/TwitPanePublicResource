@@ -2637,6 +2637,7 @@
     <!-- Mastodon CMP版投稿機能用文字列リソース -->
     <!-- 公開範囲関連 -->
     <string name="label_visibility">公開範囲</string>
+    <string name="label_channel_posting">チャンネル「%1$s」に投稿</string>
     <string name="visibility_type_public">公開</string>
     <string name="visibility_type_unlisted">未収載</string>
     <string name="visibility_type_private">非公開</string>

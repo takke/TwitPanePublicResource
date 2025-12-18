@@ -2620,6 +2620,7 @@
     <!-- Mastodon CMP Publishing Strings -->
     <!-- Visibility -->
     <string name="label_visibility">可见性</string>
+    <string name="label_channel_posting">发布到频道"%1$s"</string>
     <string name="visibility_type_public">公开</string>
     <string name="visibility_type_unlisted">不公开</string>
     <string name="visibility_type_private">私密</string>
