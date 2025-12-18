@@ -1028,6 +1028,7 @@
     <string name="publish_quote_to_failed_to_load">Failed to load quoted post</string>
     <string name="publish_quote_post_title">Quote Post</string>
     <string name="publish_reply_title">Reply</string>
+    <string name="publish_note_title">Create Note</string>
     <string name="publish_post_title">Post</string>
     <string name="publish_quote_confirm_title">Quote Post Confirmation</string>
     <string name="publish_quote_failed_fallback">Failed to load quoted post. You can still post as a regular post.</string>
@@ -1041,7 +1042,9 @@
     <string name="publish_image_description_placeholder">Please describe the content of the image</string>
     <string name="publish_confirm_button">Confirm</string>
     <string name="publish_nsfw_enabled_mastodon">NSFW: Enabled</string>
+    <string name="publish_nsfw_enabled_misskey">NSFW: Enabled</string>
     <string name="publish_attached_files_mastodon">Attached files: %1$d</string>
+    <string name="publish_attached_files_misskey">Attached files: %1$d</string>
     <string name="publish_link_mastodon">Link: %1$s</string>
     <string name="publish_mentions_bluesky">Mentions: </string>
     <string name="publish_attached_files_bluesky">Attached files: %1$d</string>
@@ -1125,6 +1128,7 @@
     <string name="publish_account_not_found">Account information could not be retrieved</string>
     <string name="publish_bluesky_account_required">Bluesky account is not selected</string>
     <string name="publish_mastodon_account_required">Mastodon account is not selected</string>
+    <string name="publish_misskey_account_required">Misskey account is not selected</string>
     <string name="publish_failed">Failed to post</string>
     <string name="publish_auth_error_title">Authentication Error</string>
     <string name="publish_preview_failed">Failed to create preview: %1$s</string>
@@ -1133,6 +1137,7 @@
     <string name="publish_post_confirm_title">Post Confirmation</string>
     <!-- 画像添付関連エラーメッセージ -->
     <string name="publish_image_max_count_error">You can attach up to 4 images</string>
+    <string name="publish_image_max_count_error_misskey">You can attach up to 16 files</string>
     <string name="publish_image_selection_unavailable">Image selection feature is not available</string>
     <string name="publish_image_selection_failed">Failed to select image: %1$s</string>
     <string name="publish_image_max_count_added">Added %1$d images as you can attach up to 4 images</string>
@@ -2693,6 +2698,7 @@ Reauthenticate on the next screen.</string>
     <string name="tooltip_insert_mention">Mention</string>
     <string name="tooltip_insert_emoji">Emoji</string>
     <string name="tooltip_draft">Draft</string>
+    <string name="tooltip_local_only">Unfederated</string>
     <string name="tooltip_more_options">More options</string>
 
     <!-- Delete and redraft -->

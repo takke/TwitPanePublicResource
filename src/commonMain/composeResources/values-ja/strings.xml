@@ -1042,6 +1042,7 @@
     <string name="publish_quote_to_failed_to_load">引用対象ポストを読み込めませんでした</string>
     <string name="publish_quote_post_title">引用投稿</string>
     <string name="publish_reply_title">返信</string>
+    <string name="publish_note_title">ノートを作成</string>
     <string name="publish_post_title">投稿</string>
     <string name="publish_quote_confirm_title">引用投稿確認</string>
     <string name="publish_quote_failed_fallback">引用対象ポストの取得に失敗しました。通常投稿として投稿することができます。</string>
@@ -1055,7 +1056,9 @@
     <string name="publish_image_description_placeholder">画像の内容を説明してください</string>
     <string name="publish_confirm_button">確定</string>
     <string name="publish_nsfw_enabled_mastodon">NSFW: 有効</string>
+    <string name="publish_nsfw_enabled_misskey">NSFW: 有効</string>
     <string name="publish_attached_files_mastodon">添付ファイル: %1$d件</string>
+    <string name="publish_attached_files_misskey">添付ファイル: %1$d件</string>
     <string name="publish_link_mastodon">リンク: %1$s</string>
     <string name="publish_mentions_bluesky">メンション: </string>
     <string name="publish_attached_files_bluesky">添付ファイル: %1$d件</string>
@@ -1147,6 +1150,7 @@
     <string name="publish_account_not_found">アカウント情報が取得できませんでした</string>
     <string name="publish_bluesky_account_required">Blueskyアカウントが選択されていません</string>
     <string name="publish_mastodon_account_required">Mastodonアカウントが選択されていません</string>
+    <string name="publish_misskey_account_required">Misskeyアカウントが選択されていません</string>
     <string name="publish_failed">投稿に失敗しました</string>
     <string name="publish_auth_error_title">認証エラー</string>
     <string name="publish_preview_failed">プレビューの作成に失敗しました: %1$s</string>
@@ -1155,6 +1159,7 @@
     <string name="publish_post_confirm_title">投稿確認</string>
     <!-- 画像添付関連エラーメッセージ -->
     <string name="publish_image_max_count_error">画像は最大4枚まで添付できます</string>
+    <string name="publish_image_max_count_error_misskey">ファイルは最大16枚まで添付できます</string>
     <string name="publish_image_selection_unavailable">画像選択機能が利用できません</string>
     <string name="publish_image_selection_failed">画像選択に失敗しました: %1$s</string>
     <string name="publish_image_max_count_added">最大4枚まで添付できるため、%1$d枚を追加しました</string>
@@ -2664,6 +2669,7 @@
     <string name="tooltip_insert_mention">メンション</string>
     <string name="tooltip_insert_emoji">絵文字</string>
     <string name="tooltip_draft">下書き</string>
+    <string name="tooltip_local_only">連合なし</string>
     <string name="tooltip_more_options">その他のオプション</string>
 
     <!-- 削除して下書きに戻す -->

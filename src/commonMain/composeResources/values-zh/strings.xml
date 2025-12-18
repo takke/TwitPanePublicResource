@@ -1031,6 +1031,7 @@
     <string name="publish_quote_to_failed_to_load">无法加载引用帖子</string>
     <string name="publish_quote_post_title">引用帖子</string>
     <string name="publish_reply_title">回复</string>
+    <string name="publish_note_title">创建笔记</string>
     <string name="publish_post_title">发布</string>
     <string name="publish_quote_confirm_title">引用帖子确认</string>
     <string name="publish_quote_failed_fallback">无法加载引用帖子。仍可作为普通帖子发布。</string>
@@ -1044,7 +1045,9 @@
     <string name="publish_image_description_placeholder">请描述图像的内容</string>
     <string name="publish_confirm_button">确认</string>
     <string name="publish_nsfw_enabled_mastodon">NSFW: 已启用</string>
+    <string name="publish_nsfw_enabled_misskey">NSFW: 已启用</string>
     <string name="publish_attached_files_mastodon">附件: %1$d个</string>
+    <string name="publish_attached_files_misskey">附件: %1$d个</string>
     <string name="publish_link_mastodon">链接: %1$s</string>
     <string name="publish_mentions_bluesky">提及: </string>
     <string name="publish_attached_files_bluesky">附件: %1$d个</string>
@@ -1133,6 +1136,7 @@
     <string name="publish_account_not_found">无法获取账户信息</string>
     <string name="publish_bluesky_account_required">未选择Bluesky账户</string>
     <string name="publish_mastodon_account_required">未选择Mastodon账户</string>
+    <string name="publish_misskey_account_required">未选择Misskey账户</string>
     <string name="publish_failed">发布失败</string>
     <string name="publish_auth_error_title">认证错误</string>
     <string name="publish_preview_failed">创建预览失败：%1$s</string>
@@ -1141,6 +1145,7 @@
     <string name="publish_post_confirm_title">发布确认</string>
     <!-- 画像添付関連エラーメッセージ -->
     <string name="publish_image_max_count_error">最多可以添加4张图片</string>
+    <string name="publish_image_max_count_error_misskey">最多可以添加16个文件</string>
     <string name="publish_image_selection_unavailable">图片选择功能不可用</string>
     <string name="publish_image_selection_failed">图片选择失败：%1$s</string>
     <string name="publish_image_max_count_added">由于最多只能添加4张图片，已添加%1$d张</string>
@@ -2647,6 +2652,7 @@
     <string name="tooltip_insert_mention">提及</string>
     <string name="tooltip_insert_emoji">表情符号</string>
     <string name="tooltip_draft">草稿</string>
+    <string name="tooltip_local_only">不联邦</string>
     <string name="tooltip_more_options">更多选项</string>
 
     <!-- 删除并重新编辑 -->
