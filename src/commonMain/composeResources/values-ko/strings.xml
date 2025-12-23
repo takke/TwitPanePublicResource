@@ -827,6 +827,7 @@
     <string name="menu_user_show_timeline">타임라인 보이기</string>
     <string name="menu_user_reply_to">회신</string>
     <string name="menu_user_send_message">에 메시지를 보내기</string>
+    <string name="menu_reload_icon">아이콘 새로고침</string>
 
     <string name="menu_guide">튜토리얼 보이기</string>
     <string name="menu_auto_update_now">Start auto-update tabs now</string>

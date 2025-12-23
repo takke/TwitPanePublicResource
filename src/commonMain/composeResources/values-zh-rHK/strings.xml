@@ -828,6 +828,7 @@
     <string name="menu_user_show_timeline">顯示時間軸</string>
     <string name="menu_user_reply_to">回覆</string>
     <string name="menu_user_send_message">發送消息給</string>
+    <string name="menu_reload_icon">重新載入頭像</string>
 
     <string name="menu_guide">顯示教程</string>
     <string name="menu_auto_update_now">Start auto-update tabs now</string>
