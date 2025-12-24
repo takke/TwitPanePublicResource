@@ -177,6 +177,7 @@
     <string name="account_delete_success">Account deleted successfully</string>
     <string name="account_delete_failed">Failed to delete account</string>
     <string name="account_reauth">Re-authentication</string>
+    <string name="account_reauth_message_bluesky">You will be re-authenticated. Please log in again with this account (@%1$s) on the next screen.</string>
     <string name="reauth">Re-authenticate</string>
     <string name="menu_instance_info">Instance Info</string>
     <string name="menu_server_info">Server Info</string>

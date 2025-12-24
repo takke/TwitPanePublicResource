@@ -177,6 +177,7 @@
     <string name="account_delete_success">帳戶已刪除</string>
     <string name="account_delete_failed">刪除帳戶失敗</string>
     <string name="account_reauth">重新認證</string>
+    <string name="account_reauth_message_bluesky">將進行重新登錄。請在下一個畫面使用此帳戶(@%1$s)重新登錄。</string>
     <string name="reauth">重新認證</string>
     <string name="menu_instance_info">實例資訊</string>
     <string name="menu_server_info">伺服器資訊</string>

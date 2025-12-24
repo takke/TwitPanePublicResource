@@ -177,6 +177,7 @@
     <string name="account_delete_success">アカウントを削除しました</string>
     <string name="account_delete_failed">アカウント削除に失敗しました</string>
     <string name="account_reauth">アカウントの再認証</string>
+    <string name="account_reauth_message_bluesky">再ログインを行います。次の画面でこのアカウント(@%1$s)で再ログインしてください</string>
     <string name="reauth">再認証</string>
     <string name="menu_instance_info">インスタンス情報</string>
     <string name="menu_server_info">サーバー情報</string>

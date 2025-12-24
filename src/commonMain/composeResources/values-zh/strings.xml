@@ -177,6 +177,7 @@
     <string name="account_delete_success">账户已删除</string>
     <string name="account_delete_failed">删除账户失败</string>
     <string name="account_reauth">重新认证</string>
+    <string name="account_reauth_message_bluesky">将进行重新登录。请在下一屏幕中使用此账户(@%1$s)重新登录。</string>
     <string name="reauth">重新认证</string>
     <string name="menu_instance_info">实例信息</string>
     <string name="menu_server_info">服务器信息</string>

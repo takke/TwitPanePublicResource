@@ -177,6 +177,7 @@
     <string name="account_delete_success">계정이 삭제되었습니다</string>
     <string name="account_delete_failed">계정 삭제에 실패했습니다</string>
     <string name="account_reauth">재 인증</string>
+    <string name="account_reauth_message_bluesky">재로그인을 진행합니다. 다음 화면에서 이 계정(@%1$s)으로 재로그인해 주세요.</string>
     <string name="reauth">재인증</string>
     <string name="menu_instance_info">인스턴스 정보</string>
     <string name="menu_server_info">서버 정보</string>

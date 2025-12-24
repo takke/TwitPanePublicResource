@@ -177,6 +177,7 @@
     <string name="account_delete_success">Cuenta eliminada correctamente</string>
     <string name="account_delete_failed">Error al eliminar la cuenta</string>
     <string name="account_reauth">re-autenticación</string>
+    <string name="account_reauth_message_bluesky">Se realizará una nueva autenticación. Por favor, inicie sesión nuevamente con esta cuenta (@%1$s) en la siguiente pantalla.</string>
     <string name="reauth">Re-autenticar</string>
     <string name="menu_instance_info">Información de instancia</string>
     <string name="menu_server_info">Información del servidor</string>
