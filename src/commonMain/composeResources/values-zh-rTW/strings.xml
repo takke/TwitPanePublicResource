@@ -946,6 +946,7 @@
     <string name="set_startup_pane">設定為啟動標籤</string>
 
     <string name="show_polls_result">檢視本次調查的進展情況。</string>
+    <string name="hide_polls_result">隱藏本次調查的進展情況。</string>
     <string name="votes">%1$d 個投票</string>
     <string name="polls_until">直到 %1$s</string>
     <string name="polls_final_results">最終結果</string>

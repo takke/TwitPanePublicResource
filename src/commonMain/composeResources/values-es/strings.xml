@@ -944,6 +944,7 @@
     <string name="set_startup_pane">establecer como pestaña de inicio</string>
 
     <string name="show_polls_result">Ver el progreso de esta encuesta.</string>
+    <string name="hide_polls_result">Ocultar el progreso de esta encuesta.</string>
     <string name="votes">%1$d votes</string>
     <string name="polls_until">until %1$s</string>
     <string name="polls_final_results">Final results</string>

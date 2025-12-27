@@ -943,6 +943,7 @@
     <string name="set_startup_pane">设置为启动标签</string>
 
     <string name="show_polls_result">查看本次调查的进展情况。</string>
+    <string name="hide_polls_result">隐藏本次调查的进展情况。</string>
     <string name="votes">%1$d 个投票</string>
     <string name="polls_until">直到 %1$s</string>
     <string name="polls_final_results">最终结果</string>

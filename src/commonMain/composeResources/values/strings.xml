@@ -940,6 +940,7 @@
     <string name="set_startup_pane">Set as Startup Tab</string>
 
     <string name="show_polls_result">View the progress of this poll.</string>
+    <string name="hide_polls_result">Hide the progress of this poll.</string>
     <string name="votes">%1$d votes</string>
     <string name="polls_until">until %1$s</string>
     <string name="polls_final_results">Final results</string>
