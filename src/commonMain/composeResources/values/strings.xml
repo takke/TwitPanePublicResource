@@ -1965,6 +1965,8 @@
     <string name="config_disable_hardware_rendering_summary"></string>
     <string name="config_disable_image_hardware_rendering">Disable Hardware Rendering(Image)</string>
     <string name="config_disable_image_hardware_rendering_summary"></string>
+    <string name="config_use_new_custom_emoji_picker">New Custom Emoji Picker</string>
+    <string name="config_use_new_custom_emoji_picker_summary">Use the new custom emoji picker [Default: ON]</string>
 
     <string name="config_adfree_category">AdFree</string>
     <string name="config_ad_display_settings">Ad Display Settings</string>
