@@ -1488,12 +1488,14 @@
     <string name="config_misskey_timeline_hide_replies">Hide replies</string>
     <string name="config_bluesky_replies_filter">Replies filter</string>
     <string name="config_bluesky_replies_filter_desc">• You can configure whether to display replies.\n• You can set to display only replies to users you follow.\n• Additionally, you can set to display only replies with a certain number of likes or more.</string>
+    <string name="config_bluesky_replies_filter_to_me_only">Solo respuestas para mí</string>
     <string name="config_bluesky_replies_filter_followed_only">Only replies to users you follow</string>
     <string name="config_bluesky_replies_filter_show_all">Also show replies to users you don\'t follow</string>
     <string name="config_bluesky_replies_filter_like_threshold">Change likes threshold (current value=%1$d)</string>
     <string name="config_bluesky_replies_filter_like_condition">Likes condition</string>
     <string name="config_bluesky_replies_filter_show_all_replies">Show all replies</string>
     <string name="config_bluesky_replies_filter_like_n_or_more">%1$d likes or more</string>
+    <string name="hide_replies_to_me_only">solo para mí</string>
     <string name="hide_replies_by_unfollowed">hide replies by unfollowed</string>
     <string name="hide_read_reposts">Hide read reposts</string>
     <string name="hide_read_reposts_desc">Reposts seen once can be collapsed and displayed in abbreviated form</string>
@@ -1904,6 +1906,8 @@
     <string name="config_disable_hardware_rendering_summary"></string>
     <string name="config_disable_image_hardware_rendering">Desactivar renderizado por hardware (imagen)</string>
     <string name="config_disable_image_hardware_rendering_summary"></string>
+    <string name="config_use_new_custom_emoji_picker">Nuevo selector de emoji personalizado</string>
+    <string name="config_use_new_custom_emoji_picker_summary">Usar el nuevo selector de emoji personalizado [Predeterminado: ON]</string>
 
     <string name="config_adfree_category">Ocultar publicidad</string>
     <string name="config_ad_display_settings">Configuración de visualización de anuncios</string>
@@ -2497,8 +2501,8 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="cross_post_forward">Avanzar</string>
     <string name="cross_post_start">Comenzar</string>
     <string name="cross_post_resume">Reanudar</string>
-    <string name="cross_post_warning_mention">El %s en el cuerpo del mensaje puede no convertirse en una Mención o puede dirigirse a una cuenta inesperada, dependiendo de la cuenta a la que se publique el mensaje.</string>
-    <string name="cross_post_warning_custom_emoji">Se incluyen pictogramas personalizados (%s) en el cuerpo del texto, pero es posible que no se muestren correctamente según la cuenta a la que estés enviando.</string>
+    <string name="cross_post_warning_mention">El %1$s en el cuerpo del mensaje puede no convertirse en una Mención o puede dirigirse a una cuenta inesperada, dependiendo de la cuenta a la que se publique el mensaje.</string>
+    <string name="cross_post_warning_custom_emoji">Se incluyen pictogramas personalizados (%1$s) en el cuerpo del texto, pero es posible que no se muestren correctamente según la cuenta a la que estés enviando.</string>
     <string name="cross_post_confirm_discard">Hay publicaciones con errores o no ejecutadas.\n¿Estás seguro de que quieres descartar y salir?</string>
     <string name="cross_post_account_select_history">Historial</string>
     <string name="cross_post_account_select_history_empty">Sin historial de selección</string>

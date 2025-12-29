@@ -1485,12 +1485,14 @@
     <string name="config_misskey_timeline_hide_replies">Hide replies</string>
     <string name="config_bluesky_replies_filter">Replies filter</string>
     <string name="config_bluesky_replies_filter_desc">• You can configure whether to display replies.\n• You can set to display only replies to users you follow.\n• Additionally, you can set to display only replies with a certain number of likes or more.</string>
+    <string name="config_bluesky_replies_filter_to_me_only">仅显示给我的回复</string>
     <string name="config_bluesky_replies_filter_followed_only">Only replies to users you follow</string>
     <string name="config_bluesky_replies_filter_show_all">Also show replies to users you don\'t follow</string>
     <string name="config_bluesky_replies_filter_like_threshold">Change likes threshold (current value=%1$d)</string>
     <string name="config_bluesky_replies_filter_like_condition">Likes condition</string>
     <string name="config_bluesky_replies_filter_show_all_replies">Show all replies</string>
     <string name="config_bluesky_replies_filter_like_n_or_more">%1$d likes or more</string>
+    <string name="hide_replies_to_me_only">仅回复我</string>
     <string name="hide_replies_by_unfollowed">hide replies by unfollowed</string>
     <string name="hide_read_reposts">Hide read reposts</string>
     <string name="hide_read_reposts_desc">Reposts seen once can be collapsed and displayed in abbreviated form</string>
@@ -1941,6 +1943,8 @@
     <string name="config_disable_hardware_rendering_summary"></string>
     <string name="config_disable_image_hardware_rendering">禁用硬件渲染(图像)</string>
     <string name="config_disable_image_hardware_rendering_summary"></string>
+    <string name="config_use_new_custom_emoji_picker">新版自定义表情选择器</string>
+    <string name="config_use_new_custom_emoji_picker_summary">使用新版自定义表情选择器【默认值:ON】</string>
 
     <string name="config_adfree_category">无广告</string>
     <string name="config_ad_display_settings">广告显示设置</string>
@@ -2534,8 +2538,8 @@
     <string name="cross_post_forward">前进</string>
     <string name="cross_post_start">开始</string>
     <string name="cross_post_resume">继续</string>
-    <string name="cross_post_warning_mention">消息正文中的 %s 可能不会成为提及，或者可能会发送到意外的账号，这取决于将消息发布到的账号。</string>
-    <string name="cross_post_warning_custom_emoji">文本正文中包含自定义表情符号 (%s)，但根据您提交的账号，它们可能无法正确显示。</string>
+    <string name="cross_post_warning_mention">消息正文中的 %1$s 可能不会成为提及，或者可能会发送到意外的账号，这取决于将消息发布到的账号。</string>
+    <string name="cross_post_warning_custom_emoji">文本正文中包含自定义表情符号 (%1$s)，但根据您提交的账号，它们可能无法正确显示。</string>
     <string name="cross_post_confirm_discard">有错误或未执行的发布内容。\n确定要放弃并退出吗？</string>
     <string name="cross_post_account_select_history">历史记录</string>
     <string name="cross_post_account_select_history_empty">没有选择历史记录</string>

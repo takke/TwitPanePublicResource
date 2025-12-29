@@ -1488,12 +1488,14 @@
     <string name="config_misskey_timeline_hide_replies">Hide replies</string>
     <string name="config_bluesky_replies_filter">Replies filter</string>
     <string name="config_bluesky_replies_filter_desc">• You can configure whether to display replies.\n• You can set to display only replies to users you follow.\n• Additionally, you can set to display only replies with a certain number of likes or more.</string>
+    <string name="config_bluesky_replies_filter_to_me_only">나에게 보낸 답글만</string>
     <string name="config_bluesky_replies_filter_followed_only">Only replies to users you follow</string>
     <string name="config_bluesky_replies_filter_show_all">Also show replies to users you don\'t follow</string>
     <string name="config_bluesky_replies_filter_like_threshold">Change likes threshold (current value=%1$d)</string>
     <string name="config_bluesky_replies_filter_like_condition">Likes condition</string>
     <string name="config_bluesky_replies_filter_show_all_replies">Show all replies</string>
     <string name="config_bluesky_replies_filter_like_n_or_more">%1$d likes or more</string>
+    <string name="hide_replies_to_me_only">나에게만</string>
     <string name="hide_replies_by_unfollowed">hide replies by unfollowed</string>
     <string name="hide_read_reposts">Hide read reposts</string>
     <string name="hide_read_reposts_desc">Reposts seen once can be collapsed and displayed in abbreviated form</string>
@@ -1904,6 +1906,8 @@
     <string name="config_disable_hardware_rendering_summary"></string>
     <string name="config_disable_image_hardware_rendering">하드웨어 렌더링 비활성화(이미지)</string>
     <string name="config_disable_image_hardware_rendering_summary"></string>
+    <string name="config_use_new_custom_emoji_picker">새 커스텀 이모지 선택기</string>
+    <string name="config_use_new_custom_emoji_picker_summary">새로운 커스텀 이모지 선택기를 사용합니다 [기본값: ON]</string>
 
     <string name="config_adfree_category">AdFree</string>
     <string name="config_ad_display_settings">광고 표시 설정</string>
@@ -2497,8 +2501,8 @@
     <string name="cross_post_forward">다음</string>
     <string name="cross_post_start">시작</string>
     <string name="cross_post_resume">재개</string>
-    <string name="cross_post_warning_mention">메시지 본문의 %s는 게시되는 계정에 따라 멘션이 되지 않거나 예상치 못한 계정으로 전달될 수 있습니다.</string>
-    <string name="cross_post_warning_custom_emoji">텍스트 본문에 사용자 지정 이모티콘(%s)이 포함되어 있지만 제출하는 계정에 따라 올바르게 표시되지 않을 수 있습니다.</string>
+    <string name="cross_post_warning_mention">메시지 본문의 %1$s는 게시되는 계정에 따라 멘션이 되지 않거나 예상치 못한 계정으로 전달될 수 있습니다.</string>
+    <string name="cross_post_warning_custom_emoji">텍스트 본문에 사용자 지정 이모티콘(%1$s)이 포함되어 있지만 제출하는 계정에 따라 올바르게 표시되지 않을 수 있습니다.</string>
     <string name="cross_post_confirm_discard">오류가 있거나 실행되지 않은 게시물이 있습니다.\n삭제하고 종료하시겠습니까?</string>
     <string name="cross_post_account_select_history">기록</string>
     <string name="cross_post_account_select_history_empty">선택 기록이 없습니다</string>

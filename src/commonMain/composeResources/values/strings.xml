@@ -1488,12 +1488,14 @@
     <string name="config_misskey_timeline_hide_replies">Hide replies</string>
     <string name="config_bluesky_replies_filter">Replies filter</string>
     <string name="config_bluesky_replies_filter_desc">• You can configure whether to display replies.\n• You can set to display only replies to users you follow.\n• Additionally, you can set to display only replies with a certain number of likes or more.</string>
+    <string name="config_bluesky_replies_filter_to_me_only">Only replies to me</string>
     <string name="config_bluesky_replies_filter_followed_only">Only replies to users you follow</string>
     <string name="config_bluesky_replies_filter_show_all">Also show replies to users you don\'t follow</string>
     <string name="config_bluesky_replies_filter_like_threshold">Change likes threshold (current value=%1$d)</string>
     <string name="config_bluesky_replies_filter_like_condition">Likes condition</string>
     <string name="config_bluesky_replies_filter_show_all_replies">Show all replies</string>
     <string name="config_bluesky_replies_filter_like_n_or_more">%1$d likes or more</string>
+    <string name="hide_replies_to_me_only">to me only</string>
     <string name="hide_replies_by_unfollowed">hide replies by unfollowed</string>
     <string name="hide_read_reposts">Hide read reposts</string>
     <string name="hide_read_reposts_desc">Reposts seen once can be collapsed and displayed in abbreviated form</string>
@@ -1966,6 +1968,8 @@
     <string name="config_disable_hardware_rendering_summary"></string>
     <string name="config_disable_image_hardware_rendering">Disable Hardware Rendering(Image)</string>
     <string name="config_disable_image_hardware_rendering_summary"></string>
+    <string name="config_use_new_custom_emoji_picker">New Custom Emoji Picker</string>
+    <string name="config_use_new_custom_emoji_picker_summary">Use the new custom emoji picker [Default: ON]</string>
 
     <string name="config_adfree_category">AdFree</string>
     <string name="config_ad_display_settings">Ad Display Settings</string>
@@ -2580,8 +2584,8 @@ Reauthenticate on the next screen.</string>
     <string name="cross_post_forward">Forward</string>
     <string name="cross_post_start">Start</string>
     <string name="cross_post_resume">Resume</string>
-    <string name="cross_post_warning_mention">The %s in the body of the message may not become a Mention or may be addressed to an unexpected account, depending on the account to which the message is posted.</string>
-    <string name="cross_post_warning_custom_emoji">Custom pictograms (%s) are included in the body of the text, but may not be displayed correctly depending on the account to which you are submitting.</string>
+    <string name="cross_post_warning_mention">The %1$s in the body of the message may not become a Mention or may be addressed to an unexpected account, depending on the account to which the message is posted.</string>
+    <string name="cross_post_warning_custom_emoji">Custom pictograms (%1$s) are included in the body of the text, but may not be displayed correctly depending on the account to which you are submitting.</string>
     <string name="cross_post_confirm_discard">There are posts with errors or not executed.\nAre you sure you want to discard and exit?</string>
     <string name="cross_post_account_select_history">History</string>
     <string name="cross_post_account_select_history_empty">No selection history</string>

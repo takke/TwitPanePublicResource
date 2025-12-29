@@ -1509,12 +1509,14 @@
     <string name="config_misskey_timeline_hide_replies">ノートへの返信を表示しない</string>
     <string name="config_bluesky_replies_filter">返信フィルター</string>
     <string name="config_bluesky_replies_filter_desc">・返信を表示するかどうかを設定できます。\n・自分がフォローしているユーザー宛の返信のみに設定できます。\n・さらに、いいね数が一定数以上の返信のみを表示するように設定できます。</string>
+    <string name="config_bluesky_replies_filter_to_me_only">自分宛の返信のみ</string>
     <string name="config_bluesky_replies_filter_followed_only">フォローしているユーザー宛の返信のみ</string>
     <string name="config_bluesky_replies_filter_show_all">フォローしていないユーザー宛の返信も表示</string>
     <string name="config_bluesky_replies_filter_like_threshold">いいね数の下限を変更する(現在の値=%1$d)</string>
     <string name="config_bluesky_replies_filter_like_condition">いいね数の条件</string>
     <string name="config_bluesky_replies_filter_show_all_replies">全ての返信を表示する</string>
     <string name="config_bluesky_replies_filter_like_n_or_more">いいね %1$d 以上</string>
+    <string name="hide_replies_to_me_only">自分宛のみ</string>
     <string name="hide_replies_by_unfollowed">フォローしていないユーザーのみ</string>
     <string name="hide_read_reposts">一度見たリポスト</string>
     <string name="hide_read_reposts_desc">・一度見たリポストを折りたたんで省略表示することができます。</string>
@@ -1946,6 +1948,8 @@
     <string name="config_disable_image_hardware_rendering">GPU無効化(画像のみ)</string>
     <string name="config_disable_image_hardware_rendering_summary">画像表示のハードウェア描画を無効化することで、旧型端末で希に発生する不具合を回避します。通常はOFF(GPUレンダリング有効)でご利用ください【初期値：OFF】</string>
 
+    <string name="config_use_new_custom_emoji_picker">新カスタム絵文字ピッカー</string>
+    <string name="config_use_new_custom_emoji_picker_summary">新しいカスタム絵文字ピッカーを使用します【初期値：ON】</string>
 	<string name="config_adfree_category">広告設定</string>
     <string name="config_ad_display_settings">広告表示設定</string>
     <string name="config_premium_title">有料版で広告を解除する</string>
@@ -2551,8 +2555,8 @@
     <string name="cross_post_forward">進む</string>
     <string name="cross_post_start">投稿開始</string>
     <string name="cross_post_resume">再実行</string>
-    <string name="cross_post_warning_mention">本文に %s が含まれていますが投稿先アカウントによってはメンションにならなかったり想定外のアカウント宛になる場合があります。</string>
-    <string name="cross_post_warning_custom_emoji">本文にカスタム絵文字(%s)が含まれていますが、投稿先アカウントによっては正しく表示されない場合があります。</string>
+    <string name="cross_post_warning_mention">本文に %1$s が含まれていますが投稿先アカウントによってはメンションにならなかったり想定外のアカウント宛になる場合があります。</string>
+    <string name="cross_post_warning_custom_emoji">本文にカスタム絵文字(%1$s)が含まれていますが、投稿先アカウントによっては正しく表示されない場合があります。</string>
     <string name="cross_post_confirm_discard">エラーまたは未実行の投稿があります。\n破棄して終了してもよろしいですか？</string>
     <string name="cross_post_account_select_history">履歴</string>
     <string name="cross_post_account_select_history_empty">アカウントの選択履歴はありません</string>
