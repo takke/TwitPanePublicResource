@@ -60,6 +60,7 @@
     <string name="pane_name_conversation">对话</string>
     <string name="pane_name_tweet">推文</string>
     <string name="pane_name_rt_users">转推用户</string>
+    <string name="pane_name_rt_users_x">转发用户</string>
     <string name="pane_name_thread_list">私信</string>
     <string name="pane_name_chat_list">Chat</string>
     <string name="pane_name_dm">私信</string>

@@ -60,6 +60,7 @@
     <string name="pane_name_conversation">Conversación</string>
     <string name="pane_name_tweet">Tweets</string>
     <string name="pane_name_rt_users">RT usuarios</string>
+    <string name="pane_name_rt_users_x">RP usuarios</string>
     <string name="pane_name_thread_list">MD</string>
     <string name="pane_name_chat_list">Chat</string>
     <string name="pane_name_dm">MD</string>

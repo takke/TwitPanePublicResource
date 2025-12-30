@@ -60,6 +60,7 @@
     <string name="pane_name_conversation">대화</string>
     <string name="pane_name_tweet">트윗</string>
     <string name="pane_name_rt_users">RT 유저</string>
+    <string name="pane_name_rt_users_x">RP 유저</string>
     <string name="pane_name_thread_list">DM</string>
     <string name="pane_name_chat_list">Chat</string>
     <string name="pane_name_dm">DM</string>
