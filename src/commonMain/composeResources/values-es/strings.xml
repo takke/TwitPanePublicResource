@@ -1834,6 +1834,7 @@
     <string name="config_movie_player_initial_mute">Mute</string>
     <string name="config_movie_player_initial_mute_summary"></string>
     <string name="movie_player_show_property">Propiedad</string>
+    <string name="cannot_rotate_in_multi_window_mode">No se puede rotar la pantalla en modo de pantalla dividida</string>
 
     <string name="config_backup_settings_category">Copia de seguridad y restaurar</string>
 

@@ -1871,6 +1871,7 @@
     <string name="config_movie_player_initial_mute">静音</string>
     <string name="config_movie_player_initial_mute_summary"></string>
     <string name="movie_player_show_property">属性</string>
+    <string name="cannot_rotate_in_multi_window_mode">分屏模式下无法旋转屏幕</string>
 
     <string name="config_backup_settings_category">备份与还原</string>
 

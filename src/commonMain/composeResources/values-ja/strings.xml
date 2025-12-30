@@ -1857,6 +1857,7 @@
     <string name="config_movie_player_initial_mute">ミュート</string>
     <string name="config_movie_player_initial_mute_summary">オンにすると動画プレイヤーを起動したときに音量がゼロ(ミュート)になります。下部のミュートボタンから切り替えることができます。【初期値：OFF】</string>
     <string name="movie_player_show_property">プロパティ</string>
+    <string name="cannot_rotate_in_multi_window_mode">画面分割中は回転できません</string>
 
     <string name="config_backup_settings_category">バックアップと復元</string>
 
