@@ -704,6 +704,7 @@
     <string name="menu_create_favorite_like">마음</string>
     <string name="confirm_create_like_with_official_app">Open the Like page of the official app. \n\nPlease note the account error as it will be executed with the account already logged in on the official app.\n\n*The \"Remember\" button will immediately open the official application without displaying this screen for about one day from the next time.</string>
     <string name="confirm_retweet_with_official_app">Open the Retweet page of the official app. \n\nPlease note the account error as it will be executed with the account already logged in on the official app.\n\n*The \"Remember\" button will immediately open the official application without displaying this screen for about one day from the next time.</string>
+    <string name="confirm_bookmark_with_official_app">Open the tweet detail page of the official app. Please add/remove bookmark there.\n\nPlease note the account error as it will be executed with the account already logged in on the official app.\n\n*The \"Remember\" button will immediately open the official application without displaying this screen for about one day from the next time.</string>
     <string name="menu_remove_favorite_like">마음에 들어요 취소</string>
     <string name="menu_add_bookmark">북마크에 추가</string>
     <string name="menu_add_bookmark_or_clip">북마크 또는 클립에 추가</string>
