@@ -1544,6 +1544,8 @@
     <string name="config_open_link_by_tap_summary">Abrir enlace al pulsar el URL [por defecto: activado]</string>
     <string name="config_open_link_with_internal_browser">Open Internal Browser</string>
     <string name="config_open_link_with_internal_browser_summary">Open link with internal browser(Chrome Custom Tabs)</string>
+    <string name="config_open_link_with_internal_browser_ios">Abrir navegador interno</string>
+    <string name="config_open_link_with_internal_browser_ios_summary">Abrir URLs con navegador integrado en la aplicación [por defecto: activado]</string>
     <string name="config_open_youtube_link_with_internal_browser">Open YouTube in Internal Browser</string>
     <string name="config_open_youtube_link_with_internal_browser_summary">Open YouTube link with internal browser(Chrome Custom Tabs)</string>
     <string name="config_show_conversation_from_bottom">Mostrar nuevos tweets de fondo</string>

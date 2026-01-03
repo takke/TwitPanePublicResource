@@ -1544,6 +1544,8 @@
     <string name="config_open_link_by_tap_summary">URL을 탭할 때 링크 열기 [기본값 : ON]</string>
     <string name="config_open_link_with_internal_browser">Open Internal Browser</string>
     <string name="config_open_link_with_internal_browser_summary">Open link with internal browser(Chrome Custom Tabs)</string>
+    <string name="config_open_link_with_internal_browser_ios">내부 브라우저에서 열기</string>
+    <string name="config_open_link_with_internal_browser_ios_summary">앱 내 브라우저에서 URL 열기 [기본값: ON]</string>
     <string name="config_open_youtube_link_with_internal_browser">Open YouTube in Internal Browser</string>
     <string name="config_open_youtube_link_with_internal_browser_summary">Open YouTube link with internal browser(Chrome Custom Tabs)</string>
     <string name="config_show_conversation_from_bottom">아래에서 새로운 트윗을보기</string>

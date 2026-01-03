@@ -1565,6 +1565,8 @@
     <string name="config_open_link_by_tap_summary">URLをタップして直接ブラウザを開きます【初期値：ON】</string>
     <string name="config_open_link_with_internal_browser">内部ブラウザで開く</string>
     <string name="config_open_link_with_internal_browser_summary">URLを内部ブラウザ(Chrome Custom Tabs)で開く【初期値：ON】</string>
+    <string name="config_open_link_with_internal_browser_ios">内部ブラウザで開く</string>
+    <string name="config_open_link_with_internal_browser_ios_summary">URLをアプリ内のブラウザで開く【初期値:ON】</string>
     <string name="config_open_youtube_link_with_internal_browser">YouTube動画を内部ブラウザで開く</string>
     <string name="config_open_youtube_link_with_internal_browser_summary">YouTubeのURLを内部ブラウザ(Chrome Custom Tabs)で開く【初期値：OFF】</string>
     <string name="config_show_conversation_from_bottom">新しい投稿を下に表示</string>

@@ -1542,6 +1542,8 @@
     <string name="config_open_link_by_tap_summary">點擊鏈接地址時打開鏈接[默認：開]</string>
     <string name="config_open_link_with_internal_browser">使用內部瀏覽?打開</string>
     <string name="config_open_link_with_internal_browser_summary">用內部瀏覽器（Chrome自定義標籤）打開鏈接</string>
+    <string name="config_open_link_with_internal_browser_ios">使用內部瀏覽器打開</string>
+    <string name="config_open_link_with_internal_browser_ios_summary">用應用程式內建瀏覽器打開URL [預設值: 開]</string>
     <string name="config_open_youtube_link_with_internal_browser">在內部瀏覽器中打開YouTube</string>
     <string name="config_open_youtube_link_with_internal_browser_summary">用內部瀏覽器打開YouTube鏈接（Chrome自定義標籤）。</string>
     <string name="config_show_conversation_from_bottom">在底部顯示新的推文。</string>

@@ -1544,6 +1544,8 @@
     <string name="config_open_link_by_tap_summary">Open link when tap the URL [default: ON]</string>
     <string name="config_open_link_with_internal_browser">Open Internal Browser</string>
     <string name="config_open_link_with_internal_browser_summary">Open link with internal browser(Chrome Custom Tabs)</string>
+    <string name="config_open_link_with_internal_browser_ios">Open Internal Browser</string>
+    <string name="config_open_link_with_internal_browser_ios_summary">Open URLs with in-app browser [default: ON]</string>
     <string name="config_open_youtube_link_with_internal_browser">Open YouTube in Internal Browser</string>
     <string name="config_open_youtube_link_with_internal_browser_summary">Open YouTube link with internal browser(Chrome Custom Tabs)</string>
     <string name="config_show_conversation_from_bottom">Show new posts to bottom</string>
