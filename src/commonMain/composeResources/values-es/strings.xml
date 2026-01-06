@@ -805,6 +805,8 @@
     <string name="menu_block_this_tweet">Bloquea este tuit</string>
     <string name="show_blocked_tweets">mostrar tweets bloqueados</string>
     <string name="show_blocked_posts">Mostrar publicaciones bloqueadas</string>
+    <string name="menu_clear_blocked_posts">Limpiar publicaciones bloqueadas...</string>
+    <string name="clear_blocked_posts_confirm_message">Actualmente bloqueando %d publicaciones.\n\nDebido a las restricciones de X, no puede ver los detalles de cada publicación.\nEn su lugar, puede eliminar todos los bloqueos. ¿Desea eliminarlos?</string>
     <string name="menu_user_reply_search_tweets">Buscar respuestas</string>
     <string name="menu_user_reply_search_posts">Buscar respuestas</string>
     <string name="menu_search_from_user_posts">Search from user posts</string>

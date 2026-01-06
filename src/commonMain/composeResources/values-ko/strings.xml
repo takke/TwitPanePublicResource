@@ -805,6 +805,8 @@
     <string name="menu_block_this_tweet">이 트윗 차단</string>
     <string name="show_blocked_tweets">차단된 트윗 표시</string>
     <string name="show_blocked_posts">차단된 게시물 표시</string>
+    <string name="menu_clear_blocked_posts">차단된 게시물 지우기...</string>
+    <string name="clear_blocked_posts_confirm_message">현재 %d개의 게시물을 차단하고 있습니다.\n\nX의 제한으로 인해 각 게시물의 세부 정보를 볼 수 없습니다.\n대신 모든 차단을 해제할 수 있습니다. 해제하시겠습니까?</string>
     <string name="menu_user_reply_search_tweets">유저에게 보낸 트윗 검색</string>
     <string name="menu_user_reply_search_posts">유저에게 보낸 트윗 검색</string>
     <string name="menu_search_from_user_posts">Search from user posts</string>

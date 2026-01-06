@@ -801,6 +801,8 @@
     <string name="menu_block_this_tweet">Block this tweet</string>
     <string name="show_blocked_tweets">Blocked tweets</string>
     <string name="show_blocked_posts">Blocked posts</string>
+    <string name="menu_clear_blocked_posts">Clear blocked posts...</string>
+    <string name="clear_blocked_posts_confirm_message">Currently blocking %d posts.\n\nDue to X restrictions, you cannot view the details of each post.\nInstead, you can remove all blocks. Do you want to remove them?</string>
     <string name="menu_user_reply_search_tweets">Search replies</string>
     <string name="menu_user_reply_search_posts">Search replies</string>
     <string name="menu_search_from_user_posts">Search from user posts</string>

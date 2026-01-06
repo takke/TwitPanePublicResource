@@ -806,6 +806,8 @@
     <string name="menu_block_this_tweet">屏蔽这条推文</string>
     <string name="show_blocked_tweets">显示被屏蔽的推文</string>
     <string name="show_blocked_posts">显示被屏蔽的帖子</string>
+    <string name="menu_clear_blocked_posts">清除已屏蔽的帖子...</string>
+    <string name="clear_blocked_posts_confirm_message">当前正在屏蔽 %d 条帖子。\n\n由于 X 的限制,您无法查看每条帖子的详细信息。\n您可以选择解除所有屏蔽。是否解除?</string>
     <string name="menu_user_reply_search_tweets">搜索回复</string>
     <string name="menu_user_reply_search_posts">搜索回复</string>
     <string name="menu_search_from_user_posts">Search from user posts</string>

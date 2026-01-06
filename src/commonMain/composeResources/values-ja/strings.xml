@@ -815,6 +815,8 @@
     <string name="menu_block_this_tweet">この投稿をブロック...</string>
     <string name="show_blocked_tweets">ブロックツイート一覧</string>
     <string name="show_blocked_posts">ブロックポスト一覧</string>
+    <string name="menu_clear_blocked_posts">ブロックポストのクリア...</string>
+    <string name="clear_blocked_posts_confirm_message">現在%d件のポストをブロックしています。\n\nXの制約により各ポストの詳細は確認できません。\n代わりに全てのブロックを解除することができます。解除しますか？</string>
     <string name="menu_user_reply_search_tweets">ユーザー宛のツイートを検索する</string>
     <string name="menu_user_reply_search_posts">ユーザー宛のポストを検索する</string>
     <string name="menu_search_from_user_posts">ユーザーの投稿から検索する</string>

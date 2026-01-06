@@ -807,6 +807,8 @@
     <string name="menu_block_this_tweet">遮蔽這條推文</string>
     <string name="show_blocked_tweets">顯示被遮蔽的推文</string>
     <string name="show_blocked_posts">顯示被遮蔽的帖子</string>
+    <string name="menu_clear_blocked_posts">清除已封鎖的貼文...</string>
+    <string name="clear_blocked_posts_confirm_message">目前正在封鎖 %d 則貼文。\n\n由於 X 的限制,您無法查看每則貼文的詳細資訊。\n您可以選擇解除所有封鎖。是否解除?</string>
     <string name="menu_user_reply_search_tweets">搜尋回覆</string>
     <string name="menu_user_reply_search_posts">搜尋回覆</string>
     <string name="menu_search_from_user_posts">Search from user posts</string>
