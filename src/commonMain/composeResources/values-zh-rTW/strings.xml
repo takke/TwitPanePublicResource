@@ -2205,8 +2205,8 @@
     <string name="subs_guide_item_premium_more_accounts_message">您可以將註冊的帳戶數量增加至10個。</string>
     <string name="subs_guide_item_zonepane_more_accounts">✔ 帳戶限制增加至10個！</string>
     <string name="subs_guide_item_zonepane_more_accounts_message">您可以將註冊的帳戶數量增加至10個。</string>
-    <string name="subs_guide_item_zonepane_ios_more_accounts">✔ 帳戶限制增加至5個！</string>
-    <string name="subs_guide_item_zonepane_ios_more_accounts_message">您可以將註冊的帳戶數量增加至5個。</string>
+    <string name="subs_guide_item_zonepane_ios_more_accounts">✔ 帳戶限制增加至8個！</string>
+    <string name="subs_guide_item_zonepane_ios_more_accounts_message">您可以將註冊的帳戶數量增加至8個。</string>
 
     <!-- iOS Subscription Guide -->
     <string name="subs_guide_ios_product_load_failed">無法載入產品資訊</string>

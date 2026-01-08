@@ -2168,8 +2168,8 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="subs_guide_item_premium_more_accounts_message">Puede aumentar el número de cuentas que puede registrar a 10.</string>
     <string name="subs_guide_item_zonepane_more_accounts">✔ ¡Límite de cuenta aumentado a 10!</string>
     <string name="subs_guide_item_zonepane_more_accounts_message">Puede aumentar el número de cuentas que puede registrar a 10.</string>
-    <string name="subs_guide_item_zonepane_ios_more_accounts">✔ ¡Límite de cuenta aumentado a 5!</string>
-    <string name="subs_guide_item_zonepane_ios_more_accounts_message">Puede aumentar el número de cuentas que puede registrar a 5.</string>
+    <string name="subs_guide_item_zonepane_ios_more_accounts">✔ ¡Límite de cuenta aumentado a 8!</string>
+    <string name="subs_guide_item_zonepane_ios_more_accounts_message">Puede aumentar el número de cuentas que puede registrar a 8.</string>
 
     <!-- iOS Subscription Guide -->
     <string name="subs_guide_ios_product_load_failed">Error al cargar la información del producto</string>
