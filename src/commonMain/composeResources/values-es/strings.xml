@@ -1903,6 +1903,7 @@
     <string name="config_prefs_clear_font">Clear Font Settings</string>
     <string name="config_prefs_clear">Borrar valores</string>
     <string name="config_prefs_clear_confirm_message">¿Está seguro de que desea borrar todos los ajustes? (ADVERTENCIA !! TODAS CONFIGURACIÓN DE LA CUENTA se eliminará !!)</string>
+    <string name="config_prefs_clear_last_confirm_message">¿Está realmente seguro de que desea borrar todos los ajustes? Esta acción no se puede deshacer.</string>
     <string name="config_prefs_cleared">Todos los ajustes han sido borrados</string>
     <string name="config_prefer_protocol">Admite HTTP/2.0</string>
     <string name="config_prefer_protocol_summary">Selecciona el protocolo</string>

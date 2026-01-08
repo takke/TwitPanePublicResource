@@ -1944,6 +1944,7 @@
     <string name="config_prefs_clear_font">フォントの初期化</string>
     <string name="config_prefs_clear">設定の初期化</string>
     <string name="config_prefs_clear_confirm_message">本当に設定を初期化しますか？\n\n(！！警告！！全ての設定は消去されます)</string>
+    <string name="config_prefs_clear_last_confirm_message">本当にすべての設定を初期化しますか?この操作は取り消せません。</string>
     <string name="config_prefs_cleared">全ての設定を初期化しました</string>
     <string name="config_prefer_protocol">HTTP/2.0 support</string>
     <string name="config_prefer_protocol_summary">サーバとの通信プロトコルに HTTP/2.0 を利用します。通信に不具合が発生する場合は HTTP/1.1 にしてください。\n【現在の値：%s】</string>

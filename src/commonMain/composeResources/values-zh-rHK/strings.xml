@@ -1939,6 +1939,7 @@
     <string name="config_prefs_clear_font">Clear Font Settings</string>
     <string name="config_prefs_clear">清除設置</string>
     <string name="config_prefs_clear_confirm_message">你確定你要清除所有的設置嗎？(警告！！所有賬户設置將被刪除！！)</string>
+    <string name="config_prefs_clear_last_confirm_message">你真的確定要清除所有設置嗎？此操作無法撤銷。</string>
     <string name="config_prefs_cleared">所有設置已清除</string>
     <string name="config_prefer_protocol">支持HTTP/2.0</string>
     <string name="config_prefer_protocol_summary">選擇協議</string>
