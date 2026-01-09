@@ -2104,6 +2104,8 @@
     <string name="free_edition_update_confirm_message">無法遷移，因為免費版的版本太低。\n你要更新到最新版本嗎？</string>
     <string name="config_import_done_message">匯入設定現已完成。</string>
     <string name="config_import_from_file_done_message">匯入設定現已完成。</string>
+    <string name="config_import_failed_message">匯入設定失敗。請檢查檔案格式。</string>
+    <string name="config_clear_failed_message">清除設定失敗</string>
     <string name="account_reauth_title">帳號重新認證</string>
     <string name="account_reauth_message">你將需要重新認證Twitter的應用程式。\n
 \n

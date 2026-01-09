@@ -2108,6 +2108,8 @@
     <string name="free_edition_update_confirm_message">無料版のバージョンが低いため移行できません。最新版にアップデートしますか？</string>
     <string name="config_import_done_message">設定のインポートが完了しました。アプリを再起動します。</string>
     <string name="config_import_from_file_done_message">設定のインポートが完了しました。\n\n※エクスポートファイルは動作に問題がなければ削除してください。\n\nアプリを再起動します。</string>
+    <string name="config_import_failed_message">設定のインポートに失敗しました。ファイルの形式を確認してください。</string>
+    <string name="config_clear_failed_message">設定のクリアに失敗しました</string>
     <string name="account_reauth_title">アカウント再認証について</string>
     <string name="account_reauth_message">設定をインポートした場合、Twitter側が管理するアプリケーションが異なるため再認証する必要があります。\n\n・次の画面でもう一度認証してください。\n・次の画面(ブラウザ)で表示されるアカウントが異なる場合は一度ログアウトしてからログインし直してください。</string>
     <string name="add_account_without_login_message">ブラウザで再ログインせずにアカウントを追加しますか？\n(ブラウザでログイン済みのアカウントを引き継ぎます)</string>
