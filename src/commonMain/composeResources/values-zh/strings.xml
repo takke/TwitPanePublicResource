@@ -2104,6 +2104,7 @@
     <string name="free_edition_update_confirm_message">无法迁移，因为免费版的版本太低。\n你要更新到最新版本吗？</string>
     <string name="config_import_done_message">导入设置现已完成。</string>
     <string name="config_import_from_file_done_message">导入设置现已完成。</string>
+    <string name="config_export_to_file_done_message">导出设置现已完成。</string>
     <string name="config_import_failed_message">导入设置失败。请检查文件格式。</string>
     <string name="config_clear_failed_message">清除设置失败</string>
     <string name="account_reauth_title">帐号重新认证</string>
