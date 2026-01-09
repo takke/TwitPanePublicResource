@@ -2067,7 +2067,7 @@
     <string name="free_edition_update_confirm_message">No se puede migrar porque la versión de la versión gratuita es antigua.\n¿Quieres actualizar a la última versión?</string>
     <string name="config_import_done_message">Configuración de importación completada</string>
     <string name="config_import_from_file_done_message">Configuración de importación completada</string>
-    <string name="config_export_to_file_done_message">Configuración de exportación completada</string>
+    <string name="config_export_to_file_done_message">Configuración de exportación completada\n\n*El archivo contiene información de autenticación. Tenga cuidado al manejarlo.</string>
     <string name="config_import_failed_message">Error al importar la configuración. Verifique el formato del archivo.</string>
     <string name="config_clear_failed_message">Error al borrar la configuración</string>
     <string name="account_reauth_title">Cuenta re-autenticación</string>

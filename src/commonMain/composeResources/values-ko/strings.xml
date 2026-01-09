@@ -2067,7 +2067,7 @@
     <string name="free_edition_update_confirm_message">무료 버전의 버전이 낮기 때문에 당신은 마이그레이션 할 수 없습니다.\n당신은 최신 버전으로 업데이트 하시겠습니까?</string>
     <string name="config_import_done_message">설정 가져 오기가 완료되었습니다</string>
     <string name="config_import_from_file_done_message">설정 가져 오기가 완료되었습니다</string>
-    <string name="config_export_to_file_done_message">설정 내보내기가 완료되었습니다</string>
+    <string name="config_export_to_file_done_message">설정 내보내기가 완료되었습니다\n\n*파일에는 인증 정보가 포함되어 있습니다. 취급에 주의하십시오.</string>
     <string name="config_import_failed_message">설정을 가져오지 못했습니다. 파일 형식을 확인하십시오.</string>
     <string name="config_clear_failed_message">설정을 지우지 못했습니다</string>
     <string name="account_reauth_title">계정의 재 인증</string>

@@ -2108,7 +2108,7 @@
     <string name="free_edition_update_confirm_message">無料版のバージョンが低いため移行できません。最新版にアップデートしますか？</string>
     <string name="config_import_done_message">設定のインポートが完了しました。アプリを再起動します。</string>
     <string name="config_import_from_file_done_message">設定のインポートが完了しました。\n\n※エクスポートファイルは動作に問題がなければ削除してください。\n\nアプリを再起動します。</string>
-    <string name="config_export_to_file_done_message">設定のエクスポートが完了しました。</string>
+    <string name="config_export_to_file_done_message">設定のエクスポートが完了しました。\n\n※ファイルには認証情報が含まれるので取扱いには十分ご注意ください。</string>
     <string name="config_import_failed_message">設定のインポートに失敗しました。ファイルの形式を確認してください。</string>
     <string name="config_clear_failed_message">設定のクリアに失敗しました</string>
     <string name="account_reauth_title">アカウント再認証について</string>
