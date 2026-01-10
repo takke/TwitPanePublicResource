@@ -423,6 +423,7 @@
     <string name="retweeted_by_user">Retwitteado por %1$s</string>
     <string name="boosted_by_user">Promocionado por %1$s</string>
     <string name="renoted_by_user">Renotado por %1$s</string>
+    <string name="renoted_by_user_to_channel">Renotado por %1$s (%2$s)</string>
     <string name="reposted_by_user">Reposteado por %1$s</string>
     <string name="retaiitsued_by_user">%1$sさんがリタイーツしました</string>
     <string name="source_from">de %1$s</string>
