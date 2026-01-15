@@ -1465,6 +1465,10 @@
     <string name="config_timeline_action_settings_category">Timeline Action Settings</string>
     <string name="config_timeline_action_settings_category_summary">Timeline tap-ex, actions</string>
     <string name="config_timeline_action_bluesky">Botones de acción de línea de tiempo (Bluesky)</string>
+    <string name="config_timeline_action_buttons">Botones de acción de línea de tiempo</string>
+    <string name="config_show_action_buttons_bluesky">Mostrar botones de acción (Bluesky)</string>
+    <string name="config_show_action_buttons_mastodon">Mostrar botones de acción (Mastodon)</string>
+    <string name="config_show_action_buttons_misskey">Mostrar botones de acción (Misskey)</string>
     <string name="config_bluesky_action_button_size">Tamaño del botón de acción</string>
     <string name="config_tweet_load_ついぺん">Carga de tweets</string>
     <string name="config_tweet_load_ぞーぺん">Carga de publicaciones</string>

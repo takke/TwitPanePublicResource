@@ -1482,6 +1482,10 @@
     <string name="config_timeline_action_settings_category">タイムラインアクション設定</string>
     <string name="config_timeline_action_settings_category_summary">タイムラインタップ拡張、引っ張って更新の感度など</string>
     <string name="config_timeline_action_bluesky">タイムラインアクションボタン(Bluesky)</string>
+    <string name="config_timeline_action_buttons">タイムラインアクションボタン</string>
+    <string name="config_show_action_buttons_bluesky">アクションボタン表示(Bluesky)</string>
+    <string name="config_show_action_buttons_mastodon">アクションボタン表示(Mastodon)</string>
+    <string name="config_show_action_buttons_misskey">アクションボタン表示(Misskey)</string>
     <string name="config_bluesky_action_button_size">アクションボタンのサイズ</string>
     <string name="config_tweet_load_ついぺん">ツイート取得</string>
     <string name="config_tweet_load_ぞーぺん">投稿取得</string>
