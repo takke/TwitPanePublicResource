@@ -1486,6 +1486,8 @@
     <string name="config_show_action_buttons_bluesky">アクションボタン表示(Bluesky)</string>
     <string name="config_show_action_buttons_mastodon">アクションボタン表示(Mastodon)</string>
     <string name="config_show_action_buttons_misskey">アクションボタン表示(Misskey)</string>
+    <string name="config_show_action_buttons">アクションボタンを表示する</string>
+    <string name="config_hide_action_buttons">アクションボタンを非表示にする</string>
     <string name="config_bluesky_action_button_size">アクションボタンのサイズ</string>
     <string name="config_tweet_load_ついぺん">ツイート取得</string>
     <string name="config_tweet_load_ぞーぺん">投稿取得</string>

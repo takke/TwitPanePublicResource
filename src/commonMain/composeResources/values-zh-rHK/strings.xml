@@ -1471,6 +1471,8 @@
     <string name="config_show_action_buttons_bluesky">顯示操作按鈕 (Bluesky)</string>
     <string name="config_show_action_buttons_mastodon">顯示操作按鈕 (Mastodon)</string>
     <string name="config_show_action_buttons_misskey">顯示操作按鈕 (Misskey)</string>
+    <string name="config_show_action_buttons">顯示操作按鈕</string>
+    <string name="config_hide_action_buttons">隱藏操作按鈕</string>
     <string name="config_bluesky_action_button_size">操作按鈕大小</string>
     <string name="config_tweet_load_ついぺん">推文載入</string>
     <string name="config_tweet_load_ぞーぺん">貼文載入</string>
