@@ -1481,7 +1481,6 @@
     <string name="config_timeline_settings_category_summary">投稿取得件数、投稿取得後の位置など</string>
     <string name="config_timeline_action_settings_category">タイムラインアクション設定</string>
     <string name="config_timeline_action_settings_category_summary">タイムラインタップ拡張、引っ張って更新の感度など</string>
-    <string name="config_timeline_action_bluesky">タイムラインアクションボタン(Bluesky)</string>
     <string name="config_timeline_action_buttons">タイムラインアクションボタン</string>
     <string name="config_timeline_action_buttons_summary">タイムラインの各投稿に表示するアクションボタンをサービスごとに設定できます。</string>
     <string name="config_show_action_buttons_bluesky">アクションボタン表示(Bluesky)</string>

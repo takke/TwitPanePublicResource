@@ -1465,7 +1465,6 @@
     <string name="config_timeline_settings_category_summary"></string>
     <string name="config_timeline_action_settings_category">Timeline Action Settings</string>
     <string name="config_timeline_action_settings_category_summary">Timeline tap-ex, actions</string>
-    <string name="config_timeline_action_bluesky">타임라인 액션 버튼 (Bluesky)</string>
     <string name="config_timeline_action_buttons">타임라인 액션 버튼</string>
     <string name="config_timeline_action_buttons_summary">각 서비스별로 타임라인의 각 게시물에 표시되는 액션 버튼을 설정할 수 있습니다.</string>
     <string name="config_show_action_buttons_bluesky">액션 버튼 표시 (Bluesky)</string>

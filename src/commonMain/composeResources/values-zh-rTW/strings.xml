@@ -1467,7 +1467,6 @@
     <string name="config_timeline_settings_category_summary"></string>
     <string name="config_timeline_action_settings_category">Timeline Action Settings</string>
     <string name="config_timeline_action_settings_category_summary">Timeline tap-ex, actions</string>
-    <string name="config_timeline_action_bluesky">時間軸操作按鈕 (Bluesky)</string>
     <string name="config_timeline_action_buttons">時間軸操作按鈕</string>
     <string name="config_timeline_action_buttons_summary">您可以為每個服務配置在時間軸的每個貼文上顯示的操作按鈕。</string>
     <string name="config_show_action_buttons_bluesky">顯示操作按鈕 (Bluesky)</string>
