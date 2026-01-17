@@ -1462,6 +1462,7 @@
     <string name="config_timeline_action_settings_category_summary">Timeline tap-ex, actions</string>
     <string name="config_timeline_action_bluesky">Timeline Action Buttons (Bluesky)</string>
     <string name="config_timeline_action_buttons">Timeline Action Buttons</string>
+    <string name="config_timeline_action_buttons_summary">You can configure the action buttons displayed on each post in the timeline for each service.</string>
     <string name="config_show_action_buttons_bluesky">Show action buttons (Bluesky)</string>
     <string name="config_show_action_buttons_mastodon">Show action buttons (Mastodon)</string>
     <string name="config_show_action_buttons_misskey">Show action buttons (Misskey)</string>

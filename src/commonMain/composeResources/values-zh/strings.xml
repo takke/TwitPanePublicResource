@@ -1464,6 +1464,7 @@
     <string name="config_timeline_action_settings_category_summary">Timeline tap-ex, actions</string>
     <string name="config_timeline_action_bluesky">时间轴操作按钮 (Bluesky)</string>
     <string name="config_timeline_action_buttons">时间轴操作按钮</string>
+    <string name="config_timeline_action_buttons_summary">您可以为每个服务配置在时间轴的每个帖子上显示的操作按钮。</string>
     <string name="config_show_action_buttons_bluesky">显示操作按钮 (Bluesky)</string>
     <string name="config_show_action_buttons_mastodon">显示操作按钮 (Mastodon)</string>
     <string name="config_show_action_buttons_misskey">显示操作按钮 (Misskey)</string>

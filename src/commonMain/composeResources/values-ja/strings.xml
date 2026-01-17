@@ -1483,6 +1483,7 @@
     <string name="config_timeline_action_settings_category_summary">タイムラインタップ拡張、引っ張って更新の感度など</string>
     <string name="config_timeline_action_bluesky">タイムラインアクションボタン(Bluesky)</string>
     <string name="config_timeline_action_buttons">タイムラインアクションボタン</string>
+    <string name="config_timeline_action_buttons_summary">タイムラインの各投稿に表示するアクションボタンをサービスごとに設定できます。</string>
     <string name="config_show_action_buttons_bluesky">アクションボタン表示(Bluesky)</string>
     <string name="config_show_action_buttons_mastodon">アクションボタン表示(Mastodon)</string>
     <string name="config_show_action_buttons_misskey">アクションボタン表示(Misskey)</string>
