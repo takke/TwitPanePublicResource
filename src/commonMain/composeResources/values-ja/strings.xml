@@ -2031,6 +2031,9 @@
     <string name="theme_name_cw_button">「もっと見る」ボタン(CW)</string>
     <string name="theme_name_more_button">「もっと見る」ボタン(省略)</string>
     <string name="theme_tab">タブ</string>
+    <string name="theme_tab_indicator">タブインジケータ</string>
+    <string name="theme_misskey_reacted_icon">Misskeyリアクション済みアイコン</string>
+    <string name="theme_tl_action_button">タイムラインのアクションボタン</string>
     <string name="theme_actionbar">タイトルバー</string>
     <string name="app_title_bar">アプリタイトルバー</string>
     <string name="theme_statusbar">ステータスバー</string>

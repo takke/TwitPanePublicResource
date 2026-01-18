@@ -2052,6 +2052,9 @@
     <string name="theme_name_cw_button">CW Button</string>
     <string name="theme_name_more_button">More Button</string>
     <string name="theme_tab">Tab</string>
+    <string name="theme_tab_indicator">Tab Indicator</string>
+    <string name="theme_misskey_reacted_icon">Misskey Reacted Icon</string>
+    <string name="theme_tl_action_button">Timeline Action Button</string>
     <string name="theme_actionbar">TitleBar</string>
     <string name="app_title_bar">TitleBar</string>
     <string name="theme_statusbar">StatusBar</string>

@@ -2027,6 +2027,9 @@
     <string name="theme_name_cw_button">CW按钮</string>
     <string name="theme_name_more_button">更多按钮</string>
     <string name="theme_tab">标签</string>
+    <string name="theme_tab_indicator">标签指示器</string>
+    <string name="theme_misskey_reacted_icon">Misskey 已反应图标</string>
+    <string name="theme_tl_action_button">时间轴操作按钮</string>
     <string name="theme_actionbar">标题栏</string>
     <string name="app_title_bar">标题栏</string>
     <string name="theme_statusbar">状态栏</string>

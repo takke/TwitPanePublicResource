@@ -1990,6 +1990,9 @@
     <string name="theme_name_cw_button">CW 버튼</string>
     <string name="theme_name_more_button">더보기 버튼</string>
     <string name="theme_tab">탭</string>
+    <string name="theme_tab_indicator">탭 표시기</string>
+    <string name="theme_misskey_reacted_icon">Misskey 반응 아이콘</string>
+    <string name="theme_tl_action_button">타임라인 액션 버튼</string>
     <string name="theme_actionbar">제목 표시 줄</string>
     <string name="app_title_bar">제목 표시 줄</string>
     <string name="theme_statusbar">상태 표시 줄</string>
