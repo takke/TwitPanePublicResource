@@ -1347,6 +1347,8 @@
     <string name="config_show_source_app_summary_bluepane"></string>
     <string name="config_show_server_info">Show server info of notes</string>
     <string name="config_show_server_info_summary">[default:ON]</string>
+    <string name="config_enable_misskey_reply_mention">답장 시 @user 추가 (Misskey만)</string>
+    <string name="config_enable_misskey_reply_mention_summary">노트에 답장할 때 @user를 자동으로 삽입합니다 [default:ON]</string>
     <string name="config_show_rt_on_top">Show RT on top</string>
     <string name="config_show_rp_on_top">Show RP on top</string>
     <string name="config_show_bt_rn_on_top">Show BT and RN on top</string>

@@ -1362,6 +1362,8 @@
     <string name="config_show_source_app_summary_bluepane">投稿に利用したアプリ名を「○○から」のように表示します【初期値：ON】</string>
     <string name="config_show_server_info">投稿元サーバーを表示する</string>
     <string name="config_show_server_info_summary">Misskeyのノートで他サーバーの情報を表示します【初期値：ON】</string>
+    <string name="config_enable_misskey_reply_mention">返信時に@userを付ける (Misskeyのみ)</string>
+    <string name="config_enable_misskey_reply_mention_summary">ノートへの返信時に@userを自動で挿入します【初期値：ON】</string>
     <string name="config_show_rt_on_top">リツイートを先頭に表示</string>
     <string name="config_show_rp_on_top">リポストを先頭に表示</string>
     <string name="config_show_bt_rn_on_top">ブースト/リノートを先頭に表示</string>
