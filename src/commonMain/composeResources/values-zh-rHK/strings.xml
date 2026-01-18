@@ -152,6 +152,7 @@
     <string name="load_another_locations">其他地區</string>
 
     <string name="color_edit_button">編輯</string>
+    <string name="color_picker_free_color">從任意顏色中選擇</string>
     <string name="restore_default_confirm">恢復默認值？</string>
     <string name="import_confirm_message">你確定要導入這個設計嗎？</string>
     <string name="import_restart_message">* 導入後重新啓動%1$s</string>

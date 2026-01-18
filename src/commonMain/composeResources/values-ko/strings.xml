@@ -152,6 +152,7 @@
     <string name="load_another_locations">다른 지역</string>
 
     <string name="color_edit_button">편집</string>
+    <string name="color_picker_free_color">임의의 색상에서 선택</string>
     <string name="restore_default_confirm">기본값을 복원?</string>
     <string name="import_confirm_message">이 디자인을 가져오시겠습니까?</string>
     <string name="import_restart_message">* 가져오기 후 %1$s를 다시 시작합니다</string>

@@ -152,6 +152,7 @@
     <string name="load_another_locations">other areas</string>
 
     <string name="color_edit_button">Edit</string>
+    <string name="color_picker_free_color">Select from any color</string>
     <string name="restore_default_confirm">Restore default?</string>
     <string name="import_confirm_message">Are you sure you want to import this design?</string>
     <string name="import_restart_message">* %1$s will be restarted after importing</string>
