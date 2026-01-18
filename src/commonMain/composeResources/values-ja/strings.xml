@@ -6,6 +6,7 @@
     <string name="common_cancel">キャンセル</string>
     <string name="common_undo">元に戻す</string>
     <string name="common_stop">停止</string>
+    <string name="common_default">デフォルト</string>
 
     <string name="menu_menu">メニュー</string>
     
@@ -153,6 +154,11 @@
     
     <string name="color_edit_button">変更</string>
     <string name="color_picker_free_color">任意のカラーから選択</string>
+    <string name="color_picker_current">現在</string>
+    <string name="color_picker_new">新</string>
+    <string name="color_picker_hex_input_title">カラーコード入力</string>
+    <string name="color_picker_hex_input_error">正しい形式で入力してください (例: #FF5500)</string>
+    <string name="color_picker_preview">プレビュー:</string>
     <string name="restore_default_confirm">初期値に戻してもよろしいですか？</string>
     <string name="import_confirm_message">このデザインをインポートしますか？</string>
     <string name="import_restart_message">・インポート後に%1$sを再起動します</string>

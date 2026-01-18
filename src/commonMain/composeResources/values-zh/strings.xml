@@ -6,6 +6,7 @@
     <string name="common_cancel">取消</string>
     <string name="common_undo">撤销</string>
     <string name="common_stop">停止</string>
+    <string name="common_default">默认</string>
 
     <string name="menu_menu">菜单</string>
 
@@ -153,6 +154,11 @@
 
     <string name="color_edit_button">编辑</string>
     <string name="color_picker_free_color">从任意颜色中选择</string>
+    <string name="color_picker_current">当前</string>
+    <string name="color_picker_new">新</string>
+    <string name="color_picker_hex_input_title">输入颜色代码</string>
+    <string name="color_picker_hex_input_error">请输入正确的格式 (例如: #FF5500)</string>
+    <string name="color_picker_preview">预览:</string>
     <string name="restore_default_confirm">恢复默认值？</string>
     <string name="import_confirm_message">你确定要导入这个设计吗？</string>
     <string name="import_restart_message">* 导入后重新启动%1$s</string>

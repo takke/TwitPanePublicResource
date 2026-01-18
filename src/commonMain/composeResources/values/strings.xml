@@ -6,6 +6,7 @@
     <string name="common_cancel">Cancel</string>
     <string name="common_undo">Undo</string>
     <string name="common_stop">Stop</string>
+    <string name="common_default">Default</string>
 
     <string name="menu_menu">Menu</string>
 
@@ -153,6 +154,11 @@
 
     <string name="color_edit_button">Edit</string>
     <string name="color_picker_free_color">Select from any color</string>
+    <string name="color_picker_current">Current</string>
+    <string name="color_picker_new">New</string>
+    <string name="color_picker_hex_input_title">Enter color code</string>
+    <string name="color_picker_hex_input_error">Please enter a valid format (e.g., #FF5500)</string>
+    <string name="color_picker_preview">Preview:</string>
     <string name="restore_default_confirm">Restore default?</string>
     <string name="import_confirm_message">Are you sure you want to import this design?</string>
     <string name="import_restart_message">* %1$s will be restarted after importing</string>
