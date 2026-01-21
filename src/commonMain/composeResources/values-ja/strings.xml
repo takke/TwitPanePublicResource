@@ -1303,8 +1303,8 @@
     <string name="config_preview_of_attached_photo_category1">添付画像プレビュー</string>
     <string name="config_preview_of_attached_photo_category2">センシティブメディア</string>
     <string name="config_photo_thumbnail_layout">サムネイルレイアウトの変更</string>
-    <string name="config_photo_thumbnail_layout_new_official_app">縦長のサムネイル &lt;br>&lt;small>新Twitter公式アプリ方式: 添付画像が1枚の場合、画像のサイズに応じて 横長(2:1)  ～ 縦長(3:4) のサムネイルを表示します。&lt;br>※Blueskyでは公式アプリと同様の配置で表示します。&lt;/small></string>
-    <string name="config_photo_thumbnail_layout_old_official_app">横長のサムネイル &lt;br>&lt;small>旧Twitter公式アプリ方式。&lt;br>※Blueskyでは公式アプリと同様の配置で表示します。&lt;/small></string>
+    <string name="config_photo_thumbnail_layout_new_official_app">縦長のサムネイル &lt;br>&lt;small>新Twitter公式アプリ方式: 添付画像が1枚の場合、画像のサイズに応じて 横長(2:1)  ～ 縦長(3:4) のサムネイルを表示します。&lt;/small></string>
+    <string name="config_photo_thumbnail_layout_old_official_app">横長のサムネイル &lt;br>&lt;small>旧Twitter公式アプリ方式。&lt;/small></string>
     <string name="config_photo_thumbnail_layout_old_twitpane">正方形のサムネイル &lt;br>&lt;small>旧TwitPane方式&lt;/small></string>
     <string name="config_one_photo_size">サムネイル画像サイズ(1枚)</string>
     <string name="config_change_one_photo_size">サムネイル画像サイズ(1枚)の変更</string>
