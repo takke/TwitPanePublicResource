@@ -364,6 +364,7 @@
     <string name="unfollow_done">フォローを解除しました</string>
     <string name="cannot_send_dm">フォローされていないのでDMを送信できません</string>
     <string name="error_remote_user_not_found_from_this_server">このサーバーからはユーザーを見つけられません</string>
+    <string name="error_remote_user_not_found_detail">%1$sからこのユーザー(%2$s)を見つけることができません。\n一般的にはサーバーをブロックしていたり、サーバー間の通信が制限されている場合があります。</string>
 
     <!-- Retweet/Boost Menu -->
     <string name="show_retweet_tw">リツイートを表示</string>

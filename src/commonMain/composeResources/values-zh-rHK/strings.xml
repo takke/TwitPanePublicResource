@@ -364,6 +364,7 @@
     <string name="unfollow_done">已取消關注</string>
     <string name="cannot_send_dm">你不能發送私信，因為該用户沒有關注你</string>
     <string name="error_remote_user_not_found_from_this_server">無法從此伺服器找到用戶</string>
+    <string name="error_remote_user_not_found_detail">無法從%1$s找到用戶(%2$s)。\n這可能是因為伺服器被封鎖或伺服器之間的通訊受到限制。</string>
 
     <!-- Retweet/Boost Menu -->
     <string name="show_retweet_tw">顯示轉推</string>
