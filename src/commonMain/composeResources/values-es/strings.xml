@@ -306,6 +306,9 @@
     <string name="no_channels_found">No se encontraron canales</string>
     <string name="no_saved_search_found">No se encontraron búsquedas guardadas</string>
     <string name="loading_message">Cargando feeds...</string>
+    <string name="loading_first_post_bluesky">Cargando primera publicación...</string>
+    <string name="first_post_not_found_bluesky">Primera publicación no encontrada</string>
+    <string name="error_loading_first_post_bluesky">Error al cargar la primera publicación</string>
     <string name="searching_user">Buscando usuario...</string>
     <string name="failed_to_load_with_message">Error al cargar feeds: %1$s</string>
     <string name="no_feeds_found">No se encontraron feeds</string>

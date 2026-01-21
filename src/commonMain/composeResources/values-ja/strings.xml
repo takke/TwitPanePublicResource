@@ -306,6 +306,9 @@
     <string name="no_channels_found">チャンネルが見つかりませんでした</string>
     <string name="no_saved_search_found">保存した検索が見つかりませんでした</string>
     <string name="loading_message">読み込み中...</string>
+    <string name="loading_first_post_bluesky">初投稿を読み込み中...</string>
+    <string name="first_post_not_found_bluesky">初投稿が見つかりません</string>
+    <string name="error_loading_first_post_bluesky">初投稿の読み込みに失敗しました</string>
     <string name="searching_user">ユーザーを検索中...</string>
     <string name="failed_to_load_with_message">読み込みに失敗しました: %1$s</string>
     <string name="no_feeds_found">フィードが見つかりませんでした</string>

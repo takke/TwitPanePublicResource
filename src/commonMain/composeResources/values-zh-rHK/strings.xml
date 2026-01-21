@@ -306,6 +306,9 @@
     <string name="no_channels_found">沒有找到頻道</string>
     <string name="no_saved_search_found">沒有找到已儲存的搜尋</string>
     <string name="loading_message">正在載入Feed...</string>
+    <string name="loading_first_post_bluesky">正在載入首條帖子...</string>
+    <string name="first_post_not_found_bluesky">沒有找到首條帖子</string>
+    <string name="error_loading_first_post_bluesky">載入首條帖子失敗</string>
     <string name="searching_user">正在搜尋用戶...</string>
     <string name="failed_to_load_with_message">載入Feed失敗：%1$s</string>
     <string name="no_feeds_found">沒有找到Feed</string>
