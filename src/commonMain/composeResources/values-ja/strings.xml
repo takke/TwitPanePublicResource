@@ -363,6 +363,7 @@
     <string name="follow_done">フォローしました(フォロー完了まで時間がかかる場合があります)</string>
     <string name="unfollow_done">フォローを解除しました</string>
     <string name="cannot_send_dm">フォローされていないのでDMを送信できません</string>
+    <string name="error_remote_user_not_found_from_this_server">このサーバーからはユーザーを見つけられません</string>
 
     <!-- Retweet/Boost Menu -->
     <string name="show_retweet_tw">リツイートを表示</string>

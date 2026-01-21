@@ -363,6 +363,7 @@
     <string name="follow_done">팔로우 완료</string>
     <string name="unfollow_done">언팔로우 완료</string>
     <string name="cannot_send_dm">유저로부터 팔로우되지 않아 dm할 수 없습니다</string>
+    <string name="error_remote_user_not_found_from_this_server">이 서버에서 사용자를 찾을 수 없습니다</string>
 
     <!-- Retweet/Boost Menu -->
     <string name="show_retweet_tw">리트윗 표시</string>

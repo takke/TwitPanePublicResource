@@ -363,6 +363,7 @@
     <string name="follow_done">Follow done</string>
     <string name="unfollow_done">Unfollow done</string>
     <string name="cannot_send_dm">You cannot dm, cause not followed from the user</string>
+    <string name="error_remote_user_not_found_from_this_server">User not found from this server</string>
 
     <!-- Retweet/Boost Menu -->
     <string name="show_retweet_tw">Show retweets</string>

@@ -363,6 +363,7 @@
     <string name="follow_done">Seguir hecho</string>
     <string name="unfollow_done">Dejar de seguir hecho</string>
     <string name="cannot_send_dm">No puedes enviar un mensaje directo, porque el usuario no te sigue</string>
+    <string name="error_remote_user_not_found_from_this_server">No se puede encontrar al usuario desde este servidor</string>
 
     <!-- Retweet/Boost Menu -->
     <string name="show_retweet_tw">Mostrar retweets</string>

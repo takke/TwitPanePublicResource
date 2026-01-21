@@ -363,6 +363,7 @@
     <string name="follow_done">已關注</string>
     <string name="unfollow_done">已取消關注</string>
     <string name="cannot_send_dm">你不能傳送私信，因為該使用者沒有關注你</string>
+    <string name="error_remote_user_not_found_from_this_server">無法從此伺服器找到使用者</string>
 
     <!-- Retweet/Boost Menu -->
     <string name="show_retweet_tw">顯示轉推</string>
