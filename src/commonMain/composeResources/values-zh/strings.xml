@@ -1966,9 +1966,6 @@
     <string name="config_disable_hardware_rendering_summary"></string>
     <string name="config_disable_image_hardware_rendering">禁用硬件渲染(图像)</string>
     <string name="config_disable_image_hardware_rendering_summary"></string>
-    <string name="config_use_new_custom_emoji_picker">新版自定义表情选择器</string>
-    <string name="config_use_new_custom_emoji_picker_summary">使用新版自定义表情选择器【默认值:ON】</string>
-
     <string name="config_adfree_category">无广告</string>
     <string name="config_ad_display_settings">广告显示设置</string>
     <string name="config_premium_title">高级版</string>

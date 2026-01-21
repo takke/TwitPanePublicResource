@@ -1965,9 +1965,6 @@
     <string name="config_disable_hardware_rendering_summary"></string>
     <string name="config_disable_image_hardware_rendering">停用硬件渲染(圖像)</string>
     <string name="config_disable_image_hardware_rendering_summary"></string>
-    <string name="config_use_new_custom_emoji_picker">新版自訂表情符號選擇器</string>
-    <string name="config_use_new_custom_emoji_picker_summary">使用新版自訂表情符號選擇器【預設值:ON】</string>
-
     <string name="config_adfree_category">無廣告</string>
     <string name="config_ad_display_settings">廣告顯示設定</string>
     <string name="config_premium_title">高級版</string>

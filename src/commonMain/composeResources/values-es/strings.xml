@@ -1929,9 +1929,6 @@
     <string name="config_disable_hardware_rendering_summary"></string>
     <string name="config_disable_image_hardware_rendering">Desactivar renderizado por hardware (imagen)</string>
     <string name="config_disable_image_hardware_rendering_summary"></string>
-    <string name="config_use_new_custom_emoji_picker">Nuevo selector de emoji personalizado</string>
-    <string name="config_use_new_custom_emoji_picker_summary">Usar el nuevo selector de emoji personalizado [Predeterminado: ON]</string>
-
     <string name="config_adfree_category">Ocultar publicidad</string>
     <string name="config_ad_display_settings">Configuración de visualización de anuncios</string>
     <string name="config_premium_title">Versión Premium</string>
