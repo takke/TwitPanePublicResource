@@ -1169,7 +1169,7 @@
     <string name="publish_image_max_count_error_misskey">Puedes adjuntar hasta 16 archivos</string>
     <string name="publish_select_image">Seleccionar imagen</string>
     <string name="publish_select_video">Seleccionar video</string>
-    <string name="publish_video_too_large_bluesky">El archivo de video es demasiado grande (máximo %1$dMB)</string>
+    <string name="publish_video_too_large">El archivo de video es demasiado grande (máximo %1$dMB)</string>
     <string name="publish_video_too_long_bluesky">El video es demasiado largo (máximo %1$d minutos)</string>
     <string name="publish_video_selection_failed">Error al seleccionar video</string>
     <string name="publish_cannot_mix_image_video">No se pueden adjuntar imágenes y videos al mismo tiempo</string>

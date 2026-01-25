@@ -1170,7 +1170,7 @@
     <string name="publish_image_max_count_error_misskey">最多可以新增16個檔案</string>
     <string name="publish_select_image">選擇圖片</string>
     <string name="publish_select_video">選擇影片</string>
-    <string name="publish_video_too_large_bluesky">影片檔案過大(最大%1$dMB)</string>
+    <string name="publish_video_too_large">影片檔案過大(最大%1$dMB)</string>
     <string name="publish_video_too_long_bluesky">影片過長(最長%1$d分鐘)</string>
     <string name="publish_video_selection_failed">影片選擇失敗</string>
     <string name="publish_cannot_mix_image_video">無法同時新增圖片和影片</string>

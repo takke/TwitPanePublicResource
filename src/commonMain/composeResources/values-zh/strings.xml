@@ -1168,7 +1168,7 @@
     <string name="publish_image_max_count_error_misskey">最多可以添加16个文件</string>
     <string name="publish_select_image">选择图片</string>
     <string name="publish_select_video">选择视频</string>
-    <string name="publish_video_too_large_bluesky">视频文件过大(最大%1$dMB)</string>
+    <string name="publish_video_too_large">视频文件过大(最大%1$dMB)</string>
     <string name="publish_video_too_long_bluesky">视频过长(最长%1$d分钟)</string>
     <string name="publish_video_selection_failed">视频选择失败</string>
     <string name="publish_cannot_mix_image_video">无法同时添加图片和视频</string>
