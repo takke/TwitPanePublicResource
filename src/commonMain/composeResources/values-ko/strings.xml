@@ -1167,6 +1167,14 @@
     <!-- 画像添付関連エラーメッセージ -->
     <string name="publish_image_max_count_error">최대 4개의 이미지를 첨부할 수 있습니다</string>
     <string name="publish_image_max_count_error_misskey">최대 16개의 파일을 첨부할 수 있습니다</string>
+    <string name="publish_select_image">이미지 선택</string>
+    <string name="publish_select_video">동영상 선택</string>
+    <string name="publish_video_too_large_bluesky">동영상 파일이 너무 큽니다(최대 100MB)</string>
+    <string name="publish_video_too_long_bluesky">동영상이 너무 깁니다(최대 3분)</string>
+    <string name="publish_video_selection_failed">동영상 선택에 실패했습니다</string>
+    <string name="publish_cannot_mix_image_video">이미지와 동영상을 동시에 첨부할 수 없습니다</string>
+    <string name="publish_cannot_add_image_when_video">동영상이 첨부되어 있어 이미지를 선택할 수 없습니다</string>
+    <string name="publish_video_already_attached">동영상은 1개만 첨부할 수 있습니다</string>
     <string name="publish_image_selection_unavailable">이미지 선택 기능을 사용할 수 없습니다</string>
     <string name="publish_image_selection_failed">이미지 선택에 실패했습니다: %1$s</string>
     <string name="publish_image_max_count_added">최대 4개까지 첨부할 수 있어 %1$d개를 추가했습니다</string>

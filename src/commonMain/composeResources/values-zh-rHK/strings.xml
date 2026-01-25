@@ -1168,6 +1168,14 @@
     <!-- 画像添付関連エラーメッセージ -->
     <string name="publish_image_max_count_error">最多可以新增4張圖片</string>
     <string name="publish_image_max_count_error_misskey">最多可以新增16個檔案</string>
+    <string name="publish_select_image">選擇圖片</string>
+    <string name="publish_select_video">選擇影片</string>
+    <string name="publish_video_too_large_bluesky">影片檔案過大(最大100MB)</string>
+    <string name="publish_video_too_long_bluesky">影片過長(最長3分鐘)</string>
+    <string name="publish_video_selection_failed">影片選擇失敗</string>
+    <string name="publish_cannot_mix_image_video">無法同時新增圖片和影片</string>
+    <string name="publish_cannot_add_image_when_video">已新增影片,無法選擇圖片</string>
+    <string name="publish_video_already_attached">只能新增1個影片</string>
     <string name="publish_image_selection_unavailable">圖片選擇功能不可用</string>
     <string name="publish_image_selection_failed">圖片選擇失敗：%1$s</string>
     <string name="publish_image_max_count_added">由於最多只能新增4張圖片，已新增%1$d張</string>

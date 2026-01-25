@@ -1180,6 +1180,14 @@
     <!-- 画像添付関連エラーメッセージ -->
     <string name="publish_image_max_count_error">画像は最大4枚まで添付できます</string>
     <string name="publish_image_max_count_error_misskey">ファイルは最大16枚まで添付できます</string>
+    <string name="publish_select_image">画像を選択</string>
+    <string name="publish_select_video">動画を選択</string>
+    <string name="publish_video_too_large_bluesky">動画ファイルが大きすぎます(最大100MB)</string>
+    <string name="publish_video_too_long_bluesky">動画が長すぎます(最大3分)</string>
+    <string name="publish_video_selection_failed">動画の選択に失敗しました</string>
+    <string name="publish_cannot_mix_image_video">画像と動画を同時に添付することはできません</string>
+    <string name="publish_cannot_add_image_when_video">動画が添付されているため、画像は選択できません</string>
+    <string name="publish_video_already_attached">動画は1本のみ添付できます</string>
     <string name="publish_image_selection_unavailable">画像選択機能が利用できません</string>
     <string name="publish_image_selection_failed">画像選択に失敗しました: %1$s</string>
     <string name="publish_image_max_count_added">最大4枚まで添付できるため、%1$d枚を追加しました</string>

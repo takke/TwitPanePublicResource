@@ -1167,6 +1167,14 @@
     <!-- 画像添付関連エラーメッセージ -->
     <string name="publish_image_max_count_error">Puedes adjuntar hasta 4 imágenes</string>
     <string name="publish_image_max_count_error_misskey">Puedes adjuntar hasta 16 archivos</string>
+    <string name="publish_select_image">Seleccionar imagen</string>
+    <string name="publish_select_video">Seleccionar video</string>
+    <string name="publish_video_too_large_bluesky">El archivo de video es demasiado grande (máximo 100MB)</string>
+    <string name="publish_video_too_long_bluesky">El video es demasiado largo (máximo 3 minutos)</string>
+    <string name="publish_video_selection_failed">Error al seleccionar video</string>
+    <string name="publish_cannot_mix_image_video">No se pueden adjuntar imágenes y videos al mismo tiempo</string>
+    <string name="publish_cannot_add_image_when_video">No se pueden seleccionar imágenes cuando hay un video adjunto</string>
+    <string name="publish_video_already_attached">Solo se puede adjuntar un video</string>
     <string name="publish_image_selection_unavailable">La función de selección de imágenes no está disponible</string>
     <string name="publish_image_selection_failed">Error al seleccionar imagen: %1$s</string>
     <string name="publish_image_max_count_added">Se agregaron %1$d imágenes ya que puedes adjuntar hasta 4 imágenes</string>
