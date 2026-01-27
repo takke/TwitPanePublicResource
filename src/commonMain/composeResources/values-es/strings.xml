@@ -1434,6 +1434,16 @@
     <string name="deck_add_emoji_short">Agregar</string>
     <string name="deck_remove_emoji_short">Eliminar</string>
     <string name="config_custom_emoji_picker_deck_edit_mode_short">Editar</string>
+    <string name="emoji_palette_import_from_web_misskey">Añadir en lote desde la paleta de emojis web</string>
+    <string name="emoji_palette_import_title_misskey">Añadir en lote</string>
+    <string name="emoji_palette_import_step1_misskey">Inicie sesión en la cuenta desde la que desea copiar el mazo de reacciones en su navegador</string>
+    <string name="emoji_palette_import_step2_new_misskey">Acceda a la siguiente URL en el mismo navegador y copie la paleta de emojis</string>
+    <string name="emoji_palette_import_step2_old_misskey">Acceda a la siguiente URL en el mismo navegador y copie todo el contenido de \"Valor (JSON)\"</string>
+    <string name="emoji_palette_import_step3_misskey">Pegue el contenido copiado en el cuadro de texto a continuación</string>
+    <string name="emoji_palette_import_hint">Pegar aquí</string>
+    <string name="emoji_palette_import_success_misskey">Se agregaron %1$d emoji(s) al mazo</string>
+    <string name="emoji_palette_import_error_parse_misskey">Error al analizar la paleta de emojis</string>
+    <string name="emoji_palette_import_error_empty_misskey">No se encontraron emojis</string>
     <string name="custom_emoji_picker_select">Select</string>
     <string name="custom_emoji_picker_delete">Delete</string>
     <string name="custom_emoji_picker_deck_deleted">Eliminado del mazo</string>

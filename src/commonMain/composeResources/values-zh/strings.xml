@@ -1432,6 +1432,16 @@
     <string name="deck_add_emoji_short">添加</string>
     <string name="deck_remove_emoji_short">移除</string>
     <string name="config_custom_emoji_picker_deck_edit_mode_short">编辑</string>
+    <string name="emoji_palette_import_from_web_misskey">从网页表情符号面板批量添加</string>
+    <string name="emoji_palette_import_title_misskey">批量添加</string>
+    <string name="emoji_palette_import_step1_misskey">在浏览器中登录要复制反应卡组的账户</string>
+    <string name="emoji_palette_import_step2_new_misskey">在同一浏览器中访问以下URL并复制表情符号面板</string>
+    <string name="emoji_palette_import_step2_old_misskey">在同一浏览器中访问以下URL并复制\"值(JSON)\"的所有内容</string>
+    <string name="emoji_palette_import_step3_misskey">将复制的内容粘贴到下面的文本框中</string>
+    <string name="emoji_palette_import_hint">粘贴到此处</string>
+    <string name="emoji_palette_import_success_misskey">已将%1$d个表情符号添加到卡组</string>
+    <string name="emoji_palette_import_error_parse_misskey">解析表情符号面板失败</string>
+    <string name="emoji_palette_import_error_empty_misskey">未找到表情符号</string>
     <string name="custom_emoji_picker_select">Select</string>
     <string name="custom_emoji_picker_delete">Delete</string>
     <string name="custom_emoji_picker_deck_deleted">已从卡组移除</string>

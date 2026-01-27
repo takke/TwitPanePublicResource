@@ -1437,6 +1437,16 @@
     <string name="deck_add_emoji_short">添加</string>
     <string name="deck_remove_emoji_short">移除</string>
     <string name="config_custom_emoji_picker_deck_edit_mode_short">編輯</string>
+    <string name="emoji_palette_import_from_web_misskey">從網頁表情符號面板批次新增</string>
+    <string name="emoji_palette_import_title_misskey">批次新增</string>
+    <string name="emoji_palette_import_step1_misskey">在瀏覽器中登入要複製反應牌組的帳戶</string>
+    <string name="emoji_palette_import_step2_new_misskey">在同一瀏覽器中訪問以下URL並複製表情符號面板</string>
+    <string name="emoji_palette_import_step2_old_misskey">在同一瀏覽器中訪問以下URL並複製「值(JSON)」的所有內容</string>
+    <string name="emoji_palette_import_step3_misskey">將複製的內容貼上到下面的文字方塊中</string>
+    <string name="emoji_palette_import_hint">貼上到此處</string>
+    <string name="emoji_palette_import_success_misskey">已將%1$d個表情符號新增到牌組</string>
+    <string name="emoji_palette_import_error_parse_misskey">解析表情符號面板失敗</string>
+    <string name="emoji_palette_import_error_empty_misskey">未找到表情符號</string>
     <string name="custom_emoji_picker_select">Select</string>
     <string name="custom_emoji_picker_delete">Delete</string>
     <string name="custom_emoji_picker_deck_deleted">已從牌組移除</string>

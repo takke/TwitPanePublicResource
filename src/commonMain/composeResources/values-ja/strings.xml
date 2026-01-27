@@ -1452,6 +1452,16 @@
     <string name="deck_add_emoji_short">デッキに追加</string>
     <string name="deck_remove_emoji_short">デッキから解除</string>
     <string name="config_custom_emoji_picker_deck_edit_mode_short">デッキ編集</string>
+    <string name="emoji_palette_import_from_web_misskey">Web版の絵文字パレットから一括追加</string>
+    <string name="emoji_palette_import_title_misskey">一括追加</string>
+    <string name="emoji_palette_import_step1_misskey">お使いのブラウザでリアクションデッキをコピーしたいアカウントにログインしてください</string>
+    <string name="emoji_palette_import_step2_new_misskey">同じブラウザで以下のURLにアクセスして絵文字パレットをコピーしてください</string>
+    <string name="emoji_palette_import_step2_old_misskey">同じブラウザで以下のURLにアクセスして「値(JSON)」の内容をすべて選択してコピーしてください</string>
+    <string name="emoji_palette_import_step3_misskey">コピーしたものを下のテキストボックスに貼り付けてください</string>
+    <string name="emoji_palette_import_hint">ここに貼り付け</string>
+    <string name="emoji_palette_import_success_misskey">%1$d件の絵文字をデッキに追加しました</string>
+    <string name="emoji_palette_import_error_parse_misskey">絵文字パレットの解析に失敗しました</string>
+    <string name="emoji_palette_import_error_empty_misskey">絵文字が見つかりませんでした</string>
     <string name="custom_emoji_picker_select">選択</string>
     <string name="custom_emoji_picker_delete">履歴から削除</string>
     <string name="custom_emoji_picker_deck_deleted">デッキから削除しました</string>
