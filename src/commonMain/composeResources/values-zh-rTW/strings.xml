@@ -1447,6 +1447,7 @@
     <string name="emoji_palette_import_success_misskey">已將%1$d個表情符號新增到牌組</string>
     <string name="emoji_palette_import_error_parse_misskey">解析表情符號面板失敗</string>
     <string name="emoji_palette_import_error_empty_misskey">未找到表情符號</string>
+    <string name="deck_empty_hint">這是一個用於常用表情符號的牌組。您可以從長按對話方塊新增表情符號。</string>
     <string name="custom_emoji_picker_select">Select</string>
     <string name="custom_emoji_picker_delete">Delete</string>
     <string name="custom_emoji_picker_deck_deleted">已從牌組移除</string>

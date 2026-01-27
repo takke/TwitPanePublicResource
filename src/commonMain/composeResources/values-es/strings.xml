@@ -1444,6 +1444,7 @@
     <string name="emoji_palette_import_success_misskey">Se agregaron %1$d emoji(s) al mazo</string>
     <string name="emoji_palette_import_error_parse_misskey">Error al analizar la paleta de emojis</string>
     <string name="emoji_palette_import_error_empty_misskey">No se encontraron emojis</string>
+    <string name="deck_empty_hint">Este es un mazo para emojis de uso frecuente. Puede añadir emojis desde el diálogo de pulsación larga.</string>
     <string name="custom_emoji_picker_select">Select</string>
     <string name="custom_emoji_picker_delete">Delete</string>
     <string name="custom_emoji_picker_deck_deleted">Eliminado del mazo</string>

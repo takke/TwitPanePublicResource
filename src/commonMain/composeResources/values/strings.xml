@@ -1439,6 +1439,7 @@
     <string name="emoji_palette_import_success_misskey">Added %1$d emoji(s) to deck</string>
     <string name="emoji_palette_import_error_parse_misskey">Failed to parse emoji palette</string>
     <string name="emoji_palette_import_error_empty_misskey">No emoji found</string>
+    <string name="deck_empty_hint">This is a deck for frequently used emojis. You can add emojis from the long-press dialog.</string>
     <string name="custom_emoji_picker_select">Select</string>
     <string name="custom_emoji_picker_delete">Delete</string>
     <string name="custom_emoji_picker_deck_deleted">Removed from Deck</string>
