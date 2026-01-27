@@ -1437,7 +1437,7 @@
     <string name="deck_remove_emoji_short">移除</string>
     <string name="config_custom_emoji_picker_deck_edit_mode_short">編輯</string>
     <string name="emoji_palette_import_from_web_misskey">從網頁表情符號面板批次添加</string>
-    <string name="emoji_palette_import_title_misskey">批次添加</string>
+    <string name="emoji_palette_import_title_misskey">從網頁批次添加</string>
     <string name="emoji_palette_import_step1_misskey">在瀏覽器中登入要複製反應牌組的帳戶</string>
     <string name="emoji_palette_import_step2_new_misskey">在同一瀏覽器中訪問以下URL並複製表情符號面板</string>
     <string name="emoji_palette_import_step2_old_misskey">在同一瀏覽器中訪問以下URL並複製「值(JSON)」的所有內容</string>

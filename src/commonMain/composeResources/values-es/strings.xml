@@ -1435,7 +1435,7 @@
     <string name="deck_remove_emoji_short">Eliminar</string>
     <string name="config_custom_emoji_picker_deck_edit_mode_short">Editar</string>
     <string name="emoji_palette_import_from_web_misskey">Añadir en lote desde la paleta de emojis web</string>
-    <string name="emoji_palette_import_title_misskey">Añadir en lote</string>
+    <string name="emoji_palette_import_title_misskey">Añadir en lote desde la web</string>
     <string name="emoji_palette_import_step1_misskey">Inicie sesión en la cuenta desde la que desea copiar el mazo de reacciones en su navegador</string>
     <string name="emoji_palette_import_step2_new_misskey">Acceda a la siguiente URL en el mismo navegador y copie la paleta de emojis</string>
     <string name="emoji_palette_import_step2_old_misskey">Acceda a la siguiente URL en el mismo navegador y copie todo el contenido de \"Valor (JSON)\"</string>

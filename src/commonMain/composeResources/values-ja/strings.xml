@@ -1453,7 +1453,7 @@
     <string name="deck_remove_emoji_short">デッキから解除</string>
     <string name="config_custom_emoji_picker_deck_edit_mode_short">デッキ編集</string>
     <string name="emoji_palette_import_from_web_misskey">Web版の絵文字パレットから一括追加</string>
-    <string name="emoji_palette_import_title_misskey">一括追加</string>
+    <string name="emoji_palette_import_title_misskey">Webからの一括追加</string>
     <string name="emoji_palette_import_step1_misskey">お使いのブラウザでリアクションデッキをコピーしたいアカウントにログインしてください</string>
     <string name="emoji_palette_import_step2_new_misskey">同じブラウザで以下のURLにアクセスして絵文字パレットをコピーしてください</string>
     <string name="emoji_palette_import_step2_old_misskey">同じブラウザで以下のURLにアクセスして「値(JSON)」の内容をすべて選択してコピーしてください</string>

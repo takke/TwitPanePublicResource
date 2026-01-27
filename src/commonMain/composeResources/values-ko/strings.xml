@@ -1436,7 +1436,7 @@
     <string name="deck_remove_emoji_short">제거</string>
     <string name="config_custom_emoji_picker_deck_edit_mode_short">편집</string>
     <string name="emoji_palette_import_from_web_misskey">웹 이모지 팔레트에서 일괄 추가</string>
-    <string name="emoji_palette_import_title_misskey">일괄 추가</string>
+    <string name="emoji_palette_import_title_misskey">웹에서 일괄 추가</string>
     <string name="emoji_palette_import_step1_misskey">브라우저에서 리액션 덱을 복사할 계정으로 로그인하세요</string>
     <string name="emoji_palette_import_step2_new_misskey">같은 브라우저에서 다음 URL에 접속하여 이모지 팔레트를 복사하세요</string>
     <string name="emoji_palette_import_step2_old_misskey">같은 브라우저에서 다음 URL에 접속하여 \"값(JSON)\"의 모든 내용을 선택하여 복사하세요</string>

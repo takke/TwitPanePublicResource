@@ -1430,7 +1430,7 @@
     <string name="deck_remove_emoji_short">Remove Deck</string>
     <string name="config_custom_emoji_picker_deck_edit_mode_short">Edit Deck</string>
     <string name="emoji_palette_import_from_web_misskey">Bulk add from web emoji palette</string>
-    <string name="emoji_palette_import_title_misskey">Bulk add</string>
+    <string name="emoji_palette_import_title_misskey">Bulk add from web</string>
     <string name="emoji_palette_import_step1_misskey">Log in to the account you want to copy the reaction deck from in your browser</string>
     <string name="emoji_palette_import_step2_new_misskey">Access the following URL in the same browser and copy the emoji palette</string>
     <string name="emoji_palette_import_step2_old_misskey">Access the following URL in the same browser and copy all the content of \"Value (JSON)\"</string>
