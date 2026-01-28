@@ -2478,7 +2478,7 @@
     <string name="user_name">User name</string>
     <string name="password">Password</string>
     <string name="log_in">Log in</string>
-    <string name="log_in_or_sign_up">登录或注册</string>
+    <string name="sign_in_or_sign_up">登录或注册</string>
     <string name="enter_username_or_mail_address">Please enter your username or email address.</string>
     <string name="enter_username">Please enter your username.</string>
     <string name="enter_password">Enter password</string>
