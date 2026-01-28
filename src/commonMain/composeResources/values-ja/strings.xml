@@ -1526,6 +1526,7 @@
     <string name="config_hide_action_buttons">アクションボタンを非表示にする</string>
     <string name="config_bluesky_action_button_size">アクションボタンのサイズ</string>
     <string name="config_show_user_list_on_number_tap">数値タップでユーザー一覧表示</string>
+    <string name="config_show_user_list_on_number_tap_summary">いいね数やリポスト数などの数字をタップしたとき、そのアクションを行ったユーザーの一覧を表示します</string>
     <string name="config_tweet_load_ついぺん">ツイート取得</string>
     <string name="config_tweet_load_ぞーぺん">投稿取得</string>
     <string name="config_tweet_load_たいぺん">投稿取得</string>
