@@ -2441,6 +2441,7 @@
     <string name="user_name">User name</string>
     <string name="password">Password</string>
     <string name="log_in">Log in</string>
+    <string name="log_in_or_sign_up">로그인 또는 회원가입</string>
     <string name="enter_username_or_mail_address">Please enter your username or email address.</string>
     <string name="enter_username">Please enter your username.</string>
     <string name="enter_password">Enter password</string>
