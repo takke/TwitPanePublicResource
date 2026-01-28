@@ -2448,8 +2448,8 @@
     <string name="cannot_send_message_to">%1$s にメッセージを送れません</string>
     <string name="need_authorized_with_dm">チャット(メッセージ)機能を利用するにはDMの権限が必要です。\n「ダイレクトメッセージへのアクセスを許可」したアプリパスワードで再ログインしてください。</string>
     <string name="re_login">再ログイン</string>
-    <string name="bluesky_login_description">Bluesky にサインインします。\n今のところBluesky.Socialのみ対応しています。</string>
-    <string name="bluesky_password_login_description">アカウントは事前に https://bsky.app/ から作成してください。\nhttps://bsky.app/settings/app-passwords からアプリパスワードを発行してサインインしてください。</string>
+    <string name="bluesky_login_description">Bluesky にサインインします。</string>
+    <string name="bluesky_password_login_description">アカウントをお持ちでない場合は https://bsky.app/ から作成してください。\nアプリパスワードは https://bsky.app/settings/app-passwords から発行できます。</string>
     <string name="bluesky_oauth_login_description">ユーザー名を入力しサインインボタンを押してください。\n未入力のままでもBlueskyの認証画面でサインインまたは新規登録ができます。\n※OAuth 方式の場合、セキュリティ上の理由から約1週間毎に再認証が必要になります。</string>
     <string name="write_message">メッセージを書く</string>
     <string name="delete_for_me">自分宛を削除...</string>

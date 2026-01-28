@@ -2433,8 +2433,8 @@
     <string name="cannot_send_message_to">cannot send message to %1$s</string>
     <string name="need_authorized_with_dm">DM permissions are required to use the chat (message) function.</string>
     <string name="re_login">Re-login</string>
-    <string name="bluesky_login_description">To sign in to Bluesky, please enter the following fields. </string>
-    <string name="bluesky_password_login_description">请从 https://bsky.app/settings/app-passwords 获取应用密码后登录。</string>
+    <string name="bluesky_login_description">登录 Bluesky。</string>
+    <string name="bluesky_password_login_description">如果没有账户，请在 https://bsky.app/ 创建。\n应用密码可从 https://bsky.app/settings/app-passwords 获取。</string>
     <string name="bluesky_oauth_login_description">请输入您的用户名，然后按登录按钮。\n您也可以不输入任何内容，直接在Bluesky认证页面登录或注册。\n注意：对于OAuth登录，出于安全原因，大约每周需要重新认证一次。</string>
     <string name="write_message">Write a message</string>
     <string name="delete_for_me">Delete for me</string>
