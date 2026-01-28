@@ -1509,6 +1509,7 @@
     <string name="config_show_action_buttons">액션 버튼 표시</string>
     <string name="config_hide_action_buttons">액션 버튼 숨기기</string>
     <string name="config_bluesky_action_button_size">액션 버튼 크기</string>
+    <string name="config_show_user_list_on_number_tap">숫자 탭으로 사용자 목록 표시</string>
     <string name="config_tweet_load_ついぺん">트윗 로딩</string>
     <string name="config_tweet_load_ぞーぺん">게시물 로딩</string>
     <string name="config_tweet_load_たいぺん">타이츠 로딩</string>

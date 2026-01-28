@@ -1506,6 +1506,7 @@
     <string name="config_show_action_buttons">显示操作按钮</string>
     <string name="config_hide_action_buttons">隐藏操作按钮</string>
     <string name="config_bluesky_action_button_size">操作按钮大小</string>
+    <string name="config_show_user_list_on_number_tap">点击数字时显示用户列表</string>
     <string name="config_tweet_load_ついぺん">推文加载</string>
     <string name="config_tweet_load_ぞーぺん">帖子加载</string>
     <string name="config_tweet_load_たいぺん">Taiitsu加载</string>
