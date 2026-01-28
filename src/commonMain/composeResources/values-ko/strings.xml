@@ -2177,7 +2177,7 @@
     <string name="login_to_mastodon_instruction">Mastodon consists of a variety of servers. Please select the server you wish to log in to. If you do not see your server in the list, please enter the URL directly.\n참고: 로그인에는 Chrome 브라우저를 권장합니다.</string>
     <string name="login_to_misskey">Login to Misskey</string>
     <string name="login_to_misskey_instruction">Misskey consists of a variety of servers. Please select the server you wish to log in to. If you do not see your server in the list, please enter the URL directly.</string>
-    <string name="login_to_bluesky">Login to Bluesky</string>
+    <string name="login_to_bluesky">Bluesky에 로그인</string>
     <string name="force_relogin">Force re-login</string>
     <string name="login_failed_and_login_with_browser_confirm">로그인 실패. 당신은 브라우저를 통해 로그인 하시겠습니까?</string>
     <string name="trade_mark_info">Twitter is trademark of X Corp.</string>
