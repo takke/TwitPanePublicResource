@@ -2398,7 +2398,7 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="re_login">Re-login</string>
     <string name="bluesky_login_description">To sign in to Bluesky, please enter the following fields. </string>
     <string name="bluesky_password_login_description">Issue an app password from https://bsky.app/settings/app-passwords and log in. </string>
-    <string name="bluesky_oauth_login_description">Introduce tu nombre de usuario o dirección de correo electrónico y pulsa el botón de inicio de sesión.\nNota: Para el inicio de sesión OAuth, se requiere una reautenticación aproximadamente una vez por semana por razones de seguridad.</string>
+    <string name="bluesky_oauth_login_description">Introduce tu nombre de usuario y pulsa el botón de inicio de sesión.\nTambién puedes iniciar sesión o registrarte en la pantalla de autenticación de Bluesky sin introducir nada.\nNota: Para el inicio de sesión OAuth, se requiere una reautenticación aproximadamente una vez por semana por razones de seguridad.</string>
     <string name="write_message">Write a message</string>
     <string name="delete_for_me">Delete for me</string>
     <string name="delete_chat_message_confirm_message">Are you sure you want to delete this message? The message will be deleted for you, but not for the other participant.</string>
