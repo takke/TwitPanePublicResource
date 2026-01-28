@@ -687,6 +687,9 @@
     <string name="menu_renote_dm_disabled">Renote (DMs cannot be renoted)</string>
     <string name="menu_repost">Repost</string>
     <string name="menu_renote_in_channel">Renote in Channel</string>
+    <string name="menu_renote_to_channel">Renote to Channel</string>
+    <string name="choose_channel_for_renote">Select channel for renote</string>
+    <string name="renoted_to_channel_message">Renoted to channel</string>
     <string name="menu_boost">Boost</string>
     <string name="menu_quote_tweet">Quote Tweet</string>
     <string name="quoted_posts">Quoted Posts</string>

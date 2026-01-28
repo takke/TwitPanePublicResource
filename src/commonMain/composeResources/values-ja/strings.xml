@@ -701,6 +701,9 @@
     <string name="menu_renote_dm_disabled">リノート(DMなのでリノートできません)</string>
     <string name="menu_repost">リポスト</string>
     <string name="menu_renote_in_channel">チャンネル内リノート</string>
+    <string name="menu_renote_to_channel">チャンネルにリノート</string>
+    <string name="choose_channel_for_renote">リノート先のチャンネルを選択</string>
+    <string name="renoted_to_channel_message">チャンネルにリノートしました</string>
     <string name="menu_boost">ブースト</string>
     <string name="menu_quote_tweet">引用ツイート</string>
     <string name="quoted_posts">引用ポスト</string>

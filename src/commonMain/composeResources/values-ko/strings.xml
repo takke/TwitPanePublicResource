@@ -691,6 +691,9 @@
     <string name="menu_renote_dm_disabled">리노트(DM은 리노트할 수 없습니다)</string>
     <string name="menu_repost">리포스트</string>
     <string name="menu_renote_in_channel">Renote in Channel</string>
+    <string name="menu_renote_to_channel">채널에 리노트</string>
+    <string name="choose_channel_for_renote">리노트할 채널 선택</string>
+    <string name="renoted_to_channel_message">채널에 리노트했습니다</string>
     <string name="menu_boost">Boost</string>
     <string name="menu_quote_tweet">인용 트윗</string>
     <string name="quoted_posts">인용된 게시물</string>

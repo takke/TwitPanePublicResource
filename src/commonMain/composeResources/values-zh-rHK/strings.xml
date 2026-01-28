@@ -693,6 +693,9 @@
     <string name="menu_renote_dm_disabled">轉發(私訊無法轉發)</string>
     <string name="menu_repost">轉帖</string>
     <string name="menu_renote_in_channel">Renote in Channel</string>
+    <string name="menu_renote_to_channel">轉發到頻道</string>
+    <string name="choose_channel_for_renote">選擇轉發目標頻道</string>
+    <string name="renoted_to_channel_message">已轉發到頻道</string>
     <string name="menu_boost">Boost</string>
     <string name="menu_quote_tweet">引用推文</string>
     <string name="quoted_posts">引用的帖子</string>

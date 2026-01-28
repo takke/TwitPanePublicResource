@@ -692,6 +692,9 @@
     <string name="menu_renote_dm_disabled">Renote (Los DMs no se pueden renotear)</string>
     <string name="menu_repost">Repost</string>
     <string name="menu_renote_in_channel">Renote in Channel</string>
+    <string name="menu_renote_to_channel">Renote to Channel</string>
+    <string name="choose_channel_for_renote">Seleccionar canal para renote</string>
+    <string name="renoted_to_channel_message">Renoteado al canal</string>
     <string name="menu_boost">Boost</string>
     <string name="menu_quote_tweet">Citar Tweet</string>
     <string name="quoted_posts">Publicaciones citadas</string>
