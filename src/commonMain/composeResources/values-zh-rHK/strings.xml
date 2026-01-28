@@ -1511,7 +1511,7 @@
     <string name="config_hide_action_buttons">隱藏操作按鈕</string>
     <string name="config_bluesky_action_button_size">操作按鈕大小</string>
     <string name="config_show_user_list_on_number_tap">點擊數字時顯示用戶列表</string>
-    <string name="config_show_user_list_on_number_tap_summary">點擊讚好數或轉發數等數字時，顯示執行該操作的用戶列表</string>
+    <string name="config_show_user_list_on_number_tap_summary">點擊讚好數或轉發數等數字時，顯示執行該操作的用戶列表[預設:開啟]</string>
     <string name="config_tweet_load_ついぺん">推文載入</string>
     <string name="config_tweet_load_ぞーぺん">貼文載入</string>
     <string name="config_tweet_load_たいぺん">Taiitsu載入</string>

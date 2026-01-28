@@ -1509,7 +1509,7 @@
     <string name="config_hide_action_buttons">Ocultar botones de acción</string>
     <string name="config_bluesky_action_button_size">Tamaño del botón de acción</string>
     <string name="config_show_user_list_on_number_tap">Mostrar lista de usuarios al tocar número</string>
-    <string name="config_show_user_list_on_number_tap_summary">Al tocar un número como me gusta o repost, muestra una lista de usuarios que realizaron esa acción</string>
+    <string name="config_show_user_list_on_number_tap_summary">Al tocar un número como me gusta o repost, muestra una lista de usuarios que realizaron esa acción [Predeterminado: ON]</string>
     <string name="config_tweet_load_ついぺん">Carga de tweets</string>
     <string name="config_tweet_load_ぞーぺん">Carga de publicaciones</string>
     <string name="config_tweet_load_たいぺん">Carga de Taiitsu</string>
