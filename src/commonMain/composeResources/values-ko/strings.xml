@@ -1709,6 +1709,7 @@
     <string name="config_mute_delete_confirm_message">정말로 삭제하시겠습니까?</string>
 	<string name="cannot_include_comma_in_mute">음소거 텍스트에 쉼표를 포함할 수 없습니다</string>
     <string name="mute_duplicated_item">동일한 항목이 이미 있습니다</string>
+    <string name="mute_user_name_must_start_with_at">사용자 이름은 \'@\'로 시작해야 합니다</string>
     <string name="confirm_to_add_mute_word">음소거 단어 추가, 알겠습니까?</string>
     <string name="mute_word_added">음소거 단어 추가</string>
 

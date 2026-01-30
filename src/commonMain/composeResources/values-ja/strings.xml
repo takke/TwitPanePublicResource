@@ -1732,6 +1732,7 @@
     <string name="config_mute_delete_confirm_message">本当に削除しますか？</string>
     <string name="cannot_include_comma_in_mute">ミュート文字列の中にカンマを含むことはできません</string>
     <string name="mute_duplicated_item">同じ項目があります</string>
+    <string name="mute_user_name_must_start_with_at">ユーザー名は「@」で始めてください</string>
     <string name="confirm_to_add_mute_word">ミュートワードに設定します。よろしいですか？</string>
     <string name="mute_word_added">ミュートワードを追加しました</string>
 

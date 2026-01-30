@@ -1709,6 +1709,7 @@
     <string name="config_mute_delete_confirm_message">¿Estás seguro de que quieres eliminarlo?</string>
     <string name="cannot_include_comma_in_mute">No se puede incluir la coma en el texto a silenciar</string>
     <string name="mute_duplicated_item">Este elemento ya existe</string>
+    <string name="mute_user_name_must_start_with_at">El nombre de usuario debe comenzar con \'@\'</string>
     <string name="confirm_to_add_mute_word">Agregar palabra muda, ¿de acuerdo?</string>
     <string name="mute_word_added">Se agregó la palabra muda</string>
 
