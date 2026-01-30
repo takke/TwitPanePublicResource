@@ -1087,6 +1087,7 @@
     <string name="hashtag_remove_confirm_title">Delete confirm</string>
     <string name="hashtag_remove_confirm_message">Delete this hashtag?</string>
     <string name="no_recent_hashtags">No recent hashtags</string>
+    <string name="hashtag_reorder_description">Only pinned hashtags can be reordered</string>
     <string name="screen_name_select">Select replying user</string>
     <string name="reload_screen_name_list_confirm_title">Reload confirm</string>
     <string name="reload_screen_name_list_confirm_message">Reload list of following users and followers, OK?</string>
