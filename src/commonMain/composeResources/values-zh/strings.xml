@@ -1705,6 +1705,7 @@
     <string name="config_mute_delete_confirm_title">删除确认</string>
     <string name="config_mute_delete_confirm_message">确定要删除吗？</string>
     <string name="cannot_include_comma_in_mute">静音文本中不能包含逗号</string>
+    <string name="mute_duplicated_item">该项目已存在</string>
     <string name="confirm_to_add_mute_word">要添加静音词吗？</string>
     <string name="mute_word_added">添加了静音词</string>
 
