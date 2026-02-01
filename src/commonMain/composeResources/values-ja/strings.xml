@@ -2750,4 +2750,11 @@
     <string name="progress_downloading_media">メディアをダウンロード中…</string>
     <string name="error_failed_to_download_media">メディアのダウンロードに失敗しました</string>
 
+    <!-- 自動バックアップ -->
+    <string name="auto_backup_found_title">自動バックアップの復元</string>
+    <string name="auto_backup_found_message">前回の自動バックアップが見つかりました。復元しますか？</string>
+    <string name="auto_backup_saved_at">保存日時: %1$s</string>
+    <string name="auto_backup_restore">復元する</string>
+    <string name="auto_backup_discard">復元しない</string>
+
 </resources>

@@ -2732,4 +2732,11 @@
     <string name="progress_downloading_media">正在下载媒体…</string>
     <string name="error_failed_to_download_media">媒体下载失败</string>
 
+    <!-- 自动备份 -->
+    <string name="auto_backup_found_title">恢复自动备份</string>
+    <string name="auto_backup_found_message">发现上次的自动备份。是否要恢复？</string>
+    <string name="auto_backup_saved_at">保存时间：%1$s</string>
+    <string name="auto_backup_restore">恢复</string>
+    <string name="auto_backup_discard">不恢复</string>
+
 </resources>

@@ -2778,4 +2778,11 @@ Reauthenticate on the next screen.</string>
     <string name="progress_downloading_media">Downloading media…</string>
     <string name="error_failed_to_download_media">Failed to download media</string>
 
+    <!-- 自動バックアップ -->
+    <string name="auto_backup_found_title">Restore Auto-Backup</string>
+    <string name="auto_backup_found_message">A previous auto-backup was found. Would you like to restore it?</string>
+    <string name="auto_backup_saved_at">Saved at: %1$s</string>
+    <string name="auto_backup_restore">Restore</string>
+    <string name="auto_backup_discard">Don\'t Restore</string>
+
 </resources>

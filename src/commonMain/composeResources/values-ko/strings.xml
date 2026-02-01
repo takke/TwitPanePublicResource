@@ -2695,4 +2695,11 @@
     <string name="progress_downloading_media">미디어 다운로드 중…</string>
     <string name="error_failed_to_download_media">미디어 다운로드 실패</string>
 
+    <!-- 자동 백업 -->
+    <string name="auto_backup_found_title">자동 백업 복원</string>
+    <string name="auto_backup_found_message">이전 자동 백업이 발견되었습니다. 복원하시겠습니까?</string>
+    <string name="auto_backup_saved_at">저장 시간: %1$s</string>
+    <string name="auto_backup_restore">복원</string>
+    <string name="auto_backup_discard">복원 안 함</string>
+
 </resources>

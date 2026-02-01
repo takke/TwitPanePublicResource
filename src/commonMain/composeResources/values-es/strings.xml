@@ -2695,4 +2695,11 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="progress_downloading_media">Descargando medios…</string>
     <string name="error_failed_to_download_media">Error al descargar medios</string>
 
+    <!-- 自動バックアップ -->
+    <string name="auto_backup_found_title">Restaurar copia de seguridad automática</string>
+    <string name="auto_backup_found_message">Se encontró una copia de seguridad automática anterior. ¿Desea restaurarla?</string>
+    <string name="auto_backup_saved_at">Guardado en: %1$s</string>
+    <string name="auto_backup_restore">Restaurar</string>
+    <string name="auto_backup_discard">No restaurar</string>
+
 </resources>
