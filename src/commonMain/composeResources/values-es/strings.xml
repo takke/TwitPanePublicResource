@@ -2702,4 +2702,8 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="auto_backup_restore">Restaurar</string>
     <string name="auto_backup_discard">No restaurar</string>
 
+    <!-- 新投稿画面 -->
+    <string name="config_use_compose_publish_mode">Usar nueva pantalla de redacción</string>
+    <string name="config_use_compose_publish_mode_summary">Usar la nueva pantalla de redacción desarrollada para iOS</string>
+
 </resources>

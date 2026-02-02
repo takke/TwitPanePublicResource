@@ -2739,4 +2739,8 @@
     <string name="auto_backup_restore">還原</string>
     <string name="auto_backup_discard">不還原</string>
 
+    <!-- 新發佈介面 -->
+    <string name="config_use_compose_publish_mode">使用新發佈介面</string>
+    <string name="config_use_compose_publish_mode_summary">使用為iOS開發的新發佈介面</string>
+
 </resources>

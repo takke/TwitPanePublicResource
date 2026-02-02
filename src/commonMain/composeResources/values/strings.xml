@@ -2785,4 +2785,8 @@ Reauthenticate on the next screen.</string>
     <string name="auto_backup_restore">Restore</string>
     <string name="auto_backup_discard">Don\'t Restore</string>
 
+    <!-- 新投稿画面 -->
+    <string name="config_use_compose_publish_mode">Use New Compose Screen</string>
+    <string name="config_use_compose_publish_mode_summary">Use the new compose screen developed for iOS</string>
+
 </resources>

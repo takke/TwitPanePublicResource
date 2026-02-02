@@ -2702,4 +2702,8 @@
     <string name="auto_backup_restore">복원</string>
     <string name="auto_backup_discard">복원 안 함</string>
 
+    <!-- 새로운 작성 화면 -->
+    <string name="config_use_compose_publish_mode">새로운 작성 화면 사용</string>
+    <string name="config_use_compose_publish_mode_summary">iOS용으로 새로 개발된 작성 화면을 사용합니다</string>
+
 </resources>

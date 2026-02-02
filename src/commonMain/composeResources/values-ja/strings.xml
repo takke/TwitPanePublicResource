@@ -2757,4 +2757,8 @@
     <string name="auto_backup_restore">復元する</string>
     <string name="auto_backup_discard">復元しない</string>
 
+    <!-- 新投稿画面 -->
+    <string name="config_use_compose_publish_mode">新投稿画面を使う</string>
+    <string name="config_use_compose_publish_mode_summary">iOS用に新規開発された新しい投稿画面を使用します</string>
+
 </resources>
