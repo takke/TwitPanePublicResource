@@ -1684,7 +1684,7 @@
     <string name="config_show_mushroom_button">絵文字選択ボタン</string>
     <string name="config_show_mushroom_button_summary">絵文字選択用のボタン(マッシュルームボタン)を表示する【初期値：ON】</string>
     <string name="config_use_screen_name_completion">@ 補完 (Blueskyは未対応)</string>
-    <string name="config_use_screen_name_completion_summary">\'@\'入力時にユーザー名の選択画面を表示します【初期値：ON】</string>
+    <string name="config_use_screen_name_completion_summary">@入力時にユーザー名の選択画面を表示します【初期値：ON】</string>
     <string name="config_show_actionbar_tweet_button_ついぺん">メニューでツイート</string>
     <string name="config_show_actionbar_tweet_button_ぞーぺん">メニューで投稿</string>
     <string name="config_show_actionbar_tweet_button_たいぺん">メニューでタイーツ</string>
