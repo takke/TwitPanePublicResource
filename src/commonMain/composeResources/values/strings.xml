@@ -2167,6 +2167,7 @@
     <string name="request_to_grant_storage_permission_on_settings">Require STORAGE permission to run this function.\n\nPlease grant permission of storage.</string>
     <string name="require_storage_permission">Require storage permission</string>
     <string name="require_notification_permission">Require notification permission</string>
+    <string name="publish_notification_permission_denied">Cannot start posting because notification permission was denied</string>
 
     <!-- ================================================================================ -->
     <!-- アカウント再認証、自動インポート関連 -->

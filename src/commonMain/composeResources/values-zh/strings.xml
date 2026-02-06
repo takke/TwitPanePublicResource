@@ -2142,6 +2142,7 @@
     <string name="request_to_grant_storage_permission_on_settings">需要访问本地文件的权限才能运行此功能。\n\n请授予访问本地文件的权限</string>
     <string name="require_storage_permission">需要访问本地文件的权限</string>
     <string name="require_notification_permission">Require notification permission</string>
+    <string name="publish_notification_permission_denied">由于通知权限被拒绝，无法开始发布</string>
 
     <!-- ================================================================================ -->
     <!-- アカウント再認証、自動インポート関連 -->
