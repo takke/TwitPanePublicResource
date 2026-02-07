@@ -1126,6 +1126,7 @@
     <string name="delete_hashtag_confirm">您确定要删除以下主题标签吗？</string>
     <string name="publish_picture_preview">预览</string>
     <string name="publish_picture_edit">编辑</string>
+    <string name="publish_picture_property">属性</string>
     <string name="publish_movie_cut_edit">剪切编辑</string>
     <string name="alt_text">Description</string>
     <string name="alt_text_placeholder">请输入图片描述</string>

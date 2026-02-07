@@ -1118,6 +1118,7 @@
     <string name="delete_hashtag_confirm">Are you sure you want to remove the following hashtag?</string>
     <string name="publish_picture_preview">Preview</string>
     <string name="publish_picture_edit">Edit</string>
+    <string name="publish_picture_property">Property</string>
     <string name="publish_movie_cut_edit">Cut Edit</string>
     <string name="alt_text">Description</string>
     <string name="alt_text_placeholder">Enter image description</string>

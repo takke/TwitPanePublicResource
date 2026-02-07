@@ -1139,6 +1139,7 @@
     <string name="delete_hashtag_confirm">下記のハッシュタグを削除してもよろしいですか？</string>
     <string name="publish_picture_preview">プレビュー</string>
     <string name="publish_picture_edit">編集</string>
+    <string name="publish_picture_property">プロパティ</string>
     <string name="publish_movie_cut_edit">カット編集</string>
     <string name="alt_text">代替テキスト</string>
     <string name="alt_text_placeholder">画像の説明を入力してください</string>

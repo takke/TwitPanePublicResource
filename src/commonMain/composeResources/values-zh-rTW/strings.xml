@@ -1129,6 +1129,7 @@
     <string name="delete_hashtag_confirm">您確定要刪除以下主題標籤嗎？</string>
     <string name="publish_picture_preview">預覽</string>
     <string name="publish_picture_edit">編輯</string>
+    <string name="publish_picture_property">屬性</string>
     <string name="publish_movie_cut_edit">剪下編輯</string>
     <string name="alt_text">Description</string>
     <string name="alt_text_placeholder">請輸入圖片描述</string>
