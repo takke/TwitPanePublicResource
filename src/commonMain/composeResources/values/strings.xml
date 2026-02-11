@@ -1694,8 +1694,9 @@
     <string name="config_gallery_action">Gallery Type</string>
     <string name="config_gallery_action_summary"></string>
     <string-array name="config_gallery_actions">
+        <item>PhotoPicker[default]</item>
         <item>Pick</item>
-        <item>GetContent[default]</item>
+        <item>GetContent</item>
     </string-array>
 
     <string name="config_confirm_settings_category">Confirm Settings</string>

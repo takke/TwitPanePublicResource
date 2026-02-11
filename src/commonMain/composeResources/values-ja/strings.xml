@@ -1713,8 +1713,9 @@
     <string name="config_gallery_action">画像選択ギャラリーの種類</string>
     <string name="config_gallery_action_summary">ギャラリーアプリが複数インストールされている場合、Pickにすると常時選択設定が可能です。また、GetContentにするとDropbox等のギャラリーからも選択できます。現在の値：%s</string>
     <string-array name="config_gallery_actions">
+        <item>PhotoPicker【初期値】</item>
         <item>Pick</item>
-        <item>GetContent【初期値】</item>
+        <item>GetContent</item>
     </string-array>
 		
 	<string name="config_confirm_settings_category">確認設定</string>

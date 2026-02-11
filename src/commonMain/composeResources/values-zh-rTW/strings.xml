@@ -1687,8 +1687,9 @@
     <string name="config_gallery_action">畫廊型別</string>
     <string name="config_gallery_action_summary"></string>
     <string-array name="config_gallery_actions">
+        <item>PhotoPicker[default]</item>
         <item>Pick</item>
-        <item>GetContent[default]</item>
+        <item>GetContent</item>
     </string-array>
 
     <string name="config_confirm_settings_category">確認設定</string>
