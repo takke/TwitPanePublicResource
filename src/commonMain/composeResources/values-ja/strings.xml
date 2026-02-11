@@ -1711,11 +1711,10 @@
     <string name="config_auto_save_count">自動保存件数</string>
     <string name="config_auto_save_count_none">なし</string>
     <string name="config_gallery_action">画像選択ギャラリーの種類</string>
-    <string name="config_gallery_action_summary">ギャラリーからの選択方法を変更できます。\nPhotoPicker: OS標準の画像選択画面です。\nPick: 複数のギャラリーアプリがインストールされている場合に常時選択が可能です。\nGetContent: Dropbox等のアプリからも選択できます。\n現在の値：%s</string>
+    <string name="config_gallery_action_summary">ギャラリーからの選択方法を変更できます。\nPhotoPicker: OS標準の画像選択画面です。\nPick: 複数のギャラリーアプリがインストールされている場合に常時選択が可能です。\n現在の値：%s</string>
     <string-array name="config_gallery_actions">
         <item>PhotoPicker【初期値】</item>
         <item>Pick</item>
-        <item>GetContent</item>
     </string-array>
 		
 	<string name="config_confirm_settings_category">確認設定</string>

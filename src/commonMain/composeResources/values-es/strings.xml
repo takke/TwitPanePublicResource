@@ -1688,11 +1688,10 @@
     <string name="config_auto_save_count">Guardado automático de borradores</string>
     <string name="config_auto_save_count_none">Ninguno</string>
     <string name="config_gallery_action">Tipo de Galería</string>
-    <string name="config_gallery_action_summary"></string>
+    <string name="config_gallery_action_summary">Puede cambiar cómo se seleccionan las imágenes de la galería.\nPhotoPicker: El selector de imágenes estándar del sistema.\nPick: Permite elegir siempre entre varias apps de galería si están instaladas.\nValor actual: %s</string>
     <string-array name="config_gallery_actions">
         <item>PhotoPicker[default]</item>
         <item>Pick</item>
-        <item>GetContent</item>
     </string-array>
 
     <string name="config_confirm_settings_category">Confirmación</string>

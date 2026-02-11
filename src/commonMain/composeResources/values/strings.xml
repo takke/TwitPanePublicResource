@@ -1692,11 +1692,10 @@
     <string name="config_auto_save_count">Auto save count</string>
     <string name="config_auto_save_count_none">None</string>
     <string name="config_gallery_action">Gallery Type</string>
-    <string name="config_gallery_action_summary"></string>
+    <string name="config_gallery_action_summary">You can change how images are selected from the gallery.\nPhotoPicker: The standard OS image picker.\nPick: Allows you to always choose between multiple gallery apps if installed.\nCurrent value: %s</string>
     <string-array name="config_gallery_actions">
         <item>PhotoPicker[default]</item>
         <item>Pick</item>
-        <item>GetContent</item>
     </string-array>
 
     <string name="config_confirm_settings_category">Confirm Settings</string>

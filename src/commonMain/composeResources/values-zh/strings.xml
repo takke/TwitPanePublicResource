@@ -1685,11 +1685,10 @@
     <string name="config_auto_save_count">自动保存数</string>
     <string name="config_auto_save_count_none">无</string>
     <string name="config_gallery_action">画廊类型</string>
-    <string name="config_gallery_action_summary"></string>
+    <string name="config_gallery_action_summary">可以更改从图库选择图片的方式。\nPhotoPicker：系统标准的图片选择界面。\nPick：安装了多个图库应用时可以随时选择。\n当前值：%s</string>
     <string-array name="config_gallery_actions">
         <item>PhotoPicker[default]</item>
         <item>Pick</item>
-        <item>GetContent</item>
     </string-array>
 
     <string name="config_confirm_settings_category">确认设置</string>
