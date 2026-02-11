@@ -1186,6 +1186,8 @@
     <string name="publish_image_max_count_error">画像は最大4枚まで添付できます</string>
     <string name="publish_image_max_count_error_misskey">ファイルは最大16枚まで添付できます</string>
     <string name="publish_select_image">画像を選択</string>
+    <string name="publish_select_image_from_folder">画像を選択(フォルダから選択)</string>
+    <string name="publish_select_image_gallery">画像を選択(ギャラリー)</string>
     <string name="publish_select_video">動画を選択</string>
     <string name="publish_video_too_large">動画ファイルが大きすぎます(最大%1$dMB)</string>
     <string name="publish_video_too_long_bluesky">動画が長すぎます(最大%1$d分)</string>

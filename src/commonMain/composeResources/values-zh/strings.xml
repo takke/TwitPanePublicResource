@@ -1172,6 +1172,8 @@
     <string name="publish_image_max_count_error">最多可以添加4张图片</string>
     <string name="publish_image_max_count_error_misskey">最多可以添加16个文件</string>
     <string name="publish_select_image">选择图片</string>
+    <string name="publish_select_image_from_folder">选择图片（从文件夹选择）</string>
+    <string name="publish_select_image_gallery">选择图片（图库）</string>
     <string name="publish_select_video">选择视频</string>
     <string name="publish_video_too_large">视频文件过大(最大%1$dMB)</string>
     <string name="publish_video_too_long_bluesky">视频过长(最长%1$d分钟)</string>

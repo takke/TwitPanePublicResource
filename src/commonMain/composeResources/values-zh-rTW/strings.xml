@@ -1175,6 +1175,8 @@
     <string name="publish_image_max_count_error">最多可以新增4張圖片</string>
     <string name="publish_image_max_count_error_misskey">最多可以新增16個檔案</string>
     <string name="publish_select_image">選擇圖片</string>
+    <string name="publish_select_image_from_folder">選擇圖片（從資料夾選擇）</string>
+    <string name="publish_select_image_gallery">選擇圖片（圖庫）</string>
     <string name="publish_select_video">選擇影片</string>
     <string name="publish_video_too_large">影片檔案過大(最大%1$dMB)</string>
     <string name="publish_video_too_long_bluesky">影片過長(最長%1$d分鐘)</string>

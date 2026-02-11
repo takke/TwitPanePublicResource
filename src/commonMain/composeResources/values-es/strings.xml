@@ -1173,6 +1173,8 @@
     <string name="publish_image_max_count_error">Puedes adjuntar hasta 4 imágenes</string>
     <string name="publish_image_max_count_error_misskey">Puedes adjuntar hasta 16 archivos</string>
     <string name="publish_select_image">Seleccionar imagen</string>
+    <string name="publish_select_image_from_folder">Seleccionar imagen (desde carpeta)</string>
+    <string name="publish_select_image_gallery">Seleccionar imagen (galería)</string>
     <string name="publish_select_video">Seleccionar video</string>
     <string name="publish_video_too_large">El archivo de video es demasiado grande (máximo %1$dMB)</string>
     <string name="publish_video_too_long_bluesky">El video es demasiado largo (máximo %1$d minutos)</string>

@@ -1164,6 +1164,8 @@
     <string name="publish_image_max_count_error">You can attach up to 4 images</string>
     <string name="publish_image_max_count_error_misskey">You can attach up to 16 files</string>
     <string name="publish_select_image">Select image</string>
+    <string name="publish_select_image_from_folder">Select image (from folder)</string>
+    <string name="publish_select_image_gallery">Select image (gallery)</string>
     <string name="publish_select_video">Select video</string>
     <string name="publish_video_too_large">Video file is too large (maximum %1$dMB)</string>
     <string name="publish_video_too_long_bluesky">Video is too long (maximum %1$d minutes)</string>

@@ -1173,6 +1173,8 @@
     <string name="publish_image_max_count_error">최대 4개의 이미지를 첨부할 수 있습니다</string>
     <string name="publish_image_max_count_error_misskey">최대 16개의 파일을 첨부할 수 있습니다</string>
     <string name="publish_select_image">이미지 선택</string>
+    <string name="publish_select_image_from_folder">이미지 선택 (폴더에서 선택)</string>
+    <string name="publish_select_image_gallery">이미지 선택 (갤러리)</string>
     <string name="publish_select_video">동영상 선택</string>
     <string name="publish_video_too_large">동영상 파일이 너무 큽니다(최대 %1$dMB)</string>
     <string name="publish_video_too_long_bluesky">동영상이 너무 깁니다(최대 %1$d분)</string>
