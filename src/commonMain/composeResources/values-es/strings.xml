@@ -2077,6 +2077,8 @@
     <string name="profile_notes">Notas</string>
     <string name="profile_follows">Sigue a</string>
     <string name="profile_followers">Seguidores</string>
+    <string name="profile_likes">Me gusta</string>
+    <string name="profile_favorites">Favoritos</string>
 
     <!-- Place画面の位置情報設定確認画面 -->
     <string name="place_activity_location_setting_dialog_title">Servicio de localización</string>

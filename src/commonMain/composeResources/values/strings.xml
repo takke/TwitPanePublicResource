@@ -2139,6 +2139,8 @@
     <string name="profile_notes">Notes</string>
     <string name="profile_follows">Follows</string>
     <string name="profile_followers">Followers</string>
+    <string name="profile_likes">Likes</string>
+    <string name="profile_favorites">Favorites</string>
 
     <!-- Place画面の位置情報設定確認画面 -->
     <string name="place_activity_location_setting_dialog_title">Location Service</string>

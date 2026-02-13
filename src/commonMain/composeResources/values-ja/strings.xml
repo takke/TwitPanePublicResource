@@ -2119,6 +2119,8 @@
     <string name="profile_notes">ノート</string>
     <string name="profile_follows">フォロー</string>
     <string name="profile_followers">フォロワー</string>
+    <string name="profile_likes">いいね</string>
+    <string name="profile_favorites">お気に入り</string>
 
     <!-- Place画面の位置情報設定確認画面 -->
     <string name="place_activity_location_setting_dialog_title">現在地機能を改善</string>

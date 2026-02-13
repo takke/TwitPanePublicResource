@@ -2114,6 +2114,8 @@
     <string name="profile_notes">筆記</string>
     <string name="profile_follows">關注</string>
     <string name="profile_followers">關注者</string>
+    <string name="profile_likes">喜歡</string>
+    <string name="profile_favorites">收藏</string>
 
     <!-- Place畫面の位置情報設定確認畫面 -->
     <string name="place_activity_location_setting_dialog_title">位置服務</string>

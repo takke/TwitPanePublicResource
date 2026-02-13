@@ -2077,6 +2077,8 @@
     <string name="profile_notes">노트</string>
     <string name="profile_follows">팔로우</string>
     <string name="profile_followers">팔로워</string>
+    <string name="profile_likes">좋아요</string>
+    <string name="profile_favorites">즐겨찾기</string>
 
     <!-- Place画面の位置情報設定確認画面 -->
     <string name="place_activity_location_setting_dialog_title">위치 서비스</string>
