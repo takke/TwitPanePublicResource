@@ -2744,6 +2744,6 @@
 
     <!-- 新發佈介面 -->
     <string name="config_use_compose_publish_mode">使用新發佈介面</string>
-    <string name="config_use_compose_publish_mode_summary">使用為iOS開發嘅新發佈介面</string>
+    <string name="config_use_compose_publish_mode_summary">使用新開發嘅發佈介面</string>
 
 </resources>

@@ -2763,6 +2763,6 @@
 
     <!-- 新投稿画面 -->
     <string name="config_use_compose_publish_mode">新投稿画面を有効にする</string>
-    <string name="config_use_compose_publish_mode_summary">iOS用に新規開発された新しい投稿画面を使用します</string>
+    <string name="config_use_compose_publish_mode_summary">新しく開発された投稿画面を使用します</string>
 
 </resources>

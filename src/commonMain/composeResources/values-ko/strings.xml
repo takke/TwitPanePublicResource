@@ -2708,6 +2708,6 @@
 
     <!-- 새로운 작성 화면 -->
     <string name="config_use_compose_publish_mode">새로운 작성 화면 사용</string>
-    <string name="config_use_compose_publish_mode_summary">iOS용으로 새로 개발된 작성 화면을 사용합니다</string>
+    <string name="config_use_compose_publish_mode_summary">새로 개발된 작성 화면을 사용합니다</string>
 
 </resources>
