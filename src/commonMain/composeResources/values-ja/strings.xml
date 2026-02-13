@@ -245,6 +245,7 @@
     <string name="favorite_confirm_message_like">このツイートをいいねしますか？</string>
     <string name="favorite_confirm_message_like_taittsuu">このタイーツをいいねしますか？</string>
     <string name="favorite_confirm_message_like_bluesky">この投稿をいいねしますか？</string>
+    <string name="open_link_confirm_message">このリンクを開きますか？</string>
     <string name="choose_account_for_like_bluesky">どのアカウントからいいねしますか？</string>
     <string name="choose_account_for_bookmark_bluesky">どのアカウントからブックマークしますか？</string>
     <string name="created_favorite_message_like">いいねしました</string>
@@ -1723,6 +1724,7 @@
 	<string name="config_summary_default_on">【初期値：ON】</string>
 	<string name="config_summary_default_off">【初期値：OFF】</string>
     <string name="config_show_image_save_confirm_dialog_title">画像の保存</string>
+    <string name="config_show_open_link_confirm_dialog_title">リンクを開く前</string>
     <string name="config_confirm_settings_notice_about_another_account">アカウントを選択してリツイートやいいねをする場合は、確認設定がONでもアカウントを選択した後すぐにリツイートやいいねが実行されます</string>
 
 	<string name="config_mute_settings_category">ミュート設定</string>

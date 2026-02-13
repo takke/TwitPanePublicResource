@@ -245,6 +245,7 @@
     <string name="favorite_confirm_message_like">收藏此推文？</string>
     <string name="favorite_confirm_message_like_taittsuu">喜欢这条Taiitsu？</string>
     <string name="favorite_confirm_message_like_bluesky">喜欢这个帖子？</string>
+    <string name="open_link_confirm_message">打开此链接？</string>
     <string name="choose_account_for_like_bluesky">您要使用哪个账户为这个帖子点赞？</string>
     <string name="choose_account_for_bookmark_bluesky">您要使用哪个账户为此帖子添加书签？</string>
     <string name="created_favorite_message_like">已收藏</string>
@@ -1697,6 +1698,7 @@
     <string name="config_summary_default_on">[default: ON]</string>
     <string name="config_summary_default_off">[default: OFF]</string>
     <string name="config_show_image_save_confirm_dialog_title">图片另存</string>
+    <string name="config_show_open_link_confirm_dialog_title">打开链接前</string>
     <string name="config_confirm_settings_notice_about_another_account">如果你选择了一个账户来转发或点赞，那么在你选择账户后，转发或点赞将立即执行，即使已开启了确认。</string>
 
     <string name="config_mute_settings_category">静音设置</string>

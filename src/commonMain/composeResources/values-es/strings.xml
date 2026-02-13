@@ -244,6 +244,7 @@
     <string name="destroyed_favorite_message_favorite">Eliminado como favorito</string>
     <string name="favorite_confirm_message_like">¿Quieres recibir este tweet?</string>
     <string name="favorite_confirm_message_like_bluesky">¿Quieres dar me gusta a esta publicación?</string>
+    <string name="open_link_confirm_message">¿Abrir este enlace?</string>
     <string name="choose_account_for_like_bluesky">¿Desde qué cuenta quieres dar me gusta a esta publicación?</string>
     <string name="choose_account_for_bookmark_bluesky">¿Desde qué cuenta quieres guardar esta publicación en marcadores?</string>
     <string name="favorite_confirm_message_like_taittsuu">¿Te gusta este taiitsu?</string>
@@ -1700,6 +1701,7 @@
     <string name="config_summary_default_on">[default: ON]</string>
     <string name="config_summary_default_off">[default: OFF]</string>
     <string name="config_show_image_save_confirm_dialog_title">Guardar Imagen</string>
+    <string name="config_show_open_link_confirm_dialog_title">Antes de abrir el enlace</string>
     <string name="config_confirm_settings_notice_about_another_account">Cuando se selecciona una cuenta y retweets o parecido, aunque el ajuste de confirmación está en ON, retweets y gustos se ejecutan inmediatamente después de seleccionar la cuenta</string>
 
     <string name="config_mute_settings_category">Silencio/Filtros</string>

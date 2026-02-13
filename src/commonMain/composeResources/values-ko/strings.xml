@@ -245,6 +245,7 @@
     <string name="favorite_confirm_message_like">이 트윗을 좋아요 하시겠습니까?</string>
     <string name="favorite_confirm_message_like_taittsuu">이 타이쓰를 좋아요 하시겠습니까?</string>
     <string name="favorite_confirm_message_like_bluesky">이 게시물을 좋아요 하시겠습니까?</string>
+    <string name="open_link_confirm_message">이 링크를 여시겠습니까?</string>
     <string name="choose_account_for_like_bluesky">어떤 계정으로 이 게시물을 좋아요 하시겠습니까?</string>
     <string name="choose_account_for_bookmark_bluesky">어떤 계정으로 북마크하시겠습니까?</string>
     <string name="created_favorite_message_like">마음</string>
@@ -1700,6 +1701,7 @@
     <string name="config_summary_default_on">[default: ON]</string>
     <string name="config_summary_default_off">[default: OFF]</string>
     <string name="config_show_image_save_confirm_dialog_title">이미지 저장</string>
+    <string name="config_show_open_link_confirm_dialog_title">링크를 열기 전</string>
     <string name="config_confirm_settings_notice_about_another_account">당신은 계정과 리트 윗하거나 같은를 선택하면, 확인 설정이 ON 인 경우에도 리트 윗하고 좋아하는 계정을 선택한 후 즉시 실행됩니다</string>
 
 	<string name="config_mute_settings_category">사용자 뮤트 설정</string>

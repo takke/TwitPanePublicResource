@@ -245,6 +245,7 @@
     <string name="favorite_confirm_message_like">Like this tweet?</string>
     <string name="favorite_confirm_message_like_taittsuu">Like this taiitsu?</string>
     <string name="favorite_confirm_message_like_bluesky">Like this post?</string>
+    <string name="open_link_confirm_message">Open this link?</string>
     <string name="choose_account_for_like_bluesky">Which account would you like to use to like this post?</string>
     <string name="choose_account_for_bookmark_bluesky">Which account would you like to use to bookmark this post?</string>
     <string name="created_favorite_message_like">Liked</string>
@@ -1704,6 +1705,7 @@
     <string name="config_summary_default_on">[default: ON]</string>
     <string name="config_summary_default_off">[default: OFF]</string>
     <string name="config_show_image_save_confirm_dialog_title">Image Save</string>
+    <string name="config_show_open_link_confirm_dialog_title">Before opening link</string>
     <string name="config_confirm_settings_notice_about_another_account">When you select an account and retweet or like it, even if the confirmation setting is ON, retweets and likes are executed immediately after selecting the account.</string>
 
     <string name="config_mute_settings_category">Mute Settings</string>

@@ -244,6 +244,7 @@
     <string name="destroyed_favorite_message_favorite">已取消收藏</string>
     <string name="favorite_confirm_message_like">收藏此推文？</string>
     <string name="favorite_confirm_message_like_bluesky">喜歡這個帖文？</string>
+    <string name="open_link_confirm_message">打開此連結？</string>
     <string name="choose_account_for_like_bluesky">您要使用哪個帳戶為這個帖文點讚？</string>
     <string name="choose_account_for_bookmark_bluesky">您要使用哪個帳戶為此帖文新增書籤？</string>
     <string name="favorite_confirm_message_like_taittsuu">對此Taitsu讚好？</string>
@@ -1698,6 +1699,7 @@
     <string name="config_summary_default_on">[default: ON]</string>
     <string name="config_summary_default_off">[default: OFF]</string>
     <string name="config_show_image_save_confirm_dialog_title">圖片另存</string>
+    <string name="config_show_open_link_confirm_dialog_title">打開連結前</string>
     <string name="config_confirm_settings_notice_about_another_account">如果你選擇了一個賬户來轉發或點贊，那麼在你選擇賬戶後，轉發或點贊將立即執行，即使已開啓了確認。</string>
 
     <string name="config_mute_settings_category">靜音設置</string>
