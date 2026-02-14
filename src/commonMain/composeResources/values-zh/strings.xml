@@ -1092,6 +1092,7 @@
     <string name="hashtag_remove_confirm_message">删除此主题标签吗？</string>
     <string name="no_recent_hashtags">没有最近的主题标签</string>
     <string name="hashtag_reorder_description">仅可对固定的主题标签进行排序</string>
+    <string name="hashtag_reorder_empty_description">没有固定的主题标签。\n点击主题标签旁边的图钉图标可以固定。</string>
     <string name="screen_name_select">选择回复用户</string>
     <string name="reload_screen_name_list_confirm_title">重新加载确认</string>
     <string name="reload_screen_name_list_confirm_message">要重新加载关注用户和关注者的名单吗？</string>

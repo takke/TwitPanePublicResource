@@ -1103,6 +1103,7 @@
     <string name="hashtag_remove_confirm_message">本当にこのハッシュタグを削除しますか？</string>
     <string name="no_recent_hashtags">最近使ったハッシュタグはありません</string>
     <string name="hashtag_reorder_description">ピン留めしたハッシュタグのみ並べ替えができます</string>
+    <string name="hashtag_reorder_empty_description">ピン留めしたハッシュタグはありません\nハッシュタグの横にあるピンアイコンをタップするとピン留めできます</string>
     <string name="screen_name_select">返信ユーザー選択</string>
     <string name="reload_screen_name_list_confirm_title">リロード確認</string>
     <string name="reload_screen_name_list_confirm_message">フォローとフォロワーの一覧を再取得します。よろしいですか？

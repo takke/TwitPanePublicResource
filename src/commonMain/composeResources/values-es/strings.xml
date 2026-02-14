@@ -1093,6 +1093,7 @@
     <string name="hashtag_remove_confirm_message">¿Eliminar este hashtag?</string>
     <string name="no_recent_hashtags">No hay hashtags recientes</string>
     <string name="hashtag_reorder_description">Solo los hashtags anclados se pueden reordenar</string>
+    <string name="hashtag_reorder_empty_description">No hay hashtags anclados.\nToca el icono de anclar junto a un hashtag para anclarlo.</string>
     <string name="screen_name_select">Seleccionar contestar al usuario</string>
     <string name="reload_screen_name_list_confirm_title">Confirmar actualización</string>
     <string name="reload_screen_name_list_confirm_message">Actualizar la lista de los usuarios que siguen y seguidores, ¿Aceptar?</string>
