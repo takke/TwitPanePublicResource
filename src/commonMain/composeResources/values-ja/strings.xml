@@ -1698,6 +1698,8 @@
     <string name="config_show_actionbar_tweet_button_summary_たいぺん">上部メニューにタイーツボタンを表示します【初期値：OFF】</string>
     <string name="config_publish_button_on_bottom">投稿ボタンを下に配置する</string>
     <string name="config_publish_button_on_bottom_summary">投稿ボタンを下部ツールバーに配置します【初期値：ON】</string>
+    <string name="config_visibility_button_on_bottom">公開範囲ボタンを下に配置する</string>
+    <string name="config_visibility_button_on_bottom_summary">公開範囲ボタンを下部ツールバーに配置します【初期値:OFF】</string>
     <string name="config_hide_publish_reply_area_by_default_title">返信エリアの非表示</string>
     <string name="config_hide_publish_reply_area_by_default_summary">返信時に返信エリアを閉じた状態で投稿画面を開きます【初期値：OFF】</string>
     <string name="config_show_after_published_banner_ad_title">投稿後の広告を常に表示</string>
