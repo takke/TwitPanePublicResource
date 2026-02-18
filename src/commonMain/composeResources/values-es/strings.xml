@@ -947,6 +947,7 @@
     <string name="copy_option_display_name_handle_with_body">Nombre + @identificador + cuerpo</string>
     <string name="copy_option_custom_selection">Seleccionar...</string>
     <string name="copy_option_custom_selection_preview">Puedes seleccionar libremente. También puedes buscar con la parte seleccionada</string>
+    <string name="copy_option_original_post_url">URL de la publicación original</string>
     <string name="menu_emoji_reaction">Emoji reaction</string>
     <string name="menu_show_custom_emojis">Show custom emojis</string>
     <string name="emoji_unreactioned">Removed.</string>

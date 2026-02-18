@@ -947,6 +947,7 @@
     <string name="copy_option_display_name_handle_with_body">표시 이름 + @핸들 + 본문</string>
     <string name="copy_option_custom_selection">선택...</string>
     <string name="copy_option_custom_selection_preview">자유롭게 선택할 수 있습니다. 선택한 부분으로 검색도 가능합니다</string>
+    <string name="copy_option_original_post_url">원본 게시물 URL</string>
     <string name="menu_emoji_reaction">Emoji reaction</string>
     <string name="menu_show_custom_emojis">Show custom emojis</string>
     <string name="emoji_unreactioned">Removed.</string>

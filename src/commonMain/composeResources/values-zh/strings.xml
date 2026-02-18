@@ -946,6 +946,7 @@
     <string name="copy_option_display_name_handle_with_body">显示名称 + @用户名 + 正文</string>
     <string name="copy_option_custom_selection">选择...</string>
     <string name="copy_option_custom_selection_preview">您可以自由选择。也可以用选择的部分进行搜索</string>
+    <string name="copy_option_original_post_url">原始帖子URL</string>
     <string name="menu_emoji_reaction">Emoji reaction</string>
     <string name="menu_show_custom_emojis">Show custom emojis</string>
     <string name="emoji_unreactioned">Removed.</string>

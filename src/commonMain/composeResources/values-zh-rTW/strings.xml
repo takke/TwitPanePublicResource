@@ -949,6 +949,7 @@
     <string name="copy_option_display_name_handle_with_body">顯示名稱 + @使用者名稱 + 內文</string>
     <string name="copy_option_custom_selection">選擇...</string>
     <string name="copy_option_custom_selection_preview">您可以自由選擇。也可以使用選擇的部分進行搜尋</string>
+    <string name="copy_option_original_post_url">原始貼文URL</string>
     <string name="menu_emoji_reaction">Emoji reaction</string>
     <string name="menu_show_custom_emojis">Show custom emojis</string>
     <string name="emoji_unreactioned">Removed.</string>
