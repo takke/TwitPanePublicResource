@@ -849,6 +849,7 @@
     <string name="menu_show_media_timeline_mastodon">メディア付きの投稿を表示</string>
     <string name="menu_show_media_timeline_misskey">メディア付きのノートを表示</string>
     <string name="menu_show_media_timeline_bluesky">メディア付きの投稿を表示</string>
+    <string name="menu_show_original_post">元の投稿を表示する</string>
     <string name="menu_show_video_timeline">ビデオ付きのツイートを表示</string>
     <string name="menu_show_video_timeline_bluesky">ビデオ付きのポストを表示</string>
     <string name="menu_user_show_list">ユーザーのリストを表示</string>

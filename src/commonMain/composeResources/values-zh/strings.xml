@@ -840,6 +840,7 @@
     <string name="menu_show_media_timeline_mastodon">显示媒体时间轴</string>
     <string name="menu_show_media_timeline_misskey">显示媒体时间轴</string>
     <string name="menu_show_media_timeline_bluesky">显示媒体时间轴</string>
+    <string name="menu_show_original_post">显示原始帖子</string>
     <string name="menu_show_video_timeline">显示视频时间轴</string>
     <string name="menu_show_video_timeline_bluesky">显示带视频的帖子</string>
     <string name="menu_user_show_list">显示列表</string>

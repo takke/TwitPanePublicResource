@@ -839,6 +839,7 @@
     <string name="menu_show_media_timeline_mastodon">Mostrar la cronología de los medios de comunicación</string>
     <string name="menu_show_media_timeline_misskey">Mostrar la cronología de los medios de comunicación</string>
     <string name="menu_show_media_timeline_bluesky">Mostrar la cronología de los medios de comunicación</string>
+    <string name="menu_show_original_post">Mostrar publicación original</string>
     <string name="menu_show_video_timeline">Mostrar la cronología de los vídeos</string>
     <string name="menu_show_video_timeline_bluesky">Mostrar publicaciones con vídeos</string>
     <string name="menu_user_show_list">Mostrar listas</string>

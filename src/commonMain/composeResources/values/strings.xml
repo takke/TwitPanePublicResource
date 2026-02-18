@@ -835,6 +835,7 @@
     <string name="menu_show_media_timeline_mastodon">Show media timeline</string>
     <string name="menu_show_media_timeline_misskey">Show media timeline</string>
     <string name="menu_show_media_timeline_bluesky">Show media timeline</string>
+    <string name="menu_show_original_post">Show original post</string>
     <string name="menu_show_video_timeline">Show video timeline</string>
     <string name="menu_show_video_timeline_bluesky">Show posts with videos</string>
     <string name="menu_user_show_list">Show lists</string>
