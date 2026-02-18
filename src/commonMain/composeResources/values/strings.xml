@@ -2178,6 +2178,9 @@
     <string name="require_storage_permission">Require storage permission</string>
     <string name="require_notification_permission">Require notification permission</string>
     <string name="publish_notification_permission_denied">Cannot start posting because notification permission was denied</string>
+    <string name="publish_recommend_background_post">Uploading images and videos may take some time.\nBackground posting requires notification permission.</string>
+    <string name="publish_recommend_background_post_accept">Allow notifications (Recommended)</string>
+    <string name="publish_recommend_background_post_decline">Post without it</string>
 
     <!-- ================================================================================ -->
     <!-- アカウント再認証、自動インポート関連 -->

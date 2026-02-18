@@ -2158,6 +2158,9 @@
     <string name="require_storage_permission">本機能の実行には「ストレージ」権限が必要です。次の画面で許可してください</string>
     <string name="require_notification_permission">本アプリの動作には「通知」権限が必要です。\n・投稿や自動更新をバックグラウンドで行いますが、この際に通知を表示する必要があります(Androidシステムから停止されることを防ぎます)\n次の画面で許可してください</string>
     <string name="publish_notification_permission_denied">通知権限が拒否されたため、投稿を開始できません</string>
+    <string name="publish_recommend_background_post">画像や動画のアップロードには時間がかかることがあります。\nバックグラウンドでの投稿には通知権限が必要です。</string>
+    <string name="publish_recommend_background_post_accept">通知を許可する（推奨）</string>
+    <string name="publish_recommend_background_post_decline">このまま投稿する</string>
 
     <!-- ================================================================================ -->
     <!-- アカウント再認証、自動インポート関連 -->
