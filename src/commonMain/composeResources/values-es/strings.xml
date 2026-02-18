@@ -2116,7 +2116,7 @@
     <string name="require_storage_permission">Require storage permission</string>
     <string name="require_notification_permission">Require notification permission</string>
     <string name="publish_notification_permission_denied">No se puede iniciar la publicación porque el permiso de notificaciones fue denegado</string>
-    <string name="publish_recommend_background_post">La carga de imágenes y videos puede llevar tiempo.\nLa publicación en segundo plano requiere permiso de notificaciones.</string>
+    <string name="publish_recommend_background_post">La carga de imágenes y videos puede llevar tiempo, por lo que se recomienda la publicación en segundo plano.\nLa publicación en segundo plano requiere permiso de notificaciones.\n(Mostrar una notificación durante la publicación evita que el sistema detenga el proceso.)</string>
     <string name="publish_recommend_background_post_accept">Permitir notificaciones (Recomendado)</string>
     <string name="publish_recommend_background_post_decline">Publicar sin permiso</string>
 

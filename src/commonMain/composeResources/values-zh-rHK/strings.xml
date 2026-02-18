@@ -2152,7 +2152,7 @@
     <string name="require_storage_permission">需要訪問本地文件的權限</string>
     <string name="require_notification_permission">Require notification permission</string>
     <string name="publish_notification_permission_denied">由於通知權限被拒絕，無法開始發佈</string>
-    <string name="publish_recommend_background_post">上傳圖片和影片可能需要一些時間。\n背景發佈需要通知權限。</string>
+    <string name="publish_recommend_background_post">上傳圖片和影片可能需要一些時間，建議使用背景發佈。\n背景發佈需要通知權限。\n(發佈時顯示通知可防止系統停止處理。)</string>
     <string name="publish_recommend_background_post_accept">允許通知（建議）</string>
     <string name="publish_recommend_background_post_decline">不授權直接發佈</string>
 
