@@ -1352,6 +1352,11 @@
     <string name="config_unread_count_on_right_of_title_summary">標題的右側顯示未讀郵件數</string>
     <string name="config_auto_hide_toolbar">自動隱藏標題欄</string>
     <string name="config_auto_hide_toolbar_summary">滾動時間軸時自動隱藏應用標題部分[默認：開]</string>
+    <string name="config_title_tab_spacing">應用標題欄同標籤頁</string>
+    <string name="config_title_tab_spacing_height">應用標題欄同標籤頁間距</string>
+    <string name="config_title_tab_spacing_compact">緊湊</string>
+    <string name="config_title_tab_spacing_standard">標準</string>
+    <string name="config_title_tab_spacing_wide">寬鬆</string>
     <string name="config_snackbar_for_like_rt_notice_twitpane">點贊和轉推通知的新方式</string>
     <string name="config_snackbar_for_like_rt_notice_zonepane">點贊和轉發通知的新方式</string>
     <string name="config_snackbar_for_like_rt_notice_taipane">點贊和轉推通知的新方式</string>

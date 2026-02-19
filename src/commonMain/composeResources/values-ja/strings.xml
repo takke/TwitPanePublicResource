@@ -1366,6 +1366,11 @@
     <string name="config_unread_count_on_right_of_title_summary">アプリタイトルの右側に未読件数を表示します。OFFの場合はアプリ名・アカウント名の後に表示します【初期値：OFF】</string>
     <string name="config_auto_hide_toolbar">タイトルバーの自動開閉</string>
     <string name="config_auto_hide_toolbar_summary">アプリタイトル部分をタイムラインのスクロールで自動的に開閉します。【初期値：ON】</string>
+    <string name="config_title_tab_spacing">アプリタイトルバーとタブ</string>
+    <string name="config_title_tab_spacing_height">アプリタイトルバーとタブの余白</string>
+    <string name="config_title_tab_spacing_compact">コンパクト</string>
+    <string name="config_title_tab_spacing_standard">標準</string>
+    <string name="config_title_tab_spacing_wide">広め</string>
     <string name="config_snackbar_for_like_rt_notice_twitpane">いいねとRT通知の新方式</string>
     <string name="config_snackbar_for_like_rt_notice_zonepane">いいねとRP通知の新方式</string>
     <string name="config_snackbar_for_like_rt_notice_taipane">いいねとRT通知の新方式</string>

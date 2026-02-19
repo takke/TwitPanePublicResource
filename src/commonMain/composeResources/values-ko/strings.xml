@@ -1351,6 +1351,11 @@
     <string name="config_unread_count_on_right_of_title_summary">제목 오른쪽에 읽지 않은 수를 표시</string>
     <string name="config_auto_hide_toolbar">제목 표시줄 자동 숨김</string>
     <string name="config_auto_hide_toolbar_summary">타임라인 스크롤시 앱 제목 부분을 자동으로 닫습니다. [기본값: ON]</string>
+    <string name="config_title_tab_spacing">앱 제목 표시줄과 탭</string>
+    <string name="config_title_tab_spacing_height">앱 제목 표시줄과 탭 여백</string>
+    <string name="config_title_tab_spacing_compact">컴팩트</string>
+    <string name="config_title_tab_spacing_standard">표준</string>
+    <string name="config_title_tab_spacing_wide">넓게</string>
     <string name="config_snackbar_for_like_rt_notice_twitpane">좋아요와 리트윗 알림의 새로운 방식</string>
     <string name="config_snackbar_for_like_rt_notice_zonepane">좋아요와 리포스트 알림의 새로운 방식</string>
     <string name="config_snackbar_for_like_rt_notice_taipane">좋아요와 리트윗 알림의 새로운 방식</string>
