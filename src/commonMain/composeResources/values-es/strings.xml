@@ -917,6 +917,8 @@
     <string name="menu_scroll_to_top">Desplazarse hacia arriba</string>
     <string name="menu_move_to_top">Mover arriba</string>
     <string name="menu_scroll_to_bottom">Desplácese hacia abajo</string>
+    <string name="menu_scroll_to_upper_gap">Saltar a … superior</string>
+    <string name="menu_scroll_to_lower_gap">Saltar a … inferior</string>
     <string name="menu_move_to_bottom">Mover abajo</string>
     <string name="menu_move_up">Ascender</string>
     <string name="menu_move_down">Mover hacia abajo</string>

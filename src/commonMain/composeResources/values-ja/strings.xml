@@ -927,6 +927,8 @@
     <string name="menu_scroll_to_top">一番上に移動</string>
     <string name="menu_move_to_top">一番上に移動</string>
     <string name="menu_scroll_to_bottom">一番下に移動</string>
+    <string name="menu_scroll_to_upper_gap">上の…まで移動</string>
+    <string name="menu_scroll_to_lower_gap">下の…まで移動</string>
     <string name="menu_move_to_bottom">一番下に移動</string>
     <string name="menu_move_up">上に移動</string>
     <string name="menu_move_down">下に移動</string>
