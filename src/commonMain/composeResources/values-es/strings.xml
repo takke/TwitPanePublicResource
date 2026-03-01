@@ -1682,6 +1682,11 @@
     <string name="config_show_actionbar_tweet_button_summary_たいぺん">Mostrar botón de taiitsu en el menú</string>
     <string name="config_publish_button_on_bottom">Colocar botón de publicación abajo</string>
     <string name="config_publish_button_on_bottom_summary">Colocar botón de publicación en la barra de herramientas inferior [Valor predeterminado: Activado]</string>
+    <string name="config_publish_title_display_mode">Visualización del título en pantalla de publicación</string>
+    <string name="config_publish_title_display_mode_summary">%s</string>
+    <string name="publish_title_display_mode_account_id">ID de cuenta</string>
+    <string name="publish_title_display_mode_name">Nombre</string>
+    <string name="publish_title_display_mode_both">ID de cuenta + Nombre</string>
     <string name="config_visibility_button_on_bottom">Colocar botón de visibilidad abajo</string>
     <string name="config_visibility_button_on_bottom_summary">Colocar botón de visibilidad en la barra de herramientas inferior [Valor predeterminado: Desactivado]</string>
     <string name="config_hide_publish_reply_area_by_default_title">área de respuesta Ocultar</string>
