@@ -502,7 +502,7 @@
     <string name="drawer_close">關閉</string>
 
     <string name="search_around_tweets_not_found_message">沒有在 @%1$s 的時間軸中找到。</string>
-    <string name="search_around_toots_not_found_message">Not found in @%1$s\'s timeline.</string>
+    <string name="search_around_toots_not_found_message">Not found in @%1$s's timeline.</string>
 
     <!-- 固定ツイート -->
     <string name="pinned_post_tw">置頂推文</string>
@@ -653,7 +653,7 @@
     <string name="menu_show_subscribe_domain_management">Subscribe domain management</string>
     <string name="menu_show_subscribe_keyword_management">Subscribe keyword management</string>
     <string name="menu_show_subscribe_account_management">Subscribe account management</string>
-    <string name="confirm_open_browser_for_fedibird_function_of">Open an in-app browser for Fedibird\'s `$1%s` page.</string>
+    <string name="confirm_open_browser_for_fedibird_function_of">Open an in-app browser for Fedibird's `$1%s` page.</string>
     <string name="menu_show_following_hashtags">追蹤的主題標籤</string>
     <string name="following_hashtags_description">這裡顯示您追蹤的主題標籤。</string>
     <string name="no_following_hashtags">追蹤主題標籤後將在此處顯示。</string>
@@ -1045,7 +1045,7 @@
     <string name="local_only">Local Only</string>
     <string name="set_local_only_message">Do you want local only?\nIf you choose local only, your posts will not be private. In most cases, you do not need to go "local only".</string>
     <string name="set_local_only">set local only</string>
-    <string name="cant_change_visibility_when_edit">Can\'t change visibility when editing.</string>
+    <string name="cant_change_visibility_when_edit">Can't change visibility when editing.</string>
     <string name="remember_visibility">下次也使用此公開範圍</string>
     <string name="remember_visibility_saved">預設公開範圍已更改</string>
     <string name="circle_reply_notice">此貼文僅發送給圈子中的用戶。</string>
@@ -1432,7 +1432,7 @@
     <string name="config_hide_my_numbers">Hide my numbers</string>
     <string name="config_hide_my_numbers_summary">Hide the number of likes, RTs, etc. of your posts.</string>
     <string name="config_hide_other_numbers">Hide other numbers</string>
-    <string name="config_hide_other_numbers_summary">Hide the likes, RTs and other values of other people\'s posts</string>
+    <string name="config_hide_other_numbers_summary">Hide the likes, RTs and other values of other people's posts</string>
     <string name="config_show_quote_count">顯示引用的推文計數</string>
     <string name="config_show_quote_count_summary">[默認：開]</string>
     <string name="config_change_link_area_thumbnail_size">更改鏈接照片大小</string>
@@ -1559,7 +1559,7 @@
     <string name="config_bluesky_replies_filter_desc">• You can configure whether to display replies.\n• You can set to display only replies to users you follow.\n• Additionally, you can set to display only replies with a certain number of likes or more.</string>
     <string name="config_bluesky_replies_filter_to_me_only">只顯示給我的回覆</string>
     <string name="config_bluesky_replies_filter_followed_only">Only replies to users you follow</string>
-    <string name="config_bluesky_replies_filter_show_all">Also show replies to users you don\'t follow</string>
+    <string name="config_bluesky_replies_filter_show_all">Also show replies to users you don't follow</string>
     <string name="config_bluesky_replies_filter_like_threshold">Change likes threshold (current value=%1$d)</string>
     <string name="config_bluesky_replies_filter_like_condition">Likes condition</string>
     <string name="config_bluesky_replies_filter_show_all_replies">Show all replies</string>
@@ -1677,7 +1677,7 @@
     <string name="config_v2_tweet_post_summary"></string>
     <string name="config_show_mushroom_button">蘑菇按鈕</string>
     <string name="config_show_mushroom_button_summary">顯示蘑菇（IME插件）按鈕</string>
-    <string name="config_use_screen_name_completion">使用 \'@\' 補全</string>
+    <string name="config_use_screen_name_completion">使用 '@' 補全</string>
     <string name="config_use_screen_name_completion_summary"></string>
     <string name="config_show_actionbar_tweet_button_ついぺん">選單中發推</string>
     <string name="config_show_actionbar_tweet_button_ぞーぺん">選單中發文</string>
@@ -2476,7 +2476,7 @@
     <string name="delete_for_me">Delete for me</string>
     <string name="delete_chat_message_confirm_message">Are you sure you want to delete this message? The message will be deleted for you, but not for the other participant.</string>
     <string name="translate">Translate</string>
-    <string name="cant_change_account_when_reply">Can\'t change account when reply</string>
+    <string name="cant_change_account_when_reply">Can't change account when reply</string>
     <string name="config_design">Design settings</string>
     <string name="twitpaneplus_end_of_development_notice">End of development of TwitPane+</string>
     <string name="twitpaneplus_end_of_development_notice_message">Development of TwitPane+ has been ended. \n\nPlease use ZonePane from now on.</string>
@@ -2489,7 +2489,7 @@
     <string name="followed_by_and_others">Followed by %1$s and %2$s others</string>
     <string name="known_followers">Known followers</string>
     <string name="video_upload_limit_error">Video upload limit error: %1$s</string>
-    <string name="video_upload_limit_error_uploads_disabled">You don\'t have the ability to post videos yet. Please be patient for a while longer as video submission will become available soon.</string>
+    <string name="video_upload_limit_error_uploads_disabled">You don't have the ability to post videos yet. Please be patient for a while longer as video submission will become available soon.</string>
     <string name="video_upload_limit_error_duration">The video is too long.</string>
     <string name="video_upload_uploading">Video Converting...</string>
     <string name="video_upload_limit_error_file_size">File size (%1$s bytes) is larger than the maximum allowed size (%2$s bytes)</string>

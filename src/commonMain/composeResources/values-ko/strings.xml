@@ -77,7 +77,7 @@
     <string name="pane_name_lists_memberships">목록의 구성원</string>
     <string name="pane_name_list_member">목록 멤버</string>
     <string name="pane_name_list_subscribers">목록 구독자</string>
-    <string name="pane_name_follow">%1$s \'의 팔로우</string>
+    <string name="pane_name_follow">%1$s '의 팔로우</string>
     <string name="pane_name_follower">%1$s 의 팔로워</string>
     <string name="pane_name_likes_of">%1$s 의 마음</string>
     <string name="pane_name_blocks">차단된 유저</string>
@@ -337,7 +337,7 @@
     <string name="cannot_view_private_account_tweet">개인계정의 트윗을 볼 수 없습니다 ...</string>
     <string name="cannot_view_private_account_post">비공개 계정의 게시물을 볼 수 없습니다</string>
     <string name="cannot_retweet_duplicate_status">이미 리트윗되었습니다.</string>
-    <string name="cannot_retweet_blocked_user">You have been blocked from retweeting this user\'s tweets at their request.</string>
+    <string name="cannot_retweet_blocked_user">You have been blocked from retweeting this user's tweets at their request.</string>
 
     <string name="image_size_errror">이미지 크기 오류</string>
     <string name="too_large_image_size_to_attach">너무 큰 이미지 크기</string>
@@ -501,8 +501,8 @@
 	<string name="drawer_open">열기</string>
 	<string name="drawer_close">닫기</string>
 
-    <string name="search_around_tweets_not_found_message">Not found in @%1$s\'s timeline…</string>
-    <string name="search_around_toots_not_found_message">Not found in @%1$s\'s timeline.</string>
+    <string name="search_around_tweets_not_found_message">Not found in @%1$s's timeline…</string>
+    <string name="search_around_toots_not_found_message">Not found in @%1$s's timeline.</string>
 
     <!-- 固定ツイート -->
     <string name="pinned_post_tw">메인 트윗</string>
@@ -651,7 +651,7 @@
     <string name="menu_show_subscribe_domain_management">Subscribe domain management</string>
     <string name="menu_show_subscribe_keyword_management">Subscribe keyword management</string>
     <string name="menu_show_subscribe_account_management">Subscribe account management</string>
-    <string name="confirm_open_browser_for_fedibird_function_of">Open an in-app browser for Fedibird\'s `$1%s` page.</string>
+    <string name="confirm_open_browser_for_fedibird_function_of">Open an in-app browser for Fedibird's `$1%s` page.</string>
     <string name="menu_show_following_hashtags">팔로잉 해시태그</string>
     <string name="following_hashtags_description">여기에 팔로우하고 있는 해시태그가 표시됩니다.</string>
     <string name="no_following_hashtags">해시태그를 팔로우하면 여기에 표시됩니다.</string>
@@ -662,7 +662,7 @@
     <string name="campaign_info_message">이 앱을 사용해 주셔서 감사합니다! \n\n 광고를 숨기고 싶으시면 이 앱을 광고트윗하실 수 있습니다.  (%1$d days)</string>
     <string name="campaign_info_tweet">트윗 입력</string>
     <string name="campaign_input_title">트윗을 입력해주세요</string>
-    <string name="campaign_input_alert">\'TwitPane\'을 포함한 입력트윗</string>
+    <string name="campaign_input_alert">'TwitPane'을 포함한 입력트윗</string>
     <string name="campaign_already_ad_hiding">이미 광고를 숨겼습니다..\n 정말로 광고를 복원하시겠습니까?</string>
     <string name="campaign_tweet_done_title">캠페인 트윗 완료</string>
     <string name="campaign_tweet_done_message">캠페인 트윗을 보냈습니다. 약 %1$d 일 동안 광고가 숨겨질 것입니다!</string>
@@ -1044,7 +1044,7 @@
     <string name="local_only">Local Only</string>
     <string name="set_local_only_message">Do you want local only?\nIf you choose local only, your posts will not be private. In most cases, you do not need to go "local only".</string>
     <string name="set_local_only">set local only</string>
-    <string name="cant_change_visibility_when_edit">Can\'t change visibility when editing.</string>
+    <string name="cant_change_visibility_when_edit">Can't change visibility when editing.</string>
     <string name="remember_visibility">다음에도 이 공개 범위를 사용</string>
     <string name="remember_visibility_saved">기본 공개 범위가 변경되었습니다</string>
     <string name="circle_reply_notice">이 게시물은 서클에 포함된 사용자에게만 전송됩니다.</string>
@@ -1255,7 +1255,7 @@
 
     <!-- URL確認 -->
     <string name="browser_url_confirm_title">URL 확인f</string>
-    <string name="browser_url_confirm_message">%1$s \n\n \'공유\' 또는 \'클립보드에 복사\'</string>
+    <string name="browser_url_confirm_message">%1$s \n\n '공유' 또는 '클립보드에 복사'</string>
     <string name="browser_url_confirm_copy">복사</string>
     <string name="browser_url_confirm_copied">클립보드에 복사</string>
     <string name="browser_url_confirm_cancel">취소</string>
@@ -1431,7 +1431,7 @@
     <string name="config_hide_my_numbers">Hide my numbers</string>
     <string name="config_hide_my_numbers_summary">Hide the number of likes, RTs, etc. of your posts.</string>
     <string name="config_hide_other_numbers">Hide other numbers</string>
-    <string name="config_hide_other_numbers_summary">Hide the likes, RTs and other values of other people\'s posts</string>
+    <string name="config_hide_other_numbers_summary">Hide the likes, RTs and other values of other people's posts</string>
     <string name="config_show_quote_count">인용된 트윗 수 표시</string>
     <string name="config_show_quote_count_summary"></string>
     <string name="config_change_link_area_thumbnail_size">링크 사진 크기 변경</string>
@@ -1502,8 +1502,8 @@
     <string name="button_color">버튼 색상</string>
 
     <string name="config_translation_settings_category">번역 설정</string>
-    <string name="config_show_translation_link_tweet">\'번역\' 링크 표시</string>
-    <string name="config_show_translation_link_post">\'번역\' 링크 표시</string>
+    <string name="config_show_translation_link_tweet">'번역' 링크 표시</string>
+    <string name="config_show_translation_link_post">'번역' 링크 표시</string>
     <string name="config_show_translation_link_summary_tweet"></string>
     <string name="config_show_translation_link_summary_post"></string>
     <string name="config_use_cloud_translation">고품질 번역</string>
@@ -1558,7 +1558,7 @@
     <string name="config_bluesky_replies_filter_desc">• You can configure whether to display replies.\n• You can set to display only replies to users you follow.\n• Additionally, you can set to display only replies with a certain number of likes or more.</string>
     <string name="config_bluesky_replies_filter_to_me_only">나에게 보낸 답글만</string>
     <string name="config_bluesky_replies_filter_followed_only">Only replies to users you follow</string>
-    <string name="config_bluesky_replies_filter_show_all">Also show replies to users you don\'t follow</string>
+    <string name="config_bluesky_replies_filter_show_all">Also show replies to users you don't follow</string>
     <string name="config_bluesky_replies_filter_like_threshold">Change likes threshold (current value=%1$d)</string>
     <string name="config_bluesky_replies_filter_like_condition">Likes condition</string>
     <string name="config_bluesky_replies_filter_show_all_replies">Show all replies</string>
@@ -1679,7 +1679,7 @@
     <string name="config_v2_tweet_post_summary"></string>
     <string name="config_show_mushroom_button">버섯 버튼</string>
 	<string name="config_show_mushroom_button_summary">버섯 (IME 플러그인) 버튼을 보이기</string>
-    <string name="config_use_screen_name_completion">사용 \'@\' 완료</string>
+    <string name="config_use_screen_name_completion">사용 '@' 완료</string>
     <string name="config_use_screen_name_completion_summary"></string>
     <string name="config_show_actionbar_tweet_button_ついぺん">메뉴에서 트윗</string>
     <string name="config_show_actionbar_tweet_button_ぞーぺん">메뉴에서 게시</string>
@@ -1736,7 +1736,7 @@
     <string name="config_mute_delete_confirm_message">정말로 삭제하시겠습니까?</string>
 	<string name="cannot_include_comma_in_mute">음소거 텍스트에 쉼표를 포함할 수 없습니다</string>
     <string name="mute_duplicated_item">동일한 항목이 이미 있습니다</string>
-    <string name="mute_user_name_must_start_with_at">사용자 이름은 \'@\'로 시작해야 합니다</string>
+    <string name="mute_user_name_must_start_with_at">사용자 이름은 '@'로 시작해야 합니다</string>
     <string name="confirm_to_add_mute_word">음소거 단어 추가, 알겠습니까?</string>
     <string name="mute_word_added">음소거 단어 추가</string>
 
@@ -1898,7 +1898,7 @@
     <string name="config_open_new_activity_for_trend_search_summary">트렌드로부터 검색을 표시할 때 새로운 창(활동)을 열기 [기본값 : ON]</string>
 
     <string name="config_image_viewer_settings_category">이미지 뷰어 설정</string>
-    <string name="config_image_viewer_back_on_tap_title">\'뒤로\'를 탭하여</string>
+    <string name="config_image_viewer_back_on_tap_title">'뒤로'를 탭하여</string>
     <string name="config_image_viewer_back_on_tap_summary"></string>
     <string name="config_image_viewer_vertical_swipe_to_close_title">닫으려면 스 와이프</string>
     <string name="config_image_viewer_vertical_swipe_to_close_summary"></string>
@@ -2440,7 +2440,7 @@
     <string name="delete_for_me">Delete for me</string>
     <string name="delete_chat_message_confirm_message">Are you sure you want to delete this message? The message will be deleted for you, but not for the other participant.</string>
     <string name="translate">Translate</string>
-    <string name="cant_change_account_when_reply">Can\'t change account when reply</string>
+    <string name="cant_change_account_when_reply">Can't change account when reply</string>
     <string name="config_design">Design settings</string>
     <string name="twitpaneplus_end_of_development_notice">End of development of TwitPane+</string>
     <string name="twitpaneplus_end_of_development_notice_message">Development of TwitPane+ has been ended. \n\nPlease use ZonePane from now on.</string>
@@ -2453,7 +2453,7 @@
     <string name="followed_by_and_others">Followed by %1$s and %2$s others</string>
     <string name="known_followers">Known followers</string>
     <string name="video_upload_limit_error">Video upload limit error: %1$s</string>
-    <string name="video_upload_limit_error_uploads_disabled">You don\'t have the ability to post videos yet. Please be patient for a while longer as video submission will become available soon.</string>
+    <string name="video_upload_limit_error_uploads_disabled">You don't have the ability to post videos yet. Please be patient for a while longer as video submission will become available soon.</string>
     <string name="video_upload_limit_error_duration">The video is too long.</string>
     <string name="video_upload_uploading">Video Converting...</string>
     <string name="video_upload_limit_error_file_size">File size (%1$s bytes) is larger than the maximum allowed size (%2$s bytes)</string>

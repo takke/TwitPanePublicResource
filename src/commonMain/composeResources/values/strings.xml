@@ -78,8 +78,8 @@
     <string name="pane_name_list_member">List member</string>
     <string name="pane_name_list_subscribers">List Subscribers</string>
     <string name="pane_name_follow">%1$s follows</string>
-    <string name="pane_name_follower">%1$s\'s followers</string>
-    <string name="pane_name_likes_of">%1$s\'s likes</string>
+    <string name="pane_name_follower">%1$s's followers</string>
+    <string name="pane_name_likes_of">%1$s's likes</string>
     <string name="pane_name_blocks">Blocked users</string>
     <string name="pane_name_search_user">Search User</string>
     <string name="pane_name_feeds">Feeds</string>
@@ -337,7 +337,7 @@
     <string name="cannot_view_private_account_tweet">Cannot view the tweet of private account...</string>
     <string name="cannot_view_private_account_post">Cannot view post from private account</string>
     <string name="cannot_retweet_duplicate_status">It may already retweeted.</string>
-    <string name="cannot_retweet_blocked_user">You have been blocked from retweeting this user\'s tweets at their request.</string>
+    <string name="cannot_retweet_blocked_user">You have been blocked from retweeting this user's tweets at their request.</string>
 
     <string name="image_size_errror">Image Size Error</string>
     <string name="too_large_image_size_to_attach">Too large image size</string>
@@ -426,11 +426,11 @@
     <string name="another_menu">Other</string>
     <string name="another_menu_dots">Other…</string>
 
-    <string name="notification_new_reply_ticker">There\'s some updates</string>
-    <string name="notification_new_reply_text">There\'s some tweets for you</string>
-    <string name="notification_new_reply_text_mastodon" translatable="false">There\'s some posts for you</string>
-    <string name="notification_new_reply_text_misskey" translatable="false">There\'s some notes for you</string>
-    <string name="notification_new_reply_text_bluesky" translatable="false">There\'s some posts for you</string>
+    <string name="notification_new_reply_ticker">There's some updates</string>
+    <string name="notification_new_reply_text">There's some tweets for you</string>
+    <string name="notification_new_reply_text_mastodon" translatable="false">There's some posts for you</string>
+    <string name="notification_new_reply_text_misskey" translatable="false">There's some notes for you</string>
+    <string name="notification_new_reply_text_bluesky" translatable="false">There's some posts for you</string>
 
     <string name="notification_new_dm_ticker">You got a new message</string>
     <string name="notification_new_dm_text">New direct messages</string>
@@ -504,8 +504,8 @@
     <string name="drawer_open">Open</string>
     <string name="drawer_close">Close</string>
 
-    <string name="search_around_tweets_not_found_message">Not found in @%1$s\'s timeline…</string>
-    <string name="search_around_toots_not_found_message">Not found in @%1$s\'s timeline.</string>
+    <string name="search_around_tweets_not_found_message">Not found in @%1$s's timeline…</string>
+    <string name="search_around_toots_not_found_message">Not found in @%1$s's timeline.</string>
 
     <!-- 固定ツイート -->
     <string name="pinned_post_tw">Pinned Tweet</string>
@@ -647,7 +647,7 @@
     <string name="menu_show_subscribe_domain_management">Subscribe domain management</string>
     <string name="menu_show_subscribe_keyword_management">Subscribe keyword management</string>
     <string name="menu_show_subscribe_account_management">Subscribe account management</string>
-    <string name="confirm_open_browser_for_fedibird_function_of">Open an in-app browser for Fedibird\'s `$1%s` page.</string>
+    <string name="confirm_open_browser_for_fedibird_function_of">Open an in-app browser for Fedibird's `$1%s` page.</string>
     <string name="menu_show_following_hashtags">Following Hashtags</string>
     <string name="following_hashtags_description">Here are the hashtags you are following.</string>
     <string name="no_following_hashtags">Follow hashtags to see them here.</string>
@@ -658,7 +658,7 @@
     <string name="campaign_info_message">Thanks for using this App!\n\nIf you wish to hide ads, you can tweet the ad-tweet of this app. (Approx. %1$d days)</string>
     <string name="campaign_info_tweet">Input tweet</string>
     <string name="campaign_input_title">Please input tweet</string>
-    <string name="campaign_input_alert">Input tweet including \'TwitPane\'</string>
+    <string name="campaign_input_alert">Input tweet including 'TwitPane'</string>
     <string name="campaign_already_ad_hiding">Already hided ads..\nAre you sure to restore ads. OK?</string>
     <string name="campaign_tweet_done_title">Campaign tweet done</string>
     <string name="campaign_tweet_done_message">Sent the campaign tweet. so ads will hide about %1$ddays!</string>
@@ -699,8 +699,8 @@
     <string name="menu_quote_in_channel">Quote in Channel</string>
     <string name="menu_tweet_with_comment">Tweet with Comment(Twitter Style)</string>
     <string name="menu_unofficial_retweet">RT @TwitPane: …</string>
-    <string name="cannot_retweet_protected_user_tweet">Cannot retweet protected user\'s tweet</string>
-    <string name="cannot_repost_protected_user_post">Cannot repost protected user\'s post</string>
+    <string name="cannot_retweet_protected_user_tweet">Cannot retweet protected user's tweet</string>
+    <string name="cannot_repost_protected_user_post">Cannot repost protected user's post</string>
     <string name="menu_remove_retweet">Remove retweet</string>
     <string name="menu_remove_retweet_taittsuu">Remove retaiitsu</string>
     <string name="menu_remove_boost">Remove boost</string>
@@ -781,7 +781,7 @@
     <string name="menu_cancel_color_label_short">Cancel Color Label</string>
     <string name="cancel_all_color_labels_in_list">Cancel all labels of users included in this list(%1$susers), OK?</string>
     <string name="set_all_color_labels_in_list">Set all labels of users included in this list(%1$susers) to \"%2$s\", OK?
-\n\nNote: keep users\' labels that already set labels</string>
+\n\nNote: keep users' labels that already set labels</string>
     <string name="set_color_labels_done">Set all color labels done.(user count:%1$s)</string>
     <string name="jump_to_other_tab1">Jump to other tab1</string>
     <string name="jump_to_other_tab2">Jump to other tab2</string>
@@ -903,8 +903,8 @@
     <string name="report_additional_info_placeholder_bluesky">Enter additional information...</string>
     <string name="edited_tweet">Edited history</string>
     <string name="edited">Edited</string>
-    <string name="there_is_a_new_version_of_this_tweet">There\'s a new version of this Tweet.</string>
-    <string name="there_is_a_new_version_of_this_post">There\'s a new version of this Post.</string>
+    <string name="there_is_a_new_version_of_this_tweet">There's a new version of this Tweet.</string>
+    <string name="there_is_a_new_version_of_this_post">There's a new version of this Post.</string>
     <string name="latest_tweet">Latest Tweet</string>
     <string name="latest_post">Latest Post</string>
     <string name="version_history">Version history</string>
@@ -1040,13 +1040,13 @@
     <string name="local_only">Local Only</string>
     <string name="set_local_only_message">Do you want local only?\nIf you choose local only, your posts will not be private. In most cases, you do not need to go "local only".</string>
     <string name="set_local_only">set local only</string>
-    <string name="cant_change_visibility_when_edit">Can\'t change visibility when editing.</string>
+    <string name="cant_change_visibility_when_edit">Can't change visibility when editing.</string>
     <string name="remember_visibility">Use this visibility next time too</string>
     <string name="remember_visibility_saved">Default visibility has been changed</string>
     <string name="circle_reply_notice">This post will be sent only to users in the circle.</string>
     <string name="edit_file_attached_toot_warning">Editing posts with attachments may possibly degrade attachments.</string>
     <string name="cant_edit_toot_with_polls">Not supported to edit posts with polls.</string>
-    <string name="publish_body_label">What\'s your mind?</string>
+    <string name="publish_body_label">What's your mind?</string>
     <string name="publish_exit_confirm_title">Discard changes</string>
     <string name="publish_exit_confirm_message">Do you want to exit editing?</string>
     <string name="publish_reply_to_label">Reply to</string>
@@ -1143,7 +1143,7 @@
     <string name="publish_body_length_error">Please enter in %1$d characters or less text</string>
     <string name="publish_sensitive_warning_length_error">Please enter in %1$d characters or less text</string>
     <string name="publish_twitlonger_confirm">Over 140 characters. Do you want to post via TwitLonger?</string>
-    <string name="publish_twitter_dm_command_notice">It\'s DM command. OK?</string>
+    <string name="publish_twitter_dm_command_notice">It's DM command. OK?</string>
     <string name="publish_post_confirm_tw">Send new tweet. ok?</string>
     <string name="publish_post_confirm_mastodon">Send new post. ok?</string>
     <string name="publish_post_confirm_misskey">Send new note. ok?</string>
@@ -1247,7 +1247,7 @@
 
     <!-- URL確認 -->
     <string name="browser_url_confirm_title">URL Confirm</string>
-    <string name="browser_url_confirm_message">%1$s\n\n\'Share\' or \'Copy to clipboard\'</string>
+    <string name="browser_url_confirm_message">%1$s\n\n'Share' or 'Copy to clipboard'</string>
     <string name="browser_url_confirm_copy">Copy</string>
     <string name="browser_url_confirm_copied">Copied to clipboard</string>
     <string name="browser_url_confirm_cancel">Cancel</string>
@@ -1423,7 +1423,7 @@
     <string name="config_hide_my_numbers">Hide my numbers</string>
     <string name="config_hide_my_numbers_summary">Hide the number of likes, RTs, etc. of your posts.</string>
     <string name="config_hide_other_numbers">Hide other numbers</string>
-    <string name="config_hide_other_numbers_summary">Hide the likes, RTs and other values of other people\'s posts</string>
+    <string name="config_hide_other_numbers_summary">Hide the likes, RTs and other values of other people's posts</string>
     <string name="config_show_quote_count">Show quote count</string>
     <string name="config_show_quote_count_summary">[default:ON]</string>
     <string name="config_change_link_area_thumbnail_size">Change link photo size</string>
@@ -1497,13 +1497,13 @@
     <string name="toolbar_button_move_to_left_or_right" translatable="false">◀▶</string>
 
     <string name="config_translation_settings_category">Translation Settings</string>
-    <string name="config_show_translation_link_tweet">Show `translate\' link</string>
-    <string name="config_show_translation_link_post">Show `translate\' link</string>
+    <string name="config_show_translation_link_tweet">Show `translate' link</string>
+    <string name="config_show_translation_link_post">Show `translate' link</string>
     <string name="config_show_translation_link_summary_tweet"></string>
     <string name="config_show_translation_link_summary_post"></string>
     <string name="config_use_cloud_translation">High quality translation</string>
     <string name="config_use_cloud_translation_summary">By using cloud translation including DeepL and Google Translation service, the translation results will be higher quality and more accurate. Use a paid external services.</string>
-    <string name="config_use_cloud_translation_summary_not_available_due_to_not_subscribed">(can\'t use this service because my subscription has already been cancelled.)</string>
+    <string name="config_use_cloud_translation_summary_not_available_due_to_not_subscribed">(can't use this service because my subscription has already been cancelled.)</string>
     <string name="config_use_cloud_translation_trial">Try Cloud Translation</string>
     <string name="config_use_cloud_translation_trial_summary"></string>
     <string name="config_cloud_translation_provider">Provider of cloud translation</string>
@@ -1558,7 +1558,7 @@
     <string name="config_bluesky_replies_filter_desc">• You can configure whether to display replies.\n• You can set to display only replies to users you follow.\n• Additionally, you can set to display only replies with a certain number of likes or more.</string>
     <string name="config_bluesky_replies_filter_to_me_only">Only replies to me</string>
     <string name="config_bluesky_replies_filter_followed_only">Only replies to users you follow</string>
-    <string name="config_bluesky_replies_filter_show_all">Also show replies to users you don\'t follow</string>
+    <string name="config_bluesky_replies_filter_show_all">Also show replies to users you don't follow</string>
     <string name="config_bluesky_replies_filter_like_threshold">Change likes threshold (current value=%1$d)</string>
     <string name="config_bluesky_replies_filter_like_condition">Likes condition</string>
     <string name="config_bluesky_replies_filter_show_all_replies">Show all replies</string>
@@ -1681,7 +1681,7 @@
     <string name="config_v2_tweet_post_summary"></string>
     <string name="config_show_mushroom_button">Emoji picker button</string>
     <string name="config_show_mushroom_button_summary">Show Emoji picker (mushroom: IME plug-in) button</string>
-    <string name="config_use_screen_name_completion">Use \'@\' Completion</string>
+    <string name="config_use_screen_name_completion">Use '@' Completion</string>
     <string name="config_use_screen_name_completion_summary"></string>
     <string name="config_show_actionbar_tweet_button_ついぺん">Tweet Button on Menu</string>
     <string name="config_show_actionbar_tweet_button_ぞーぺん">Tweet in menu</string>
@@ -1740,7 +1740,7 @@
     <string name="config_mute_delete_confirm_message">Are you sure you want to delete?</string>
     <string name="cannot_include_comma_in_mute">Cannot include comma in mute text</string>
     <string name="mute_duplicated_item">This item already exists</string>
-    <string name="mute_user_name_must_start_with_at">User name must start with \'@\'</string>
+    <string name="mute_user_name_must_start_with_at">User name must start with '@'</string>
     <string name="confirm_to_add_mute_word">Add mute word, OK?</string>
     <string name="mute_word_added">Mute word added</string>
 
@@ -1748,7 +1748,7 @@
     <string name="return_mute_to_active">Return mute to active.</string>
 
     <string name="config_mute_users">Users</string>
-    <string name="config_mute_users_message">specify mute user\'s screen name</string>
+    <string name="config_mute_users_message">specify mute user's screen name</string>
     <string name="config_mute_users_hint">@twitpane</string>
     <string name="config_mute_no_users">No mute users</string>
     <string name="this_user_is_muted">This user is muted.</string>
@@ -2152,7 +2152,7 @@
     <string name="image_viewer_save_image">Save</string>
     <string name="image_viewer_back_button">Back</string>
     <string name="browser_save_image_saved">saved (%1$s)</string>
-    <string name="browser_save_image_cannot_save">can\'t save image</string>
+    <string name="browser_save_image_cannot_save">can't save image</string>
 
     <!-- ================================================================================ -->
     <!-- Profile Fragment -->
@@ -2172,7 +2172,7 @@
     <string name="place_activity_location_setting_dialog_yes">Yes</string>
     <string name="place_activity_location_setting_dialog_cancel">Cancel</string>
 
-    <string name="place_activity_location_not_found">Can\'t get current location...</string>
+    <string name="place_activity_location_not_found">Can't get current location...</string>
     <string name="place_activity_location_use_last_location">using last location..</string>
 
     <string name="plus1_message">Thanks your support!</string>
@@ -2261,7 +2261,7 @@ Reauthenticate on the next screen.</string>
     <!-- Google Translate -->
     <string name="translate_app_guide_dialog_title">Google Translate is not installed</string>
     <string name="translate_app_guide_dialog_message">You need the Google Translate app. Download from %1$s?</string>
-    <string name="daily_inline_translation_limit_is_exceeded">We have exceeded the number of executions of today\'s inline translation, so we will translate with the Google Translate app</string>
+    <string name="daily_inline_translation_limit_is_exceeded">We have exceeded the number of executions of today's inline translation, so we will translate with the Google Translate app</string>
     <string name="detail">Details</string>
     <string name="download_translation_ml_data_confirm_message">We need the machine learning data (about 30MB) for the language to be translated. Are you sure you want to download it?</string>
     <string name="inline_translation">About Inline-Translation</string>
@@ -2304,7 +2304,7 @@ Reauthenticate on the next screen.</string>
     <string name="some_settings_applied_after_restarted">Some settings will be applied after the application is restarted.</string>
 
     <!-- サブスクリプションの案内画面 -->
-    <string name="subs_guide_cloud_translation_top_message" translatable="false">The quality of the translation can be improved by using Google\'s service called Cloud Translation.\n\nAs this cloud translation is a paid service, we ask you to subscribe to a subscription in order to continue developing and maintaining this application.</string>
+    <string name="subs_guide_cloud_translation_top_message" translatable="false">The quality of the translation can be improved by using Google's service called Cloud Translation.\n\nAs this cloud translation is a paid service, we ask you to subscribe to a subscription in order to continue developing and maintaining this application.</string>
     <string name="subs_guide_try_7days_for_free" translatable="false">Try 7 days for FREE (only for first-time registrants)</string>
     <string name="subs_guide_other_subscription_privileges" translatable="false">Other Subscription Privileges:</string>
     <string name="subs_guide_subscription_privileges" translatable="false">Subscription Privileges:</string>
@@ -2352,7 +2352,7 @@ Reauthenticate on the next screen.</string>
     <string name="subs_guide_item_cross_post_limit_relaxed" translatable="false">✔ Cross-post limit relaxed</string>
     <string name="subs_guide_item_cross_post_limit_relaxed_message" translatable="false">You can share to up to 5 accounts simultaneously, and unlimited external SNS posting</string>
     <string name="liked_order_likes" translatable="false">Liked ordered likes</string>
-    <string name="config_use_liked_order_likes_summary" translatable="false">Only available to users with a subscriptions due to Twitter\'s Tweet cap, which is a strict limit on the number of tweets that can be retrieved.</string>
+    <string name="config_use_liked_order_likes_summary" translatable="false">Only available to users with a subscriptions due to Twitter's Tweet cap, which is a strict limit on the number of tweets that can be retrieved.</string>
     <string name="subs_guide_bottom_notice" translatable="false">If you have already tried a subscription, you are not eligible for the 7-day free subscription. \nAfter the cancellation deadline of 6 days after your first free registration, you will be automatically charged %1$s each month until you cancel in the Google Play Store. \nYou can cancel your subscription through your subscription settings in the Google Play Store. \Please note that your previous payment will not be refunded upon cancellation unless required by law.</string>
     <string name="subs_guide_bottom_notice_cloud_translation" translatable="false">There is a limit to the number of times you can use Cloud Translation per day.</string>
 
@@ -2443,7 +2443,7 @@ Reauthenticate on the next screen.</string>
     <string name="notification_reactioned">%1$s reactioned</string>
     <string name="notification_follow_accepted">%1$s accepted your follow request</string>
     <string name="notification_achievement">Got achievement: %1$s</string>
-    <string name="notification_create_token">An access token has been created.\nIf you don\'t recognize this action, please revoke the token via "Manage access tokens".</string>
+    <string name="notification_create_token">An access token has been created.\nIf you don't recognize this action, please revoke the token via "Manage access tokens".</string>
     <string name="notification_referenced">%1$s referenced your status</string>
     <string name="notification_quoted_mastodon">%1$s quoted your post</string>
     <string name="notification_quoted_update_mastodon">The quoted post has been updated</string>
@@ -2503,14 +2503,14 @@ Reauthenticate on the next screen.</string>
     <string name="need_authorized_with_dm">DM permissions are required to use the chat (message) function.</string>
     <string name="re_login">Re-login</string>
     <string name="bluesky_login_description">Sign in to Bluesky.</string>
-    <string name="bluesky_password_login_description">If you don\'t have an account, create one at https://bsky.app/\nYou can issue an app password at https://bsky.app/settings/app-passwords</string>
+    <string name="bluesky_password_login_description">If you don't have an account, create one at https://bsky.app/\nYou can issue an app password at https://bsky.app/settings/app-passwords</string>
     <string name="bluesky_oauth_login_description">You can sign in or sign up on the Bluesky authentication screen without entering a username.\nNote: For OAuth, re-authentication is required approximately every 1-2 weeks for security reasons.</string>
     <string name="bluesky_oauth_username_hint">"username" or "takke.jp" etc...</string>
     <string name="write_message">Write a message</string>
     <string name="delete_for_me">Delete for me</string>
     <string name="delete_chat_message_confirm_message">Are you sure you want to delete this message? The message will be deleted for you, but not for the other participant.</string>
     <string name="translate">Translate</string>
-    <string name="cant_change_account_when_reply">Can\'t change account when reply</string>
+    <string name="cant_change_account_when_reply">Can't change account when reply</string>
     <string name="config_design">Design settings</string>
     <string name="twitpaneplus_end_of_development_notice">End of development of TwitPane+</string>
     <string name="twitpaneplus_end_of_development_notice_message">Development of TwitPane+ has been ended. \n\nPlease use ZonePane from now on.</string>
@@ -2523,7 +2523,7 @@ Reauthenticate on the next screen.</string>
     <string name="followed_by_and_others">Followed by %1$s and %2$s others</string>
     <string name="known_followers">Known followers</string>
     <string name="video_upload_limit_error">Video upload limit error: %1$s</string>
-    <string name="video_upload_limit_error_uploads_disabled">You don\'t have the ability to post videos yet. Please be patient for a while longer as video submission will become available soon.</string>
+    <string name="video_upload_limit_error_uploads_disabled">You don't have the ability to post videos yet. Please be patient for a while longer as video submission will become available soon.</string>
     <string name="video_upload_limit_error_duration">The video is too long.</string>
     <string name="video_upload_uploading">Video Converting...</string>
     <string name="video_upload_limit_error_file_size">File size (%1$s bytes) is larger than the maximum allowed size (%2$s bytes)</string>
@@ -2562,10 +2562,10 @@ Reauthenticate on the next screen.</string>
         <item>This application is for Twitter search.</item>
         <item>You can change the tab that appears first from the long press menu of the tab!</item>
         <item>I am good at list tracking and searching.</item>
-        <item>Posting tweets, replying, messages... I don\'t know what you\'re talking about!</item>
-        <item>You\'ll be seeing bookmarks before you know it!</item>
-        <item>Are there users who don\'t show up in your search? Tweets from users with key accounts or shadow-banned users may not show up.</item>
-        <item>Maybe filter: doesn\'t work in the search. The results are different from the official app or the web version of Twitter.</item>
+        <item>Posting tweets, replying, messages... I don't know what you're talking about!</item>
+        <item>You'll be seeing bookmarks before you know it!</item>
+        <item>Are there users who don't show up in your search? Tweets from users with key accounts or shadow-banned users may not show up.</item>
+        <item>Maybe filter: doesn't work in the search. The results are different from the official app or the web version of Twitter.</item>
         <item>Tap on the poll to launch the official app.</item>
     </string-array>
 
@@ -2672,7 +2672,7 @@ Reauthenticate on the next screen.</string>
     <string name="cross_post">Cross Post</string>
     <string name="cross_post_select_account_message">Select accounts to post</string>
     <string name="cross_post_account_selection">Account Selection</string>
-    <string name="cross_post_placeholder">What\'s your mind?</string>
+    <string name="cross_post_placeholder">What's your mind?</string>
     <string name="cross_post_option">Post Option</string>
     <string name="cross_post_forward">Forward</string>
     <string name="cross_post_start">Start</string>
@@ -2709,7 +2709,7 @@ Reauthenticate on the next screen.</string>
     <string name="cross_post_option_message">Please configure the privacy settings for each account</string>
     <string name="cross_post_guide_title">About Cross Post</string>
     <string name="cross_post_guide_message">Cross Post allows you to post to multiple social media accounts at once.\n\nYou can select multiple accounts and post the same content to all of them simultaneously.</string>
-    <string name="cross_post_guide_dont_show_again">Don\'t show this again</string>
+    <string name="cross_post_guide_dont_show_again">Don't show this again</string>
     <string name="cross_post_share_limit_title">About Share Count Limit</string>
     <string name="cross_post_share_limit_message">External SNS posting is limited to once per all SNS combined. By subscribing, you can post to external SNS more than twice.</string>
     <string name="cross_post_share_media_not_supported">*Media files are not transferred. Please select files again in the destination app.</string>
@@ -2816,7 +2816,7 @@ Reauthenticate on the next screen.</string>
     <string name="auto_backup_found_message">A previous auto-backup was found. Would you like to restore it?</string>
     <string name="auto_backup_saved_at">Saved at: %1$s</string>
     <string name="auto_backup_restore">Restore</string>
-    <string name="auto_backup_discard">Don\'t Restore</string>
+    <string name="auto_backup_discard">Don't Restore</string>
 
     <!-- 新投稿画面 -->
     <string name="config_use_compose_publish_mode">Use New Compose Screen</string>
