@@ -1387,6 +1387,8 @@
     <string name="config_show_rt_bt_rn_on_top_summary">[default:ON]</string>
     <string name="config_ignore_unsupported_mfm">Ignore unsupported MFM</string>
     <string name="config_ignore_unsupported_mfm_summary">[default:ON]</string>
+    <string name="config_mfm_ruby">MFM Ruby Display (Experimental)</string>
+    <string name="config_mfm_ruby_summary">Supports the $[ruby text ruby] syntax in MFM. Note that it may become invisible depending on the font or font size. [default: OFF]</string>
     <string name="config_show_image_url">Show Image URL</string>
     <string name="config_show_image_url_summary"></string>
     <string name="config_show_followers_count_bar">Show Followers Count Bar</string>

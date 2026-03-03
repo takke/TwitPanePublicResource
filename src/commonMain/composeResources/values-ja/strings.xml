@@ -1410,6 +1410,8 @@
     <string name="config_show_rt_bt_rn_on_top_summary">オフにすると最下行に表示します(v29までと同じ)【初期値：ON】</string>
     <string name="config_ignore_unsupported_mfm">未対応のMFMを非表示にする</string>
     <string name="config_ignore_unsupported_mfm_summary">flipやrotateなどの未対応のMFMを無視して表示します【初期値：ON】</string>
+    <string name="config_mfm_ruby">MFMのルビ表示対応(実験的)</string>
+    <string name="config_mfm_ruby_summary">MFMの$[ruby ルビ ruby]構文に対応します。フォントやフォントサイズによっては見えなくなる場合もあるのでご注意ください【初期値：OFF】</string>
     <string name="config_show_image_url">画像URLを表示する</string>
     <string name="config_show_image_url_summary">オフにすると公式アプリのように公式画像のURLが非表示になりタイムラインがすっきりします【初期値：OFF】</string>
     <string name="config_show_followers_count_bar">フォロワー数表示バー</string>

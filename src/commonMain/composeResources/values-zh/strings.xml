@@ -1392,6 +1392,8 @@
     <string name="config_show_rt_bt_rn_on_top_summary">[default:ON]</string>
     <string name="config_ignore_unsupported_mfm">Ignore unsupported MFM</string>
     <string name="config_ignore_unsupported_mfm_summary">[default:ON]</string>
+    <string name="config_mfm_ruby">MFM 注音显示支持（实验性）</string>
+    <string name="config_mfm_ruby_summary">支持 MFM 的 $[ruby 文字 ruby] 语法。请注意，根据字体或字体大小，可能会无法显示。[默认：关]</string>
     <string name="config_show_image_url">显示图片网址</string>
     <string name="config_show_image_url_summary"></string>
     <string name="config_show_followers_count_bar">显示关注者计数栏</string>
