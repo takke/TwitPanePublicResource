@@ -1421,6 +1421,7 @@
     <string name="config_tweet_design_detail_R_X">게시물 디자인 (고급)</string>
     <string name="config_tweet_design_detail_ぞーぺん">게시물 디자인 (고급)</string>
     <string name="config_tweet_design_detail_たいぺん">타이츠 디자인 (고급)</string>
+    <string name="config_tweet_design_misskey">게시물 디자인 (Misskey)</string>
     <string name="config_tweet_design_ついぺん">트윗 디자인</string>
     <string name="config_tweet_design_ぞーぺん">게시물 디자인</string>
     <string name="config_tweet_design_たいぺん">타이츠 디자인</string>

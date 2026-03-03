@@ -1420,6 +1420,7 @@
     <string name="config_tweet_design_detail_R_X">Diseño de la Publicación (Avanzado)</string>
     <string name="config_tweet_design_detail_ぞーぺん">Diseño de la Publicación (Avanzado)</string>
     <string name="config_tweet_design_detail_たいぺん">Diseño del Taiitsu (Avanzado)</string>
+    <string name="config_tweet_design_misskey">Diseño de la Publicación (Misskey)</string>
     <string name="config_tweet_design_ついぺん">Diseño del Tweet</string>
     <string name="config_tweet_design_ぞーぺん">Diseño de la Publicación</string>
     <string name="config_tweet_design_たいぺん">Diseño del Taiitsu</string>

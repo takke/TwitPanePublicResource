@@ -1418,6 +1418,7 @@
     <string name="config_tweet_design_detail_R_X">帖子设计（高级）</string>
     <string name="config_tweet_design_detail_ぞーぺん">帖子设计（高级）</string>
     <string name="config_tweet_design_detail_たいぺん">Taiitsu设计（高级）</string>
+    <string name="config_tweet_design_misskey">帖子设计（Misskey）</string>
     <string name="config_tweet_design_ついぺん">推文设计</string>
     <string name="config_tweet_design_ぞーぺん">帖子设计</string>
     <string name="config_tweet_design_たいぺん">Taiitsu设计</string>

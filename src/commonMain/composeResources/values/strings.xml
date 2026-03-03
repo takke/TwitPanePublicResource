@@ -1413,6 +1413,7 @@
     <string name="config_tweet_design_detail_R_X">Post Design (Advanced)</string>
     <string name="config_tweet_design_detail_ぞーぺん">Post Design (Advanced)</string>
     <string name="config_tweet_design_detail_たいぺん">Taiitsu Design (Advanced)</string>
+    <string name="config_tweet_design_misskey">Post Design (Misskey)</string>
     <string name="config_tweet_design_ついぺん">Tweet Design</string>
     <string name="config_tweet_design_ぞーぺん">Post Design</string>
     <string name="config_tweet_design_たいぺん">Taiitsu Design</string>

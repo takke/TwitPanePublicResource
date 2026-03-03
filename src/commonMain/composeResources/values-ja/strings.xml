@@ -1436,6 +1436,7 @@
     <string name="config_tweet_design_detail_R_X">投稿デザイン(詳細)</string>
     <string name="config_tweet_design_detail_ぞーぺん">投稿デザイン(Blueskyは未対応)</string>
     <string name="config_tweet_design_detail_たいぺん">タイーツデザイン(詳細)</string>
+    <string name="config_tweet_design_misskey">投稿デザイン(Misskey)</string>
     <string name="config_tweet_design_ついぺん">ツイートデザイン</string>
     <string name="config_tweet_design_ぞーぺん">投稿デザイン</string>
     <string name="config_tweet_design_たいぺん">タイーツデザイン</string>
