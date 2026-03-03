@@ -89,7 +89,9 @@ val syncStringsToAndroidRes by tasks.registering {
 
         println("📄 Copying ${file.path} → ${targetFile.path}")
         targetFile.parentFile.mkdirs()
-        targetFile.writeText(file.readText())
+        // Compose Resources では ' をエスケープ不要だが、Android R.string では \' が必要なため変換する
+        val converted = file.readText().replace("'", "\\'")
+        targetFile.writeText(converted)
       }
     }
 
