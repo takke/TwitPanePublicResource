@@ -18,11 +18,10 @@ android {
 
 kotlin {
 
-  androidTarget {
-    kotlin {
-      jvmToolchain(11)
-    }
-  }
+  jvmToolchain(11)
+
+  androidTarget()
+  jvm("desktop")
 
   listOf(
     iosX64(),
