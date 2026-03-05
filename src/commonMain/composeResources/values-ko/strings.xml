@@ -871,8 +871,12 @@
     <string name="select_tweet_to_link_to_mastodon">링크할 게시물 선택</string>
     <string name="select_tweet_to_link_to_misskey">링크할 노트 선택</string>
     <string name="select_tweet_to_link_to_bluesky">링크할 게시물 선택</string>
-    <string name="menu_hide_reply_area">숨기기 답글 영역</string>
-    <string name="menu_show_reply_area">보기 답글 영역</string>
+    <string name="menu_hide_reply_area">답글 영역 숨기기</string>
+    <string name="menu_show_reply_area">답글 영역 표시</string>
+    <string name="menu_hide_reply_and_quote_area">답글 및 인용 영역 숨기기</string>
+    <string name="menu_show_reply_and_quote_area">답글 및 인용 영역 표시</string>
+    <string name="menu_hide_quote_area">인용 영역 숨기기</string>
+    <string name="menu_show_quote_area">인용 영역 표시</string>
     <string name="menu_hide_attached_image_area">첨부 이미지 영역을 숨기기</string>
     <string name="menu_show_attached_image_area">보기 첨부 이미지 영역</string>
     <string name="menu_add_app_link">TwitPane 링크 추가</string>
@@ -1696,8 +1700,8 @@
     <string name="publish_title_display_mode_both">계정 ID + 이름</string>
     <string name="config_visibility_button_on_bottom">공개 범위 버튼을 아래에 배치</string>
     <string name="config_visibility_button_on_bottom_summary">공개 범위 버튼을 하단 도구 모음에 배치합니다 [기본값: OFF]</string>
-    <string name="config_hide_publish_reply_area_by_default_title">숨기기 응답 영역</string>
-    <string name="config_hide_publish_reply_area_by_default_summary"></string>
+    <string name="config_hide_publish_reply_and_quote_area_by_default_title">답글 및 인용 영역 숨기기</string>
+    <string name="config_hide_publish_reply_and_quote_area_by_default_summary">답글 또는 인용 시 해당 영역을 접은 상태로 게시 화면을 엽니다 [기본값: OFF]</string>
     <string name="config_show_after_published_banner_ad_title">Always display ads after posting</string>
     <string name="config_show_after_published_banner_ad_title_summary"></string>
 	<string name="config_show_remain_tweet_length_ついぺん">남은 트윗 길이 표시</string>

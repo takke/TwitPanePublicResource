@@ -875,6 +875,10 @@
     <string name="select_tweet_to_link_to_bluesky">選擇要連結的貼文</string>
     <string name="menu_hide_reply_area">隱藏回覆區</string>
     <string name="menu_show_reply_area">顯示回覆區</string>
+    <string name="menu_hide_reply_and_quote_area">隱藏回覆及引用區</string>
+    <string name="menu_show_reply_and_quote_area">顯示回覆及引用區</string>
+    <string name="menu_hide_quote_area">隱藏引用區</string>
+    <string name="menu_show_quote_area">顯示引用區</string>
     <string name="menu_hide_attached_image_area">隱藏附加影象區域</string>
     <string name="menu_show_attached_image_area">顯示附加影象區域</string>
     <string name="menu_add_app_link">新增TwitPane連結</string>
@@ -1693,8 +1697,8 @@
     <string name="publish_title_display_mode_both">帳戶ID + 名稱</string>
     <string name="config_visibility_button_on_bottom">將可見範圍按鈕放在底部</string>
     <string name="config_visibility_button_on_bottom_summary">將可見範圍按鈕放置在底部工具列 [預設值: 關閉]</string>
-    <string name="config_hide_publish_reply_area_by_default_title">隱藏回覆區域</string>
-    <string name="config_hide_publish_reply_area_by_default_summary"></string>
+    <string name="config_hide_publish_reply_and_quote_area_by_default_title">隱藏回覆及引用區域</string>
+    <string name="config_hide_publish_reply_and_quote_area_by_default_summary">回覆或引用時，以折疊回覆及引用區域的狀態開啟發文畫面 [預設值: 關閉]</string>
     <string name="config_show_after_published_banner_ad_title">Always display ads after posting</string>
     <string name="config_show_after_published_banner_ad_title_summary"></string>
     <string name="config_show_remain_tweet_length_ついぺん">顯示剩餘推文長度</string>

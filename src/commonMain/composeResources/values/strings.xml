@@ -869,6 +869,10 @@
     <string name="select_tweet_to_link_to_bluesky">Select post to link to</string>
     <string name="menu_hide_reply_area">Hide Reply Area</string>
     <string name="menu_show_reply_area">Show Reply Area</string>
+    <string name="menu_hide_reply_and_quote_area">Hide Reply &amp; Quote Area</string>
+    <string name="menu_show_reply_and_quote_area">Show Reply &amp; Quote Area</string>
+    <string name="menu_hide_quote_area">Hide Quote Area</string>
+    <string name="menu_show_quote_area">Show Quote Area</string>
     <string name="menu_hide_attached_image_area">Hide Attached Image Area</string>
     <string name="menu_show_attached_image_area">Show Attached Image Area</string>
     <string name="menu_add_app_link">Add TwitPane Link</string>
@@ -1700,8 +1704,8 @@
     <string name="config_visibility_button_on_bottom_summary">Place visibility button in bottom toolbar [Default: OFF]</string>
     <!--	<string name="config_show_emoji_ime_title">Emoji input support</string>-->
     <!--	<string name="config_show_emoji_ime_summary">Enable emoji-input feature of IME if supported</string>-->
-    <string name="config_hide_publish_reply_area_by_default_title">Hide reply area</string>
-    <string name="config_hide_publish_reply_area_by_default_summary"></string>
+    <string name="config_hide_publish_reply_and_quote_area_by_default_title">Hide reply &amp; quote area</string>
+    <string name="config_hide_publish_reply_and_quote_area_by_default_summary">Open the post screen with the reply and quote areas collapsed when replying or quoting [Default: OFF]</string>
     <string name="config_show_after_published_banner_ad_title">Always display ads after posting</string>
     <string name="config_show_after_published_banner_ad_title_summary"></string>
     <string name="config_show_remain_tweet_length_ついぺん">Show remain tweet length</string>

@@ -871,8 +871,12 @@
     <string name="select_tweet_to_link_to_mastodon">Seleccionar publicación para enlazar</string>
     <string name="select_tweet_to_link_to_misskey">Seleccionar nota para enlazar</string>
     <string name="select_tweet_to_link_to_bluesky">Seleccionar publicación para enlazar</string>
-    <string name="menu_hide_reply_area">Ocultar Área Responder</string>
-    <string name="menu_show_reply_area">Mostrar zona Responder</string>
+    <string name="menu_hide_reply_area">Ocultar área de respuesta</string>
+    <string name="menu_show_reply_area">Mostrar área de respuesta</string>
+    <string name="menu_hide_reply_and_quote_area">Ocultar área de respuesta y cita</string>
+    <string name="menu_show_reply_and_quote_area">Mostrar área de respuesta y cita</string>
+    <string name="menu_hide_quote_area">Ocultar área de cita</string>
+    <string name="menu_show_quote_area">Mostrar área de cita</string>
     <string name="menu_hide_attached_image_area">Ocultar Imagen adjunta</string>
     <string name="menu_show_attached_image_area">Mostrar Imagen adjunta</string>
     <string name="menu_add_app_link">Añadir enlace TwitPane</string>
@@ -1696,8 +1700,8 @@
     <string name="publish_title_display_mode_both">ID de cuenta + Nombre</string>
     <string name="config_visibility_button_on_bottom">Colocar botón de visibilidad abajo</string>
     <string name="config_visibility_button_on_bottom_summary">Colocar botón de visibilidad en la barra de herramientas inferior [Valor predeterminado: Desactivado]</string>
-    <string name="config_hide_publish_reply_area_by_default_title">área de respuesta Ocultar</string>
-    <string name="config_hide_publish_reply_area_by_default_summary"></string>
+    <string name="config_hide_publish_reply_and_quote_area_by_default_title">Ocultar área de respuesta y cita</string>
+    <string name="config_hide_publish_reply_and_quote_area_by_default_summary">Abre la pantalla de publicación con las áreas de respuesta y cita contraídas al responder o citar [Predeterminado: Desactivado]</string>
     <string name="config_show_after_published_banner_ad_title">Always display ads after posting</string>
     <string name="config_show_after_published_banner_ad_title_summary"></string>
     <string name="config_show_remain_tweet_length_ついぺん">Mostrar longitud restante del tweet</string>
