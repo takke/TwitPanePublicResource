@@ -2157,6 +2157,8 @@
     <string name="image_viewer_save_image">Save</string>
     <string name="image_viewer_back_button">Back</string>
     <string name="browser_save_image_saved">saved (%1$s)</string>
+    <string name="media_saved">Saved</string>
+    <string name="media_save_failed">Failed to save</string>
     <string name="browser_save_image_cannot_save">can't save image</string>
 
     <!-- ================================================================================ -->

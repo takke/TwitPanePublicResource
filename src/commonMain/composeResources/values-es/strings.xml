@@ -2095,6 +2095,8 @@
     <string name="image_viewer_save_image">Guardar</string>
     <string name="image_viewer_back_button">Atrás</string>
     <string name="browser_save_image_saved">guardado (%1$s)</string>
+    <string name="media_saved">Guardado</string>
+    <string name="media_save_failed">Error al guardar</string>
     <string name="browser_save_image_cannot_save">no se puede guardar la imagen</string>
 
     <!-- ================================================================================ -->

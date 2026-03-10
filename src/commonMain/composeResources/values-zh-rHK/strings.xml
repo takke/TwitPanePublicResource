@@ -2131,6 +2131,8 @@
     <string name="image_viewer_save_image">保存</string>
     <string name="image_viewer_back_button">後退</string>
     <string name="browser_save_image_saved">已保存（%1$s）</string>
+    <string name="media_saved">已儲存</string>
+    <string name="media_save_failed">儲存失敗</string>
     <string name="browser_save_image_cannot_save">不能保存圖像</string>
 
     <!-- ================================================================================ -->
