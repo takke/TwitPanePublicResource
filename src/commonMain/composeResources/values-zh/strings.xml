@@ -2783,4 +2783,11 @@
     <string name="config_use_compose_publish_mode">使用新发布界面</string>
     <string name="config_use_compose_publish_mode_summary">使用新开发的发布界面</string>
 
+    <!-- 桌面版菜单栏 -->
+    <string name="menu_desktop_file">文件</string>
+    <string name="menu_desktop_reload">重新加载</string>
+    <string name="menu_desktop_close_window">关闭窗口</string>
+    <string name="menu_desktop_help">帮助</string>
+    <string name="menu_desktop_keyboard_shortcuts">键盘快捷键</string>
+
 </resources>

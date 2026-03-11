@@ -2746,4 +2746,11 @@
     <string name="config_use_compose_publish_mode">새로운 작성 화면 사용</string>
     <string name="config_use_compose_publish_mode_summary">새로 개발된 작성 화면을 사용합니다</string>
 
+    <!-- 데스크톱 메뉴바 -->
+    <string name="menu_desktop_file">파일</string>
+    <string name="menu_desktop_reload">새로고침</string>
+    <string name="menu_desktop_close_window">창 닫기</string>
+    <string name="menu_desktop_help">도움말</string>
+    <string name="menu_desktop_keyboard_shortcuts">키보드 단축키</string>
+
 </resources>

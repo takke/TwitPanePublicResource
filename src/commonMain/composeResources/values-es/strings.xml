@@ -2746,4 +2746,11 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="config_use_compose_publish_mode">Usar nueva pantalla de redacción</string>
     <string name="config_use_compose_publish_mode_summary">Usar la nueva pantalla de redacción</string>
 
+    <!-- デスクトップ版メニューバー -->
+    <string name="menu_desktop_file">Archivo</string>
+    <string name="menu_desktop_reload">Recargar</string>
+    <string name="menu_desktop_close_window">Cerrar ventana</string>
+    <string name="menu_desktop_help">Ayuda</string>
+    <string name="menu_desktop_keyboard_shortcuts">Atajos de teclado</string>
+
 </resources>

@@ -2801,4 +2801,11 @@
     <string name="config_use_compose_publish_mode">新投稿画面を有効にする</string>
     <string name="config_use_compose_publish_mode_summary">新しく開発された投稿画面を使用します</string>
 
+    <!-- デスクトップ版メニューバー -->
+    <string name="menu_desktop_file">ファイル</string>
+    <string name="menu_desktop_reload">リロード</string>
+    <string name="menu_desktop_close_window">ウィンドウを閉じる</string>
+    <string name="menu_desktop_help">ヘルプ</string>
+    <string name="menu_desktop_keyboard_shortcuts">キーボードショートカット</string>
+
 </resources>

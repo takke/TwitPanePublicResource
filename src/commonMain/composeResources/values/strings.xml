@@ -2829,4 +2829,11 @@ Reauthenticate on the next screen.</string>
     <string name="config_use_compose_publish_mode">Use New Compose Screen</string>
     <string name="config_use_compose_publish_mode_summary">Use the newly developed compose screen</string>
 
+    <!-- デスクトップ版メニューバー -->
+    <string name="menu_desktop_file">File</string>
+    <string name="menu_desktop_reload">Reload</string>
+    <string name="menu_desktop_close_window">Close Window</string>
+    <string name="menu_desktop_help">Help</string>
+    <string name="menu_desktop_keyboard_shortcuts">Keyboard Shortcuts</string>
+
 </resources>
