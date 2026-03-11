@@ -2809,5 +2809,10 @@
     <string name="menu_desktop_keyboard_shortcuts">キーボードショートカット</string>
     <string name="menu_desktop_new_post">新規投稿</string>
     <string name="menu_desktop_cross_post">クロスポスト</string>
+    <string name="menu_desktop_settings">設定</string>
+    <string name="menu_desktop_view">表示</string>
+    <string name="menu_desktop_font_size_increase">フォントサイズを拡大</string>
+    <string name="menu_desktop_font_size_decrease">フォントサイズを縮小</string>
+    <string name="menu_desktop_tab_edit">タブ編集</string>
 
 </resources>

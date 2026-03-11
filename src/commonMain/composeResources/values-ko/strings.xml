@@ -2754,5 +2754,10 @@
     <string name="menu_desktop_keyboard_shortcuts">키보드 단축키</string>
     <string name="menu_desktop_new_post">새 게시물</string>
     <string name="menu_desktop_cross_post">크로스포스트</string>
+    <string name="menu_desktop_settings">설정</string>
+    <string name="menu_desktop_view">보기</string>
+    <string name="menu_desktop_font_size_increase">글자 크기 크게</string>
+    <string name="menu_desktop_font_size_decrease">글자 크기 작게</string>
+    <string name="menu_desktop_tab_edit">탭 편집</string>
 
 </resources>

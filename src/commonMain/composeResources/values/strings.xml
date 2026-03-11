@@ -2837,5 +2837,10 @@ Reauthenticate on the next screen.</string>
     <string name="menu_desktop_keyboard_shortcuts">Keyboard Shortcuts</string>
     <string name="menu_desktop_new_post">New Post</string>
     <string name="menu_desktop_cross_post">Cross Post</string>
+    <string name="menu_desktop_settings">Settings</string>
+    <string name="menu_desktop_view">View</string>
+    <string name="menu_desktop_font_size_increase">Increase Font Size</string>
+    <string name="menu_desktop_font_size_decrease">Decrease Font Size</string>
+    <string name="menu_desktop_tab_edit">Edit Tabs</string>
 
 </resources>

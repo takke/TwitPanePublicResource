@@ -2791,5 +2791,10 @@
     <string name="menu_desktop_keyboard_shortcuts">鍵盤快捷鍵</string>
     <string name="menu_desktop_new_post">新貼文</string>
     <string name="menu_desktop_cross_post">跨平台發文</string>
+    <string name="menu_desktop_settings">設定</string>
+    <string name="menu_desktop_view">顯示</string>
+    <string name="menu_desktop_font_size_increase">增大字體</string>
+    <string name="menu_desktop_font_size_decrease">縮小字體</string>
+    <string name="menu_desktop_tab_edit">編輯分頁</string>
 
 </resources>
