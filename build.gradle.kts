@@ -109,6 +109,8 @@ afterEvaluate {
     "generateDebugResources",
     "generateReleaseRFile",
     "generateReleaseResources",
+    "mapDebugSourceSetPaths",
+    "mapReleaseSourceSetPaths",
     "processDebugNavigationResources",
     "processReleaseNavigationResources",
   )
