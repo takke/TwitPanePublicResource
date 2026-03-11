@@ -2789,5 +2789,7 @@
     <string name="menu_desktop_close_window">關閉視窗</string>
     <string name="menu_desktop_help">說明</string>
     <string name="menu_desktop_keyboard_shortcuts">鍵盤快捷鍵</string>
+    <string name="menu_desktop_new_post">新貼文</string>
+    <string name="menu_desktop_cross_post">跨平台發文</string>
 
 </resources>

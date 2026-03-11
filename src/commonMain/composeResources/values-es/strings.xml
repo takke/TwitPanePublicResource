@@ -2752,5 +2752,7 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="menu_desktop_close_window">Cerrar ventana</string>
     <string name="menu_desktop_help">Ayuda</string>
     <string name="menu_desktop_keyboard_shortcuts">Atajos de teclado</string>
+    <string name="menu_desktop_new_post">Nueva publicación</string>
+    <string name="menu_desktop_cross_post">Publicación cruzada</string>
 
 </resources>

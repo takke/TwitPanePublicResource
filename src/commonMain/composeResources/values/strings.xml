@@ -2835,5 +2835,7 @@ Reauthenticate on the next screen.</string>
     <string name="menu_desktop_close_window">Close Window</string>
     <string name="menu_desktop_help">Help</string>
     <string name="menu_desktop_keyboard_shortcuts">Keyboard Shortcuts</string>
+    <string name="menu_desktop_new_post">New Post</string>
+    <string name="menu_desktop_cross_post">Cross Post</string>
 
 </resources>
