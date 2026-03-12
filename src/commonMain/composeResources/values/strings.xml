@@ -1299,6 +1299,9 @@
     <string name="config_color_label_select_from_other">Select from other colors:</string>
     <string name="config_theme_selection_dialog_title">Select Theme</string>
     <string name="config_appearance">Appearance</string>
+    <string name="config_desktop_mode_settings">Desktop Mode Settings</string>
+    <string name="config_desktop_mode_settings_summary">Settings specific to the desktop version</string>
+    <string name="config_desktop_mode_no_settings_yet">No desktop mode settings yet</string>
     <string name="config_timeline_publish_category">Timeline and Compose</string>
     <string name="config_media_viewer_category">Media Viewer</string>
     <string name="config_thumb_size">Thumbnail size</string>

@@ -1309,6 +1309,9 @@
     <string name="config_color_label_select_from_other">從其他顏色中選擇:</string>
     <string name="config_theme_selection_dialog_title">選擇主題</string>
     <string name="config_appearance">外觀</string>
+    <string name="config_desktop_mode_settings">桌面模式設定</string>
+    <string name="config_desktop_mode_settings_summary">桌面版專有設定</string>
+    <string name="config_desktop_mode_no_settings_yet">尚無桌面模式設定</string>
     <string name="config_timeline_publish_category">時間軸和推文編寫</string>
     <string name="config_media_viewer_category">媒體檢視器</string>
     <string name="config_thumb_size">縮圖大小</string>

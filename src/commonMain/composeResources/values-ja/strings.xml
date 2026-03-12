@@ -1322,6 +1322,9 @@
     <string name="config_color_label_select_from_other">他のカラーから選択:</string>
     <string name="config_theme_selection_dialog_title">テーマ選択</string>
     <string name="config_appearance">外観</string>
+    <string name="config_desktop_mode_settings">デスクトップモード設定</string>
+    <string name="config_desktop_mode_settings_summary">デスクトップ版固有の設定</string>
+    <string name="config_desktop_mode_no_settings_yet">デスクトップモード設定はまだありません</string>
     <string name="config_timeline_publish_category">タイムラインと投稿</string>
     <string name="config_media_viewer_category">メディアビューア</string>
     <string name="config_thumb_size">ユーザーアイコンサイズ</string>
