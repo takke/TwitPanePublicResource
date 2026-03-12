@@ -2763,4 +2763,8 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="menu_desktop_font_size_decrease">Reducir tamaño de fuente</string>
     <string name="menu_desktop_tab_edit">Editar pestañas</string>
 
+    <string name="desktop_column_customize">Personalizar columna</string>
+    <string name="desktop_column_remove">Eliminar columna</string>
+    <string name="desktop_column_remove_confirm">¿Seguro que deseas eliminar esta columna?</string>
+
 </resources>

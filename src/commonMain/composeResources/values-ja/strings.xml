@@ -2818,4 +2818,8 @@
     <string name="menu_desktop_font_size_decrease">フォントサイズを縮小</string>
     <string name="menu_desktop_tab_edit">タブ編集</string>
 
+    <string name="desktop_column_customize">カラムのカスタマイズ</string>
+    <string name="desktop_column_remove">カラムを削除</string>
+    <string name="desktop_column_remove_confirm">このカラムを削除しますか？</string>
+
 </resources>

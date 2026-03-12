@@ -2799,4 +2799,8 @@
     <string name="menu_desktop_font_size_decrease">縮小字體</string>
     <string name="menu_desktop_tab_edit">編輯分頁</string>
 
+    <string name="desktop_column_customize">自訂欄位</string>
+    <string name="desktop_column_remove">刪除欄位</string>
+    <string name="desktop_column_remove_confirm">確定要刪除此欄位嗎？</string>
+
 </resources>
