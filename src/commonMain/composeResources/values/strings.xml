@@ -2848,6 +2848,7 @@ Reauthenticate on the next screen.</string>
 
     <string name="desktop_column_customize">Customize Column</string>
     <string name="desktop_column_remove">Remove Column</string>
+    <string name="desktop_column_width">Column width</string>
     <string name="desktop_column_remove_confirm">Are you sure you want to remove this column?</string>
 
 </resources>

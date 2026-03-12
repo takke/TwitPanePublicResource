@@ -2802,6 +2802,7 @@
 
     <string name="desktop_column_customize">自訂欄位</string>
     <string name="desktop_column_remove">刪除欄位</string>
+    <string name="desktop_column_width">欄位寬度</string>
     <string name="desktop_column_remove_confirm">確定要刪除此欄位嗎？</string>
 
 </resources>

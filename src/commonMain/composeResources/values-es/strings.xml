@@ -2765,6 +2765,7 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
 
     <string name="desktop_column_customize">Personalizar columna</string>
     <string name="desktop_column_remove">Eliminar columna</string>
+    <string name="desktop_column_width">Ancho de columna</string>
     <string name="desktop_column_remove_confirm">¿Seguro que deseas eliminar esta columna?</string>
 
 </resources>

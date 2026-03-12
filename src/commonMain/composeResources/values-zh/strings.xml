@@ -2802,6 +2802,7 @@
 
     <string name="desktop_column_customize">自定义列</string>
     <string name="desktop_column_remove">删除列</string>
+    <string name="desktop_column_width">列宽</string>
     <string name="desktop_column_remove_confirm">确定要删除此列吗？</string>
 
 </resources>

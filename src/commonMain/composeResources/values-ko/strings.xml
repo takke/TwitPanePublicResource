@@ -2765,6 +2765,7 @@
 
     <string name="desktop_column_customize">칼럼 사용자 지정</string>
     <string name="desktop_column_remove">칼럼 삭제</string>
+    <string name="desktop_column_width">칼럼 너비</string>
     <string name="desktop_column_remove_confirm">이 칼럼을 삭제하시겠습니까?</string>
 
 </resources>

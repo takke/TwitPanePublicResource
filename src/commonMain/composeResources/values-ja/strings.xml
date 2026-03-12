@@ -2820,6 +2820,7 @@
 
     <string name="desktop_column_customize">カラムのカスタマイズ</string>
     <string name="desktop_column_remove">カラムを削除</string>
+    <string name="desktop_column_width">カラムの幅</string>
     <string name="desktop_column_remove_confirm">このカラムを削除しますか？</string>
 
 </resources>
