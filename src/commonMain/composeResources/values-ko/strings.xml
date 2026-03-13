@@ -1310,6 +1310,8 @@
     <string name="config_desktop_mode_settings">데스크톱 모드 설정</string>
     <string name="config_desktop_mode_settings_summary">데스크톱 버전 전용 설정</string>
     <string name="config_desktop_mode_no_settings_yet">아직 데스크톱 모드 설정이 없습니다</string>
+    <string name="config_desktop_multi_column_mode">멀티 칼럼 모드</string>
+    <string name="config_desktop_multi_column_mode_summary">켜면 여러 칼럼을 동시에 표시합니다(TweetDeck 스타일). 끄면 싱글 칼럼 모드로 전환되어 스마트폰과 같은 레이아웃이 됩니다.</string>
     <string name="config_timeline_publish_category">타임라인 및 작성</string>
     <string name="config_media_viewer_category">미디어 뷰어</string>
 	<string name="config_thumb_size">썸네일 크기</string>

@@ -1309,6 +1309,8 @@
     <string name="config_desktop_mode_settings">桌面模式设置</string>
     <string name="config_desktop_mode_settings_summary">桌面版专有设置</string>
     <string name="config_desktop_mode_no_settings_yet">暂无桌面模式设置</string>
+    <string name="config_desktop_multi_column_mode">多栏模式</string>
+    <string name="config_desktop_multi_column_mode_summary">开启后，同时显示多个栏（TweetDeck 风格）。关闭后，切换为单栏模式，呈现类似智能手机的布局。</string>
     <string name="config_timeline_publish_category">时间轴和推文编写</string>
     <string name="config_media_viewer_category">媒体查看器</string>
     <string name="config_thumb_size">缩略图大小</string>
