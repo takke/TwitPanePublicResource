@@ -2764,6 +2764,8 @@
     <string name="menu_desktop_font_size_increase">글자 크기 크게</string>
     <string name="menu_desktop_font_size_decrease">글자 크기 작게</string>
     <string name="menu_desktop_tab_edit">탭 편집</string>
+    <string name="menu_desktop_single_column_mode">단일 칼럼 모드</string>
+    <string name="menu_desktop_multi_column_mode">멀티 칼럼 모드</string>
 
     <string name="desktop_column_customize">칼럼 사용자 지정</string>
     <string name="desktop_column_remove">칼럼 삭제</string>

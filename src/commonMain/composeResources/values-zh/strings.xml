@@ -2801,6 +2801,8 @@
     <string name="menu_desktop_font_size_increase">增大字体</string>
     <string name="menu_desktop_font_size_decrease">减小字体</string>
     <string name="menu_desktop_tab_edit">编辑标签</string>
+    <string name="menu_desktop_single_column_mode">单列模式</string>
+    <string name="menu_desktop_multi_column_mode">多列模式</string>
 
     <string name="desktop_column_customize">自定义列</string>
     <string name="desktop_column_remove">删除列</string>
