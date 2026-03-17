@@ -1848,8 +1848,8 @@
     <string name="config_notification_led">LED</string>
     <string name="config_notification_led_color">LED 颜色</string>
     <string name="config_show_notification_button">显示应答按钮</string>
-    <string name="config_exclude_battery_optimizations">排除在电池优化之外</string>
-    <string name="config_exclude_battery_optimizations_summary">如果你没有收到定期通知，请将此应用排除在电池优化之外。</string>
+    <string name="config_exclude_battery_optimizations">电池用量设置</string>
+    <string name="config_exclude_battery_optimizations_summary">要稳定后台定期获取，请将电池用量设置为"不受限制"。</string>
     <string name="config_exclude_battery_optimizations_exclude">排除</string>
     <string name="config_notification_category_auto_updates">自动更新</string>
     <string name="config_notification_category_auto_updates_summary_ついぺん">每个标签都将在上述通知间隔内自动获得新推文。通过长按标签或从 "标签设置 "来修改设置。</string>

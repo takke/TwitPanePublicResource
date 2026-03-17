@@ -1851,8 +1851,8 @@
     <string name="config_notification_led">LED</string>
     <string name="config_notification_led_color">LED Color</string>
     <string name="config_show_notification_button">응답 버튼을 표시</string>
-    <string name="config_exclude_battery_optimizations">Exclude from battery optimizations</string>
-    <string name="config_exclude_battery_optimizations_summary">If you do not receive periodic notifications, please exclude this app from battery optimization.</string>
+    <string name="config_exclude_battery_optimizations">배터리 사용량 설정</string>
+    <string name="config_exclude_battery_optimizations_summary">백그라운드 정기 가져오기를 안정시키려면 배터리 사용량을 "무제한"으로 설정하세요.</string>
     <string name="config_exclude_battery_optimizations_exclude">Exclude</string>
     <string name="config_notification_category_auto_updates">자동 업데이트</string>
     <string name="config_notification_category_auto_updates_summary_ついぺん">각 탭은 위의 알림 간격으로 새 트윗을 자동으로 가져옵니다. 탭을 길게 누르거나 "탭 설정"에서 변경하세요.</string>

@@ -1874,8 +1874,8 @@
     <string name="config_notification_led">LED</string>
     <string name="config_notification_led_color">LEDカラー</string>
     <string name="config_show_notification_button">返信ボタンを付ける</string>
-    <string name="config_exclude_battery_optimizations">バッテリーの最適化からの除外</string>
-    <string name="config_exclude_battery_optimizations_summary">定期的に通知が来ない場合は本アプリをバッテリーの最適化から除外してください</string>
+    <string name="config_exclude_battery_optimizations">バッテリー使用量の設定</string>
+    <string name="config_exclude_battery_optimizations_summary">バックグラウンドでの定期取得を安定させるには「制限なし」に設定してください</string>
     <string name="config_exclude_battery_optimizations_exclude">除外する</string>
     <string name="config_notification_category_auto_updates">自動更新</string>
     <string name="config_notification_category_auto_updates_summary_ついぺん">自動的に新しいツイートを取得します。対象となるタブは「タブの長押し」メニュー、「タブの設定」または下記の「自動更新タブ一覧」から設定します。</string>

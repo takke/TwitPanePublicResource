@@ -1851,8 +1851,8 @@
     <string name="config_notification_led">LED</string>
     <string name="config_notification_led_color">Color del LED</string>
     <string name="config_show_notification_button">Mostrar botón de respuesta</string>
-    <string name="config_exclude_battery_optimizations">Exclude from battery optimizations</string>
-    <string name="config_exclude_battery_optimizations_summary">If you do not receive periodic notifications, please exclude this app from battery optimization.</string>
+    <string name="config_exclude_battery_optimizations">Configuración del uso de batería</string>
+    <string name="config_exclude_battery_optimizations_summary">Para estabilizar la obtención periódica en segundo plano, configure el uso de batería en "Sin restricciones".</string>
     <string name="config_exclude_battery_optimizations_exclude">Exclude</string>
     <string name="config_notification_category_auto_updates">Actualizaciones automáticas</string>
     <string name="config_notification_category_auto_updates_summary_ついぺん">Cada pestaña obtendrá automáticamente nuevos tweets en el intervalo de notificación anterior. Cámbielo manteniendo presionada la pestaña o desde "Configuración de pestañas".</string>

@@ -1855,8 +1855,8 @@
     <string name="config_notification_led">LED</string>
     <string name="config_notification_led_color">LED Color</string>
     <string name="config_show_notification_button">Show reply button</string>
-    <string name="config_exclude_battery_optimizations">Exclude from battery optimizations</string>
-    <string name="config_exclude_battery_optimizations_summary">If you do not receive periodic notifications, please exclude this app from battery optimization.</string>
+    <string name="config_exclude_battery_optimizations">Battery usage settings</string>
+    <string name="config_exclude_battery_optimizations_summary">To stabilize periodic background fetching, please set the battery usage to "Unrestricted".</string>
     <string name="config_exclude_battery_optimizations_exclude">Exclude</string>
     <string name="config_notification_category_auto_updates">Auto updates</string>
     <string name="config_notification_category_auto_updates_summary_ついぺん">Each tab will automatically get new tweets at the above notification interval. Change it by long-pressing the tab or from "Tab Settings".</string>
