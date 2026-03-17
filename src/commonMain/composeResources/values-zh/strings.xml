@@ -587,6 +587,7 @@
     <string name="add_tab">添加标签</string>
     <string name="add_column">添加栏目</string>
     <string name="add_tab_other_account">添加其他账户的标签</string>
+    <string name="add_column_other_account">添加其他账户的栏目</string>
     <string name="add_tab_all_tabs_added">所有标签已添加</string>
 
     <string name="menu_ok">确定</string>

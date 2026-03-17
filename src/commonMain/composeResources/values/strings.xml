@@ -580,6 +580,7 @@
     <string name="add_tab">Add Tab</string>
     <string name="add_column">Add Column</string>
     <string name="add_tab_other_account">Add tabs from other accounts</string>
+    <string name="add_column_other_account">Add columns from other accounts</string>
     <string name="add_tab_all_tabs_added">All tabs have been added</string>
 
     <string name="menu_ok">OK</string>

@@ -593,6 +593,7 @@
     <string name="add_tab">タブの追加</string>
     <string name="add_column">カラムの追加</string>
     <string name="add_tab_other_account">他のアカウントのタブを追加</string>
+    <string name="add_column_other_account">他のアカウントのカラムを追加</string>
     <string name="add_tab_all_tabs_added">全てのタブが追加済みです</string>
     
     <string name="menu_ok">OK</string>

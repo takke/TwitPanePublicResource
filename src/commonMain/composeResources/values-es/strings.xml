@@ -585,6 +585,7 @@
     <string name="add_tab">Agregar pestaña</string>
     <string name="add_column">Agregar columna</string>
     <string name="add_tab_other_account">Agregar pestañas de otras cuentas</string>
+    <string name="add_column_other_account">Agregar columnas de otras cuentas</string>
     <string name="add_tab_all_tabs_added">Todas las pestañas han sido agregadas</string>
 
     <string name="menu_ok">Aceptar</string>
