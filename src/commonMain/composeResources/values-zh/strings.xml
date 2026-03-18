@@ -2687,6 +2687,7 @@
     <string name="cross_post_share_media_not_supported">*媒体文件不会转移。请在目标应用中重新选择文件。</string>
     <string name="cross_post_subscription_button">订阅</string>
     <string name="cross_post_share_clipboard_copied">正文已复制到剪贴板。\n请打开其他社交网站并粘贴。</string>
+    <string name="cross_post_share_clipboard_copied_open_service">正文已复制到剪贴板。即将打开 %1$s，请在发布界面粘贴。</string>
     <string name="cross_post_share_failed">分享失败：%1$s</string>
     <string name="cross_post_subscription_started">订阅已开始</string>
     <string name="share_to_other_services">分享到其他服务</string>

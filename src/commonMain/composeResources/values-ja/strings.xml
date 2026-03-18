@@ -2705,6 +2705,7 @@
     <string name="cross_post_share_media_not_supported">※メディアファイルは引き継がれませんので共有先アプリで再度ファイルを選択してください</string>
     <string name="cross_post_subscription_button">定期購入</string>
     <string name="cross_post_share_clipboard_copied">本文をクリップボードにコピーしました。\n他のSNSサイトを開いて貼り付けてください。</string>
+    <string name="cross_post_share_clipboard_copied_open_service">本文をクリップボードにコピーしました。%1$sが開くので投稿画面に貼り付けてください。</string>
     <string name="cross_post_share_failed">共有に失敗しました: %1$s</string>
     <string name="cross_post_subscription_started">サブスクリプションを開始しました</string>
     <string name="share_to_other_services">他のSNSに投稿する</string>
