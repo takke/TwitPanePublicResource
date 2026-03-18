@@ -2704,6 +2704,9 @@
     <string name="cross_post_share_limit_message">外部SNSへの投稿は1回まで可能です。定期購入していただくと2回以上外部投稿できるようになります。</string>
     <string name="cross_post_share_media_not_supported">※メディアファイルは引き継がれませんので共有先アプリで再度ファイルを選択してください</string>
     <string name="cross_post_subscription_button">定期購入</string>
+    <string name="cross_post_share_clipboard_copied">本文をクリップボードにコピーしました。\n他のSNSサイトを開いて貼り付けてください。</string>
+    <string name="cross_post_share_failed">共有に失敗しました: %1$s</string>
+    <string name="cross_post_subscription_started">サブスクリプションを開始しました</string>
     <string name="share_to_other_services">他のSNSに投稿する</string>
     <string name="share_file_attach_not_supported">%sはファイル添付をサポートしていません。テキストのみで共有します。</string>
     <string name="share_app_not_found">%sアプリが見つかりません</string>

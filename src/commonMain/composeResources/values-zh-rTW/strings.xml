@@ -2685,6 +2685,9 @@
     <string name="cross_post_share_limit_title">關於分享次數限制</string>
     <string name="cross_post_share_limit_message">外部SNS發佈限制為所有SNS合計一次。透過訂閱，您可以向外部SNS發佈超過兩次。</string>
     <string name="cross_post_subscription_button">訂閱</string>
+    <string name="cross_post_share_clipboard_copied">正文已複製到剪貼簿。\n請開啟其他社群網站並貼上。</string>
+    <string name="cross_post_share_failed">分享失敗：%1$s</string>
+    <string name="cross_post_subscription_started">訂閱已開始</string>
     <string name="share_to_other_services">分享至其他服務</string>
     <string name="share_file_attach_not_supported">%s不支援檔案附件。只分享文字。</string>
     <string name="share_app_not_found">找不到%s應用程式</string>
