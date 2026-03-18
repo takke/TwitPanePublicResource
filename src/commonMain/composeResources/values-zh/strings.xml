@@ -2409,6 +2409,10 @@
     <string name="notification_favourited">%1$s favorited your status</string>
     <string name="notification_liked_your_post">%1$s liked your post</string>
     <string name="notification_reposted_your_post">%1$s reposted your post</string>
+    <string name="notification_grouped_liked">%1$s和其他%2$d人点赞了您的帖子</string>
+    <string name="notification_grouped_reposted">%1$s和其他%2$d人转发了您的帖子</string>
+    <string name="notification_grouped_like_via_repost">%1$s和其他%2$d人通过转发点赞了</string>
+    <string name="notification_grouped_repost_via_repost">%1$s和其他%2$d人通过转发进行了转发</string>
     <string name="notification_poll_ended">The polls have been closed.</string>
     <string name="notification_reblogged">%1$s boosted your status</string>
     <string name="notification_renoted">%1$s renoted your note</string>
