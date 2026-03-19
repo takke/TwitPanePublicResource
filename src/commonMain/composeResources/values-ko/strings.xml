@@ -1823,6 +1823,9 @@
     <string name="config_notification_category_details">Details</string>
     <string name="config_use_interval_notification">간격 알림</string>
     <string name="config_use_interval_notification_summary"></string>
+    <string name="config_foreground_auto_update_interval">자동 업데이트 간격</string>
+    <string name="config_interval_format_seconds">%1$d초</string>
+    <string name="config_interval_format_minutes">%1$d분</string>
     <string name="config_notification_interval">간격</string>
     <string-array name="config_notification_interval_entries">
         <item>1 분.</item>

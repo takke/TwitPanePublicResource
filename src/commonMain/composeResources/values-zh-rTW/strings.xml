@@ -1820,6 +1820,9 @@
     <string name="config_notification_category_details">詳情</string>
     <string name="config_use_interval_notification">定期通知</string>
     <string name="config_use_interval_notification_summary"></string>
+    <string name="config_foreground_auto_update_interval">自動更新間隔</string>
+    <string name="config_interval_format_seconds">%1$d秒</string>
+    <string name="config_interval_format_minutes">%1$d分鐘</string>
     <string name="config_notification_interval">間隔</string>
     <string-array name="config_notification_interval_entries">
         <item>"1分鐘</item>
