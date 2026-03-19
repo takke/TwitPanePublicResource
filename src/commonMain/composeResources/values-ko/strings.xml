@@ -1867,6 +1867,8 @@
     <string name="config_notification_category_auto_updates_summary_cmp_desktop">앱이 실행되는 동안 새 게시물과 알림을 자동으로 가져옵니다. 대상 탭/컬럼은 "컬럼 커스터마이즈 패널", "탭 길게 누르기 메뉴", "탭 설정" 또는 아래의 "자동 업데이트 탭 목록"에서 설정할 수 있습니다.</string>
     <string name="config_notification_show_auto_update_tabs">Auto Update Tabs</string>
     <string name="config_notification_show_auto_update_tabs_summary">Show tabs that are automatically updated.</string>
+    <string name="config_notification_show_auto_update_tabs_desktop">자동 업데이트 탭/컬럼 목록</string>
+    <string name="config_notification_show_auto_update_tabs_summary_desktop">자동으로 업데이트되도록 설정된 탭/컬럼을 확인하거나 추가, 해제할 수 있습니다.</string>
     <string name="config_notification_add_auto_update_tabs">Add Auto Update Tab</string>
     <string name="config_notification_delete_auto_update_tab">Set this tab to not auto-update?</string>
     <string name="set_auto_updates">자동 업데이트 설정</string>

@@ -1867,6 +1867,8 @@
     <string name="config_notification_category_auto_updates_summary_cmp_desktop">Mientras la aplicación esté en ejecución, obtendrá automáticamente nuevas publicaciones y notificaciones. Configure las pestañas/columnas desde el "Panel de personalización de columnas", el "Menú largo de pestañas", "Configuración de pestañas" o la "Lista de pestañas de actualización automática" a continuación.</string>
     <string name="config_notification_show_auto_update_tabs">Auto Update Tabs</string>
     <string name="config_notification_show_auto_update_tabs_summary">Show tabs that are automatically updated.</string>
+    <string name="config_notification_show_auto_update_tabs_desktop">Pestañas/Columnas de Actualización Automática</string>
+    <string name="config_notification_show_auto_update_tabs_summary_desktop">Muestra las pestañas/columnas que se actualizan automáticamente.</string>
     <string name="config_notification_add_auto_update_tabs">Add Auto Update Tab</string>
     <string name="config_notification_delete_auto_update_tab">Set this tab to not auto-update?</string>
     <string name="set_auto_updates">Establecer actualizaciones automáticas</string>

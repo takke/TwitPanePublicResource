@@ -1890,6 +1890,8 @@
     <string name="config_notification_category_auto_updates_summary_cmp_desktop">アプリを起動している間、自動的に新しい投稿や通知などを取得します。対象となるタブ/カラムは「カラムのカスタマイズパネル」、「タブの長押しメニュー」、「タブの設定」または下記の「自動更新タブ一覧」から設定します。</string>
     <string name="config_notification_show_auto_update_tabs">自動更新タブ一覧</string>
     <string name="config_notification_show_auto_update_tabs_summary">自動更新に設定されているタブの確認や追加、解除ができます。</string>
+    <string name="config_notification_show_auto_update_tabs_desktop">自動更新タブ/カラム一覧</string>
+    <string name="config_notification_show_auto_update_tabs_summary_desktop">自動更新に設定されているタブ/カラムの確認や追加、解除ができます。</string>
     <string name="config_notification_add_auto_update_tabs">自動更新タブの追加</string>
     <string name="config_notification_delete_auto_update_tab">このタブの自動更新を解除しますか？</string>
     <string name="set_auto_updates">自動更新する</string>

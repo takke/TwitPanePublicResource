@@ -1864,6 +1864,8 @@
     <string name="config_notification_category_auto_updates_summary_cmp_desktop">應用程式運行期間，將自動獲取新貼文和通知。可以從「欄位自訂面板」、「標籤長按選單」、「標籤設定」或下方的「自動更新標籤清單」中設定目標標籤/欄位。</string>
     <string name="config_notification_show_auto_update_tabs">Auto Update Tabs</string>
     <string name="config_notification_show_auto_update_tabs_summary">Show tabs that are automatically updated.</string>
+    <string name="config_notification_show_auto_update_tabs_desktop">自動更新標籤/欄位清單</string>
+    <string name="config_notification_show_auto_update_tabs_summary_desktop">可以查看、新增或取消設定為自動更新的標籤/欄位。</string>
     <string name="config_notification_add_auto_update_tabs">Add Auto Update Tab</string>
     <string name="config_notification_delete_auto_update_tab">Set this tab to not auto-update?</string>
     <string name="set_auto_updates">設定自動更新</string>

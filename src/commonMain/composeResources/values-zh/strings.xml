@@ -1864,6 +1864,8 @@
     <string name="config_notification_category_auto_updates_summary_cmp_desktop">应用运行期间，将自动获取新帖子和通知。可以从"列定制面板"、"标签长按菜单"、"标签设置"或下方的"自动更新标签列表"中设置目标标签/列。</string>
     <string name="config_notification_show_auto_update_tabs">Auto Update Tabs</string>
     <string name="config_notification_show_auto_update_tabs_summary">Show tabs that are automatically updated.</string>
+    <string name="config_notification_show_auto_update_tabs_desktop">自动更新标签/列列表</string>
+    <string name="config_notification_show_auto_update_tabs_summary_desktop">可以查看、添加或取消设置为自动更新的标签/列。</string>
     <string name="config_notification_add_auto_update_tabs">Add Auto Update Tab</string>
     <string name="config_notification_delete_auto_update_tab">Set this tab to not auto-update?</string>
     <string name="set_auto_updates">设置自动更新</string>
