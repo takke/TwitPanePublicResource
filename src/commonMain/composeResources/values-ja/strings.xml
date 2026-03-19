@@ -1846,6 +1846,8 @@
     <string name="config_notification_category_details">通知のカスタマイズ</string>
     <string name="config_use_interval_notification">定期取得</string>
     <string name="config_use_interval_notification_summary">タブの自動更新を行ったり、新着返信やメッセージを定期的に取得し通知します。【初期値：OFF】</string>
+    <string name="config_use_interval_notification_summary_cmp">タブの自動更新を行います【初期値：ON】</string>
+    <string name="config_use_interval_notification_summary_cmp_desktop">タブ/カラムの自動更新を行います【初期値：ON】</string>
     <string name="config_foreground_auto_update_interval">自動更新間隔</string>
     <string name="config_interval_format_seconds">%1$d秒</string>
     <string name="config_interval_format_minutes">%1$d分</string>

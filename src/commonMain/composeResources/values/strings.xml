@@ -1827,6 +1827,8 @@
     <string name="config_notification_category_details">Details</string>
     <string name="config_use_interval_notification">Periodic Notification</string>
     <string name="config_use_interval_notification_summary"></string>
+    <string name="config_use_interval_notification_summary_cmp">Automatically updates tabs. [Default: ON]</string>
+    <string name="config_use_interval_notification_summary_cmp_desktop">Automatically updates tabs/columns. [Default: ON]</string>
     <string name="config_foreground_auto_update_interval">Auto-update interval</string>
     <string name="config_interval_format_seconds">%1$d sec</string>
     <string name="config_interval_format_minutes">%1$d min</string>

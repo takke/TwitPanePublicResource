@@ -1823,6 +1823,8 @@
     <string name="config_notification_category_details">Details</string>
     <string name="config_use_interval_notification">간격 알림</string>
     <string name="config_use_interval_notification_summary"></string>
+    <string name="config_use_interval_notification_summary_cmp">탭을 자동으로 업데이트합니다. [기본값: ON]</string>
+    <string name="config_use_interval_notification_summary_cmp_desktop">탭/칼럼을 자동으로 업데이트합니다. [기본값: ON]</string>
     <string name="config_foreground_auto_update_interval">자동 업데이트 간격</string>
     <string name="config_interval_format_seconds">%1$d초</string>
     <string name="config_interval_format_minutes">%1$d분</string>

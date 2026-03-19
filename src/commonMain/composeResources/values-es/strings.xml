@@ -1823,6 +1823,8 @@
     <string name="config_notification_category_details">Details</string>
     <string name="config_use_interval_notification">Notificaciones</string>
     <string name="config_use_interval_notification_summary">Si está activo se te notificarán las novedades cada x tiempo, según el intervalo que especifiques.</string>
+    <string name="config_use_interval_notification_summary_cmp">Actualiza automáticamente las pestañas. [Valor predeterminado: ON]</string>
+    <string name="config_use_interval_notification_summary_cmp_desktop">Actualiza automáticamente las pestañas/columnas. [Valor predeterminado: ON]</string>
     <string name="config_foreground_auto_update_interval">Intervalo de actualización automática</string>
     <string name="config_interval_format_seconds">%1$d s</string>
     <string name="config_interval_format_minutes">%1$d min</string>
