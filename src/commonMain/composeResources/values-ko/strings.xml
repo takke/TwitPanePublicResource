@@ -1861,6 +1861,8 @@
     <string name="config_notification_category_auto_updates_summary_ついぺん">각 탭은 위의 알림 간격으로 새 트윗을 자동으로 가져옵니다. 탭을 길게 누르거나 "탭 설정"에서 변경하세요.</string>
     <string name="config_notification_category_auto_updates_summary_ぞーぺん">각 탭은 위의 알림 간격으로 새 게시물을 자동으로 가져옵니다. 탭을 길게 누르거나 "탭 설정"에서 변경하세요.</string>
     <string name="config_notification_category_auto_updates_summary_たいぺん">각 탭은 위의 알림 간격으로 새 타이츠를 자동으로 가져옵니다. 탭을 길게 누르거나 "탭 설정"에서 변경하세요.</string>
+    <string name="config_notification_category_auto_updates_summary_cmp">앱이 실행되는 동안 새 게시물과 알림을 자동으로 가져옵니다. 대상 탭은 "탭 길게 누르기 메뉴", "탭 설정" 또는 아래의 "자동 업데이트 탭 목록"에서 설정할 수 있습니다.</string>
+    <string name="config_notification_category_auto_updates_summary_cmp_desktop">앱이 실행되는 동안 새 게시물과 알림을 자동으로 가져옵니다. 대상 탭/컬럼은 "컬럼 커스터마이즈 패널", "탭 길게 누르기 메뉴", "탭 설정" 또는 아래의 "자동 업데이트 탭 목록"에서 설정할 수 있습니다.</string>
     <string name="config_notification_show_auto_update_tabs">Auto Update Tabs</string>
     <string name="config_notification_show_auto_update_tabs_summary">Show tabs that are automatically updated.</string>
     <string name="config_notification_add_auto_update_tabs">Add Auto Update Tab</string>

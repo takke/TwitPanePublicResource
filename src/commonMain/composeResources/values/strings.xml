@@ -1865,6 +1865,8 @@
     <string name="config_notification_category_auto_updates_summary_ついぺん">Each tab will automatically get new tweets at the above notification interval. Change it by long-pressing the tab or from "Tab Settings".</string>
     <string name="config_notification_category_auto_updates_summary_ぞーぺん">Each tab will automatically get new posts at the above notification interval. Change it by long-pressing the tab or from "Tab Settings".</string>
     <string name="config_notification_category_auto_updates_summary_たいぺん">Each tab will automatically get new taiitsu at the above notification interval. Change it by long-pressing the tab or from "Tab Settings".</string>
+    <string name="config_notification_category_auto_updates_summary_cmp">While the app is running, it will automatically fetch new posts and notifications. Configure the target tabs from the "Tab Long-press Menu", "Tab Settings", or the "Auto Update Tab List" below.</string>
+    <string name="config_notification_category_auto_updates_summary_cmp_desktop">While the app is running, it will automatically fetch new posts and notifications. Configure the target tabs/columns from the "Column Customization Panel", "Tab Long-press Menu", "Tab Settings", or the "Auto Update Tab List" below.</string>
     <string name="config_notification_show_auto_update_tabs">Auto Update Tabs</string>
     <string name="config_notification_show_auto_update_tabs_summary">Show tabs that are automatically updated.</string>
     <string name="config_notification_add_auto_update_tabs">Add Auto Update Tab</string>
