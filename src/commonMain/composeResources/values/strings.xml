@@ -1870,11 +1870,13 @@
     <string name="config_notification_category_auto_updates_summary_cmp">While the app is running, it will automatically fetch new posts and notifications. Configure the target tabs from the "Tab Long-press Menu", "Tab Settings", or the "Auto Update Tab List" below.</string>
     <string name="config_notification_category_auto_updates_summary_cmp_desktop">While the app is running, it will automatically fetch new posts and notifications. Configure the target tabs/columns from the "Column Customization Panel", "Tab Long-press Menu", "Tab Settings", or the "Auto Update Tab List" below.</string>
     <string name="config_notification_show_auto_update_tabs">Auto Update Tabs</string>
+    <string name="config_notification_show_auto_update_columns">Auto Update Columns</string>
     <string name="config_notification_show_auto_update_tabs_summary">Show tabs that are automatically updated.</string>
-    <string name="config_notification_show_auto_update_tabs_desktop">Auto Update Tabs/Columns</string>
-    <string name="config_notification_show_auto_update_tabs_summary_desktop">Show tabs/columns that are automatically updated.</string>
+    <string name="config_notification_show_auto_update_columns_summary">You can check, add, or remove columns set to auto-update.</string>
     <string name="config_notification_add_auto_update_tabs">Add Auto Update Tab</string>
+    <string name="config_notification_add_auto_update_columns">Add Auto Update Column</string>
     <string name="config_notification_delete_auto_update_tab">Set this tab to not auto-update?</string>
+    <string name="config_notification_delete_auto_update_column">Set this column to not auto-update?</string>
     <string name="set_auto_updates">Set auto updates</string>
     <string name="unset_auto_updates">Unset auto updates</string>
     <string name="auto_updates_is_disabled_when_notification_is_disabled">Periodic notifications are turned off, so no automatic updates will be made.</string>
