@@ -1879,6 +1879,7 @@
     <string name="unset_auto_updates">Unset auto updates</string>
     <string name="auto_updates_is_disabled_when_notification_is_disabled">Periodic notifications are turned off, so no automatic updates will be made.</string>
     <string name="auto_update_every_n_minutes">Automatically updates every %1$d minutes</string>
+    <string name="auto_update_every_n_seconds">Automatically updates every %1$d seconds</string>
     <string name="config_show_new_tweet_notification_ついぺん">Show new tweet notification</string>
     <string name="config_show_new_tweet_notification_ぞーぺん">Show new post notification</string>
     <string name="config_show_new_tweet_notification_たいぺん">Show new taiitsu notification</string>

@@ -1872,6 +1872,7 @@
     <string name="unset_auto_updates">取消自动更新设置</string>
     <string name="auto_updates_is_disabled_when_notification_is_disabled">定期通知已关闭，因此不会进行自动更新。</string>
     <string name="auto_update_every_n_minutes">每 %1$d 分钟自动更新一次</string>
+    <string name="auto_update_every_n_seconds">每 %1$d 秒自动更新一次</string>
     <string name="config_show_new_tweet_notification_ついぺん">显示新推文通知</string>
     <string name="config_show_new_tweet_notification_ぞーぺん">显示新帖子通知</string>
     <string name="config_show_new_tweet_notification_たいぺん">显示新泰推通知</string>

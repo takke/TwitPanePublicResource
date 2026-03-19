@@ -1898,6 +1898,7 @@
     <string name="unset_auto_updates">自動更新を解除する</string>
     <string name="auto_updates_is_disabled_when_notification_is_disabled">定期取得がオフなので自動更新は行われません。\n自動更新設定から定期取得をオンにしてください。</string>
     <string name="auto_update_every_n_minutes">%1$d 分おきに自動更新します</string>
+    <string name="auto_update_every_n_seconds">%1$d 秒おきに自動更新します</string>
     <string name="config_show_new_tweet_notification_ついぺん">新着ツイートの通知</string>
     <string name="config_show_new_tweet_notification_ぞーぺん">新着投稿の通知</string>
     <string name="config_show_new_tweet_notification_たいぺん">新着タイーツの通知</string>
