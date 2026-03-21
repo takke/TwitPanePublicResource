@@ -1994,6 +1994,8 @@
     <string name="config_reset_tab_data_confirm_message">모든 탭의 데이터를 제거 하시겠습니까?</string>
     <string name="config_prefs_export">설정 내보내기</string>
     <string name="config_prefs_export_summary">현재 설정 저장</string>
+    <string name="config_prefs_export_without_credentials">설정 내보내기 (인증 정보 제외)</string>
+    <string name="config_prefs_export_without_credentials_summary">액세스 토큰 등 인증 정보를 제외한 설정을 파일에 저장합니다.</string>
     <string name="exported">Exported</string>
     <string name="config_prefs_import">설정 가져오기</string>
     <string name="config_prefs_import_summary">설정을 복원</string>
@@ -2175,6 +2177,7 @@
     <string name="config_import_done_message">설정 가져 오기가 완료되었습니다</string>
     <string name="config_import_from_file_done_message">설정 가져 오기가 완료되었습니다</string>
     <string name="config_export_to_file_done_message">설정 내보내기가 완료되었습니다\n\n*파일에는 인증 정보가 포함되어 있습니다. 취급에 주의하십시오.</string>
+    <string name="config_export_to_file_done_message_without_credentials">설정 내보내기가 완료되었습니다.\n\n※인증 정보는 포함되어 있지 않습니다.</string>
     <string name="config_import_failed_message">설정을 가져오지 못했습니다. 파일 형식을 확인하십시오.</string>
     <string name="config_clear_failed_message">설정을 지우지 못했습니다</string>
     <string name="account_reauth_title">계정의 재 인증</string>

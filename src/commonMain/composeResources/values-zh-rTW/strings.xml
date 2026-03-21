@@ -2031,6 +2031,8 @@
     <string name="config_reset_tab_data_confirm_message">你確定要刪除所有標籤的資料嗎？</string>
     <string name="config_prefs_export">匯出設定</string>
     <string name="config_prefs_export_summary">儲存當前設定</string>
+    <string name="config_prefs_export_without_credentials">匯出設定（不含憑證）</string>
+    <string name="config_prefs_export_without_credentials_summary">將設定儲存到檔案，不包含存取權杖等驗證資訊。</string>
     <string name="exported">Exported</string>
     <string name="config_prefs_import">匯入設定</string>
     <string name="config_prefs_import_summary">恢復設定</string>
@@ -2212,6 +2214,7 @@
     <string name="config_import_done_message">匯入設定現已完成。</string>
     <string name="config_import_from_file_done_message">匯入設定現已完成。</string>
     <string name="config_export_to_file_done_message">匯出設定現已完成。\n\n*檔案包含認證資訊。請謹慎處理。</string>
+    <string name="config_export_to_file_done_message_without_credentials">匯出設定現已完成。\n\n※檔案中不包含認證資訊。</string>
     <string name="config_import_failed_message">匯入設定失敗。請檢查檔案格式。</string>
     <string name="config_clear_failed_message">清除設定失敗</string>
     <string name="account_reauth_title">帳號重新認證</string>

@@ -2035,6 +2035,8 @@
     <string name="conversion_aborted">中断しました。</string>
     <string name="config_prefs_export">設定のエクスポート(バックアップ)</string>
     <string name="config_prefs_export_summary">現在の設定をファイルに保存します。端末の移行時などにご利用ください。\n※ファイルには認証情報が含まれるので取扱いには十分ご注意ください。</string>
+    <string name="config_prefs_export_without_credentials">設定のエクスポート(認証情報を除く)</string>
+    <string name="config_prefs_export_without_credentials_summary">認証情報(アクセストークン等)を除いた設定をファイルに保存します。</string>
     <string name="exported">エクスポートしました</string>
     <string name="config_prefs_import">設定のインポート(復元)</string>
     <string name="config_prefs_import_summary">エクスポートしたファイルから設定を復元します。</string>
@@ -2217,6 +2219,7 @@
     <string name="config_import_done_message">設定のインポートが完了しました。アプリを再起動します。</string>
     <string name="config_import_from_file_done_message">設定のインポートが完了しました。\n\n※エクスポートファイルは動作に問題がなければ削除してください。\n\nアプリを再起動します。</string>
     <string name="config_export_to_file_done_message">設定のエクスポートが完了しました。\n\n※ファイルには認証情報が含まれるので取扱いには十分ご注意ください。</string>
+    <string name="config_export_to_file_done_message_without_credentials">設定のエクスポートが完了しました。\n\n※認証情報は含まれていません。</string>
     <string name="config_import_failed_message">設定のインポートに失敗しました。ファイルの形式を確認してください。</string>
     <string name="config_clear_failed_message">設定のクリアに失敗しました</string>
     <string name="account_reauth_title">アカウント再認証について</string>

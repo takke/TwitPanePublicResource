@@ -2056,6 +2056,8 @@
     <string name="conversion_aborted" translatable="false">Aborted.</string>
     <string name="config_prefs_export">Export Settings</string>
     <string name="config_prefs_export_summary">Save current settings</string>
+    <string name="config_prefs_export_without_credentials">Export Settings (without credentials)</string>
+    <string name="config_prefs_export_without_credentials_summary">Save settings to a file, excluding authentication information such as access tokens.</string>
     <string name="exported">Exported</string>
     <string name="config_prefs_import">Import Settings</string>
     <string name="config_prefs_import_summary">Restore settings</string>
@@ -2237,6 +2239,7 @@
     <string name="config_import_done_message">Import Settings is now complete.</string>
     <string name="config_import_from_file_done_message">Import Settings is now complete.</string>
     <string name="config_export_to_file_done_message">Export Settings is now complete.\n\n*The file contains authentication information. Please handle with care.</string>
+    <string name="config_export_to_file_done_message_without_credentials">Export Settings is now complete.\n\nNote: Authentication information is not included in the file.</string>
     <string name="config_import_failed_message">Failed to import settings. Please check the file format.</string>
     <string name="config_clear_failed_message">Failed to clear settings</string>
     <string name="account_reauth_title">Account re-authentication</string>
