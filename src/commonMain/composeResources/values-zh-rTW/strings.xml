@@ -739,7 +739,7 @@
     <string name="menu_clip_delete_confirm">Delete this clip?</string>
     <string name="choose_clip">Choose clip to add note</string>
     <string name="menu_create_clip">Create Clip</string>
-    <string name="menu_edit_clip">Edit Clip</string>
+    <string name="menu_edit_clip">編輯收藏夾</string>
     <string name="menu_edit_antenna">編輯天線</string>
     <string name="create_clip_public">Public</string>
     <string name="clip_name">Clip Name</string>
