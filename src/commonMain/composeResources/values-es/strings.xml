@@ -181,6 +181,7 @@
     <string name="account_delete">Borrar cuenta</string>
     <string name="account_delete_confirm">¿Seguro que quieres eliminar esta cuenta?</string>
     <string name="account_load_error">Error de carga</string>
+    <string name="account_relogin_required">Se requiere volver a iniciar sesión</string>
     <string name="cannot_delete_current_account">No se puede eliminar la cuenta actual.</string>
     <string name="account_delete_success">Cuenta eliminada correctamente</string>
     <string name="account_delete_failed">Error al eliminar la cuenta</string>

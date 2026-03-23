@@ -181,6 +181,7 @@
     <string name="account_delete">アカウントを削除</string>
     <string name="account_delete_confirm">アカウントを削除してもよろしいですか？</string>
     <string name="account_load_error">読み込みエラー</string>
+    <string name="account_relogin_required">再ログインが必要です</string>
     <string name="cannot_delete_current_account">現在のアカウントは削除できません</string>
     <string name="account_delete_success">アカウントを削除しました</string>
     <string name="account_delete_failed">アカウント削除に失敗しました</string>

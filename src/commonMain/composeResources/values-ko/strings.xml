@@ -181,6 +181,7 @@
     <string name="account_delete">계정 삭제</string>
     <string name="account_delete_confirm">정말로 이 계정을 삭제하시겠습니까?</string>
     <string name="account_load_error">로딩 오류</string>
+    <string name="account_relogin_required">다시 로그인이 필요합니다</string>
     <string name="cannot_delete_current_account">현재의 계정을 삭제할 수 없습니다.</string>
     <string name="account_delete_success">계정이 삭제되었습니다</string>
     <string name="account_delete_failed">계정 삭제에 실패했습니다</string>
