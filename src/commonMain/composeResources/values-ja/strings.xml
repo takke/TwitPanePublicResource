@@ -2440,6 +2440,8 @@
     <string name="notification_liked_your_post">%1$sさんがいいねしました</string>
     <string name="notification_reposted_your_post">%1$sさんがリポストしました</string>
     <string name="notification_grouped_liked">%1$sさん他%2$d人がいいねしました</string>
+    <string name="notification_grouped_favourited_mastodon">%1$sさん他%2$d人がお気に入りに登録しました</string>
+    <string name="notification_grouped_reblogged_mastodon">%1$sさん他%2$d人がブーストしました</string>
     <string name="notification_grouped_reposted">%1$sさん他%2$d人がリポストしました</string>
     <string name="notification_grouped_like_via_repost">%1$sさん他%2$d人がリポスト経由でいいねしました</string>
     <string name="notification_grouped_repost_via_repost">%1$sさん他%2$d人がリポスト経由でリポストしました</string>

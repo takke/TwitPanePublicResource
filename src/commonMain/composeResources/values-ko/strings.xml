@@ -2389,6 +2389,8 @@
     <string name="notification_liked_your_post">%1$s liked your post</string>
     <string name="notification_reposted_your_post">%1$s reposted your post</string>
     <string name="notification_grouped_liked">%1$s님 외 %2$d명이 좋아요를 눌렀습니다</string>
+    <string name="notification_grouped_favourited_mastodon">%1$s님 외 %2$d명이 즐겨찾기에 추가했습니다</string>
+    <string name="notification_grouped_reblogged_mastodon">%1$s님 외 %2$d명이 부스트했습니다</string>
     <string name="notification_grouped_reposted">%1$s님 외 %2$d명이 리포스트했습니다</string>
     <string name="notification_grouped_like_via_repost">%1$s님 외 %2$d명이 리포스트를 통해 좋아요를 눌렀습니다</string>
     <string name="notification_grouped_repost_via_repost">%1$s님 외 %2$d명이 리포스트를 통해 리포스트했습니다</string>
