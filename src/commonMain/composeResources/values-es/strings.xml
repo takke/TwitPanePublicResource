@@ -2798,4 +2798,12 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="desktop_column_width">Ancho de columna</string>
     <string name="desktop_column_remove_confirm">¿Seguro que deseas eliminar esta columna?</string>
 
+    <string name="snackbar_tab_not_configured_search">La pestaña de búsqueda no está configurada</string>
+    <string name="snackbar_tab_not_configured_reply">La pestaña de respuestas no está configurada</string>
+    <string name="snackbar_tab_not_configured_lists">La pestaña de listas no está configurada</string>
+    <string name="snackbar_tab_not_configured_trend">La pestaña de tendencias no está configurada</string>
+    <string name="snackbar_tab_not_configured_notification">La pestaña de notificaciones no está configurada</string>
+    <string name="snackbar_tab_not_configured_message">La pestaña de mensajes no está configurada</string>
+    <string name="snackbar_feature_not_supported">Esta función no es compatible</string>
+
 </resources>

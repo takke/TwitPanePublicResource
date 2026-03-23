@@ -2834,4 +2834,12 @@
     <string name="desktop_column_width">欄位寬度</string>
     <string name="desktop_column_remove_confirm">確定要刪除此欄位嗎？</string>
 
+    <string name="snackbar_tab_not_configured_search">搜尋分頁未配置</string>
+    <string name="snackbar_tab_not_configured_reply">回覆分頁未配置</string>
+    <string name="snackbar_tab_not_configured_lists">清單分頁未配置</string>
+    <string name="snackbar_tab_not_configured_trend">趨勢分頁未配置</string>
+    <string name="snackbar_tab_not_configured_notification">通知分頁未配置</string>
+    <string name="snackbar_tab_not_configured_message">訊息分頁未配置</string>
+    <string name="snackbar_feature_not_supported">此功能不受支援</string>
+
 </resources>

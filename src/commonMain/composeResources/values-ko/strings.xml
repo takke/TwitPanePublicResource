@@ -2798,4 +2798,12 @@
     <string name="desktop_column_width">칼럼 너비</string>
     <string name="desktop_column_remove_confirm">이 칼럼을 삭제하시겠습니까?</string>
 
+    <string name="snackbar_tab_not_configured_search">검색 탭이 설정되지 않았습니다</string>
+    <string name="snackbar_tab_not_configured_reply">답글 탭이 설정되지 않았습니다</string>
+    <string name="snackbar_tab_not_configured_lists">리스트 탭이 설정되지 않았습니다</string>
+    <string name="snackbar_tab_not_configured_trend">트렌드 탭이 설정되지 않았습니다</string>
+    <string name="snackbar_tab_not_configured_notification">알림 탭이 설정되지 않았습니다</string>
+    <string name="snackbar_tab_not_configured_message">메시지 탭이 설정되지 않았습니다</string>
+    <string name="snackbar_feature_not_supported">이 기능은 지원되지 않습니다</string>
+
 </resources>

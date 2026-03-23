@@ -2853,4 +2853,12 @@
     <string name="desktop_column_width">カラムの幅</string>
     <string name="desktop_column_remove_confirm">このカラムを削除しますか？</string>
 
+    <string name="snackbar_tab_not_configured_search">検索タブが設定されていません</string>
+    <string name="snackbar_tab_not_configured_reply">返信タブが設定されていません</string>
+    <string name="snackbar_tab_not_configured_lists">リストタブが設定されていません</string>
+    <string name="snackbar_tab_not_configured_trend">トレンドタブが設定されていません</string>
+    <string name="snackbar_tab_not_configured_notification">通知タブが設定されていません</string>
+    <string name="snackbar_tab_not_configured_message">メッセージタブが設定されていません</string>
+    <string name="snackbar_feature_not_supported">本機能はサポートされていません</string>
+
 </resources>
