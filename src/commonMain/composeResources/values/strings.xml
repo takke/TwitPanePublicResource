@@ -2461,6 +2461,7 @@ Reauthenticate on the next screen.</string>
     <string name="notification_grouped_liked">%1$s and %2$d others liked your post</string>
     <string name="notification_grouped_favourited_mastodon">%1$s and %2$d others favorited your status</string>
     <string name="notification_grouped_reblogged_mastodon">%1$s and %2$d others boosted your status</string>
+    <string name="notification_grouped_renoted_misskey">%1$s and %2$d others renoted your note</string>
     <string name="notification_grouped_reposted">%1$s and %2$d others reposted your post</string>
     <string name="notification_grouped_like_via_repost">%1$s and %2$d others liked via repost</string>
     <string name="notification_grouped_repost_via_repost">%1$s and %2$d others reposted via repost</string>

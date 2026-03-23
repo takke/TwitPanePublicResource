@@ -2427,6 +2427,7 @@
     <string name="notification_grouped_liked">%1$s及其他%2$d人讚好了您的帖子</string>
     <string name="notification_grouped_favourited_mastodon">%1$s及其他%2$d人收藏了您的嘟文</string>
     <string name="notification_grouped_reblogged_mastodon">%1$s及其他%2$d人轉嘟了您的嘟文</string>
+    <string name="notification_grouped_renoted_misskey">%1$s及其他%2$d人轉帖了您的帖子</string>
     <string name="notification_grouped_reposted">%1$s及其他%2$d人轉發了您的帖子</string>
     <string name="notification_grouped_like_via_repost">%1$s及其他%2$d人透過轉發讚好了</string>
     <string name="notification_grouped_repost_via_repost">%1$s及其他%2$d人透過轉發進行了轉發</string>

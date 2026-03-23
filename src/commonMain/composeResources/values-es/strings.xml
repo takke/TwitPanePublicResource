@@ -2391,6 +2391,7 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="notification_grouped_liked">%1$s y otras %2$d personas les gustó tu publicación</string>
     <string name="notification_grouped_favourited_mastodon">%1$s y otras %2$d personas marcaron tu estado como favorito</string>
     <string name="notification_grouped_reblogged_mastodon">%1$s y otras %2$d personas impulsaron tu estado</string>
+    <string name="notification_grouped_renoted_misskey">%1$s y otras %2$d personas renotearon tu nota</string>
     <string name="notification_grouped_reposted">%1$s y otras %2$d personas repostearon tu publicación</string>
     <string name="notification_grouped_like_via_repost">%1$s y otras %2$d personas les gustó a través de un repost</string>
     <string name="notification_grouped_repost_via_repost">%1$s y otras %2$d personas repostearon a través de un repost</string>
