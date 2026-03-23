@@ -2889,4 +2889,7 @@ Reauthenticate on the next screen.</string>
     <string name="snackbar_tab_not_configured_message">Message tab is not configured</string>
     <string name="snackbar_feature_not_supported">This feature is not supported</string>
 
+    <string name="auto_update_status_with_last"> [Auto-update: completed %1$s / next: %2$s]</string>
+    <string name="auto_update_status_next_only"> [Auto-update: next: %1$s]</string>
+
 </resources>

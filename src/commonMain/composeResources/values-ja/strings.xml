@@ -2861,4 +2861,7 @@
     <string name="snackbar_tab_not_configured_message">メッセージタブが設定されていません</string>
     <string name="snackbar_feature_not_supported">本機能はサポートされていません</string>
 
+    <string name="auto_update_status_with_last"> [自動更新：%1$s完了 / 次回:%2$s]</string>
+    <string name="auto_update_status_next_only"> [自動更新：次回:%1$s]</string>
+
 </resources>

@@ -2842,4 +2842,7 @@
     <string name="snackbar_tab_not_configured_message">訊息分頁未配置</string>
     <string name="snackbar_feature_not_supported">此功能不受支援</string>
 
+    <string name="auto_update_status_with_last"> [自動更新：已完成 %1$s / 下次：%2$s]</string>
+    <string name="auto_update_status_next_only"> [自動更新：下次：%1$s]</string>
+
 </resources>

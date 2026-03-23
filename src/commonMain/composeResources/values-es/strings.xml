@@ -2806,4 +2806,7 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
     <string name="snackbar_tab_not_configured_message">La pestaña de mensajes no está configurada</string>
     <string name="snackbar_feature_not_supported">Esta función no es compatible</string>
 
+    <string name="auto_update_status_with_last"> [Actualización automática: completada %1$s / próxima: %2$s]</string>
+    <string name="auto_update_status_next_only"> [Actualización automática: próxima: %1$s]</string>
+
 </resources>
