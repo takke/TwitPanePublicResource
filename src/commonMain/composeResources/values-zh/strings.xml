@@ -2849,5 +2849,7 @@
 
     <string name="auto_update_status_with_last"> [自动更新：已完成 %1$s / 下次：%2$s]</string>
     <string name="auto_update_status_next_only"> [自动更新：下次：%1$s]</string>
+    <string name="auto_update_status_menu_with_last">(已完成 %1$s / 下次：%2$s)</string>
+    <string name="auto_update_status_menu_next_only">(下次：%1$s)</string>
 
 </resources>
