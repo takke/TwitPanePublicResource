@@ -1315,6 +1315,7 @@
     <string name="config_desktop_mode_no_settings_yet">Aún no hay configuraciones del modo escritorio</string>
     <string name="config_desktop_multi_column_mode">Modo multicolumna</string>
     <string name="config_desktop_multi_column_mode_summary">Al activarlo, se muestran varias columnas simultáneamente (estilo TweetDeck). Al desactivarlo, cambia al modo de columna única con una disposición similar a la de un smartphone.</string>
+    <string name="config_desktop_multi_column_mode_desktop_note">Puede cambiar desde el menú Ver (F2/F3).\nModo multicolumna: Muestra varias columnas simultáneamente (estilo TweetDeck)\nModo de columna única: Muestra en diseño de pestañas como un smartphone</string>
     <string name="config_timeline_publish_category">Línea de tiempo y composición</string>
     <string name="config_media_viewer_category">visor de medios</string>
     <string name="config_thumb_size">Tamaño miniatura</string>

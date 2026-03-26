@@ -1331,6 +1331,7 @@
     <string name="config_desktop_mode_no_settings_yet">デスクトップモード設定はまだありません</string>
     <string name="config_desktop_multi_column_mode">マルチカラムモード</string>
     <string name="config_desktop_multi_column_mode_summary">ONにすると複数のカラムを同時に表示します(TweetDeck風)。OFFにするとシングルカラムモードになり、スマホ風の表示になります</string>
+    <string name="config_desktop_multi_column_mode_desktop_note">表示メニュー（F2/F3）から切り替えることが出来ます。\nマルチカラムモード：複数のカラムを同時に表示します(TweetDeck風)\nシングルカラムモード：スマホ風にタブ型で表示します</string>
     <string name="config_timeline_publish_category">タイムラインと投稿</string>
     <string name="config_media_viewer_category">メディアビューア</string>
     <string name="config_thumb_size">ユーザーアイコンサイズ</string>

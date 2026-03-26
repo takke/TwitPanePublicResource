@@ -1318,6 +1318,7 @@
     <string name="config_desktop_mode_no_settings_yet">尚無桌面模式設定</string>
     <string name="config_desktop_multi_column_mode">多欄模式</string>
     <string name="config_desktop_multi_column_mode_summary">開啟後，同時顯示多個欄（TweetDeck 風格）。關閉後，切換為單欄模式，呈現類似智慧型手機的版面配置。</string>
+    <string name="config_desktop_multi_column_mode_desktop_note">可以從顯示選單（F2/F3）進行切換。\n多欄模式：同時顯示多個欄位（TweetDeck 風格）\n單欄模式：像智慧型手機一樣以分頁形式顯示</string>
     <string name="config_timeline_publish_category">時間軸和推文編寫</string>
     <string name="config_media_viewer_category">媒體檢視器</string>
     <string name="config_thumb_size">縮圖大小</string>
