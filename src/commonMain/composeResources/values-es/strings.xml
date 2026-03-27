@@ -2813,7 +2813,9 @@ Vuelva a autenticarse en la siguiente pantalla.</string>
 
     <string name="auto_update_status_with_last"> [Actualización automática: completada %1$s / próxima: %2$s]</string>
     <string name="auto_update_status_next_only"> [Actualización automática: próxima: %1$s]</string>
-    <string name="auto_update_status_menu_with_last">(completada %1$s / próxima: %2$s)</string>
-    <string name="auto_update_status_menu_next_only">(próxima: %1$s)</string>
+    <string name="auto_update_status_menu_with_last">(completada %1$s / próxima: %2$s en %3$s)</string>
+    <string name="auto_update_status_menu_next_only">(próxima: %1$s en %2$s)</string>
+    <string name="auto_update_remaining_seconds">%1$ss</string>
+    <string name="auto_update_remaining_minutes">%1$s min</string>
 
 </resources>

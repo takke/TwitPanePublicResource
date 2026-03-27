@@ -2896,7 +2896,9 @@ Reauthenticate on the next screen.</string>
 
     <string name="auto_update_status_with_last"> [Auto-update: completed %1$s / next: %2$s]</string>
     <string name="auto_update_status_next_only"> [Auto-update: next: %1$s]</string>
-    <string name="auto_update_status_menu_with_last">(completed %1$s / next: %2$s)</string>
-    <string name="auto_update_status_menu_next_only">(next: %1$s)</string>
+    <string name="auto_update_status_menu_with_last">(completed %1$s / next: %2$s in %3$s)</string>
+    <string name="auto_update_status_menu_next_only">(next: %1$s in %2$s)</string>
+    <string name="auto_update_remaining_seconds">%1$ss</string>
+    <string name="auto_update_remaining_minutes">%1$sm</string>
 
 </resources>

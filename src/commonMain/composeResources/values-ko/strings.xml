@@ -2813,7 +2813,9 @@
 
     <string name="auto_update_status_with_last"> [자동 업데이트: %1$s 완료 / 다음: %2$s]</string>
     <string name="auto_update_status_next_only"> [자동 업데이트: 다음: %1$s]</string>
-    <string name="auto_update_status_menu_with_last">(%1$s 완료 / 다음: %2$s)</string>
-    <string name="auto_update_status_menu_next_only">(다음: %1$s)</string>
+    <string name="auto_update_status_menu_with_last">(%1$s 완료 / 다음: %2$s %3$s 후)</string>
+    <string name="auto_update_status_menu_next_only">(다음: %1$s %2$s 후)</string>
+    <string name="auto_update_remaining_seconds">%1$s초</string>
+    <string name="auto_update_remaining_minutes">%1$s분</string>
 
 </resources>
